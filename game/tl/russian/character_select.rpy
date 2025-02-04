@@ -4,25 +4,25 @@ translate russian strings:
 
     # game/character_select.rpy:11
     old "CHOOSE WHO TO KILL"
-    new ""
+    new "ВЫБЕРИ КОГО УБИТЬ"
 
     # game/character_select.rpy:22
     old "KILL THE RED ONE"
-    new ""
+    new "УБИТЬ КРАСНУЮ"
 
     # game/character_select.rpy:32
     old "KILL THE BLUE ONE"
-    new ""
+    new "УБИТЬ СИНЮЮ"
 
     # game/character_select.rpy:216
     old "KILL ORIANA"
-    new ""
+    new "УБИТЬ ОРИАНУ"
 
     # game/character_select.rpy:226
     old "KILL CECILIA"
-    new ""
+    new "УБИТЬ СЕСИЛИЮ"
 
     # game/character_select.rpy:235
     old "KILL YOURSELF"
-    new ""
+    new "УБИТЬ СЕБЯ"
 
