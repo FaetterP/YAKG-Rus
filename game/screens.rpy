@@ -1204,6 +1204,7 @@ screen preferences():
                     style_prefix "radio"
                     label _("Language")
                     textbutton "English" action Language(None)
+                    textbutton "Русский" action Language("russian")
 
 
 
