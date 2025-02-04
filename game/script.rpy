@@ -618,7 +618,7 @@ label start:
     scene bg black with dissolveslow
 
 
-    show text "{color=#ff0000}CONTENT WARNING{/color}\nThis game contains mild [t_clue]language[t_cluee], suggestive themes, fullscreen [t_clue]visual effects[t_cluee],\ndisturbing sounds, [t_clue]blood[t_cluee], violent imagery, and textual descriptions of extreme\nviolence, [t_clue]murder[t_cluee], and [t_clue]suicide[t_cluee].\n\nThis is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text "{color=#ff0000}ПРЕДУПРЕЖДЕНИЕ О СОДЕРЖАНИИ{/color}\nЭта игра содержит жёсткий [t_clue]язык[t_cluee], наводящие на размышления темы, полноэкранные [t_clue]визуальные эффекты[t_cluee],\nтревожные звуки, [t_clue]кровь[t_cluee], изображения жестокости и текстовые описания крайнего\nнасилия, [t_clue]убийства[t_cluee] и [t_clue]суицида[t_cluee].\n\nЭто произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
     pause 5.0
     call screen proceed_button
     hide text with dissolvemed
@@ -893,7 +893,7 @@ label name_entry:
         linear 0.5 alpha 1.0
     $ quick_menu = False
     $ music_info = False
-    $ input_name = renpy.input("ENTER YOUR {size=+15}{color=#cccc00}NAME{/color}{/size}", exclude={'[', ']', '{', '}'}, default=placeholder_name, pixel_width=250)
+    $ input_name = renpy.input("ВВЕДИТЕ ВАШЕ {size=+15}{color=#cccc00}ИМЯ{/color}{/size}", exclude={'[', ']', '{', '}'}, default=placeholder_name, pixel_width=250)
     $ quick_menu = True
     $ music_info = True
     scene bg black with dissolve
