@@ -364,7 +364,7 @@ label d1a1:
         easein 3.0 zoom 1.0
     with dissolvemed
     $ ctc_timer = 0
-    show screen notify_location("1F - The Foyer", persistent.unlock_bg_foyer) 
+    show screen notify_location("1 этаж - Холл", persistent.unlock_bg_foyer) 
     $ persistent.unlock_bg_foyer = True
     pause 2.5
     $ _last_say_who = 'C'
@@ -860,7 +860,7 @@ label d1a1_kitchen:
     with fade
     play sound ["<silence 1.0>", sfx_doorclose]
     pause 2.0
-    show screen notify_location("1F - The Dining Room", persistent.unlock_bg_diningroom_withchair)
+    show screen notify_location("1 этаж - Столовая", persistent.unlock_bg_diningroom_withchair)
     $ persistent.unlock_bg_diningroom_withchair = True
     pause 2.0
     I "This...doesn't look like the kitchen..."
@@ -898,7 +898,7 @@ label d1a1_kitchen:
         xalign 0.5 yalign 0.5 zoom 1.1
         easein 3.0 zoom 1.0
     with dissolvemed
-    show screen notify_location("1F - The Kitchen", persistent.unlock_bg_kitchen_fullknives)
+    show screen notify_location("1 этаж - Кухня", persistent.unlock_bg_kitchen_fullknives)
     $ persistent.unlock_bg_kitchen_fullknives = True
     pause 2.0
     $ _last_say_who = 'C'
@@ -1302,7 +1302,7 @@ label d1a1_bathroom:
         ease 5.0 zoom 1.0
     with fade
     pause 3.0
-    show screen notify_location("1F - The Bathroom", persistent.unlock_bg_bathroom)
+    show screen notify_location("1 этаж - Ванная", persistent.unlock_bg_bathroom)
     $ persistent.unlock_bg_bathroom = True
     pause 2.0
     I "..... ...It's smaller than I thought."
@@ -1750,7 +1750,7 @@ label d1a1_upstairs:
         easein 5.0 zoom 1.0
     with dissolvemed
     pause 2.0
-    show screen notify_location("2F - The Hallway", persistent.unlock_bg_hallway)
+    show screen notify_location("2 этаж - Коридор", persistent.unlock_bg_hallway)
     $ persistent.unlock_bg_hallway = True
     pause 2.0
     I "A lot of doors..."
@@ -5792,7 +5792,7 @@ label dogname_select:
 label dogname_entry:
     $ quick_menu = False
     $ music_info = False
-    $ input_name_dog = renpy.input("ENTER A NAME FOR THE {size=+15}{color=#606060}DOG{/color}{/size}", exclude={'[', ']', '{', '}'}, pixel_width=250)
+    $ input_name_dog = renpy.input("ВВЕДИТЕ ИМЯ ДЛЯ {size=+15}{color=#606060}СОБАКИ{/color}{/size}", exclude={'[', ']', '{', '}'}, pixel_width=250)
     $ quick_menu = True
     $ music_info = True
 

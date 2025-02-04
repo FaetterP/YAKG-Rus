@@ -358,7 +358,7 @@ label d2a1:
         xalign 0.5 yalign 0.5 zoom 1.1
         easein 3.0 zoom 1.0
     with dissolvemed
-    show screen notify_location("1F - The Lounge", persistent.unlock_bg_lounge)
+    show screen notify_location("1 этаж - Гостиная", persistent.unlock_bg_lounge)
     $ persistent.unlock_bg_lounge = True
     pause 2.5
     Y surprised "Looks like you were right, Ria. It's a living room...or maybe more like a [t_clue]lounge[t_cluee]...?"
@@ -711,7 +711,7 @@ label d2a1_attic:
         xalign 0.5 yalign 0.5 zoom 1.1
         easein 3.0 zoom 1.0
     with dissolvemed
-    show screen notify_location("The Attic", persistent.unlock_bg_attic)
+    show screen notify_location("Чердак", persistent.unlock_bg_attic)
     $ persistent.unlock_bg_attic = True
     pause 1.5
     $ show_music_info_timer = music_info_pop_out_time()
@@ -1820,7 +1820,7 @@ label d2a2_basement:
     $ show_side_player = False
     $ show_side_oriana = True
     $ show_side_cecilia = True
-    show screen notify_location("B1F - The Basement", persistent.unlock_bg_basement) 
+    show screen notify_location("-1 этаж - Подвал", persistent.unlock_bg_basement) 
     Y "....."
     $ fadein_sideimage = False
     Y "...Guys, I can't see anything." with hpunch
@@ -2435,7 +2435,7 @@ label truename_entry:
             I "...My...true name...is..."
     $ quick_menu = False
     $ music_info = False
-    $ input_name_true = renpy.input("ENTER YOUR {size=+15}{color=#44b817}TRUE NAME{/color}{/size}", exclude={'[', ']', '{', '}'}, pixel_width=250)
+    $ input_name_true = renpy.input("ВВЕДИТЕ ВАШЕ {size=+15}{color=#44b817}НАСТОЯЩЕЕ ИМЯ{/color}{/size}", exclude={'[', ']', '{', '}'}, pixel_width=250)
     $ quick_menu = True
     $ music_info = True
 
@@ -2925,7 +2925,7 @@ label d2a3:
 label d2a3_library:
     scene bg black
     show bg library right with dissolvemed
-    show screen notify_location("B1F - The Library", persistent.unlock_bg_library) 
+    show screen notify_location("-1 этаж - Библиотека", persistent.unlock_bg_library) 
     Y pained2 "Hrgh... *gasp* ...Ngh... *pant*" with shakeshort
     $ _last_say_who = "C"
     show cecilia injured at mycenter
