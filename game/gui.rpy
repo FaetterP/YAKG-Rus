@@ -57,13 +57,13 @@ define gui.interface_text_color = '#ffffff'
 
 
 
-define gui.text_font = "fonts/AveriaSerifLibre-Regular.ttf"
+define gui.text_font = "fonts/AristaProAlternate-Regular.ttf"
 
 
-define gui.name_text_font = "fonts/Alkalami-Regular.ttf"
+define gui.name_text_font = "fonts/AristaProAlternate-Regular.ttf"
 
 
-define gui.interface_text_font = "fonts/Changa-SemiBold.ttf"
+define gui.interface_text_font = "fonts/AristaProAlternate-Regular.ttf"
 
 
 define gui.text_size = 36
