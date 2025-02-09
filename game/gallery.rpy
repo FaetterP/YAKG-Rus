@@ -437,7 +437,7 @@ screen navigation_gallery_page:
 style gallery_navigation_button_text is navigation_button_text:
     idle_color gui.idle_color
     hover_color gui.hover_color
-    font "fonts/Changa-SemiBold.ttf"
+    font "fonts/Bou_Collegiate.ttf"
 
 screen gallery_main:
     tag menu
