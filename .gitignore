@@ -7,12 +7,14 @@ game/*
 game/tl/None
 !game/tl/russian
 !game/screens.rpy
+!game/gallery.rpy
 !game/gui.rpy
 !game/script.rpy
 !game/script_day1_investigations.rpy
 !game/script_day1.rpy
 !game/script_day2.rpy
 !game/script_day3.rpy
+!game/tutorial.rpy
 
 files.txt
 log.txt
@@ -26,5 +28,9 @@ YAKG.sh
 !game/fonts/
 game/fonts/*
 !game/fonts/AristaProAlternate-Regular.ttf
+!game/fonts/Vollda-Bold.ttf
+!game/fonts/AcuminR.ttf
+!game/fonts/AcuminR2.ttf
+!game/fonts/Bou_Collegiate.ttf
 
 .vscode

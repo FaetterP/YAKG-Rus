@@ -186,7 +186,7 @@ screen say(who, what):
 
 style gamepad_help_ui_text:
     yalign 0.5
-    font "fonts/Changa-Semibold.ttf"
+    font "fonts/Bou_Collegiate.ttf"
     color "#000"
     outlines [(2, "#888")]
     size 24
@@ -347,12 +347,12 @@ screen choice(items):
             spacing 5
             if show_choicekarma:
                 for i in items:
-                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Alkalami-Regular.ttf}"+i.caption+"{/font} >"))] at anim_choice_button:
+                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Vollda-Bold.ttf}"+i.caption+"{/font} >"))] at anim_choice_button:
                         idle_background "gui/button/choicekarma_idle_background.png"
                         hover_background "gui/button/choicekarma_hover_background.png"
             else:
                 for i in items:
-                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Alkalami-Regular.ttf}"+i.caption+"{/font} >"))] at anim_choice_button:
+                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Vollda-Bold.ttf}"+i.caption+"{/font} >"))] at anim_choice_button:
                         idle_background "gui/button/choicegrand_idle_background.png"
                         hover_background "gui/button/choicegrand_hover_background.png"
                         if not mute_choice:
@@ -375,7 +375,7 @@ screen choice(items):
                     $ caption = i.caption.replace(" (disabled)", "")
                     textbutton caption action None at disabled_choice_button
                 else:
-                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Alkalami-Regular.ttf}"+i.caption+"{/font} >"))]:
+                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Vollda-Bold.ttf}"+i.caption+"{/font} >"))]:
                         if choice_sensitive:
                             at anim_choice_button
                         else:
@@ -432,7 +432,7 @@ style choicegrand_button is default:
 
 style choicegrand_button_text is default:
     properties gui.text_properties("choice_button")
-    font "fonts/AveriaLibre-Regular.ttf"
+    font "fonts/AcuminR.ttf"
     size 48
     yalign 0.4
 
@@ -954,7 +954,7 @@ style about_label_text is gui_label_text
 style about_text:
     size 24
     line_spacing 0
-    font "fonts/AveriaSerifLibre-Regular.ttf"
+    font "fonts/AcuminR2.ttf"
     outlines [(1, "#000000")]
 
 style about_label_text:
@@ -1130,7 +1130,7 @@ transform save_hover_icon_transform:
 style page_label is gui_label:
     xpadding 75
 style page_label_text:
-    font "fonts/Alkalami-Regular.ttf"
+    font "fonts/Vollda-Bold.ttf"
     size 48
     layout "subtitle"
     hover_color "#cccc00"
@@ -1311,14 +1311,14 @@ screen preferences():
                         outlines [(2, "#000000")]
 
 style slider_label_left:
-    font "fonts/Alkalami-Regular.ttf"
+    font "fonts/Vollda-Bold.ttf"
     size 24
     xalign 1.0
     color gui.accent_color
     outlines [(2, "#000000")]
 
 style slider_label_right:
-    font "fonts/Alkalami-Regular.ttf"
+    font "fonts/Vollda-Bold.ttf"
     size 24
     xalign 0.0
     color gui.accent_color
@@ -1377,7 +1377,7 @@ style radio_button:
 
 style radio_button_text:
     properties gui.text_properties("radio_button")
-    font "fonts/AveriaSerifLibre-Regular.ttf"
+    font "fonts/AcuminR2.ttf"
     hover_color "#fff"
     outlines [(2, "#000000")]
     size 34
@@ -1391,7 +1391,7 @@ style check_button:
 
 style check_button_text:
     properties gui.text_properties("check_button")
-    font "fonts/AveriaSerifLibre-Regular.ttf"
+    font "fonts/AcuminR2.ttf"
     hover_color "#fff"
     outlines [(2, "#000000")]
 
@@ -1476,7 +1476,7 @@ style history_window is empty
 style history_name is gui_label
 
 style history_name_text:
-    font "fonts/Alkalami-Regular.ttf"
+    font "fonts/Vollda-Bold.ttf"
 style history_text is gui_text
 
 style history_label is gui_label
@@ -1887,7 +1887,7 @@ screen notify_location(message, unlocked=True):
 
         xalign 0.5
         if not unlocked:
-            text _("{color=#cccc00}New Location!{/color}") at notify_new_location_transform
+            text _("{color=#cccc00}Новая локация!{/color}") at notify_new_location_transform
             null height -40
         else:
             null height 12
@@ -1896,7 +1896,7 @@ screen notify_location(message, unlocked=True):
     timer 6.5 action Hide('notify_location')
 
 style notify_location_text:
-    font "fonts/Changa-SemiBold.ttf"
+    font "fonts/Bou_Collegiate.ttf"
     outlines [(2, "#000000")]
 
 transform notify_location_transform:

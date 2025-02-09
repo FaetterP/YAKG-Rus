@@ -108,7 +108,7 @@ screen tutorial(tutorial_name, from_menu=False):
                 break
 
 style tutorial_title:
-    font "fonts/Changa-SemiBold.ttf"
+    font "fonts/Bou_Collegiate.ttf"
     color gui.accent_color
     outlines [(2, "#000000")]
     size 60
@@ -152,7 +152,7 @@ screen tutorial_to_display_content(tutorial_to_display=""):
                         xalign 0.5
                     null height -12
                     text tut["desc"]:
-                        font "fonts/AveriaSerifLibre-Regular.ttf"
+                        font "fonts/AcuminR2.ttf"
                         outlines [(2, "#000000")]
                         xalign 0.5
                         size 30
@@ -232,7 +232,7 @@ screen end_of_demo():
         xalign 0.5
         if is_demo_version():
             text _("DEMO CLEAR!"):
-                font "fonts/Changa-SemiBold.ttf"
+                font "fonts/Bou_Collegiate.ttf"
                 color gui.accent_color
                 size 60
                 xalign 0.5
@@ -257,7 +257,7 @@ screen end_of_demo():
                 size 32
         else:
             text _("DEMO CLEAR!"):
-                font "fonts/Changa-SemiBold.ttf"
+                font "fonts/Bou_Collegiate.ttf"
                 color gui.accent_color
                 size 60
                 xalign 0.5
@@ -288,7 +288,7 @@ screen load_in_demo_error_screen():
         has vbox
         xalign 0.5
         text _("WHOOPS!"):
-            font "fonts/Changa-SemiBold.ttf"
+            font "fonts/Bou_Collegiate.ttf"
             color gui.accent_color
             size 60
             xalign 0.5
