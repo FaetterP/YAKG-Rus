@@ -27,10 +27,9 @@ YAKG.sh
 
 !game/fonts/
 game/fonts/*
-!game/fonts/AristaProAlternate-Regular.ttf
-!game/fonts/Vollda-Bold.ttf
-!game/fonts/AcuminR.ttf
-!game/fonts/AcuminR2.ttf
-!game/fonts/Bou_Collegiate.ttf
+!game/fonts/Alkalami-Regular.ttf
+!game/fonts/AveriaLibre-Regular.ttf
+!game/fonts/AveriaSerifLibre-Regular.ttf
+!game/fonts/Changa-SemiBold.ttf
 
 .vscode

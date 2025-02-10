@@ -57,13 +57,13 @@ define gui.interface_text_color = '#ffffff'
 
 
 
-define gui.text_font = "fonts/AristaProAlternate-Regular.ttf"
+define gui.text_font = "fonts/AveriaSerifLibre-Regular.ttf"
 
 
-define gui.name_text_font = "fonts/AristaProAlternate-Regular.ttf"
+define gui.name_text_font = "fonts/Alkalami-Regular.ttf"
 
 
-define gui.interface_text_font = "fonts/AristaProAlternate-Regular.ttf"
+define gui.interface_text_font = "fonts/Changa-SemiBold.ttf"
 
 
 define gui.text_size = 36
@@ -208,7 +208,7 @@ define gui.choice_button_width = 1050
 define gui.choice_button_height = 96
 define gui.choice_button_tile = False
 define gui.choice_button_borders = Borders(150, 18, 150, 8)
-define gui.choice_button_text_font = "fonts/Vollda-Bold.ttf"
+define gui.choice_button_text_font = "fonts/Alkalami-Regular.ttf"
 define gui.choice_button_text_size = 40
 define gui.choice_button_text_xalign = 0.5
 define gui.choice_button_text_idle_color = '#bbbbbb'

@@ -109,9 +109,9 @@ define V = DynamicCharacter("name_villain", color="#cc00bb", ctc="ctc_blink", ct
 
 
 define X = DynamicCharacter("name_npc", color="#ff3eff", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
-define S = Character(None, color="#ffffff", what_color="#44b817", what_font="fonts/AcuminR.ttf",  ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
-define P = Character(None, color="#d93838", what_color="#ff0000", what_font="fonts/AcuminR.ttf", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
-define KI = Character(None, color="#cccc00", what_color="#cccc00", what_font="fonts/AcuminR.ttf", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+define S = Character(None, color="#ffffff", what_color="#44b817", what_font="fonts/AveriaLibre-Regular.ttf",  ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+define P = Character(None, color="#d93838", what_color="#ff0000", what_font="fonts/AveriaLibre-Regular.ttf", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+define KI = Character(None, color="#cccc00", what_color="#cccc00", what_font="fonts/AveriaLibre-Regular.ttf", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
 define U = Character(ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
 
 image chaptertitle1_text = Text(_("{size=+30}PART {/size}{size=+50}I{/size}"), style='chaptertitle_text_style')
@@ -130,13 +130,13 @@ image chaptertitle3_text = Text(_("{size=+30}PART {/size}{size=+50}III{/size}"),
 image chaptertitle3_subtext = Text(_("{size=+30}{color=#ff0000}YET ANOTHER KILLING GAME{/color}{/size}"), style='chaptertitle_text_style')
 
 style chaptertitle_text_style:
-    font "fonts/AcuminR2.ttf"
+    font "fonts/AveriaSerifLibre-Regular.ttf"
     size 40
     text_align 0.5
     outlines [ (5, "#500", absolute(0), absolute(0)) ]
 
 style chaptertitle_end_text_style:
-    font "fonts/AcuminR2.ttf"
+    font "fonts/AveriaSerifLibre-Regular.ttf"
     size 40
     text_align 0.5
     color "#000000"
@@ -941,7 +941,7 @@ label gameover:
         show shard karma at appearing_shard
     with dissolve
     pause 1.5
-    show text "{font=fonts/Bou_Collegiate.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}":
+    show text "{font=fonts/Changa-SemiBold.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}":
         xalign 0.1 yalign 0.5
         linear 15.0 xalign 0.2
     with dissolve
@@ -1084,7 +1084,7 @@ label gameover_day2:
         show shard darkness at appearing_shard
     with dissolve
     pause 1.5
-    show text "{font=fonts/Bou_Collegiate.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}":
+    show text "{font=fonts/Changa-SemiBold.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}":
         xalign 0.1 yalign 0.5
         linear 15.0 xalign 0.2
     with dissolve

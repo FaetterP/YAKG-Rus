@@ -292,7 +292,7 @@ label d1a1:
     $ input_name_dog = _("Dog")
     $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
 
-    show text "{image=gui/ctc/10.png}\n{font=fonts/Bou_Collegiate.ttf}{size=+5}Advance dialogue to continue...{/size}\n{size=24}[t_hotkey]Left Click[t_hotkeye] or [t_hotkey]Space[t_hotkeye] or [t_hotkey]Enter[t_hotkeye] or {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Bottom Button){/b}{/size}{/font}{/color}{/font}":
+    show text "{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Advance dialogue to continue...{/size}\n{size=24}[t_hotkey]Left Click[t_hotkeye] or [t_hotkey]Space[t_hotkeye] or [t_hotkey]Enter[t_hotkeye] or {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Bottom Button){/b}{/size}{/font}{/color}{/font}":
         alpha 0.0
         pause 5.0
         linear 2.0 alpha 1.0
@@ -439,7 +439,7 @@ label d1a1:
         with soulout
         $ quick_menu = False
         pause 3.0
-        show text "{font=fonts/AcuminR.ttf}{size=+30}THE END{/size}\nThank you for playing!{/font}" with dissolve
+        show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}THE END{/size}\nThank you for playing!{/font}" with dissolve
         pause 3.0
         hide text with dissolveslow
         pause 2.0
@@ -3828,7 +3828,7 @@ label d1a3_karma:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AcuminR.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nKarma Ending{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nKarma Ending{/font}" with dissolve
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -4137,7 +4137,7 @@ label d1a3_order:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AcuminR.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nOrder Ending{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nOrder Ending{/font}" with dissolve
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -4691,7 +4691,7 @@ label d1a3_chaos_end:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AcuminR.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nChaos Ending{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nChaos Ending{/font}" with dissolve
     pause 2.0
     $ _skipping = True
     pause 3.0
