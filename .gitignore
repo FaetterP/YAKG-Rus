@@ -7,14 +7,12 @@ game/*
 game/tl/None
 !game/tl/russian
 !game/screens.rpy
-!game/gallery.rpy
 !game/gui.rpy
 !game/script.rpy
 !game/script_day1_investigations.rpy
 !game/script_day1.rpy
 !game/script_day2.rpy
 !game/script_day3.rpy
-!game/tutorial.rpy
 
 files.txt
 log.txt
