@@ -1593,7 +1593,7 @@ label d1a1_check_bathroomwindow:
         else:
             I "I was an idiot to think I could punch through it..."
             if d1a1_checked_kitchen == True:
-                I "Now that I think about it, if Cecilia couldn't break the balcony door with a chair, how was {i}I{/i} gonna do any better..."
+                I "Now that I think about it, if Cecilia couldn't break the dining room windows with a chair, how was {i}I{/i} gonna do any better..."
             else:
                 I "Maybe if I threw something heavy at it...?"
                 I "...Actually, I should run it by the others first before trying something drastic like that."

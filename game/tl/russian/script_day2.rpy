@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-02 17:09
+﻿# TODO: Translation updated at 2025-02-15 17:36
 
 # game/script_day2.rpy:9
 translate russian d2a1_a00146ac:
@@ -4267,9 +4267,9 @@ translate russian d2a2_basement_386a4e48:
     O hidden ""
 
 # game/script_day2.rpy:1828
-translate russian d2a2_basement_93ba87f0:
+translate russian d2a2_basement_4c4a75c0:
 
-    # O "There's no windows in an underground room, after all."
+    # O "There're no windows in an underground room, after all."
     O ""
 
 # game/script_day2.rpy:1829
@@ -7597,9 +7597,9 @@ translate russian d2a3_library_cece_hearttoheart_029cb603:
     Y ""
 
 # game/script_day2.rpy:3363
-translate russian d2a3_library_cece_hearttoheart_029cb603_1:
+translate russian d2a3_library_cece_hearttoheart_e0a4cf22:
 
-    # Y "\"Serene...\"{nw}"
+    # Y "\"Celene...\"{nw}"
     Y ""
 
 # game/script_day2.rpy:3366

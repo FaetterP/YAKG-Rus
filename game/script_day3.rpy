@@ -709,7 +709,7 @@ label d3a1_choosesuspect:
             play ctc_sfx "<silence 1.0>"
             play sound sfx_flashback
             scene bg basement at grayscale_on:
-                xalign 0.8 yalign 0.7 zoom 1.5
+                xalign 1.0 yalign 0.7 zoom 1.5
             with custom_flashbulblong()
             $ grayscale_sideimage = True
             Y afraid "Wh-what is..." with shakeonce
@@ -907,6 +907,22 @@ label d3a1_choosesuspect2:
                 O jacketless thinking "What choice do I have but to believe in her now?"
             play ctc_sfx "<silence 1.0>"
             $ chose_suspect = True
+            if persistent.unlock_gameclear_cgs:
+                show bg white
+                show oriana jacketless thinking:
+                    matrixcolor InvertMatrix(1.0)
+                play loop_sfx sfx_introambiance_sequence4_loop
+                S "ERROR: An exception has occurred. Please rollback your changes.{fast}" with custom_flashquickred()
+                play ctc_sfx "<silence 1.0>"
+                S "ERROR: An exception has occurred. Please rollback your changes.\nERROR: An exception has occurred. Please rollback your changes.{fast}" with shakeonce
+                play ctc_sfx "<silence 1.0>"
+                S "ERROR: An exception has occurred. Please rollback your changes.\nERROR: An exception has occurred. Please rollback your changes.\nERROR: An exception has occurred. Please rollback your changes.{fast}" with shakeshort
+                play ctc_sfx "<silence 1.0>"
+                stop loop_sfx
+                show bg black
+                show oriana jacketless thinking:
+                    matrixcolor InvertMatrix(0.0)
+                I "...?" with custom_flashquickred()
             $ renpy.music.set_volume(1.0, 3, channel="music")
             jump d3a1_choosesuspect_end
         "Oriana":
@@ -1122,7 +1138,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
     Y surprised "...Ria?"
     play ctc_sfx "<silence 1.0>"
     O jacketless blink "{cps=6}.......{/cps} ...I'm sorry, it's just..."
-    O jacketless relaxed "The way you laughed awkwardly just now reminded me of someone I know..."
+    O jacketless relaxed "The way you shrugged awkwardly just now reminded me of someone I know..."
     Y surprised "Really? Who?"
     O jacketless thinking "...Someone you've never met."
     if d1a4_third_member_mentioned:
@@ -4876,10 +4892,13 @@ label ending_message:
     play ctc_sfx "<silence 1.0>"
     S "Will you throw the cast of ladies back in danger once more, just to {color=#cccc00}seek the truth{/color}?"
     play ctc_sfx "<silence 1.0>"
-    if finalchoice_doubt and seen_cece_hearttoheart:
-        S "And when Death calls for you to deliver tribute, will you always, always {color=#ff0000}REFUSE to make that choice{/color}?"
+    if finalchoice_doubt and seen_cece_hearttoheart and seen_ria_hearttoheart:
+        if name_karma == _("Karma"):
+            S "{cps=6}And...{/cps}will you relentlessly pursue that truth...{w=0.5}even if it means denying {color=#cccc00}her final plea{/color}...?"
+        else:
+            S "And when Death calls for you to deliver tribute, will you always, always {color=#ff0000}REFUSE to make that choice{/color}?"
     else:
-        S "Will you spend the time to forge bonds [t_clue]both RED and BLUE[t_cluee], then test their strength with blade in hand?"
+        S "Will you spend the time to forge bonds [t_clue]both RED and BLUE[t_cluee], then test their strength with {color=#ff0000}blade in hand{/color}?"
     play ctc_sfx "<silence 1.0>"
     S "{cps=6}The decision is yours...{/cps}"
     play ctc_sfx "<silence 1.0>"
@@ -5041,7 +5060,7 @@ label d3a5:
             YV default "It's a life-sized mobile doll designed to look like a rotting corpse."
             YV "In other words, this is a decoy planted by the Professor to--" with shakeonce
             C sweatdrop "[name_player], you've officially lost us." with hpunch
-            C thinking "There's no mistake that your current body is the very one that approached at the beginning of the killing game."
+            C thinking "There's no mistake that your current body is the very one that approached us at the beginning of the killing game."
             C smug "And he was definitely capable of regular human speech."
             C grin "But if you're still not convinced, I could stick my knife into your chest and try pulling out some organs...?"
             play ctc_sfx "<silence 1.0>"
@@ -5111,7 +5130,7 @@ label d3a5:
             YV "Which must mean...this body is actually a spirit medium who stopped channeling the Professor, and is now channeling me."
             YV "Or maybe...! The Professor is the spirit medium, and--" with shakeonce
             O disappointed "[name_player]."
-            O "You already admitted you're currently inhabiting a soulless shell. Do you want to take that back?"
+            O "You already declared you're currently inhabiting a soulless shell. Do you want to take that back?"
             $ fadein_sideimage = True
             I "...Ah."
             C thinking "The Professor's a spirit medium...? Oooh, so THAT'S why the door didn't open when he got stabbed a bajillion times."
@@ -5599,8 +5618,6 @@ label d3a6:
     YV "It all makes sense now.{w=0.5} Ever since we found [name_dog]'s body, you've been acting strange." with shakeonce
     $ fadein_sideimage = True
     play ctc_sfx "<silence 1.0>"
-    scene bg basement at grayscale_on:
-        xalign 0.8 yalign 0.7 zoom 1.5
     scene bg hallway at grayscale_on
     show cecilia thinking at mycenter, grayscale_on
     with custom_flashbulblong()
@@ -9339,7 +9356,7 @@ label d3a8:
                 C default "So then, if it wasn't the Professor, who do you think wrote that writing on the door?"
                 C "....."
                 show cecilia happy at hop
-                C "That's right! Who else but ME!"
+                C "That's right! Who else but CECE~"
                 C default "Ria doesn't know this, but when we all got pulled into this house, I actually woke up first."
                 C thinking "It was maybe about...20 minutes before Ria woke up? Anyway, I was enthused so I went around the house alone."
                 C blink "When I wandered into the little girl's bedroom, I saw the paint set on the desk, and came up with the BEST idea."

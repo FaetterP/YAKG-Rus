@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2025-02-02 17:09
+﻿# TODO: Translation updated at 2025-02-15 17:36
 
 translate russian strings:
 
-    # game/credits.rpy:105
+    # game/credits.rpy:142
     old "RETURN"
     new "ВЕРНУТЬСЯ"
 

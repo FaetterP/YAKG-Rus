@@ -1825,7 +1825,7 @@ label d2a2_basement:
     $ fadein_sideimage = False
     Y "...Guys, I can't see anything." with hpunch
     O hidden "Yes, I think we're all aware of how dark it is."
-    O "There's no windows in an underground room, after all."
+    O "There're no windows in an underground room, after all."
     C hidden "Agh, if only we still had our phones! A flashlight would be great right now." with hpunch
     Y "Maybe there's something like that around here..."
     O "Wait... My eyes are getting adjusted to the dark... I think there's tools on the wall."
@@ -1864,7 +1864,7 @@ label d2a2_basement:
     pause 2.0
     Y thinking "Huh?"
     scene bg basement:
-        xalign 0.8 yalign 0.7 zoom 1.5
+        xalign 1.0 yalign 0.7 zoom 1.5
     with dissolve
     $ persistent.unlock_bg_basement = True
     window auto show
@@ -3360,7 +3360,7 @@ label d2a3_library_cece_hearttoheart:
         "\"Serene...\"":
             Y "\"Serene...\"{nw}"
         "\"Celene...\"":
-            Y "\"Serene...\"{nw}"
+            Y "\"Celene...\"{nw}"
 
     menu:
         extend ""
