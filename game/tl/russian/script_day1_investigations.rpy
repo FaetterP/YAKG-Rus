@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-02 17:09
+﻿# TODO: Translation updated at 2025-02-15 17:36
 
 # game/script_day1_investigations.rpy:83
 translate russian d1a1_kitchen_assistant_f43c018d:
@@ -3325,9 +3325,9 @@ translate russian d1a1_check_bathroomwindow_17b8fb81:
     I ""
 
 # game/script_day1_investigations.rpy:1596
-translate russian d1a1_check_bathroomwindow_06d2d3e4:
+translate russian d1a1_check_bathroomwindow_fe8bddd3:
 
-    # I "Now that I think about it, if Cecilia couldn't break the balcony door with a chair, how was {i}I{/i} gonna do any better..."
+    # I "Now that I think about it, if Cecilia couldn't break the dining room windows with a chair, how was {i}I{/i} gonna do any better..."
     I ""
 
 # game/script_day1_investigations.rpy:1598

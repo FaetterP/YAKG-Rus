@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-02 17:09
+﻿# TODO: Translation updated at 2025-02-15 17:36
 
 translate russian strings:
 
@@ -18,27 +18,31 @@ translate russian strings:
     old "Slideshow"
     new ""
 
-    # game/gallery.rpy:392
+    # game/gallery.rpy:885
     old "CGs"
     new ""
 
-    # game/gallery.rpy:398
+    # game/gallery.rpy:891
     old "Backgrounds"
     new ""
 
-    # game/gallery.rpy:404
+    # game/gallery.rpy:898
+    old "Sprites"
+    new ""
+
+    # game/gallery.rpy:905
     old "Music Room"
     new ""
 
-    # game/gallery.rpy:418
+    # game/gallery.rpy:919
     old "1"
     new ""
 
-    # game/gallery.rpy:423
+    # game/gallery.rpy:924
     old "2"
     new ""
 
-    # game/gallery.rpy:428
+    # game/gallery.rpy:929
     old "3"
     new ""
 

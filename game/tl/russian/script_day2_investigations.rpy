@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-02 17:09
+﻿# TODO: Translation updated at 2025-02-15 17:36
 
 # game/script_day2_investigations.rpy:48
 translate russian d2a1_attic_assistant_928023ab:
@@ -5023,9 +5023,9 @@ translate russian d2a2_basement_assistant1_55c180c6:
     C ""
 
 # game/script_day2_investigations.rpy:1926
-translate russian d2a2_basement_assistant1_d7a5bdb3:
+translate russian d2a2_basement_assistant1_00c0a37b:
 
-    # C "Obviously, I considered what I know about chaos magic and the Black Magic Mansion, but..."
+    # C "Obviously, I considered what I know about occult stuff and the Black Magic Mansion, but..."
     C ""
 
 # game/script_day2_investigations.rpy:1927
