@@ -28,7 +28,7 @@ translate russian strings:
 
     # game/gallery.rpy:898
     old "Sprites"
-    new ""
+    new "Спрайты"
 
     # game/gallery.rpy:905
     old "Music Room"
