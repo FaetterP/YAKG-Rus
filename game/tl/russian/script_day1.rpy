@@ -790,7 +790,7 @@ translate russian d1a1_d58e6884:
 translate russian d1a1_1cc6480e:
 
     # C blink "At least we have the clock here by the door, even if it doesn't say if it's A.M. or P.M.--"
-    C blink "По крайней мере, рядом с дверью есть часы, даже если они не показывают, ночь сейчас или день.--"
+    C blink "По крайней мере, рядом с дверью есть часы, даже если они не показывают, ночь сейчас или день--"
 
 # game/script_day1.rpy:598
 translate russian d1a1_778263eb:
