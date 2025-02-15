@@ -364,7 +364,7 @@ label d1a1:
         easein 3.0 zoom 1.0
     with dissolvemed
     $ ctc_timer = 0
-    show screen notify_location("1 этаж - Холл", persistent.unlock_bg_foyer) 
+    show screen notify_location("1 этаж - Фойе", persistent.unlock_bg_foyer) 
     $ persistent.unlock_bg_foyer = True
     pause 2.5
     $ _last_say_who = 'C'

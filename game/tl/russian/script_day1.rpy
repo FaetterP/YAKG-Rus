@@ -3652,7 +3652,7 @@ translate russian d1a1_upstairs_end_25b59bb6:
 translate russian d1a1_upstairs_end_fc2adba9:
 
     # O "But I'm confident the last door in the foyer could be unlocked if we can find its [t_clue]key[t_cluee]."
-    O "Но я уверена, что последнюю дверь в холле можно открыть, если мы найдём [t_clue]ключ[t_cluee]."
+    O "Но я уверена, что последнюю дверь в фойе можно открыть, если мы найдём [t_clue]ключ[t_cluee]."
 
 # game/script_day1.rpy:2049
 translate russian d1a1_upstairs_end_6505ee64:
@@ -3700,7 +3700,7 @@ translate russian d1a1_upstairs_end_a3273134:
 translate russian d1a1_upstairs_end_4c7d7d68:
 
     # O "The last of the locked doors are in the [t_clue]foyer[t_cluee] and the [t_clue]kitchen[t_cluee]."
-    O "Последние запертые двери находятся в [t_clue]холле[t_cluee] и на [t_clue]кухне[t_cluee]."
+    O "Последние запертые двери находятся в [t_clue]фойе[t_cluee] и на [t_clue]кухне[t_cluee]."
 
 # game/script_day1.rpy:2064
 translate russian d1a1_upstairs_end_50d53d38:
