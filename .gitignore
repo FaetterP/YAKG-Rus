@@ -13,6 +13,7 @@ game/tl/None
 !game/script_day1.rpy
 !game/script_day2.rpy
 !game/script_day3.rpy
+!game/pac_investigations.rpy
 
 files.txt
 log.txt
