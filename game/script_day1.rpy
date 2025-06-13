@@ -289,7 +289,7 @@ label d1a1:
     $ show_music_info_timer = music_info_pop_out_time()
     $ name_cecilia = _("???")
     $ name_oriana = _("???")
-    $ input_name_dog = _("Dog")
+    $ input_name_dog = _("Собака")
     $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
 
     show text "{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Advance dialogue to continue...{/size}\n{size=24}[t_hotkey]Left Click[t_hotkeye] or [t_hotkey]Space[t_hotkeye] or [t_hotkey]Enter[t_hotkeye] or {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Bottom Button){/b}{/size}{/font}{/color}{/font}":
@@ -3105,14 +3105,14 @@ label d1a2:
     menu:
         extend ""
         "Cerberus":
-            $ input_name_dog = "Cerberus"
+            $ input_name_dog = "Цербер"
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
             show cecilia overjoyed at hop
             C "Aha! \"[name_dog]\" it is!"
             O annoyed "...[name_player]. You have done this dog a great disservice. ...I hope you're ashamed of yourself."
         "Shaggy":
-            $ input_name_dog = "Shaggy"
+            $ input_name_dog = "Мохнатик"
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
             show oriana laughing at hop

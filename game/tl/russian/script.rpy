@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-15 17:36
+﻿# TODO: Translation updated at 2025-06-13 18:21
 
 # game/script.rpy:888
 translate russian name_entry_4810578b:

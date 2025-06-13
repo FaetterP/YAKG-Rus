@@ -83,7 +83,7 @@ label d1a1_kitchen_assistant:
     C happy "Oh? Did you need something from me, [name_player]?{nw}"
 
     menu:
-        "[t_clue]End your investigation[t_cluee]" if investigation_perfect:
+        "[t_clue]End your investigation[t_cluee]" if investigation_complete:
             call d1a1_kitchen_confirm_end
         "\"Any ideas?\"":
             Y "Just wondering if anything comes to mind."
@@ -129,6 +129,8 @@ label d1a1_kitchen_assistant:
                     $ fadein_sideimage = True
                     C default "Oh, nothing related to that. But back to the topic of murder weapons..."
                     Y worried2 "Never mind, I'll just keep looking by myself..."
+                    if not is_demo_version():
+                        achieve CECE_WEAPON
                 else:
                     C smug "If you ask me, I'm surprised you ignored the prominent interactive point on the kitchen island."
                     Y worried "The...\"interactive point\"...?"
@@ -202,6 +204,8 @@ label d1a1_kitchen_complete:
 label d1a1_kitchen_perfect:
     I "...All right, I've definitely checked every little nook and cranny now..."
     I "Guess I should [t_clue]end my investigation[t_cluee] and move on."
+    if not is_demo_version():
+        achieve 100_KITCHEN
     return
 
 label d1a1_kitchen_confirm_end:
@@ -810,6 +814,8 @@ label d1a1_check_peppershaker:
         $ fadein_sideimage = True
         play ctc_sfx sfx_emotesigh
         I "Ugh... There must still be some pepper floating around this part of the room..." with hpunch
+        if not is_demo_version():
+            achieve PEPPER_SNEEZE
     return
 
 
@@ -960,6 +966,8 @@ label d1a1_check_petbowl:
                     Y worried "That's...an odd thing to worry about."
                     C smile "Eh... You never know~"
                     I "Huh?"
+                    if not is_demo_version():
+                        achieve CATS_DOGS
         if preferred_pet == "dog":
             C "Hey, [name_player]? You said you were a dog person, right?"
             C default "Does that mean you don't like cats?{nw}"
@@ -985,6 +993,8 @@ label d1a1_check_petbowl:
                     C blink "...I see. {size=-10}...the same...{/size}"
                     Y thinking "Huh? What'd you say?"
                     C happy "Nothing! Let's keep looking around, [name_player]!"
+                    if not is_demo_version():
+                        achieve CATS_DOGS
     return
 label d1a1_check_table:
     show pac_explode_star at pac_explode()
@@ -1322,6 +1332,8 @@ label d1a1_bathroom_complete:
 label d1a1_bathroom_perfect:
     I "...All right, for some reason, I checked everything thoroughly..."
     I "Now I REALLY should [t_clue]end my investigation[t_cluee] and move on."
+    if not is_demo_version():
+        achieve 100_BATHROOM
     return
 
 label d1a1_bathroom_confirm_end:
@@ -1376,7 +1388,7 @@ label d1a1_check_door:
     I "The [t_pacclue]door[t_paccluee] that I came in through. Past it is the foyer.{nw}"
 
     menu:
-        "[t_clue]End your investigation[t_cluee]" if investigation_perfect:
+        "[t_clue]End your investigation[t_cluee]" if investigation_complete:
             call d1a1_bathroom_confirm_end
         "\"Any ideas?\"":
             if not d1a1_bathroom_clue1:
@@ -1682,6 +1694,8 @@ label d1a1_search_trash:
         $ renpy.music.set_volume(1.0, 3, channel="music")
         I "Well... Either way, this isn't going to be useful for getting us out of here..."
         I "This is probably about the most useful thing I'll find in this waste bin. I should stop rummaging now..."
+        if not is_demo_version():
+            achieve WASTE_JACKPOT
         $ d1a1_treasure_found = True
     $ rng_min = rng_min + 2
     return
@@ -1818,6 +1832,8 @@ label d1a1_check_soap:
                 Y blink "....."
                 Y default "......."
                 Y "Okay, all cleaned up."
+                if not is_demo_version():
+                    achieve WASH_HANDS
         "Don't wash your hands":
             pass
     $ fadein_sideimage = True
@@ -1964,7 +1980,7 @@ label d1a1_upstairs_assistant:
     O default "...Yes? What is it, [name_player]?{nw}"
 
     menu:
-        "[t_clue]End your investigation[t_cluee]" if investigation_perfect:
+        "[t_clue]End your investigation[t_cluee]" if investigation_complete:
             call d1a1_upstairs_confirm_end
         "\"Any ideas?\"":
             Y default "Is there anything you think we should check out?"
@@ -2031,6 +2047,8 @@ label d1a1_upstairs_assistant:
                 Y panicked "....."
                 play ctc_sfx sfx_emotesigh
                 I "That's...not really fair..." with hpunch
+                if not is_demo_version():
+                    achieve TROLLEY_PROBLEM
             elif investigation_progress_percent() >= 0.33:
                 O thinking "We haven't taken a good look through all the rooms yet..."
                 if d1a1_upstairs_clue4:
@@ -2121,6 +2139,8 @@ label d1a1_upstairs_complete:
 label d1a1_upstairs_perfect:
     I "...All right, it took forever, but I think I checked every inch of this floor by now."
     I "I should [t_clue]end my investigation[t_cluee] and talk with Oriana about next steps."
+    if not is_demo_version():
+        achieve 100_UPSTAIRS
     return
 
 label d1a1_upstairs_confirm_end:
@@ -2211,7 +2231,7 @@ label d1a1_check_second_room:
             xalign 0.5 yalign 0.5 zoom 1.1
             easein 3.0 zoom 1.0
         with dissolvemed
-        show screen notify_location("2 этаж - Спальня", persistent.unlock_bg_bedroom)
+        show screen notify_location(_("2 этаж - Спальня"), persistent.unlock_bg_bedroom)
         $ persistent.unlock_bg_bedroom = True
         pause 2.0
         I "Looks like a child's [t_pacclue]bedroom[t_paccluee]..."
@@ -2295,7 +2315,7 @@ label d1a1_check_third_room:
             easein 5.0 zoom 1.0
         with dissolvemed
         pause 2.0
-        show screen notify_location("2 этаж - Пустая Спальня", persistent.unlock_bg_emptybedroom)
+        show screen notify_location(_("2 этаж - Пустая Спальня"), persistent.unlock_bg_emptybedroom)
         $ persistent.unlock_bg_emptybedroom = True
         pause 2.0
         Y panicked "Wha..."
@@ -2399,7 +2419,7 @@ label d1a1_check_masterbedroom:
             xalign 0.5 yalign 0.5 zoom 1.1
             easein 3.0 zoom 1.0
         with dissolvemed
-        show screen notify_location("2 этаж - Главная Спальня", persistent.unlock_bg_masterbedroom)
+        show screen notify_location(_("2 этаж - Главная Спальня"), persistent.unlock_bg_masterbedroom)
         $ persistent.unlock_bg_masterbedroom = True
         pause 2.0
         Y surprised "Yep, this is definitely a master bedroom. Really has that \"master\" feeling."
@@ -2897,6 +2917,8 @@ label d1a1_check_bed:
                 O irritated "You're not going to accomplish anything by sleeping, [name_player]."
                 O leering2 "Come on, keep moving."
                 Y worried2 "Mrgh..."
+                if not is_demo_version():
+                    achieve DREAM_END
         "Don't jump on it":
             if d1a1_jumped_bed == False:
                 I "This isn't the time for fooling around. Let's look somewhere else." with hpunch
@@ -2932,7 +2954,7 @@ label d1a1_check_masterbathroom:
             easein 5.0 zoom 1.0
         with dissolve
         pause 1.0
-        show screen notify_location("2 этаж - Главная Ванная", persistent.unlock_bg_masterbathroom)
+        show screen notify_location(_("2 этаж - Главная Ванная"), persistent.unlock_bg_masterbathroom)
         $ persistent.unlock_bg_masterbathroom = True
         pause 2.0
         I "Bingo. It's a bathroom."
@@ -3463,6 +3485,8 @@ label d1a1_check_redpanda:
         I "Can't believe it slipped my mind. Glad it... Er..."
         play ctc_sfx sfx_emotequestion
         I "...Actually, how DID I suddenly remember its name?" with hpunch
+        if not is_demo_version():
+            achieve RED_PANDA
     return
 label d1a1_check_cutedresser:
     show pac_explode_star at pac_explode()

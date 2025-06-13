@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-15 17:36
+﻿# TODO: Translation updated at 2025-06-13 18:21
 
 translate russian strings:
 
@@ -14,15 +14,15 @@ translate russian strings:
     old "KILL THE BLUE ONE"
     new "УБИТЬ СИНЮЮ"
 
-    # game/character_select.rpy:216
+    # game/character_select.rpy:290
     old "KILL ORIANA"
     new "УБИТЬ ОРИАНУ"
 
-    # game/character_select.rpy:226
+    # game/character_select.rpy:300
     old "KILL CECILIA"
     new "УБИТЬ СЕСИЛИЮ"
 
-    # game/character_select.rpy:235
+    # game/character_select.rpy:309
     old "KILL YOURSELF"
     new "УБИТЬ СЕБЯ"
 
