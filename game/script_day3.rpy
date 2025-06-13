@@ -923,6 +923,7 @@ label d3a1_choosesuspect2:
                 show oriana jacketless thinking:
                     matrixcolor InvertMatrix(0.0)
                 I "...?" with custom_flashquickred()
+                achieve BUG_MASTERMIND
             $ renpy.music.set_volume(1.0, 3, channel="music")
             jump d3a1_choosesuspect_end
         "Oriana":
@@ -1173,7 +1174,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
     $ name_npc = _("Student A")
     X "Huh? Who's this tiny little kid?"
     $ name_npc = _("Student B")
-    X "I guess she's a freshman? Do you know this girl, Carol?"
+    X "I guess she's a first-year? Do you know this girl, Carol?"
     $ name_karma = _("{color=#fff}\"Carol\"{/color}")
     K "Nope, first time seeing her."
     O "Um... F-first period is already under way, and...and you're all here with...{w=0.5}{nw}"
@@ -1196,7 +1197,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
     X "She said something about \"society\". Ha, we got a little Lady Justice here!"
     O "I'm... I-I'm not--" with shakeonce
     $ name_npc = _("Student A")
-    X "Aren't you a freshman? You've only been in high school for like what, a week?"
+    X "Aren't you a first-year? You've only been in high school for like what, a week?"
     $ name_npc = _("Student B")
     X "Move along, kid. It's clearly too soon for you to join our fun."
     O "..... {size=-10}*sniff*{/size}"
@@ -1225,7 +1226,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
     play sound sfx_runninglong fadein 0.5
     O "*pant* *gasp* *wheeze*" with shakeshort
     play ctc_sfx sfx_running
-    K "H-hey! Fellow freshman girl! Slow down!" with shakeshort
+    K "H-hey! Fellow first-year girl! Slow down!" with shakeshort
     scene cg origin oriana1:
         xalign 1.0 yalign 0.5 zoom 1.5 matrixcolor BrightnessMatrix(-1.0)
         parallel:
@@ -1522,6 +1523,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
             Y relaxed "...It's fine. Take your time."
             O jacketless crying2 "*sob* Grk...! I..." with shakeonce
             O "Euugh... *hic* Aaaugh..." with shakeshort
+            achieve RIA_H2H
 
     $ show_side_oriana = False
     $ fadein_sideimage = True
@@ -1826,6 +1828,8 @@ label d3a2_escape_choice:
 
 label d3a2_dog_investigation:
     $ renpy.choice_for_skipping()
+    if investigation_clues_required_found == investigation_clues_required:
+        achieve 100_DOG
     scene cg deaddog with dissolvequick
     call screen pac_d3a2_dog with dissolvequick
     if investigation_location != None:
@@ -2105,6 +2109,7 @@ label d3a2_start_investigation:
                 play ctc_sfx sfx_emotequestion
                 I "That's weird... I wonder why? I doubt I [t_clue]intentionally avoided it[t_cluee] or something..." with hpunch
                 C sad "Oh. Okay, never mind, then."
+                achieve BATHROOM_LATE
                 Y surprised "...?"
                 C sweatdrop "...Uh... D-does anything come to mind NOW?"
                 Y worried "You mean...in this bathroom? Not really..."
@@ -2257,7 +2262,7 @@ label d3a2_start_investigation:
                 "\"Yeah, I will.\"":
                     Y leering "Yeah, just to be sure."
                     play ctc_sfx "<silence 1.0>"
-                    C blink knife "Okay, I'll be right behind you with my knife at the ready."
+                    C blink knife "Okay, I'll be right [t_clue]behind[t_cluee] you with my knife at the ready."
                     play ctc_sfx sfx_heartbeat_single
                     Y depressed "...!" with shakeonce
                     play ctc_sfx "<silence 1.0>"
@@ -2571,6 +2576,8 @@ label d3a3:
 
 label d3a3_corpse_investigation:
     $ renpy.choice_for_skipping()
+    if investigation_clues_required_found == investigation_clues_required:
+        achieve 100_CORPSE
     scene bg bedroom corpse pac
     with dissolvequick
     call screen pac_d3a3_corpse with dissolvequick
@@ -3076,6 +3083,8 @@ label d3a3_corpse_end:
     "{cps=16}All I have to do...{/cps}{w=3.0}{nw}"
     "{cps=16}...is make one {color=#ff0000}final choice{/color}.{/cps}{w=3.0}{nw}"
     $ finalchoice_doubt = False
+    $ finalchoice_chose_cece = False
+    $ finalchoice_chose_ria = False
 label d3a3_finalchoice:
     $ renpy.block_rollback()
     play ctc_sfx sfx_introambiance_pentagramknife
@@ -3093,6 +3102,7 @@ label d3a3_finalchoice:
 
     if _return is "red":
         $ renpy.block_rollback()
+        $ finalchoice_chose_ria = True
         if finalchoice_doubt:
             play loop_sfx sfx_introambiance_sequence4_loop fadein 0.5
         show oriana_raw horrified at myleft
@@ -3207,6 +3217,7 @@ label d3a3_finalchoice:
 
     if _return is "blue":
         $ renpy.block_rollback()
+        $ finalchoice_chose_cece = True
         if finalchoice_doubt:
             play loop_sfx sfx_introambiance_sequence4_loop fadein 0.5
         show cecilia_raw creepygrin at myright
@@ -3501,6 +3512,7 @@ label d3a3_oriana_ending:
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Oriana Ending{/color}{/font}" with dissolve
     pause 2.0
+    achieve END_ORIANA
     pause 3.0
     hide text with dissolveslow
     pause 1.0
@@ -3518,9 +3530,7 @@ label d3a3_oriana_ending:
     $ music_info = True
     hide screen lock_hotkeys
     call ending_message
-    menu:
-        "Return to the Title Screen":
-            pass
+    call end_menu
     return
 
 label d3a3_cecilia_ending:
@@ -3620,6 +3630,7 @@ label d3a3_cecilia_ending:
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Cecilia Ending{/color}{/font}" with dissolve
     pause 2.0
+    achieve END_CECILIA
     pause 3.0
     hide text with dissolveslow
     pause 1.0
@@ -3637,9 +3648,7 @@ label d3a3_cecilia_ending:
     $ music_info = True
     hide screen lock_hotkeys
     call ending_message
-    menu:
-        "Return to the Title Screen":
-            pass
+    call end_menu
     return
 
 label d3a3_martyr_ending:
@@ -3678,6 +3687,7 @@ label d3a3_martyr_ending:
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Martyr Ending{/color}{/font}" with dissolve
     pause 2.0
+    achieve END_MARTYR
     pause 3.0
     hide text with dissolveslow
     pause 1.0
@@ -3695,9 +3705,7 @@ label d3a3_martyr_ending:
     $ music_info = True
     hide screen lock_hotkeys
     call ending_message
-    menu:
-        "Return to the Title Screen":
-            pass
+    call end_menu
     return
 
 label d3a4:
@@ -4858,12 +4866,24 @@ label d3a4_salvation_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}TRUE END{/color}{/size}\nSalvation Ending{/font}" with dissolve
+    show pac_assistant_shadow at truecenter:
+        zoom 1.75 alpha 0.4
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}TRUE END{/color}{/size}\nSalvation Ending{/font}"
+    with dissolve
+    achieve END_SALVATION
     pause 2.0
     stop loop_sfx fadeout 10.0
-    pause 3.0
-    hide text with dissolveslow
-    pause 3.0
+    show bg flamewall:
+        linear 2.0 matrixcolor BrightnessMatrix(0.25) * SaturationMatrix(0.0)
+    with dissolvemed
+    pause 1.5
+    hide pac_assistant_shadow
+    hide text
+    with dissolveslow
+    show bg flamewall:
+        linear 2.0 matrixcolor BrightnessMatrix(0.0) * SaturationMatrix(1.0)
+    with dissolvemed
+    pause 1.5
     play music bgm_death
     call screen credits(180, True)
     stop music fadeout 5.0
@@ -4877,7 +4897,14 @@ label d3a4_salvation_ending:
     $ music_info = True
     hide screen lock_hotkeys
     call ending_message
+    call end_menu
+    return
+
+label end_menu:
     menu:
+        "Load a save file":
+            $ renpy.run(ShowMenu("load"))
+            jump end_menu
         "Return to the Title Screen":
             pass
     return
@@ -4888,17 +4915,22 @@ label ending_message:
     S "Thanks to your constant efforts, the killing game is finally over...{w=1.0}\nBut are you satisfied with this conclusion?"
     S "If you're not, then...{w=1.0}{nw}"
     play ctc_sfx sfx_heartbeat_single
-    extend " Will you start [t_clue]yet another killing game[t_cluee] by your own free will?" with shakeonce
+    extend " Will you play [t_clue]yet another killing game[t_cluee] by your own free will?" with shakeonce
     play ctc_sfx "<silence 1.0>"
     S "Will you throw the cast of ladies back in danger once more, just to {color=#cccc00}seek the truth{/color}?"
     play ctc_sfx "<silence 1.0>"
-    if finalchoice_doubt and seen_cece_hearttoheart and seen_ria_hearttoheart:
-        if name_karma == _("Karma"):
-            S "{cps=6}And...{/cps}will you relentlessly pursue that truth...{w=0.5}even if it means denying {color=#cccc00}her final plea{/color}...?"
+
+    if seen_cece_hearttoheart and seen_ria_hearttoheart:
+        if finalchoice_doubt:
+            if name_karma == _("Karma"):
+                S "{cps=6}And...{/cps}will you relentlessly pursue that truth...{w=0.5}even if it means denying {color=#cccc00}her final plea{/color}...?"
+            else:
+                S "And when Death calls for you to deliver tribute, will you always, always {color=#ff0000}REFUSE to make that choice{/color}?"
         else:
-            S "And when Death calls for you to deliver tribute, will you always, always {color=#ff0000}REFUSE to make that choice{/color}?"
+            S "And though you may grasp freedom through Death's embrace, will you hold strong and [t_clue]face a RED or BLUE fate[t_cluee] nevertheless?"
     else:
         S "Will you spend the time to forge bonds [t_clue]both RED and BLUE[t_cluee], then test their strength with {color=#ff0000}blade in hand{/color}?"
+
     play ctc_sfx "<silence 1.0>"
     S "{cps=6}The decision is yours...{/cps}"
     play ctc_sfx "<silence 1.0>"
@@ -4909,6 +4941,7 @@ label ending_message:
 label d3a5:
     call save_file_name_update (3, "d3a5")
     scene bg white with custom_flashbulblong()
+    achieve REJECT_TRUE
     pause 0.5
     scene bg basement stairway
     show karma tired at mycenter_fadein
@@ -5545,11 +5578,17 @@ label d3a5_gameover:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nYOU LOSE{/font}" with dissolve
+    show pac_assistant_shadow at truecenter:
+        zoom 1.75 alpha 0.4
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nYOU LOSE{/font}"
+    with dissolve
+    achieve YOU_LOSE
     pause 2.0
     $ _skipping = True
     pause 3.0
-    hide text with dissolveslow
+    hide pac_assistant_shadow
+    hide text
+    with dissolveslow
     pause 2.0
     menu:
         "TRY AGAIN":
@@ -6817,6 +6856,7 @@ label d3a6_chase_pt1:
             play sound2 sfx_rewind
             $ renpy.music.set_volume(0.0, 3, channel="music")
             scene bg black with pixellate
+            achieve THE_SHINING
             pause 1.5
             play ctc_sfx sfx_flashback
             scene bg white with dissolve
@@ -7746,6 +7786,7 @@ label d3a6_chase_duel:
         zoom 1.0
     C "{cps=6}.....{/cps} ...Impressive."
     if d3a6_duel_hp >= 3:
+        achieve KNIFE_DUEL
         play ctc_sfx sfx_emotequestion
         C "You...avoided [t_clue]every single attack[t_cluee]..."
         I "...!" with shakeonce
@@ -8397,6 +8438,7 @@ label d3a6_chase_finale:
             play sound2 sfx_rewind
             stop music fadeout 3.0
             scene bg black with pixellate
+            achieve GAMBIT_LOSE
             pause 1.5
             play ctc_sfx sfx_flashback
             scene bg white with dissolve
@@ -9087,15 +9129,51 @@ label d3a8:
             $ _skipping = False
             show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}" with dissolve
             pause 2.0
+            achieve END_FINAL
             pause 3.0
             hide text with dissolveslow
             pause 3.0
+            show backshards_1:
+                alpha 0.5
+                linear 2.0 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            show backshards_2:
+                alpha 0.5
+                linear 2.5 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            show backshards_3:
+                alpha 0.5
+                linear 3.0 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            show backshards_4:
+                alpha 0.5
+                linear 3.5 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            with dissolveslow
             play music bgm_credits noloop            
             show screen credits_slideshow
             call screen credits(200, True)
             stop music fadeout 3.0
             $ _skipping = True
-            hide screen credits_slideshow with dissolvemed
+            hide screen credits_slideshow
+            scene bg black
+            with dissolvemed
             pause 3.0
             show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
             pause 15.0
@@ -9265,15 +9343,51 @@ label d3a8:
             $ _skipping = False
             show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}" with dissolve
             pause 2.0
+            achieve END_FINAL
             pause 3.0
             hide text with dissolveslow
             pause 3.0
-            play music bgm_credits noloop            
+            show backshards_1:
+                alpha 0.5
+                linear 2.0 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            show backshards_2:
+                alpha 0.5
+                linear 2.5 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            show backshards_3:
+                alpha 0.5
+                linear 3.0 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            show backshards_4:
+                alpha 0.5
+                linear 3.5 yoffset -10
+                block:
+                    yoffset -10
+                    ease 1.5 yoffset 10
+                    ease 1.5 yoffset -10
+                    repeat
+            with dissolveslow
+            play music bgm_credits noloop
             show screen credits_slideshow
             call screen credits(200, True)
             stop music fadeout 3.0
             $ _skipping = True
-            hide screen credits_slideshow with dissolvemed
+            hide screen credits_slideshow
+            scene bg black
+            with dissolvemed
             pause 3.0
             show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
             pause 15.0
@@ -9435,6 +9549,7 @@ label d3a8:
                     zoom 1.0
                 C "Anyway, the developers and I hope you had a great time playing\n[t_clue]Yet Another Killing Game[t_cluee]!"
                 C wink "Have fun playing your next game, okay? Byeeee~ [u_music_note]"
+                achieve THE_TRUTH
                 stop music fadeout 5.0
                 scene bg black with dissolveslow
                 pause 3.0

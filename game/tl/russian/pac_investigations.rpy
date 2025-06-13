@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-15 17:36
+﻿# TODO: Translation updated at 2025-06-13 18:21
 
 translate russian strings:
 
@@ -18,11 +18,11 @@ translate russian strings:
     old "END"
     new ""
 
-    # game/pac_investigations.rpy:379
+    # game/pac_investigations.rpy:383
     old "INVESTIGATION"
     new ""
 
-    # game/pac_investigations.rpy:400
+    # game/pac_investigations.rpy:404
     old "START"
     new ""
 

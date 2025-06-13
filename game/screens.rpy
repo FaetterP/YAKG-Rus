@@ -532,20 +532,21 @@ screen quick_menu():
             style_prefix "quick"
             xalign 0.5 yalign 1.0 spacing 20 yoffset 20
             if persistent.legacy_renpy:
-                use quick_menu_custom_button(_("Back"), Rollback(), "icon_back", special="back")
-                use quick_menu_custom_button(_("History"), ShowMenu('history'), "icon_log", special="log")
+                use quick_menu_custom_button(_("BACK"), Rollback(), "icon_back", special="back")
+                use quick_menu_custom_button(_("LOG"), ShowMenu('history'), "icon_log", special="log")
                 if renpy.is_skipping() == False:
-                    use quick_menu_custom_button(_("Skip"), Skip(), "icon_skip", special="skip")
+                    use quick_menu_custom_button(_("SKIP"), Skip(), "icon_skip", special="skip")
                 else:
-                    use skip_active_custom_button(_("Skip"), Skip(), "icon_skip")
+                    use skip_active_custom_button(_("SKIP"), Skip(), "icon_skip")
                 if preferences.afm_enable == False:
-                    use quick_menu_custom_button(_("Auto"), Preference("auto-forward", "toggle"), "icon_auto", special="auto")
+                    use quick_menu_custom_button(_("AUTO"), Preference("auto-forward", "toggle"), "icon_auto", special="auto")
                 else:
-                    use auto_active_custom_button(_("Auto"), Preference("auto-forward", "toggle"), "icon_auto")
-                use quick_menu_custom_button(_("Save"), ShowMenu('save'), "icon_save")
-                use quick_menu_custom_button(_("Q.Save"), QuickSave(), "icon_quicksave")
-                use quick_menu_custom_button(_("Q.Load"), QuickLoad(), "icon_quickload")
-                use quick_menu_custom_button(_("Prefs"), ShowMenu('preferences'), "icon_config")
+                    use auto_active_custom_button(_("AUTO"), Preference("auto-forward", "toggle"), "icon_auto")
+                use quick_menu_custom_button(_("SAVE"), ShowMenu('save'), "icon_save")
+                use quick_menu_custom_button(_("LOAD"), ShowMenu('load'), "icon_load")
+                use quick_menu_custom_button(_("Q.SAVE"), QuickSave(), "icon_quicksave")
+                use quick_menu_custom_button(_("Q.LOAD"), QuickLoad(), "icon_quickload")
+                use quick_menu_custom_button(_("CONFIG"), ShowMenu('preferences'), "icon_config")
             else:
                 use quick_menu_custom_button(_("LOG"), ShowMenu('history'), "icon_log", special="log")
                 use quick_menu_custom_button(_("SAVE"), ShowMenu('save'), "icon_save")
@@ -678,7 +679,11 @@ screen navigation():
         if main_menu and renpy.newest_slot() is not None and not is_demo_version():
             textbutton _("Gallery") action ShowMenu("gallery_main")
 
+        if renpy.newest_slot() is not None and not is_demo_version():
+            textbutton _("Achievements") action ShowMenu("bobcachievements")
+
         if main_menu:
+            null height 30
             textbutton _("Credits") action Confirm(_("View YAKG's [t_clue]Credits[t_cluee]?"), yes=Start("main_menu_credits"))
             textbutton _("Support YAKG!") action [OpenURL("https://linktr.ee/yakg"), Show("tutorial", tutorial_name="support", from_menu=True)]
 
@@ -960,6 +965,9 @@ style about_text:
 style about_label_text:
     size gui.label_text_size
 
+style hyperlink_text:
+    properties gui.text_properties("hyperlink", accent=True)
+    color "#508ef2"
 
 
 
@@ -1185,14 +1193,14 @@ screen preferences():
                 vbox:
                     style_prefix "check"
                     label _("Gameplay")
-                    textbutton _("Skip Unseen Text") action Preference("skip", "toggle") tooltip _("{size=+10}Skip Unseen Text{/size}\nAllows \"Skip\" controls to skip through text you have {color=#ff0000}NOT{/color} read yet.")
-                    textbutton _("Skip After Choices") action Preference("after choices", "toggle") tooltip _("{size=+10}Skip After Choices{/size}\nAllows \"Skip\" to stay active after selecting choices or clues in Investigations.")
-                    textbutton _("Skip Transitions") action InvertSelected(Preference("transitions", "toggle")) tooltip _("{size=+10}Skip Transitions{/size}\nSkips all transitions and most image animations.")
+                    textbutton _("Skip Unseen Text") action Preference("skip", "toggle") tooltip __("{size=+10}Skip Unseen Text{/size}\nAllows \"Skip\" controls to skip through text you have {color=#ff0000}NOT{/color} read yet.")
+                    textbutton _("Skip After Choices") action Preference("after choices", "toggle") tooltip __("{size=+10}Skip After Choices{/size}\nAllows \"Skip\" to stay active after selecting choices or clues in Investigations.")
+                    textbutton _("Skip Transitions") action InvertSelected(Preference("transitions", "toggle")) tooltip __("{size=+10}Skip Transitions{/size}\nSkips all transitions and most image animations.")
                 vbox:
                     style_prefix "check"
                     label ""
-                    textbutton _("Darken Flashes") action ToggleField(persistent, "darken_flashes") tooltip _("{size=+10}Darken Flashes{/size}\nLowers the brightness of flash transitions and effects.")
-                    textbutton _("Use Ren'Py Features") action [ToggleField(persistent, "legacy_renpy"), Function(toggle_rollback)] tooltip _("{size=+10}Use Ren'Py Features{/size}\nEnables Rollback, Quick Saves, Sync, and a familiar quick menu for Ren'Py veterans.")
+                    textbutton _("Darken Flashes") action ToggleField(persistent, "darken_flashes") tooltip __("{size=+10}Darken Flashes{/size}\nLowers the brightness of flash transitions and effects.")
+                    textbutton _("Use Ren'Py Features") action [ToggleField(persistent, "legacy_renpy"), Function(toggle_rollback)] tooltip __("{size=+10}Use Ren'Py Features{/size}\nEnables Rollback, Quick Saves, Sync, and a familiar quick menu layout {color=#ff3eff}for players used to Ren'Py{/color}.")
                 null width 76
                 if renpy.variant("pc") or renpy.variant("web"):
                     vbox:
@@ -1222,7 +1230,7 @@ screen preferences():
                         label _("Slow"):
                             xsize 80 right_margin 10
                             text_style "slider_label_left"
-                        bar value Preference("text speed") tooltip _("{size=+10}Text Speed{/size}\nAdjust the speed at which normal dialogue text prints on the screen.")
+                        bar value Preference("text speed") tooltip __("{size=+10}Text Speed{/size}\nAdjust the speed at which normal dialogue text prints on the screen.")
                         label _("Fast"):
                             xsize 80 left_margin 10
                             text_style "slider_label_right"
@@ -1232,7 +1240,7 @@ screen preferences():
                         label _("Short"):
                             xsize 80 right_margin 10
                             text_style "slider_label_left"
-                        bar value Preference("auto-forward time") tooltip _("{size=+10}Auto-Forward Delay{/size}\nAdjust the amount of time before dialogue advances while using \"Auto\".")
+                        bar value Preference("auto-forward time") tooltip __("{size=+10}Auto-Forward Delay{/size}\nAdjust the amount of time before dialogue advances while using \"Auto\".")
                         label _("Long"):
                             xsize 80 left_margin 10
                             text_style "slider_label_right"
@@ -1244,7 +1252,7 @@ screen preferences():
                             text_style "slider_label_left"
                         bar value FieldValue(persistent,"skip_delay",step=1.0,offset=10,range=150,action=SetField(config,"skip_delay",persistent.skip_delay)) bar_invert True alt _("Skip Speed"):
                             style "slider_slider"
-                            tooltip _("{size=+10}Skip Speed{/size}\nAdjust the speed at which \"Skip\" controls advance through dialogue text.")
+                            tooltip __("{size=+10}Skip Speed{/size}\nAdjust the speed at which \"Skip\" controls advance through dialogue text.")
                         label _("Fast"):
                             xsize 80 left_margin 10
                             text_style "slider_label_right"
@@ -1290,7 +1298,7 @@ screen preferences():
                         textbutton _("Mute All"):
                             action Preference("all mute", "toggle")
                             style "mute_all_button"
-                    textbutton _("Restore Defaults") tooltip _("{size=+10}Restore Defaults{/size}\nRevert all text and volume sliders to default values."):
+                    textbutton _("Restore Defaults") tooltip __("{size=+10}Restore Defaults{/size}\nRevert all text and volume sliders to default values."):
                         foreground None
                         action Confirm(_("Restore all sliders to their default values?"), yes=Function(restore_default_sliderprefs))
                         style "mute_all_button"
@@ -1694,6 +1702,10 @@ screen gamepad_help():
     hbox:
         label _("D-Pad, Sticks")
         text _("Navigates visible buttons.")
+
+    hbox:
+        label _("Left Stick Click,\nRight Stick Click")
+        text _("Hides the user interface.")
 
     hbox:
         label _("Start (+), Guide")

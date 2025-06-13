@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-02-15 17:36
+﻿# TODO: Translation updated at 2025-06-13 18:21
 
 # game/script_day1.rpy:16
 translate russian d1a0_f572d509:
@@ -14518,6 +14518,10 @@ translate russian strings:
 
     # game/script_day1.rpy:44
     old "KILL"
+    new ""
+
+    # game/script_day1.rpy:292
+    old "Собака"
     new ""
 
     # game/script_day1.rpy:340
