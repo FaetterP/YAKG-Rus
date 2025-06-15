@@ -186,7 +186,7 @@ screen say(who, what):
 
 style gamepad_help_ui_text:
     yalign 0.5
-    font "fonts/Changa-Semibold.ttf"
+    font "fonts/Changa-SemiBold.ttf"
     color "#000"
     outlines [(2, "#888")]
     size 24
@@ -1212,6 +1212,7 @@ screen preferences():
                     style_prefix "radio"
                     label _("Language")
                     textbutton "English" action Language(None)
+                    textbutton "Русский" action Language("russian")
 
 
 
@@ -1898,7 +1899,7 @@ screen notify_location(message, unlocked=True):
 
         xalign 0.5
         if not unlocked:
-            text _("{color=#cccc00}New Location!{/color}") at notify_new_location_transform
+            text _("{color=#cccc00}Новая локация!{/color}") at notify_new_location_transform
             null height -40
         else:
             null height 12
