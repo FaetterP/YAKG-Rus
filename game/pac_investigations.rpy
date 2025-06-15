@@ -50,12 +50,12 @@ screen pac_progress_gui(pac_name=""):
     if investigation_progress_percent() < 1.0:
         vbox:
             at pac_title_transform
-            text _("Search for {image=gui/pac/pac_hint_embed.png} clues!"):
+            text _("Ищите {image=gui/pac/pac_hint_embed.png} зацепки!"):
                 size 48
     else:
         vbox:
             xalign 0.5
-            text _("[u_check]{color=#cccc00}INVESTIGATION COMPLETE{/color}"):
+            text _("[u_check]{color=#cccc00}РАССЛЕДОВАНИЕ ЗАВЕРШЕНО{/color}"):
                 size 48
     vbox:
         style_prefix "pacgui"
@@ -67,10 +67,10 @@ screen pac_progress_gui(pac_name=""):
                 yoffset 140
 
         if investigation_progress_percent() < 1.0:
-            text _("INVESTIGATION PROGRESS:")+" {size=+15}[round(investigation_progress_percent() * 100)]%{/size}":
+            text _("ПРОГРЕСС РАССЛЕДОВАНИЯ:")+" {size=+15}[round(investigation_progress_percent() * 100)]%{/size}":
                 size 18
         else:
-            text _("INVESTIGATION PROGRESS:")+" {size=+25}{color=#cccc00}100%{/color}{/size}":
+            text _("ПРОГРЕСС РАССЛЕДОВАНИЯ:")+" {size=+25}{color=#cccc00}100%{/color}{/size}":
                 size 18
         bar:
             xmaximum 350
