@@ -4390,19 +4390,19 @@ translate russian d2a2_basement_3cc1ff3d:
 translate russian d2a2_basement_41248aee:
 
     # C surprised "Looks like a dead man sitting. Wait, hang on..."
-    C surprised "Похоже, это сидит мёртвый человек. Подождите, стойте..."
+    C surprised "Похоже, там сидит мёртвый человек. Подождите, стойте..."
 
 # game/script_day2.rpy:1879
 translate russian d2a2_basement_f30a81a7:
 
     # C thinking "...Yep. [t_clue]No pulse[t_cluee]. Definitely dead."
-    C thinking "...Да. [t_clue]Нет пульса[t_cluee]. Определенно мертв."
+    C thinking "...Ага. [t_clue]Пульса нет[t_cluee]. Он определенно мёртв."
 
 # game/script_day2.rpy:1880
 translate russian d2a2_basement_3a9a6a67:
 
     # Y depressed "He's...dead...? Then... Is the culprit...?" with shakeonce
-    Y depressed "Он...мёртв...? Тогда... Это преступник...?" with shakeonce
+    Y depressed "Он...мёртв...? Значит... Это преступник...?" with shakeonce
 
 # game/script_day2.rpy:1882
 translate russian d2a2_basement_6076bb81:

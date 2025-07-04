@@ -7066,7 +7066,7 @@ translate russian d1a1_check_redpanda_143260bb:
 translate russian d1a1_check_redpanda_0c3def30:
 
     # I "...Actually, how DID I suddenly remember its name?" with hpunch
-    I "...Вообще, КАК я вообще вспомнил его название?" with hpunch
+    I "...На самом деле, КАК я вообще вспомнила его название?" with hpunch
 
 # game/script_day1_investigations.rpy:3499
 translate russian d1a1_check_cutedresser_d50daf86:

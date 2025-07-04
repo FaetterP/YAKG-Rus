@@ -370,3 +370,11 @@ translate russian strings:
     old "NO MUSIC PLAYING"
     new "НИЧЕГО НЕ ИГРАЕТ"
 
+# TODO: Translation updated at 2025-05-19 00:02
+
+translate russian strings:
+
+    # game/music_room.rpy:89
+    old "[[T]ruth"
+    new ""
+

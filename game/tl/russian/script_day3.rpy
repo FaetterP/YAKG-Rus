@@ -20463,7 +20463,7 @@ translate russian d3a8_d4445e54:
 translate russian d3a8_268257e0:
 
     # C smile "In case you're confused, [name_player], Ria's never once been allowed to keep a dog before."
-    C smile "Если тебе интересно, [name_player], Рие никогда раньше не разрешали держать собаку."
+    C smile "Если тебе интересно, [name_player], Рии никогда раньше не разрешали держать собаку."
 
 # game/script_day3.rpy:9026
 translate russian d3a8_609284c4:
@@ -21639,7 +21639,7 @@ translate russian d3a8_bcc8ba9f:
 translate russian d3a8_1bc847b1:
 
     # C "Don't tell Karma, Ria, or [name_player], of course, but also don't tell your friends or family."
-    C "Не говори Карме, Рие или [name_player], конечно, но также не рассказывай своим друзьям или семье."
+    C "Не говори Карме, Рии или [name_player], конечно, но также не рассказывай своим друзьям или семье."
 
 # game/script_day3.rpy:9531
 translate russian d3a8_72509ebf:

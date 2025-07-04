@@ -892,7 +892,7 @@ translate russian d1a1_8a64cc09:
 translate russian d1a1_5cab7af7:
 
     # C thinking "Oooh, look, it came from the clock by the door! Looks like it's 6 o'clock!"
-    C thinking "Ооох, смотрите, это из часов у двери! Похоже, сейчас шесть часов!"
+    C thinking "Ооох, смотрите, это доносится из часов у двери! Похоже, сейчас шесть часов!"
 
 # game/script_day1.rpy:631
 translate russian d1a1_b21ea561:
@@ -1054,7 +1054,7 @@ translate russian d1a1_41fdd9a8:
 translate russian d1a1_7293234e:
 
     # O thinking "Even if we can't find a way out, we might be able to figure out who's keeping us here and why."
-    O thinking "Даже если мы не найдём выход, возможно, сможем понять, кто нас тут держит и зачем."
+    O thinking "Даже если мы не найдём выход, возможно, мы сможем понять, кто нас тут держит и зачем."
 
 # game/script_day1.rpy:667
 translate russian d1a1_1c83c5d0:
@@ -1066,7 +1066,7 @@ translate russian d1a1_1c83c5d0:
 translate russian d1a1_d9f79ad8:
 
     # Y surprised "...Er... Take what, exactly?"
-    Y surprised "...Эм... Показать что, конкретно?"
+    Y surprised "...Эм... покажем что именно?"
 
 # game/script_day1.rpy:669
 translate russian d1a1_3d777993:
@@ -2518,7 +2518,7 @@ translate russian d1a1_kitchen_end_ed26a9b9:
 translate russian d1a1_bathroom_1e35a55c:
 
     # I "..... ...It's smaller than I thought."
-    I "..... ...Она меньше, чем я думал."
+    I "..... ...Она меньше, чем я думала."
 
 # game/script_day1.rpy:1309
 translate russian d1a1_bathroom_d430f97c:
@@ -3010,7 +3010,7 @@ translate russian d1a1_dog_escaped_81cbe8e8:
 translate russian d1a1_dog_escaped_fec413a9:
 
     # I "...And there it goes. Gone without a trace."
-    I "...И вот она ушёл. Исчезла без следа."
+    I "...И вот она ушла. Исчезла без следа."
 
 # game/script_day1.rpy:1726
 translate russian d1a1_dog_escaped_5afae99d:
@@ -6826,7 +6826,7 @@ translate russian d1a2_e3908825:
 translate russian d1a2_434c29b5:
 
     # C "You're, uh... You're already doing that."
-    C "Ты, эм... Ты уже делаешь такое."
+    C "Ты, эм... Ты сразу делаешь такое."
 
 # game/script_day1.rpy:2979
 translate russian d1a2_8bf9f26d:
@@ -13420,7 +13420,7 @@ translate russian d1a4_question3_bd7ebef0:
 translate russian d1a4_question3_e83d1bcc:
 
     # C blink "Another thing I noticed, in all your time travel tales, not a single one ends with {i}you{/i} being killed."
-    C blink "Ещё одна вещь, которую я заметила: во всех твоих рассказах ни один не заканчивается тем, что {i}ты{/i} погибаешь."
+    C blink "Я заметила такую вещь, что из всех твоих рассказах о перемещениях ни один не заканчивается тем, что {i}ты{/i} погибаешь."
 
 # game/script_day1.rpy:5628
 translate russian d1a4_question3_0a216f58:
@@ -14666,11 +14666,11 @@ translate russian strings:
 
     # game/script_day1.rpy:1616
     old "Grab the right one"
-    new "Схватить правильный"
+    new "Схватить правильного"
 
     # game/script_day1.rpy:1616
     old "Grab the wrong one"
-    new "Схватить неправильный"
+    new "Схватить неправильного"
 
     # game/script_day1.rpy:1853
     old "Check out each room in the 2nd floor with Oriana!\nSome rooms may have more clues than others..."

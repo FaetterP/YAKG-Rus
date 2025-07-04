@@ -556,7 +556,7 @@ translate russian d3a3_corpse_check_gloves_12a5a7f2_1:
 translate russian d3a3_corpse_check_gloves_d6f605e4:
 
     # I "I had a strange feeling from staring at his exposed wrists, but..."
-    I "У меня было странное ощущение, когда я смотрел на его открытые запястья, но..."
+    I "У меня было странное ощущение, когда я смотрела на его открытые запястья, но..."
 
 # game/script_day3_investigations.rpy:360
 translate russian d3a3_corpse_check_gloves_494fdf99:
