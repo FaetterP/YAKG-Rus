@@ -94,7 +94,7 @@ translate russian d3a1_3c248709:
 translate russian d3a1_457b2072:
 
     # Y sad "You think he went upstairs?"
-    Y sad "Ты думаешь, он пошел наверх?"
+    Y sad "Ты думаешь, он пошёл наверх?"
 
 # game/script_day3.rpy:29
 translate russian d3a1_ec3b04e8:
@@ -940,7 +940,7 @@ translate russian d3a1_foyer_start_37fa6fda:
 translate russian d3a1_foyer_start_0006f712:
 
     # C happy "I'll be fine, I still have my knife with me."
-    C happy "Я буду в порядке, у меня ведь всё еще есть с собой нож."
+    C happy "Я буду в порядке, у меня ведь всё ещё есть с собой нож."
 
 # game/script_day3.rpy:356
 translate russian d3a1_foyer_start_ba56b4cc:
@@ -1576,7 +1576,7 @@ translate russian d3a1_foyer_start_a00146ac_6:
 translate russian d3a1_foyer_start_dbba4828:
 
     # I "Yeah... There's still work to be done..." with hpunch
-    I "Да... Нам еще многое нужно сделать..." with hpunch
+    I "Да... Нам ещё многое нужно сделать..." with hpunch
 
 # game/script_day3.rpy:595
 translate russian d3a1_foyer_start_df19c0db:
@@ -2296,7 +2296,7 @@ translate russian d3a1_choosesuspect2_f6a45bb2:
 translate russian d3a1_choosesuspect2_c5f6be31:
 
     # O "...And which of us do you suspect could be the [t_clue]mastermind[t_cluee]?"
-    O "...И кого из нас ты подозреваешь как [t_clue]главного виновника[t_cluee]?"
+    O "...И кого из нас ты подозреваешь как [t_clue]организатора[t_cluee]?"
 
 # game/script_day3.rpy:865
 translate russian d3a1_choosesuspect2_145587bb:
@@ -2542,7 +2542,7 @@ translate russian d3a1_choosesuspect2_affe4000:
 translate russian d3a1_choosesuspect2_17e7234b:
 
     # Y leering "...You mentioned before that there's a [t_clue]third member[t_cluee] of the Occult Club."
-    Y leering "...Ты раньше говорила, что в Оккультном клубе есть [t_clue]третий участник[t_cluee]."
+    Y leering "...Ты раньше говорила, что в клубе оккультизма есть [t_clue]третий участник[t_cluee]."
 
 # game/script_day3.rpy:962
 translate russian d3a1_choosesuspect2_c71e2382:
@@ -2890,7 +2890,7 @@ translate russian d3a1_choosesuspect_end_6a887c3a:
 translate russian d3a1_choosesuspect_end_5881b6ff:
 
     # I "...She doesn't look relieved at all. In fact...I think she's even more troubled..." with shakeonce
-    I "...Она совсем не выглядит спокойной. На самом деле...думаю, она еще более обеспокоена..." with shakeonce
+    I "...Она совсем не выглядит спокойной. На самом деле...думаю, она ещё более обеспокоена..." with shakeonce
 
 # game/script_day3.rpy:1079
 translate russian d3a1_choosesuspect_end_6de538da:
@@ -3034,7 +3034,7 @@ translate russian d3a1_choosesuspect_end_904e9411:
 translate russian d3a1_masterbedroom_ria_hearttoheart_477a3bf8:
 
     # Y panicked "...S-soooo, Ria? Why exactly did you join the Occult Club?" with hpunch
-    Y panicked "...И-итаааак, Рия? Почему ты вообще вступила в Оккультный Клуб?" with hpunch
+    Y panicked "...И-итаааак, Рия? Почему ты вообще вступила в клуб оккультизма?" with hpunch
 
 # game/script_day3.rpy:1132
 translate russian d3a1_masterbedroom_ria_hearttoheart_f6a45bb2:
@@ -3100,7 +3100,7 @@ translate russian d3a1_masterbedroom_ria_hearttoheart_5b5df6f9:
 translate russian d3a1_masterbedroom_ria_hearttoheart_8e13c827:
 
     # O jacketless default "Do you remember back in the dining room...when we talked about the third member in the Occult Club?{nw}"
-    O jacketless default "Ты помнишь, как ранее в столовой...мы говорили о третьем участнике Оккультного Клуба?{nw}"
+    O jacketless default "Ты помнишь, как ранее в столовой...мы говорили о третьем участнике клуба оккультизма?{nw}"
 
 # game/script_day3.rpy:1149
 translate russian d3a1_masterbedroom_ria_hearttoheart_11fdb519:
@@ -3322,7 +3322,7 @@ translate russian d3a1_masterbedroom_ria_hearttoheart_f7ae0243:
 translate russian d3a1_masterbedroom_ria_hearttoheart_dcbc5441:
 
     # K "...You already crossed a line, and were about to cross another one."
-    K "...Ты уже перешла черту, а теперь собираешься перейти еще одну."
+    K "...Ты уже перешла черту, а теперь собираешься перейти ещё одну."
 
 # game/script_day3.rpy:1217
 translate russian d3a1_masterbedroom_ria_hearttoheart_8f9aa84a:
@@ -3346,7 +3346,7 @@ translate russian d3a1_masterbedroom_ria_hearttoheart_d42b124e:
 translate russian d3a1_masterbedroom_ria_hearttoheart_e3076a92:
 
     # X "Hey, four-eyes is running! Crap, we gotta clean this up before a teacher comes!" with shakeshort
-    X "Эй, четырёхглазая убегает! Чёрт, нам нужно убраться, пока не пришел учитель!" with shakeshort
+    X "Эй, четырёхглазая убегает! Чёрт, нам нужно убраться, пока не пришёл учитель!" with shakeshort
 
 # game/script_day3.rpy:1227
 translate russian d3a1_masterbedroom_ria_hearttoheart_9f78ad8f:
@@ -4420,7 +4420,7 @@ translate russian d3a1_masterbedroom_ria_hearttoheart_d64f8619:
 translate russian d3a1_masterbedroom_ria_hearttoheart_879f9529:
 
     # Y blink "...Actually, I think I can guess. You joined the Occult Club because Carol-Maria--"
-    Y blink "...На самом деле, думаю, я могу догадаться. Ты присоединилась к Оккультному клубу, потому что Карол-Мария--"
+    Y blink "...На самом деле, думаю, я могу догадаться. Ты присоединилась к клубу оккультизма, потому что Карол-Мария--"
 
 # game/script_day3.rpy:1554
 translate russian d3a1_masterbedroom_ria_hearttoheart_0739d642:
@@ -4618,7 +4618,7 @@ translate russian d3a2_61324b3c:
 translate russian d3a2_35db62c7:
 
     # Y angry "We can't go back to that! We're so close to the truth! Once we find the true mastermind--" with shakeonce
-    Y angry "Мы не можем вернуться к этому! Мы так близки к правде! Как только мы найдём настоящего виновника--" with shakeonce
+    Y angry "Мы не можем вернуться к этому! Мы так близки к правде! Как только мы найдём настоящего организатора--" with shakeonce
 
 # game/script_day3.rpy:1664
 translate russian d3a2_e709f575:
@@ -4732,7 +4732,7 @@ translate russian d3a2_escape_choice_bdebad52:
 translate russian d3a2_escape_choice_45303ff1:
 
     # Y leering "If we can find a shovel or something similar, than we can--" with hpunch
-    Y leering "Если мы найдем лопату или что-то подобное, то сможем--" with hpunch
+    Y leering "Если мы найдём лопату или что-то подобное, то сможем--" with hpunch
 
 # game/script_day3.rpy:1694
 translate russian d3a2_escape_choice_cd906c5c:
@@ -6640,7 +6640,7 @@ translate russian d3a3_3ca4dc28:
 translate russian d3a3_df2609d1:
 
     # O leering2 "Did you {i}seriously{/i} not notice something like this in your OWN room, Cecilia?"
-    O leering2 "Ты {i}серьезно{/i} не заметила ничего подобного в своей СОБСТВЕННОЙ комнате, Сесилия?"
+    O leering2 "Ты {i}серьёзно{/i} не заметила ничего подобного в своей СОБСТВЕННОЙ комнате, Сесилия?"
 
 # game/script_day3.rpy:2516
 translate russian d3a3_71f6aa7c:
@@ -7474,7 +7474,7 @@ translate russian d3a3_corpse_end_2092140a:
 translate russian d3a3_corpse_end_b037c0ab:
 
     # O "You're... You're serious..." with shakeonce
-    O "Ты... Ты серьезно..." with shakeonce
+    O "Ты... Ты серьёзно..." with shakeonce
 
 # game/script_day3.rpy:2887
 translate russian d3a3_corpse_end_04b75866:
@@ -8332,7 +8332,7 @@ translate russian d3a3_oriana_ending_7d8404e8:
 translate russian d3a3_oriana_ending_d21f7739:
 
     # O "Even if we can't see Cecilia ever again... We can at least continue doing Occult Club activities in her honour."
-    O "Даже если мы больше никогда не увидим Сесилию... Мы хотя бы продолжим заниматься делами Оккультного клуба в её честь."
+    O "Даже если мы больше никогда не увидим Сесилию... Мы хотя бы продолжим заниматься делами клуба оккультизма в её честь."
 
 # game/script_day3.rpy:3485
 translate russian d3a3_oriana_ending_490c3dcf:
@@ -11397,7 +11397,7 @@ translate russian ending_message_d3206bf3:
 translate russian ending_message_54c83bb4:
 
     # S "And though you may grasp freedom through Death's embrace, will you hold strong and [t_clue]face a RED or BLUE fate[t_cluee] nevertheless?"
-    S ""
+    S "И хотя вы можете обрести свободу в объятиях Смерти, сможете ли вы выстоять лицом к лицу [t_clue]КРАСНУЮ и СИНЮЮ судьбу[t_cluee]?"
 
 # game/script_day3.rpy:4932
 translate russian ending_message_6731d649:
@@ -12015,7 +12015,7 @@ translate russian d3a5_59e317c8:
 translate russian d3a5_0ce2f2e2:
 
     # YV "No, remember the legend of the Black Magic Mansion? How people came to be [t_clue]controlled like puppets[t_cluee]?"
-    YV "Нет, помнишь легенду о Особняке Чёрной Магии? Как людей могли [t_clue]контролировать как марионеток[t_cluee]?"
+    YV "Нет, помнишь легенду об особняке чёрной магии? Как людей могли [t_clue]контролировать как марионеток[t_cluee]?"
 
 # game/script_day3.rpy:5114
 translate russian d3a5_0a415b93:
@@ -12123,7 +12123,7 @@ translate russian d3a5_a54a95a9:
 translate russian d3a5_bfaf0a82:
 
     # O annoyed "Tsk...{w=0.5} ...Fine. Then riddle me this." with shakeonce
-    O annoyed "Тск...{w=0.5} ...Ладно. Тогда ответь вот на что." with shakeonce
+    O annoyed "Цк...{w=0.5} ...Ладно. Тогда ответь вот на что." with shakeonce
 
 # game/script_day3.rpy:5140
 translate russian d3a5_06b4cba6:
@@ -12477,7 +12477,7 @@ translate russian d3a5_895761ba:
 translate russian d3a5_cd44ed4b:
 
     # O annoyed "Are you seriously using the tragedy of the daughter's death to lie yourself out of going back?!" with shakeshort
-    O annoyed "Ты серьезно используешь трагичную смерть дочери, чтобы обмануть всех и не вернуться назад?!" with shakeshort
+    O annoyed "Ты серьёзно используешь трагичную смерть дочери, чтобы обмануть всех и не вернуться назад?!" with shakeshort
 
 # game/script_day3.rpy:5239
 translate russian d3a5_f1cbe3d0:
@@ -12543,7 +12543,7 @@ translate russian d3a5_609e5437:
 translate russian d3a5_331aa1a9:
 
     # O shouting "Are you SERIOUSLY joking around at a time like this?!" with shakelong
-    O shouting "Ты СЕРЬЕЗНО шутишь в такой момент?!" with shakelong
+    O shouting "Ты СЕРЬЁЗНО шутишь в такой момент?!" with shakelong
 
 # game/script_day3.rpy:5254
 translate russian d3a5_6774c439:
@@ -12759,7 +12759,7 @@ translate russian d3a5_bcdc0a07:
 translate russian d3a5_17a7cdfb:
 
     # YV default "I mean, look at me! I still have an open stab wound on my chest! That means I could easily pretend to be..." with shakeonce
-    YV default "Я имею в виду, посмотри на меня! У меня все еще открытая колотая рана на груди! Это значит, что я легко могу притвориться..." with shakeonce
+    YV default "Я имею в виду, посмотри на меня! У меня все ещё открытая колотая рана на груди! Это значит, что я легко могу притвориться..." with shakeonce
 
 # game/script_day3.rpy:5311
 translate russian d3a5_9379a4a5:
@@ -12855,7 +12855,7 @@ translate russian d3a5_0f466f0a:
 translate russian d3a5_eaed6521:
 
     # YV "And Cece. Remember when you fought the Professor while he was pretending to be a zombie?"
-    YV "А еще Сеси. Помнишь, когда ты сражалась с Профессором, пока он притворялся зомби?"
+    YV "А ещё Сеси. Помнишь, когда ты сражалась с Профессором, пока он притворялся зомби?"
 
 # game/script_day3.rpy:5351
 translate russian d3a5_38312d82:
@@ -13431,7 +13431,7 @@ translate russian d3a6_7cbca404:
 translate russian d3a6_18d3fb6c:
 
     # C sad "...No, seriously. I have no idea what you're talking about."
-    C sad "...Нет, серьезно. Я понятия не имею, о чём ты говоришь."
+    C sad "...Нет, серьёзно. Я понятия не имею, о чём ты говоришь."
 
 # game/script_day3.rpy:5630
 translate russian d3a6_cd4f7ffc:
@@ -13509,7 +13509,7 @@ translate russian d3a6_a9e8c4d2:
 translate russian d3a6_35db62c7:
 
     # Y angry "We can't go back to that! We're so close to the truth! Once we find the true mastermind--" with shakeonce
-    Y angry "Мы не можем вернуться сюда! Мы так близки к правде! Как только мы найдем настоящего организатора--" with shakeonce
+    Y angry "Мы не можем вернуться сюда! Мы так близки к правде! Как только мы найдём настоящего организатора--" with shakeonce
 
 # game/script_day3.rpy:5665
 translate russian d3a6_e709f575:
@@ -13545,7 +13545,7 @@ translate russian d3a6_72f97f7f:
 translate russian d3a6_b4b2bce7:
 
     # C sad "It's not like we have any clue as to where that zombie went."
-    C sad "У нас нет ни малейшего представления, куда ушел тот зомби."
+    C sad "У нас нет ни малейшего представления, куда ушёл тот зомби."
 
 # game/script_day3.rpy:5671
 translate russian d3a6_2c876f32:
@@ -13611,7 +13611,7 @@ translate russian d3a6_fbbd0d63:
 translate russian d3a6_a934e1e3:
 
     # O annoyed "...Tsk. No signal. Cecilia, how about you?" with shakeonce
-    O annoyed "...Тск. Нет сигнала. Сесилия, а что у тебя?" with shakeonce
+    O annoyed "...Цк. Нет сигнала. Сесилия, а что у тебя?" with shakeonce
 
 # game/script_day3.rpy:5702
 translate russian d3a6_b53701cf:
@@ -14121,7 +14121,7 @@ translate russian d3a6_772558ab:
 translate russian d3a6_0da40114:
 
     # C possessed blink "The others still appear stunned, so [name_player]... You should take the reins for this as well."
-    C possessed blink "Остальные все еще выглядят ошеломлёнными, так что [name_player]... Тебе стоит взять на себя ещё и это."
+    C possessed blink "Остальные все ещё выглядят ошеломлёнными, так что [name_player]... Тебе стоит взять на себя ещё и это."
 
 # game/script_day3.rpy:5934
 translate russian d3a6_questioning_3e782a68:
@@ -14523,7 +14523,7 @@ translate russian d3a6_question3_c3ea7765:
 translate russian d3a6_question4_ff8f275f:
 
     # YV default "This house... Is this the Black Magic Mansion the Occult Club was looking for?"
-    YV default "Этот дом... Это тот самый Особняк Черной Магии, который искал Оккультный клуб?"
+    YV default "Этот дом... Это тот самый особняк черной магии, который искал клуб оккультизма?"
 
 # game/script_day3.rpy:6083
 translate russian d3a6_question4_5218b69b:
@@ -14571,7 +14571,7 @@ translate russian d3a6_question4_5e7238bb:
 translate russian d3a6_question4_a973383e:
 
     # K tired "Basically, the Black Magic Mansion is a house that got haunted around the time the family living in it went missing."
-    K tired "В общем, Особняк Черной Магии - это дом, который стал проклятым, когда семья, которая в нем жила, пропала."
+    K tired "В общем, особняк чёрной магии - это дом, который стал проклятым, когда семья, которая в нем жила, пропала."
 
 # game/script_day3.rpy:6093
 translate russian d3a6_question4_580b7d02:
@@ -14637,7 +14637,7 @@ translate russian d3a6_question4_a6730c85:
 translate russian d3a6_question4_c9193a32:
 
     # C possessed surprised "Oh? Have you not realized it yet?"
-    C possessed surprised "Ох? Ты что, еще не поняла?"
+    C possessed surprised "Ох? Ты что, ещё не поняла?"
 
 # game/script_day3.rpy:6106
 translate russian d3a6_question4_a627852d:
@@ -19251,7 +19251,7 @@ translate russian d3a7_7ab14724:
 translate russian d3a7_6d9ac06e:
 
     # O crying "But...you know what you did wrong.{w=0.5} And the path you were walking... Was it really so terrible...?" with shakeonce
-    O crying "Но... ты знаешь, что сделал не так.{w=0.5} А тот путь, по которому ты шел... Был ли он действительно так ужасен...?" with shakeonce
+    O crying "Но... ты знаешь, что сделал не так.{w=0.5} А тот путь, по которому ты шёл... Был ли он действительно так ужасен...?" with shakeonce
 
 # game/script_day3.rpy:8651
 translate russian d3a7_593e015a:
@@ -20073,7 +20073,7 @@ translate russian d3a8_ee8a73c7:
 translate russian d3a8_ac65a7d3:
 
     # K panicked "W-wait, [name_player], say that again?" with shakeonce
-    K panicked "П-подожди, [name_player], скажи это еще раз?" with shakeonce
+    K panicked "П-подожди, [name_player], скажи это ещё раз?" with shakeonce
 
 # game/script_day3.rpy:8933
 translate russian d3a8_47ed8993:
@@ -20199,7 +20199,7 @@ translate russian d3a8_50ba0028:
 translate russian d3a8_67296551:
 
     # C overjoyed "You could be the official Occult Club mascot! I mean, nothing's more perfect than a dog without a heartbeat!"
-    C overjoyed "Ты могла бы стать официальным талисманом Оккультного клуба! Ну, ничего же не подходит лучше, чем собака без сердцебиения!"
+    C overjoyed "Ты могла бы стать официальным талисманом клуба оккультизма! Ну, ничего же не подходит лучше, чем собака без сердцебиения!"
 
 # game/script_day3.rpy:8958
 translate russian d3a8_fbdf7cc9:
@@ -21939,7 +21939,7 @@ translate russian strings:
 
     # game/script_day3.rpy:4642
     old "Seriously, stop"
-    new "Серьезно, остановись"
+    new "Серьёзно, остановись"
 
     # game/script_day3.rpy:4658
     old "Sorry, never mind, go ahead and sacrifice yourself"
@@ -21959,11 +21959,11 @@ translate russian strings:
 
     # game/script_day3.rpy:4904
     old "Load a save file"
-    new ""
+    new "Загрузить сохранение"
 
     # game/script_day3.rpy:4904
     old "Return to the Title Screen"
-    new ""
+    new "Вернуться на главный экран"
 
     # game/script_day3.rpy:4983
     old "\"I'm already dead.\""
@@ -22119,11 +22119,11 @@ translate russian strings:
 
     # game/script_day3.rpy:5935
     old "\"Is this house really the Black Magic Mansion?\""
-    new "\"Этот дом действительно Особняк Чёрной Магии?\""
+    new "\"Этот дом действительно особняк чёрной магии?\""
 
     # game/script_day3.rpy:5935
     old "[u_check]\"Is this house really the Black Magic Mansion?\""
-    new "[u_check]\"Этот дом действительно Особняк Чёрной Магии?\""
+    new "[u_check]\"Этот дом действительно особняк чёрной магии?\""
 
     # game/script_day3.rpy:5935
     old "\"Do you know who I am?\""

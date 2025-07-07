@@ -44,7 +44,7 @@ translate russian strings:
 
     # game/tutorial.rpy:1
     old "Move the cursor to search your surroundings for important clues.\nOnce you find enough, you will be able to advance the story."
-    new "Передвигайте курсор, чтобы искать важные улики вокруг.\nКогда найдёте достаточно, сможете продвинуться дальше по сюжету."
+    new "Передвигайте курсор, чтобы искать важные улики.\nКогда найдёте достаточно, сможете продвинуться дальше по сюжету."
 
     # game/tutorial.rpy:1
     old "Another Killing Game"

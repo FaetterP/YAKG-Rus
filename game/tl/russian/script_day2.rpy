@@ -388,13 +388,13 @@ translate russian d2a1_93c6a154:
 translate russian d2a1_f688072f:
 
     # O default "Good. We won't have the luxury of sleeping another night, so you'll have to make today count."
-    O default "Хорошо. Мы не сможем позволить себе роскошь поспать еще одну ночь, так что тебе придется хорошенько подумать о сегодняшнем дне."
+    O default "Хорошо. Мы не сможем позволить себе роскошь поспать ещё одну ночь, так что тебе придется хорошенько подумать о сегодняшнем дне."
 
 # game/script_day2.rpy:190
 translate russian d2a1_46d47cc2:
 
     # O irritated "If we don't find a way out in the next few hours, it'll be {color=#ff0000}the end for all of us{/color}." with hpunch
-    O irritated "Если мы не найдем выход в ближайшие несколько часов, это будет {color=#ff0000}конец для всех нас{/color}." with hpunch
+    O irritated "Если мы не найдём выход в ближайшие несколько часов, это будет {color=#ff0000}конец для всех нас{/color}." with hpunch
 
 # game/script_day2.rpy:191
 translate russian d2a1_4a7bc7de:
@@ -406,7 +406,7 @@ translate russian d2a1_4a7bc7de:
 translate russian d2a1_cbcf180a:
 
     # I "...It still says 20 hours..."
-    I "...Всё еще написано про 20 часов..."
+    I "...Всё ещё написано про 20 часов..."
 
 # game/script_day2.rpy:199
 translate russian d2a1_cd9f8fdc:
@@ -568,7 +568,7 @@ translate russian d2a1_0e6f3011:
 translate russian d2a1_5a988f3f:
 
     # O leering2 "So she'd come out, but she still hasn't gotten dressed? Doesn't that mean she was..."
-    O leering2 "Так она вышла, но еще не оделась? Разве это не значит, что она была..."
+    O leering2 "Так она вышла, но ещё не оделась? Разве это не значит, что она была..."
 
 # game/script_day2.rpy:251
 translate russian d2a1_0f6a935b:
@@ -580,7 +580,7 @@ translate russian d2a1_0f6a935b:
 translate russian d2a1_5ae4de4f:
 
     # O annoyed "Tsk..." with shakeonce
-    O annoyed "Тск..." with shakeonce
+    O annoyed "Цк..." with shakeonce
 
 # game/script_day2.rpy:254
 translate russian d2a1_e75ecabf:
@@ -1138,7 +1138,7 @@ translate russian d2a1_dc52ded5:
 translate russian d2a1_36bb0d88:
 
     # I "...I still don't understand why Ria joined the Occult Club..."
-    I "...Я до сих пор не понимаю, почему Рия вступила в Оккультный клуб..."
+    I "...Я до сих пор не понимаю, почему Рия вступила в клуб оккультизма..."
 
 # game/script_day2.rpy:491
 translate russian d2a1_3625d53e:
@@ -1702,7 +1702,7 @@ translate russian d2a1_attic_end_28724f35:
 translate russian d2a1_attic_end_035a482b:
 
     # Y annoyed "...How about you, Miss Occult Club President? Anything come to mind?"
-    Y annoyed "...А как насчет тебя, мисс Президент Клуба оккультизма? Что-нибудь пришло на ум?"
+    Y annoyed "...А как насчет тебя, мисс президент клуба оккультизма? Что-нибудь пришло на ум?"
 
 # game/script_day2.rpy:802
 translate russian d2a1_attic_end_f54c8966:
@@ -2992,7 +2992,7 @@ translate russian d2a1_lounge_tragedy_7c0973e3:
 translate russian d2a1_lounge_tragedy_90849944:
 
     # O "Considering all of our deductions up to now, there's a good chance the father still lives here."
-    O "Учитывая все наши выводы на данный момент, есть большая вероятность, что отец все еще живет здесь."
+    O "Учитывая все наши выводы на данный момент, есть большая вероятность, что отец всё ещё живет здесь."
 
 # game/script_day2.rpy:1320
 translate russian d2a1_lounge_tragedy_56aba764:
@@ -3430,7 +3430,7 @@ translate russian d2a1_lounge_tragedy_d46b53a8:
 translate russian d2a1_lounge_tragedy_6be2a145:
 
     # Y "Cece's...practically a demon herself. Only another demon would be able to kill her."
-    Y "Сеси... практически сама демон. Только другой демон способен убить её."
+    Y "Сеси...практически сама демон. Только другой демон способен убить её."
 
 # game/script_day2.rpy:1491
 translate russian d2a1_lounge_tragedy_c138c636:
@@ -3736,7 +3736,7 @@ translate russian d2a2_4985f01a:
 translate russian d2a2_547cd6d4:
 
     # C "*pant* *pant* I've never gotten dressed so fast... My hair is still soaked..." with hpunch
-    C "*вдох* *вдох* Я никогда так быстро не одевалась... Мои волосы все еще мокрые..." with hpunch
+    C "*вдох* *вдох* Я никогда так быстро не одевалась... Мои волосы всё ещё мокрые..." with hpunch
 
 # game/script_day2.rpy:1663
 translate russian d2a2_3de630e6:
@@ -4738,7 +4738,7 @@ translate russian d2a2_basement_end_96fd682a:
 translate russian d2a2_basement_end_2ee50a39:
 
     # Y angry "This... This is a major find!" with shakeshort
-    Y angry "Это... Это серьезная находка!" with shakeshort
+    Y angry "Это... Это серьёзная находка!" with shakeshort
 
 # game/script_day2.rpy:2055
 translate russian d2a2_basement_end_19a79588:
@@ -5890,7 +5890,7 @@ translate russian d2a3_daf5620f:
 translate russian d2a3_0a508438:
 
     # O irritated "...No, it's no use. I'm sorry, I don't think there's anything more I can say about it." with hpunch
-    O irritated "...Нет, бесполезно. Извини, я не думаю, что могу что-то еще сказать по этому поводу." with hpunch
+    O irritated "...Нет, бесполезно. Извини, я не думаю, что могу что-то ещё сказать по этому поводу." with hpunch
 
 # game/script_day2.rpy:2530
 translate russian d2a3_d37894f2:
@@ -6070,7 +6070,7 @@ translate russian d2a3_ba0b7a5f:
 translate russian d2a3_32a5da20:
 
     # extend irritated " ...Tsk. I can't refute your logic..." with hpunch
-    extend irritated " ...Тск. Я не могу с этим поспорить..." with hpunch
+    extend irritated " ...Цк. Я не могу с этим поспорить..." with hpunch
 
 # game/script_day2.rpy:2591
 translate russian d2a3_21791070_1:
@@ -7420,7 +7420,7 @@ translate russian d2a3_library_end_f302cf7c:
 translate russian d2a3_library_end_4d2463cb:
 
     # C sad "No, seriously, I can't, I-- I-I don't know how to handle a situation like this." with shakeonce
-    C sad "Нет, серьезно, я не могу, я... Я-я не знаю, как вести себя в подобной ситуации." with shakeonce
+    C sad "Нет, серьёзно, я не могу, я... Я-я не знаю, как вести себя в подобной ситуации." with shakeonce
 
 # game/script_day2.rpy:3303
 translate russian d2a3_library_end_493e335e:
@@ -7858,7 +7858,7 @@ translate russian d2a3_library_cece_hearttoheart_7f4562ce:
 translate russian d2a3_library_cece_hearttoheart_a3ea433f:
 
     # C default "Okay, think of it this way. Let's say you go back in time because Ria died, but I'm still alive."
-    C default "Хорошо, представь это так. Допустим, ты вернёшься в прошлое, потому что Рия умерла, но я всё еще жива."
+    C default "Хорошо, представь это так. Допустим, ты вернёшься в прошлое, потому что Рия умерла, но я всё ещё жива."
 
 # game/script_day2.rpy:3433
 translate russian d2a3_library_cece_hearttoheart_5388cea3:

@@ -340,7 +340,7 @@ translate russian d3a3_corpse_check_pockets_13dcd733:
 translate russian d3a3_corpse_check_pockets_7e17a3e5:
 
     # O thinking "But I suppose you still haven't recovered all of your memories..."
-    O thinking "Но, полагаю, ты все еще не восстановила свою память..."
+    O thinking "Но, полагаю, ты всё ещё не восстановила свою память..."
 
 # game/script_day3_investigations.rpy:245
 translate russian d3a3_corpse_check_pockets_c022ec51:
@@ -358,7 +358,7 @@ translate russian d3a3_corpse_check_pockets_e923172b:
 translate russian d3a3_corpse_check_pockets_a934e1e3:
 
     # O annoyed "...Tsk. No signal. Cecilia, how about you?" with shakeonce
-    O annoyed "...Тск. Нет сигнала. Сесилия, а у тебя?" with shakeonce
+    O annoyed "...Цк. Нет сигнала. Сесилия, а у тебя?" with shakeonce
 
 # game/script_day3_investigations.rpy:255
 translate russian d3a3_corpse_check_pockets_b53701cf:
@@ -406,7 +406,7 @@ translate russian d3a3_corpse_check_pockets_6d4646f6:
 translate russian d3a3_corpse_check_pockets_1f7a7bd4:
 
     # O irritated "We may be able to get a better signal once we're out of the house. Hurry, let's find the key for the front door."
-    O irritated "Возможно, сигнал будет лучше, когда мы выйдем из дома. Поторопитесь, давайте найдем ключ от входной двери."
+    O irritated "Возможно, сигнал будет лучше, когда мы выйдем из дома. Поторопитесь, давайте найдём ключ от входной двери."
 
 # game/script_day3_investigations.rpy:263
 translate russian d3a3_corpse_check_pockets_3dba5962:

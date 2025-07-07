@@ -52,7 +52,7 @@ translate russian gameover_5a127e9d:
 translate russian gameover_cff20154:
 
     # S "You have successfully rejected this ending.{w=0.5}\nSending [name_player] to the start of another [t_clue]killing game[t_cluee]...{w=0.5}{nw}"
-    S "Ты успешно отклонила эту концовку.{w=0.5}\nОтправляемся [name_player] на начало другой [t_clue]убийственной игры[t_cluee]...{w=0.5}{nw}"
+    S "Вы успешно отклонили эту концовку.{w=0.5}\nОтправляем [name_player] на начало другой [t_clue]убийственной игры[t_cluee]...{w=0.5}{nw}"
 
 # game/script.rpy:1055
 translate russian gameover_11fdb519:
@@ -64,7 +64,7 @@ translate russian gameover_11fdb519:
 translate russian gameover_day2_51c7e991:
 
     # S "You have successfully rejected this ending.{w=0.5}\nSending [name_player] to {color=#fff}Part II{/color} of another [t_clue]killing game[t_cluee]...{w=0.5}{nw}"
-    S "Ты успешно отклонила эту концовку.{w=0.5}\nОтправляемся [name_player] в {color=#fff}Часть II{/color} другой [t_clue]убийственной игры[t_cluee]...{w=0.5}{nw}"
+    S "Вы успешно отклонили эту концовку.{w=0.5}\nОтправляем [name_player] в {color=#fff}Часть II{/color} другой [t_clue]убийственной игры[t_cluee]...{w=0.5}{nw}"
 
 # game/script.rpy:1236
 translate russian gameover_day2_11fdb519:
@@ -450,7 +450,7 @@ translate russian strings:
 
     # game/script.rpy:975
     old "SEEK THE TRUTH"
-    new "ИЩИ ПРАВДУ"
+    new "ИСКАТЬ ПРАВДУ"
 
     # game/script.rpy:1037
     old "Reject this Ending"
@@ -458,7 +458,7 @@ translate russian strings:
 
     # game/script.rpy:1054
     old "START ANOTHER KILLING GAME"
-    new "НАЧАТЬ ЕЩЕ ОДНУ УБИЙСТВЕННУЮ ИГРУ"
+    new "НАЧАТЬ ЕЩЕЕОДНУ УБИЙСТВЕННУЮ ИГРУ"
 
     # game/script.rpy:1225
     old "I WANT MORE KILLING GAMES"

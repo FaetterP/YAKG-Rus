@@ -46,7 +46,7 @@ translate russian d1a1_kitchen_assistant_7071343e:
 translate russian d1a1_kitchen_assistant_0858a313:
 
     # Y sad "And yet, we still haven't found anything remotely useful..."
-    Y sad "И всё же, мы все еще не нашли ничего даже отдалённо полезного..."
+    Y sad "И всё же, мы всё ещё не нашли ничего даже отдалённо полезного..."
 
 # game/script_day1_investigations.rpy:98
 translate russian d1a1_kitchen_assistant_e884c1e5:
@@ -220,7 +220,7 @@ translate russian d1a1_kitchen_assistant_dfab44dd:
 translate russian d1a1_kitchen_assistant_9ba5b780:
 
     # Y thinking "Did you look around there at all while you were...swinging the chair?"
-    Y thinking "Ты уже всё осмотрела, пока...качала стул?"
+    Y thinking "Ты уже всё осмотрела, пока...размахивала стулом?"
 
 # game/script_day1_investigations.rpy:147
 translate russian d1a1_kitchen_assistant_3606c6a7:
@@ -580,7 +580,7 @@ translate russian d1a1_check_refrigerator_0c12046c:
 translate russian d1a1_check_refrigerator_e27476b5:
 
     # C "Hmm? What's up? Are you thinking of taking another whiff?"
-    C "Хмм? Что случилось? Ты собираешься снова его нюхать?"
+    C "Хмм? Что случилось? Ты собираешься снова его понюхать?"
 
 # game/script_day1_investigations.rpy:309
 translate russian d1a1_check_refrigerator_9cbda49a:
@@ -628,7 +628,7 @@ translate russian d1a1_check_pantry_937c677e:
 translate russian d1a1_check_pantry_0d169a96:
 
     # I "It's pretty high up. But I think I should be able to reach it..."
-    I "Это довольно высоко. Но думаю, я смогу дотянуться..."
+    I "Он довольно высоко. Но, думаю, я смогу дотянуться..."
 
 # game/script_day1_investigations.rpy:334
 translate russian d1a1_check_pantry_5600701a:
@@ -670,7 +670,7 @@ translate russian d1a1_check_pantry_9496c683:
 translate russian d1a1_check_pantry_29bad4b9:
 
     # Y thinking "Hmm... Mostly [t_clue]canned food[t_cluee] and some stuff in jars that...mutated a bit."
-    Y thinking "Хмм... В основном [t_clue]консервированная еда[t_cluee] и какие-то штуки в банках... И похоже, они начали мутировать."
+    Y thinking "Хмм... В основном [t_clue]консервированная еда[t_cluee] и какие-то штуки в банках... И, похоже, они начали мутировать."
 
 # game/script_day1_investigations.rpy:353
 translate russian d1a1_check_pantry_6148ff43:
@@ -1210,7 +1210,7 @@ translate russian d1a1_check_knives_ec45c480:
 translate russian d1a1_check_knives_ba5a8d54:
 
     # C overjoyed "The way the knife rack is prominently placed on this island... Reminds you of those legendary swords in games, doesn't it?" with vpunch
-    C overjoyed "Эта полка для ножей так ярко размещена на этом острове... Напоминает те легендарные мечи в играх, не так ли?" with vpunch
+    C overjoyed "Эта полка для ножей так ярко размещена на этом островке... Напоминает те легендарные мечи в играх, не так ли?" with vpunch
 
 # game/script_day1_investigations.rpy:584
 translate russian d1a1_check_knives_e00d4226:
@@ -1612,7 +1612,7 @@ translate russian d1a1_check_kitchendrawer_dd0bb558:
 translate russian d1a1_check_peppershaker_a24722d1:
 
     # I "Huh? Why is there a single [t_pacclue]pepper shaker[t_paccluee] on this counter?"
-    I "Хмм? Почему на этом столе один-единственный [t_pacclue]перечный shaker[t_paccluee]?"
+    I "Хмм? Почему на этом столе одна-единственная [t_pacclue]перечница[t_paccluee]?"
 
 # game/script_day1_investigations.rpy:785
 translate russian d1a1_check_peppershaker_43d0f055:
@@ -1624,7 +1624,7 @@ translate russian d1a1_check_peppershaker_43d0f055:
 translate russian d1a1_check_peppershaker_703680ca:
 
     # C surprised "Hmm? Oh! No, I pulled that outta one of the drawers."
-    C surprised "Хмм? О! Нет, я достала это из одного из ящиков."
+    C surprised "Хмм? Ой! Нет, я достала её из какого-то ящика."
 
 # game/script_day1_investigations.rpy:789
 translate russian d1a1_check_peppershaker_263294a6:
@@ -1642,7 +1642,7 @@ translate russian d1a1_check_peppershaker_fbff4fe8:
 translate russian d1a1_check_peppershaker_a377d7ce:
 
     # Y thinking "...Uh... Wh-why?"
-    Y thinking "...Эм... З=зачем?"
+    Y thinking "...Эм... З-зачем?"
 
 # game/script_day1_investigations.rpy:792
 translate russian d1a1_check_peppershaker_2ba0db7c:
@@ -1666,7 +1666,7 @@ translate russian d1a1_check_peppershaker_54b3020d:
 translate russian d1a1_check_peppershaker_4f239993:
 
     # C sad "I fumbled and dropped it before I could give it a shot, though. That's why there isn't much left."
-    C sad "Я его неудачно уронила, прежде чем успела попробовать. Вот почему здесь осталось так мало."
+    C sad "Я её неудачно уронила, прежде чем успела попробовать. Вот почему здесь осталось так мало."
 
 # game/script_day1_investigations.rpy:797
 translate russian d1a1_check_peppershaker_5edc94d8:
@@ -1714,7 +1714,7 @@ translate russian d1a1_check_peppershaker_523f19ff:
 translate russian d1a1_check_peppershaker_6e17107e:
 
     # I "Ugh... There must still be some pepper floating around this part of the room..." with hpunch
-    I "Уф... Наверное, ещё немного перца осталось где-то в этой части комнаты..." with hpunch
+    I "Угх... Наверное, ещё немного перца осталось где-то в этой части комнаты..." with hpunch
 
 # game/script_day1_investigations.rpy:831
 translate russian d1a1_check_diningroomwindow_bdd95634:
@@ -1870,7 +1870,7 @@ translate russian d1a1_check_petbowl_a61229d1:
 translate russian d1a1_check_petbowl_76809b93:
 
     # I "It must be for that dog from earlier..."
-    I "Наверное, это той собаки, которую мы видели раньше..."
+    I "Наверное, это той собаки, которую я видела раньше..."
 
 # game/script_day1_investigations.rpy:889
 translate russian d1a1_check_petbowl_8675e006:
@@ -2446,7 +2446,7 @@ translate russian d1a1_check_chandelier_9bc03067:
 translate russian d1a1_check_chandelier_afcaf88f:
 
     # C default "It's like the fanciest form of overhead lighting. I bet it's real pretty if we turn it on."
-    C default "Это типа самая роскошная форма подвесного освещения. Думаю, она будет очень красивая, если мы её включим."
+    C default "Это типа самая роскошная форма подвесного освещения. Думаю, она будет очень красивой, если мы её включим."
 
 # game/script_day1_investigations.rpy:1095
 translate russian d1a1_check_chandelier_bc01abc1:
@@ -2470,7 +2470,7 @@ translate russian d1a1_check_chandelier_30c3d892:
 translate russian d1a1_check_chandelier_24717b78:
 
     # I "The things people do just for aesthetic..." with hpunch
-    I "Что только люди делают ради эстетики..." with hpunch
+    I "Что только люди не делают ради эстетики..." with hpunch
 
 # game/script_day1_investigations.rpy:1115
 translate russian d1a1_check_flowervase_bd347278:
@@ -2494,7 +2494,7 @@ translate russian d1a1_check_flowervase_a515d7f8:
 translate russian d1a1_check_flowervase_7465e818:
 
     # C surprised "Huh? Oh, you're right!"
-    C surprised "Ха? Ох, ты права!"
+    C surprised "Аа? Ох, ты права!"
 
 # game/script_day1_investigations.rpy:1121
 translate russian d1a1_check_flowervase_816a4c4f:
@@ -2752,7 +2752,7 @@ translate russian d1a1_check_kitchenentrance_0ba047fb:
 translate russian d1a1_check_kitchenentrance_b574b870:
 
     # I "Mrm... I still feel like there's something left to find here... But maybe the kitchen's more important...?{nw}"
-    I "Мрм... Всё равно мне кажется, что здесь еще что-то осталось... Но может, кухня важнее...?{nw}"
+    I "Мрм... Всё равно мне кажется, что здесь ещё что-то осталось... Но может, кухня важнее...?{nw}"
 
 # game/script_day1_investigations.rpy:1245
 translate russian d1a1_check_kitchenentrance_3b62f9be:
@@ -2926,7 +2926,7 @@ translate russian d1a1_bathroom_confirm_end_93229a83:
 translate russian d1a1_bathroom_confirm_end_9d193c43:
 
     # I "Nothing useful came out of this... Welp, can't say I didn't try."
-    I "Ничего полезного я здесь не узнала... Ну, не скажешь, что я не пыталась."
+    I "Ничего полезного я здесь не узнала... Что же, не могу сказать, что я не пыталась."
 
 # game/script_day1_investigations.rpy:1373
 translate russian d1a1_bathroom_confirm_end_574ba50e:
@@ -3010,7 +3010,7 @@ translate russian d1a1_check_mirror_5afd3c37:
 translate russian d1a1_check_mirror_556839c4:
 
     # Y default "But I guess deep down, this face kinda looks familiar..."
-    Y default "Но, наверное, в глубине души мне моё лицо кажется знакомым..."
+    Y default "Но, наверное, в глубине души моё лицо кажется мне знакомым..."
 
 # game/script_day1_investigations.rpy:1442
 translate russian d1a1_check_mirror_7fbdea68:
@@ -3040,7 +3040,7 @@ translate russian d1a1_check_mirror_263294a6:
 translate russian d1a1_check_mirror_5afd3c37_1:
 
     # Y thinking "Other than my name, I can't remember anything about myself..."
-    Y thinking "Кроме своего имени, я ничего о себе не помню..."
+    Y thinking "Я ничего о себе не помню, кроме своего имени..."
 
 # game/script_day1_investigations.rpy:1451
 translate russian d1a1_check_mirror_556839c4_1:
@@ -3520,19 +3520,19 @@ translate russian d1a1_search_trash_263294a6:
 translate russian d1a1_search_trash_5d5b1148:
 
     # Y thinking "A piece of paper...with a map drawn on it?"
-    Y thinking "Лист бумаги... с нарисованной картой?"
+    Y thinking "Лист бумаги...с нарисованной картой?"
 
 # game/script_day1_investigations.rpy:1691
 translate russian d1a1_search_trash_036828a0:
 
     # I "It kinda looks like [t_clue]directions to a house[t_cluee]..."
-    I "Похоже на [t_clue]путь к дому[t_cluee]..."
+    I "Похоже на [t_clue]путь к какому-то дому[t_cluee]..."
 
 # game/script_day1_investigations.rpy:1692
 translate russian d1a1_search_trash_1d204aa0:
 
     # I "...Maybe it's for {i}this{/i} house? Did one of us use this to come here?"
-    I "...Может, оно ведёт к {i}этому{/i} дому? Кто-то из нас добирался сюда с её помощью?"
+    I "...Может, он ведёт к {i}этому{/i} дому? Может, кто-то из нас добирался сюда с её помощью?"
 
 # game/script_day1_investigations.rpy:1693
 translate russian d1a1_search_trash_7fbdea68:
@@ -3580,19 +3580,19 @@ translate russian d1a1_check_sink_ecfbd8f0:
 translate russian d1a1_check_sink_89ff1f85:
 
     # Y blink "...Okay, let's turn the [t_pacclue]sink[t_paccluee] off..."
-    Y blink "...Окей, давайте закроем [t_pacclue]кран[t_paccluee]..."
+    Y blink "...Окей, надо закрыть [t_pacclue]кран[t_paccluee]..."
 
 # game/script_day1_investigations.rpy:1752
 translate russian d1a1_check_sink_6a70e58a:
 
     # Y worried "There we go, I can THINK again, agh."
-    Y worried "Вот так, теперь я снова могу ДУМАТЬ, уф."
+    Y worried "Вот так, теперь я снова могу ДУМАТЬ, агх."
 
 # game/script_day1_investigations.rpy:1756
 translate russian d1a1_check_sink_5a14df1f:
 
     # Y default "...Actually, let's turn the [t_pacclue]sink[t_paccluee] on again."
-    Y default "...Хотя, давай снова включим [t_pacclue]кран[t_paccluee]."
+    Y default "...Хотя, давайте снова включим [t_pacclue]кран[t_paccluee]."
 
 # game/script_day1_investigations.rpy:1763
 translate russian d1a1_check_sink_d93f4e5b:
@@ -3616,7 +3616,7 @@ translate russian d1a1_check_towel_c6f0acdf:
 translate russian d1a1_check_towel_645c2afb:
 
     # I "Not much else I can learn from this..."
-    I "Больше ничего полезного я из этого не узнаю..."
+    I "Больше ничего полезного я отсюда не узнаю..."
 
 # game/script_day1_investigations.rpy:1801
 translate russian d1a1_check_bathroomlights_0d581930:
@@ -3634,7 +3634,7 @@ translate russian d1a1_check_bathroomlights_bb0c2461:
 translate russian d1a1_check_bathroomlights_45cfcc84:
 
     # I "Not much else to say about them. Er, or think about them."
-    I "Больше тут сказать особо нечего. Как и думать о них."
+    I "Больше о них нечего сказать. Ну, или думать о них."
 
 # game/script_day1_investigations.rpy:1822
 translate russian d1a1_check_soap_e74b250d:
@@ -4846,7 +4846,7 @@ translate russian d1a1_check_masterbedroom_55fb85d0:
 translate russian d1a1_check_masterbedroom_2c204b35:
 
     # O sideeye "We may as well investigate it together, [name_player]. Come on, I'm right behind you."
-    O sideeye "Мы можем осмотреть её вместе, [name_player]. Давай, я прямо за тобой."
+    O sideeye "Мы можем осмотреть её вместе, [name_player]. Давай, я буду прямо за тобой."
 
 # game/script_day1_investigations.rpy:2425
 translate russian d1a1_check_masterbedroom_303827fb:
@@ -5008,13 +5008,13 @@ translate russian d1a1_check_hallwaywindow_626e3941:
 translate russian d1a1_check_hallwaywindow_ff00d4d1:
 
     # O "So it's most likely that we were all thrown into this house immediately, but..."
-    O "Так что, скорее всего, нас сразу же оставили в этом дом, но..."
+    O "Так что, скорее всего, нас сразу же оставили в этом доме, но..."
 
 # game/script_day1_investigations.rpy:2497
 translate russian d1a1_check_hallwaywindow_b2c53a38:
 
     # O "...What if in fact, an entire day has passed already... Or maybe even..."
-    O "...А что, если на самом деле уже прошёл целый день... Или даже больше..."
+    O "...Что, если на самом деле уже прошёл целый день... Или даже больше..."
 
 # game/script_day1_investigations.rpy:2499
 translate russian d1a1_check_hallwaywindow_8b2b290c:
@@ -5212,7 +5212,7 @@ translate russian d1a1_check_hallwaywindow_7d16a34f:
 translate russian d1a1_check_hallwaywindow_01d824a4:
 
     # I "Ugh... Now that she said that, I'm noticing how tired I am..." with shakeonce
-    I "Агх... Теперь, когда она это сказала, я понял, насколько я устала..." with shakeonce
+    I "Агх... Теперь, когда она это сказала, я поняла, насколько я устала..." with shakeonce
 
 # game/script_day1_investigations.rpy:2557
 translate russian d1a1_check_hallwaywindow_0a07cc6d:
@@ -5344,7 +5344,7 @@ translate russian d1a1_check_hallwaypaintingsright_b5040b52:
 translate russian d1a1_check_hallwaypaintingsright_6ec0cfc8:
 
     # Y relaxed "Yeah, just thinking about how I totally get art."
-    Y relaxed "Да, просто думаю, как же я хорошо понимаю искусство."
+    Y relaxed "Ага, просто думаю, как же я хорошо понимаю искусство."
 
 # game/script_day1_investigations.rpy:2617
 translate russian d1a1_check_hallwaypaintingsright_becdd4ba:
@@ -5380,7 +5380,7 @@ translate russian d1a1_check_hallwaypaintingsright_c698a18d:
 translate russian d1a1_check_hallwaypaintingsright_86f051ba:
 
     # Y surprised "That's...a crane, right?"
-    Y surprised "Это... журавль, верно?"
+    Y surprised "Это...журавль, верно?"
 
 # game/script_day1_investigations.rpy:2627
 translate russian d1a1_check_hallwaypaintingsright_42d4892e:
@@ -5428,7 +5428,7 @@ translate russian d1a1_check_hallwaypaintingsright_b2b30abf:
 translate russian d1a1_check_hallwaylights_89477259:
 
     # Y surprised "Huh? What are those things on the ceiling? Are they [t_pacclue]lights[t_paccluee]?"
-    Y surprised "Аа? Что это на потолке? Это [t_pacclue]светильники[t_paccluee]?"
+    Y surprised "А? Что это на потолке? Это [t_pacclue]светильники[t_paccluee]?"
 
 # game/script_day1_investigations.rpy:2651
 translate russian d1a1_check_hallwaylights_0ba5580e:
@@ -5440,7 +5440,7 @@ translate russian d1a1_check_hallwaylights_0ba5580e:
 translate russian d1a1_check_hallwaylights_fd28e2d9:
 
     # Y thinking "Huh... So those aren't real candles, then?"
-    Y thinking "Хм... То есть это не настоящие свечи?"
+    Y thinking "А... То есть это ненастоящие свечи?"
 
 # game/script_day1_investigations.rpy:2653
 translate russian d1a1_check_hallwaylights_52c29eee:
@@ -5554,7 +5554,7 @@ translate russian d1a1_check_hallwaypaintingleft_c74cbfa1:
 translate russian d1a1_check_hallwaypaintingleft_748478fd:
 
     # I "...Ugh, fine, I'll just try to get used to her silent stares..." with hpunch
-    I "...Угх, хорошо, я просто попробую привыкнуть к её молчаливому взору..." with hpunch
+    I "...Угх, хорошо, я просто попробую привыкнуть к её молчаливому наблюдению..." with hpunch
 
 # game/script_day1_investigations.rpy:2728
 translate russian d1a1_check_masterbedroom_windows_7af93f90:
@@ -5800,7 +5800,7 @@ translate russian d1a1_check_wardrobe_7a17dc66:
 translate russian d1a1_check_wardrobe_f05f6303:
 
     # O annoyed "...Tsk." with shakeonce
-    O annoyed "...Тск." with shakeonce
+    O annoyed "...Цк." with shakeonce
 
 # game/script_day1_investigations.rpy:2828
 translate russian d1a1_check_wardrobe_3a1ec54a:
@@ -6052,7 +6052,7 @@ translate russian d1a1_check_masterbathroom_9d1bc0b8:
 translate russian d1a1_check_masterbathroom_c3cb8d84:
 
     # I "...Wait. The mirror..."
-    I "...Постой. Зеркало..."
+    I "...Подождите. Зеркало..."
 
 # game/script_day1_investigations.rpy:2980
 translate russian d1a1_check_masterbathroom_f302cf7c:
@@ -6130,7 +6130,7 @@ translate russian d1a1_check_masterbathroom_14e218df:
 translate russian d1a1_check_masterbathroom_d677f2d7:
 
     # Y relaxed "Heh... Anyways, sounds like the shower's working, at least."
-    Y relaxed "Хех... Ну, по крайней мере, душ работает."
+    Y relaxed "Хех... Ну, по крайней мере, судя по звуку душ работает."
 
 # game/script_day1_investigations.rpy:3004
 translate russian d1a1_check_masterbathroom_8f4b255c:
@@ -6352,7 +6352,7 @@ translate russian d1a1_check_masterpainting_3508a487:
 translate russian d1a1_check_masterpainting_aff49062:
 
     # I "Uh... Glad to hear you're bonding with a potential kidnapper, then...?" with hpunch
-    I "Эм... Значит, я рада слышать, что ты находишь общий язык с потенциальным похитителем...?" with hpunch
+    I "Эм... Тогда я рада слышать, что ты находишь общий язык с потенциальным похитителем...?" with hpunch
 
 # game/script_day1_investigations.rpy:3096
 translate russian d1a1_check_silvervase_ae0cd315:
@@ -6532,7 +6532,7 @@ translate russian d1a1_check_nightstand_145a7860:
 translate russian d1a1_check_nightstand_62b38cf0:
 
     # O disappointed "...Did you not have a purpose for that question?"
-    O disappointed "...Ты задал этот вопрос просто так?"
+    O disappointed "...Ты задала этот вопрос просто так?"
 
 # game/script_day1_investigations.rpy:3162
 translate russian d1a1_check_nightstand_4adc62df:
@@ -6754,13 +6754,13 @@ translate russian d1a1_check_smallmirror_52b18fc8:
 translate russian d1a1_check_smallmirror_c436cad4:
 
     # O blink "The glass is really cloudy. It must be quite the historical artifact to get this bad..."
-    O blink "Стекло сильно туманное. Это, должно быть, какой-то исторический артефакт, раз оно в таком состяонии..."
+    O blink "Стекло очень мутное. Должно быть, это какой-то исторический артефакт, раз оно в таком состяонии..."
 
 # game/script_day1_investigations.rpy:3289
 translate russian d1a1_check_smallmirror_c747f62b:
 
     # Y surprised "Huh, but there's also makeup stuff on this dresser. Doesn't that mean someone was using this mirror?"
-    Y surprised "Хм, но ведь на комоде есть штуки для макияжа. Разве это не значит, что кто-то пользовался этим зеркалом?"
+    Y surprised "А, но ведь на комоде есть штуки для макияжа. Разве это не значит, что кто-то пользовался этим зеркалом?"
 
 # game/script_day1_investigations.rpy:3290
 translate russian d1a1_check_smallmirror_88f10e02:
@@ -6916,7 +6916,7 @@ translate russian d1a1_check_unicorn_244d4eb9:
 translate russian d1a1_check_unicorn_88ce7bb6:
 
     # I "Wait... Is a unicorn an animal?"
-    I "Подождите...А единорог вообще животное?"
+    I "Подождите...А единорог - это вообще животное?"
 
 # game/script_day1_investigations.rpy:3413
 translate russian d1a1_check_unicorn_07c62f53:
@@ -6976,7 +6976,7 @@ translate russian d1a1_check_drawings_991c69a7:
 translate russian d1a1_check_drawings_fccaaeef:
 
     # I "..... ...I guess these are cute, yeah."
-    I "..... ...Наверное, это мило, да."
+    I "..... ...Наверное, они милые, да."
 
 # game/script_day1_investigations.rpy:3450
 translate russian d1a1_check_clock_76f08de6:
@@ -7090,7 +7090,7 @@ translate russian d1a1_check_cutedresser_6bd9b310:
 translate russian d1a1_check_toybox_d8b4064b:
 
     # I "Is that a handle...? Oooh, this is a storage box!"
-    I "Это ручка...? Ооо, это коробка для хранения!"
+    I "Тут есть ручка...? Ооо, это ящик для хранения!"
 
 # game/script_day1_investigations.rpy:3517
 translate russian d1a1_check_toybox_83237034:
@@ -7228,7 +7228,7 @@ translate russian d1a1_check_decorations_a00146ac:
 translate russian d1a1_check_bedroomlamp_cc126166:
 
     # I "A pretty table [t_pacclue]lamp[t_paccluee]. Looks like it's the type where you pull a chain to turn on or off."
-    I "Милая настольная [t_pacclue]лампа[t_paccluee]. Похоже, эта та, где нужно тянуть за цепочку, чтобы включить или выключить."
+    I "Милая настольная [t_pacclue]лампа[t_paccluee]. Похоже, она из тех ламп, где нужно тянуть за цепочку, чтобы включить или выключить."
 
 # game/script_day1_investigations.rpy:3604
 translate russian d1a1_check_bedroomlamp_25764790:
@@ -7264,7 +7264,7 @@ translate russian d1a1_check_chair_935f7e63:
 translate russian d1a1_check_chair_e5512ca1:
 
     # I "..... ...Yeah, I have no other thoughts about it."
-    I "..... ...Ага, у меня больше нет мыслей н этот счёт."
+    I "..... ...Ага, у меня больше нет мыслей на этот счёт."
 
 # game/script_day1_investigations.rpy:3636
 translate russian d1a1_bedroom_confirm_return_2b26362b:
@@ -7360,7 +7360,7 @@ translate russian strings:
 
     # game/script_day1_investigations.rpy:26
     old "Shaker"
-    new "Солонка"
+    new "Перечница"
 
     # game/script_day1_investigations.rpy:50
     old "Pet Bowl"
@@ -7660,7 +7660,7 @@ translate russian strings:
 
     # game/script_day1_investigations.rpy:1982
     old "\"Let's check the [t_clue]Master Bedroom[t_cluee] again.\""
-    new "\"Давай проверим [t_clue]главную спальню[t_cluee] еще раз.\""
+    new "\"Давай проверим [t_clue]главную спальню[t_cluee] ещё раз.\""
 
     # game/script_day1_investigations.rpy:1999
     old "\"I know it.\""
@@ -7684,7 +7684,7 @@ translate russian strings:
 
     # game/script_day1_investigations.rpy:2234
     old "2F - The Bedroom"
-    new ""
+    new "2 этаж - Спальня"
 
     # game/script_day1_investigations.rpy:2251
     old "Investigate here"
@@ -7696,7 +7696,7 @@ translate russian strings:
 
     # game/script_day1_investigations.rpy:2318
     old "2F - The Empty Bedroom"
-    new ""
+    new "2 этаж - Пустая спальня"
 
     # game/script_day1_investigations.rpy:2339
     old "\"Yeah, someone was living here.\""

@@ -3916,7 +3916,7 @@ translate russian d2a1_lounge_check_brokenframe_4726967a:
 translate russian d2a1_lounge_check_brokenframe_2e2bfec7:
 
     # O sideeye "Just avoid it for now. We can find some proper tools and deal with that later."
-    O sideeye "Пока что просто избегай его. Мы найдем нужные инструменты и разберемся позже."
+    O sideeye "Пока что просто избегай его. Мы найдём нужные инструменты и разберемся позже."
 
 # game/script_day2_investigations.rpy:1467
 translate russian d2a1_lounge_check_brokenframe_29f650a6:
@@ -6730,7 +6730,7 @@ translate russian d2a2_basement_check_covered_365cab87:
 translate russian d2a2_basement_check_covered_0414a0f9:
 
     # O annoyed "Tsk. [name_player], get on your feet already." with shakeonce
-    O annoyed "Тск. [name_player], встань уже на ноги." with shakeonce
+    O annoyed "Цк. [name_player], встань уже на ноги." with shakeonce
 
 # game/script_day2_investigations.rpy:2545
 translate russian d2a2_basement_check_covered_ccb91a7d:
@@ -6886,7 +6886,7 @@ translate russian d2a2_basement_check_spiderweb_758d8a5b:
 translate russian d2a2_basement_check_spiderweb_e7810c9d:
 
     # C thinking "Hmm, I guess it went off somewhere else after it couldn't catch anything."
-    C thinking "Хмм, наверное, он ушел в другое место после того, как не смог здесь ничего поймать."
+    C thinking "Хмм, наверное, он ушёл в другое место после того, как не смог здесь ничего поймать."
 
 # game/script_day2_investigations.rpy:2636
 translate russian d2a2_basement_check_spiderweb_4899c7d8:
@@ -7780,7 +7780,7 @@ translate russian d2a3_library_check_storagebox_587eaa66:
 translate russian d2a3_library_check_storagebox_252e26ff:
 
     # U "September 2\nIt failed again, but I believe I have finally found the solution."
-    U "2 сентября\nСнова неудача, но я верю, что я наконец нашел решение."
+    U "2 сентября\nСнова неудача, но я верю, что я наконец нашёл решение."
 
 # game/script_day2_investigations.rpy:3273
 translate russian d2a3_library_check_storagebox_dde902cc:
@@ -7804,7 +7804,7 @@ translate russian d2a3_library_check_storagebox_7037d359:
 translate russian d2a3_library_check_storagebox_39bbbff3:
 
     # U "This will require significant preparation. I am starting to run low on supplies again."
-    U "Это потребует серьезной подготовки. У меня снова заканчиваются припасы."
+    U "Это потребует серьёзной подготовки. У меня снова заканчиваются припасы."
 
 # game/script_day2_investigations.rpy:3279
 translate russian d2a3_library_check_storagebox_71e25e29:
@@ -8742,7 +8742,7 @@ translate russian strings:
 
     # game/script_day2_investigations.rpy:1900
     old "Talk about the Black Magic Mansion"
-    new "Поговорить о Особняке Чёрной Магии"
+    new "Поговорить об особняке чёрной магии"
 
     # game/script_day2_investigations.rpy:1900
     old "Talk about chaos magic"
