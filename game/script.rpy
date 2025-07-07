@@ -900,9 +900,9 @@ label name_entry:
 
     $ input_name = input_name.strip()
 
-    if input_name == "" or input_name == "You":
+    if input_name == "" or input_name == "Ты" or input_name == "ты":
         if input_name == "":
-            $ placeholder_name = "PLAYER"
+            $ placeholder_name = "ИГРОК"
         $ input_name = "You"
         I "...I'm...having trouble remembering but..."
         I "I think I can at least think of a name to use for now..."

@@ -1,9 +1,7 @@
 # YAKG-Rus
 
-Русификатор для игры [Yet Another Killing Game](https://store.steampowered.com/app/3217970). Версия **v1.1**.  
+Русификатор для игры [Yet Another Killing Game](https://store.steampowered.com/app/3217970). Версия **v1.2**.  
 Буду рад *звёздочке ⭐* на этом репозитории.
-
-⚠️ Русификатор в разработке. На данный момент есть только черновая версия перевода.
 
 ![image](https://github.com/user-attachments/assets/d5c80c0c-08fb-4033-a4d9-1ae363c9415e)
 

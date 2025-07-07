@@ -20,7 +20,7 @@ translate russian strings:
 
     # game/gallery.rpy:885
     old "CGs"
-    new "CG изображения"
+    new "Иллюстрации"
 
     # game/gallery.rpy:891
     old "Backgrounds"

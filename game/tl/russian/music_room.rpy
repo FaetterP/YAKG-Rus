@@ -376,5 +376,5 @@ translate russian strings:
 
     # game/music_room.rpy:89
     old "[[T]ruth"
-    new ""
+    new "[[T]ruth"
 

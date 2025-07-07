@@ -144,7 +144,7 @@ translate russian strings:
 
     # game/0bobcachievements.rpy:22
     old "Get a jackpot in the bathroom's waste bin."
-    new "Получите джекпот в мусорном ведре ванной."
+    new "Сорвите джекпот в мусорном ведре ванной."
 
     # game/0bobcachievements.rpy:22
     old "All Dogs are Good Dogs"
@@ -396,7 +396,7 @@ translate russian strings:
 
     # game/0bobcachievements.rpy:22
     old "Witness the Judgement Ending."
-    new "Станьте свидетелем концовки Суда."
+    new "Станьте свидетелем концовки Правосудия."
 
     # game/0bobcachievements.rpy:22
     old "Witness the Light Ending."

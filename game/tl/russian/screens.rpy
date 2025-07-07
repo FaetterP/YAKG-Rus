@@ -540,11 +540,11 @@ translate russian strings:
 
     # game/screens.rpy:1707
     old "Left Stick Click,\nRight Stick Click"
-    new ""
+    new "Левый стик,\nправый стик"
 
     # game/screens.rpy:1711
     old "Start (+), Guide"
-    new "Старт (+), Гид"
+    new "Старт (+), Обучение"
 
     # game/screens.rpy:1715
     old "Back (-)"
