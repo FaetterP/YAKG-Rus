@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-06-13 18:21
+﻿# TODO: Translation updated at 2025-07-08 01:25
 
 # game/script_day2_investigations.rpy:48
 translate russian d2a1_attic_assistant_928023ab:
@@ -8539,10 +8539,6 @@ translate russian d2a3_library_check_sandbottle_218eaa96:
     I "" with shakeshort
 
 translate russian strings:
-
-    # game/script_day2_investigations.rpy:7
-    old "The Attic"
-    new ""
 
     # game/script_day2_investigations.rpy:16
     old "Books"
