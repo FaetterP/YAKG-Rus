@@ -2231,7 +2231,7 @@ label d1a1_check_second_room:
             xalign 0.5 yalign 0.5 zoom 1.1
             easein 3.0 zoom 1.0
         with dissolvemed
-        show screen notify_location(_("2F - The Bedroom"), persistent.unlock_bg_bedroom)
+        show screen notify_location(_("2 этаж - Спальня"), persistent.unlock_bg_bedroom)
         $ persistent.unlock_bg_bedroom = True
         pause 2.0
         I "Looks like a child's [t_pacclue]bedroom[t_paccluee]..."
@@ -2315,7 +2315,7 @@ label d1a1_check_third_room:
             easein 5.0 zoom 1.0
         with dissolvemed
         pause 2.0
-        show screen notify_location(_("2F - The Empty Bedroom"), persistent.unlock_bg_emptybedroom)
+        show screen notify_location(_("2 этаж - Пустая Спальня"), persistent.unlock_bg_emptybedroom)
         $ persistent.unlock_bg_emptybedroom = True
         pause 2.0
         Y panicked "Wha..."
@@ -2419,7 +2419,7 @@ label d1a1_check_masterbedroom:
             xalign 0.5 yalign 0.5 zoom 1.1
             easein 3.0 zoom 1.0
         with dissolvemed
-        show screen notify_location(_("2F - The Master Bedroom"), persistent.unlock_bg_masterbedroom)
+        show screen notify_location(_("2 этаж - Главная Спальня"), persistent.unlock_bg_masterbedroom)
         $ persistent.unlock_bg_masterbedroom = True
         pause 2.0
         Y surprised "Yep, this is definitely a master bedroom. Really has that \"master\" feeling."
@@ -2894,13 +2894,13 @@ label d1a1_check_bed:
                 $ music_info = False
                 $ renpy.music.set_volume(0.0, 3, channel="music")
                 scene bg black with dissolveslow
-                show text "[name_player] fell asleep, and soon woke up in the real world.\nThe three of them being trapped in that house was all just a [t_clue]dream[t_cluee]." with dissolve
+                show text "[name_player] заснула и вскоре проснулась в реальном мире.\nТо, что они втроём оказались запертыми в том доме, было всего лишь [t_clue]сном[t_cluee]." with dissolve
                 pause 6.0
                 hide text with dissolve
-                show text "By doing the unthinkable and falling asleep in that horrible situation,\n[name_player] saved everyone, and they all soon returned to their normal lives." with dissolve
+                show text "Совершив немыслимое и заснув в этой ужасной ситуации,\n[name_player] спасла всех, и вскоре они все вернулись к своей обычной жизни." with dissolve
                 pause 6.0
                 hide text with dissolve
-                show text "THE END" with dissolve
+                show text "КОНЕЦ" with dissolve
                 pause 1.0
                 hide text
                 $ quick_menu = True
@@ -2954,7 +2954,7 @@ label d1a1_check_masterbathroom:
             easein 5.0 zoom 1.0
         with dissolve
         pause 1.0
-        show screen notify_location(_("2F - The Master Bathroom"), persistent.unlock_bg_masterbathroom)
+        show screen notify_location(_("2 этаж - Главная Ванная"), persistent.unlock_bg_masterbathroom)
         $ persistent.unlock_bg_masterbathroom = True
         pause 2.0
         I "Bingo. It's a bathroom."

@@ -4,5 +4,5 @@ translate russian strings:
 
     # game/credits.rpy:142
     old "RETURN"
-    new ""
+    new "ВЕРНУТЬСЯ"
 

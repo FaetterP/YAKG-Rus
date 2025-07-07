@@ -442,7 +442,7 @@ label d1a1:
         with soulout
         $ quick_menu = False
         pause 3.0
-        show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}THE END{/size}\nThank you for playing!{/font}" with dissolve
+        show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}КОНЕЦ{/size}\nСпасибо за игру!{/font}" with dissolve
         if not is_demo_version():
             achieve NAME_KARMA
         pause 3.0
@@ -2316,7 +2316,7 @@ label d1a2:
     play ctc_sfx "<silence 1.0>"
     window auto hide None
     scene bg black with custom_flashquickred()
-    show text "{size=+30}{color=#ff0000}20 HOURS{/color}{/size}"
+    show text "{size=+30}{color=#ff0000}20 ЧАСОВ{/color}{/size}"
     pause 2.0
     hide text with dissolveslow
     pause 0.5
@@ -3844,7 +3844,7 @@ label d1a3_karma:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nKarma Ending{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка кармы{/font}" with dissolve
     if not is_demo_version():
         achieve END_KARMA
     pause 2.0
@@ -4155,7 +4155,7 @@ label d1a3_order:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nOrder Ending{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка порядка{/font}" with dissolve
     if not is_demo_version():
         achieve END_ORDER
     pause 2.0
@@ -4713,7 +4713,7 @@ label d1a3_chaos_end:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nChaos Ending{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка хаоса{/font}" with dissolve
     if not is_demo_version():
         achieve END_CHAOS
     pause 2.0

@@ -3510,7 +3510,7 @@ label d3a3_oriana_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Oriana Ending{/color}{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}ХОРОШАЯ КОНЦОВКА{/color}{/size}\n{color=#000}Концовка Орианы{/color}{/font}" with dissolve
     pause 2.0
     achieve END_ORIANA
     pause 3.0
@@ -3523,7 +3523,7 @@ label d3a3_oriana_ending:
     stop music fadeout 5.0
     $ _skipping = True
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -3628,7 +3628,7 @@ label d3a3_cecilia_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Cecilia Ending{/color}{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}ХОРОШАЯ КОНЦОВКА{/color}{/size}\n{color=#000}Концовка Сесилии{/color}{/font}" with dissolve
     pause 2.0
     achieve END_CECILIA
     pause 3.0
@@ -3641,7 +3641,7 @@ label d3a3_cecilia_ending:
     stop music fadeout 5.0
     $ _skipping = True
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -3685,7 +3685,7 @@ label d3a3_martyr_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Martyr Ending{/color}{/font}" with dissolve
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}ХОРОШАЯ КОНЦОВКА{/color}{/size}\n{color=#000}Концовка мученика{/color}{/font}" with dissolve
     pause 2.0
     achieve END_MARTYR
     pause 3.0
@@ -3698,7 +3698,7 @@ label d3a3_martyr_ending:
     stop music fadeout 5.0
     $ _skipping = True
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -4868,7 +4868,7 @@ label d3a4_salvation_ending:
     $ _skipping = False
     show pac_assistant_shadow at truecenter:
         zoom 1.75 alpha 0.4
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}TRUE END{/color}{/size}\nSalvation Ending{/font}"
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}ИСТИНАЯ КОНЦОВКА{/color}{/size}\nКонцовка спасения{/font}"
     with dissolve
     achieve END_SALVATION
     pause 2.0
@@ -4890,7 +4890,7 @@ label d3a4_salvation_ending:
     $ _skipping = True
     scene bg black with dissolveslow
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -5580,7 +5580,7 @@ label d3a5_gameover:
     $ _skipping = False
     show pac_assistant_shadow at truecenter:
         zoom 1.75 alpha 0.4
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nYOU LOSE{/font}"
+    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nВЫ ПРОИГРАЛИ{/font}"
     with dissolve
     achieve YOU_LOSE
     pause 2.0
@@ -9127,7 +9127,7 @@ label d3a8:
             pause 2.0
             $ renpy.choice_for_skipping()
             $ _skipping = False
-            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}" with dissolve
+            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}КОНЕЦ{/color}{/size}{/font}" with dissolve
             pause 2.0
             achieve END_FINAL
             pause 3.0
@@ -9175,10 +9175,10 @@ label d3a8:
             scene bg black
             with dissolvemed
             pause 3.0
-            show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+            show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
             pause 15.0
             hide text with dissolvemed
-            show text "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)" with dissolvemed
+            show text "Спасибо моей команде, всем, кто помог мне воплотить это видение в жизнь\nи, конечно, тебе, [name_player_true], за то, что досмотрел эту историю до конца.\n\nИскренне ваш,\nJun Kakeru (2025)" with dissolvemed
             pause 15.0
             hide text with dissolvemed
             pause 3.0
@@ -9341,7 +9341,7 @@ label d3a8:
             pause 2.0
             $ renpy.choice_for_skipping()
             $ _skipping = False
-            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}" with dissolve
+            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}КОНЕЦ{/color}{/size}{/font}" with dissolve
             pause 2.0
             achieve END_FINAL
             pause 3.0
@@ -9389,7 +9389,7 @@ label d3a8:
             scene bg black
             with dissolvemed
             pause 3.0
-            show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+            show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
             pause 15.0
             hide text with dissolvemed
             show text "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)" with dissolvemed
