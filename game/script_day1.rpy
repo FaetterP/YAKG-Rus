@@ -233,7 +233,10 @@ label d1a0:
     scene bg black with custom_flashquick()
     $ show_choicegrand = False
     $ mute_choice = False
-    pause 2.0
+    pause 1.0
+    if not is_demo_version():
+        achieve FIRST_CHOICE
+    pause 1.0
 
     play sound sfx_chapterintro
     scene cg eyecatch cecilia bloody at wobble
@@ -289,10 +292,10 @@ label d1a1:
     $ show_music_info_timer = music_info_pop_out_time()
     $ name_cecilia = _("???")
     $ name_oriana = _("???")
-    $ input_name_dog = _("Собака")
+    $ input_name_dog = _("Dog")
     $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
 
-    show text "{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Продвигайте диалог для продолжения...{/size}\n{size=24}[t_hotkey]Левай кнопка мыши[t_hotkeye] или [t_hotkey]Пробел[t_hotkeye] или [t_hotkey]Enter[t_hotkeye] или {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Нижняя кнопка){/b}{/size}{/font}{/color}{/font}":
+    show text _ ("{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Advance dialogue to continue...{/size}\n{size=24}[t_hotkey]Left Click[t_hotkeye] or [t_hotkey]Space[t_hotkeye] or [t_hotkey]Enter[t_hotkeye] or {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Bottom Button){/b}{/size}{/font}{/color}{/font}"):
         alpha 0.0
         pause 5.0
         linear 2.0 alpha 1.0
@@ -364,7 +367,7 @@ label d1a1:
         easein 3.0 zoom 1.0
     with dissolvemed
     $ ctc_timer = 0
-    show screen notify_location("1 этаж - Фойе", persistent.unlock_bg_foyer) 
+    show screen notify_location(_("1F - The Foyer"), persistent.unlock_bg_foyer) 
     $ persistent.unlock_bg_foyer = True
     pause 2.5
     $ _last_say_who = 'C'
@@ -440,6 +443,8 @@ label d1a1:
         $ quick_menu = False
         pause 3.0
         show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}КОНЕЦ{/size}\nСпасибо за игру!{/font}" with dissolve
+        if not is_demo_version():
+            achieve NAME_KARMA
         pause 3.0
         hide text with dissolveslow
         pause 2.0
@@ -450,6 +455,8 @@ label d1a1:
 
     C "[name_player], huh...?"
     C happy "Nice to meet you, [name_player]!"
+    if not is_demo_version():
+        achieve NAME_ANY
     O default "....."
     O blink "Alright... [name_player]. I guess since you just woke up..."
     O sideeye "You don't know anything about the situation we're in, do you?"
@@ -739,10 +746,13 @@ label d1a1:
     I "All of them seem promising... Guess I'll just pick wherever I want to go first..."
     if day1_loop_count <= 0:
         call screen tutorial("controls")
+        pause 0.5
         call screen tutorial("save1")
         pause 0.5
     if day1_loop_count == 1:
         call screen tutorial("skip")
+        pause 0.5
+        call screen tutorial("choices")
         pause 0.5
 
 
@@ -824,6 +834,8 @@ label d1a1_start_investigation:
                                     if seen_ending_karma:
                                         play ctc_sfx sfx_heartbeat_single
                                         I "...I also have a feeling that [t_clue]we can't avoid violence[t_cluee] here..." with shakeonce
+                                elif d1a1_checked_bathroom:
+                                    I "...But there's nowhere else to go... Ugh, okay, let's get this over with..." with hpunch
                             else:
                                 I "......."
                                 I "...Maybe I shouldn't have hung out with Cecilia..."
@@ -860,7 +872,7 @@ label d1a1_kitchen:
     with fade
     play sound ["<silence 1.0>", sfx_doorclose]
     pause 2.0
-    show screen notify_location("1 этаж - Столовая", persistent.unlock_bg_diningroom_withchair)
+    show screen notify_location(_("1F - The Dining Room"), persistent.unlock_bg_diningroom_withchair)
     $ persistent.unlock_bg_diningroom_withchair = True
     pause 2.0
     I "This...doesn't look like the kitchen..."
@@ -898,7 +910,7 @@ label d1a1_kitchen:
         xalign 0.5 yalign 0.5 zoom 1.1
         easein 3.0 zoom 1.0
     with dissolvemed
-    show screen notify_location("1 этаж - Кухня", persistent.unlock_bg_kitchen_fullknives)
+    show screen notify_location(_("1F - The Kitchen"), persistent.unlock_bg_kitchen_fullknives)
     $ persistent.unlock_bg_kitchen_fullknives = True
     pause 2.0
     $ _last_say_who = 'C'
@@ -1302,7 +1314,7 @@ label d1a1_bathroom:
         ease 5.0 zoom 1.0
     with fade
     pause 3.0
-    show screen notify_location("1 этаж - Ванная", persistent.unlock_bg_bathroom)
+    show screen notify_location(_("1F - The Bathroom"), persistent.unlock_bg_bathroom)
     $ persistent.unlock_bg_bathroom = True
     pause 2.0
     I "..... ...It's smaller than I thought."
@@ -1405,7 +1417,7 @@ label d1a1_bathroom_end:
 
     menu:
         extend ""
-        "Pet it":
+        "Pet the dog":
             I "It's kinda cute... Let's try petting it."
             I "Slowly now..."
             window auto hide
@@ -1417,13 +1429,15 @@ label d1a1_bathroom_end:
                 zoom 1.0 ypos 1.05
                 easein 3.0 zoom 1.5 ypos 1.2
             pause 4.0
+            if not is_demo_version():
+                achieve PET_DOG
             D "....."
             I "Yep, still sitting there, not making a sound..."
             Y surprised "Whoa, its fur is [t_clue]really cold[t_cluee]. Maybe it was playing outside?"
             $ fadein_sideimage = False
             Y thinking "...\"Outside\"? Wait..."
             Y leering "Could this dog have come from...?!" with shakeonce
-        "Don't pet it":
+        "Don't pet the dog":
             I "...I think I'll just stare back at it and keep my guard up."
             I "I can't really remember, but I don't think I'm good with dogs."
             I "Besides, the others didn't mention there being a dog so...it could only belong to the culprit."
@@ -1706,6 +1720,8 @@ label d1a1_bathroom_end:
     $ fadein_sideimage = False
     Y "*gasp* *pant* *cough*" with shakeonce
     $ fadein_sideimage = True
+    if not is_demo_version():
+        achieve CHASE_DOG
 
     label d1a1_dog_escaped:
         stop music fadeout 3.0
@@ -1750,7 +1766,7 @@ label d1a1_upstairs:
         easein 5.0 zoom 1.0
     with dissolvemed
     pause 2.0
-    show screen notify_location("2 этаж - Коридор", persistent.unlock_bg_hallway)
+    show screen notify_location(_("2F - The Hallway"), persistent.unlock_bg_hallway)
     $ persistent.unlock_bg_hallway = True
     pause 2.0
     I "A lot of doors..."
@@ -3105,14 +3121,14 @@ label d1a2:
     menu:
         extend ""
         "Cerberus":
-            $ input_name_dog = "Цербер"
+            $ input_name_dog = "Cerberus"
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
             show cecilia overjoyed at hop
             C "Aha! \"[name_dog]\" it is!"
             O annoyed "...[name_player]. You have done this dog a great disservice. ...I hope you're ashamed of yourself."
         "Shaggy":
-            $ input_name_dog = "Мохнатик"
+            $ input_name_dog = "Shaggy"
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
             show oriana laughing at hop
@@ -3829,6 +3845,8 @@ label d1a3_karma:
     $ renpy.choice_for_skipping()
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка кармы{/font}" with dissolve
+    if not is_demo_version():
+        achieve END_KARMA
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -4138,6 +4156,8 @@ label d1a3_order:
     $ renpy.choice_for_skipping()
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка порядка{/font}" with dissolve
+    if not is_demo_version():
+        achieve END_ORDER
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -4528,6 +4548,8 @@ label d1a3_chaos:
                 C blush "Come on, [name_player]! Let's get out of here~"
                 play ctc_sfx sfx_steps
                 scene bg emptybedroom dark chaos2 with dissolvemed
+                if not is_demo_version():
+                    achieve MURDER_END
                 pause 5.0
                 Y blink bloody "....."
                 $ fadein_sideimage = False
@@ -4692,6 +4714,8 @@ label d1a3_chaos_end:
     $ renpy.choice_for_skipping()
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка хаоса{/font}" with dissolve
+    if not is_demo_version():
+        achieve END_CHAOS
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -5521,6 +5545,8 @@ label d1a4_question2B:
                     I "...Why?"
                     play ctc_sfx sfx_emotequestion
                     I "Why can't I shake this feeling that...they're still [t_clue]hiding something[t_cluee] from me?" with shakeonce
+                    if not is_demo_version():
+                        achieve THIRD_MEMBER
                     $ renpy.music.set_volume(1.0, 3, channel="music")
                 "Because of the Occult Club" if d1a4_questioning_clue2A:
                     Y thinking "You said earlier that the Occult Club came here to check out that legend. And this whole area is...mostly abandoned, right?"
@@ -5792,7 +5818,7 @@ label dogname_select:
 label dogname_entry:
     $ quick_menu = False
     $ music_info = False
-    $ input_name_dog = renpy.input("ВВЕДИТЕ ИМЯ ДЛЯ {size=+15}{color=#606060}СОБАКИ{/color}{/size}", exclude={'[', ']', '{', '}'}, pixel_width=250)
+    $ input_name_dog = renpy.input(_("ENTER A NAME FOR THE {size=+15}{color=#606060}DOG{/color}{/size}"), exclude={'[', ']', '{', '}'}, pixel_width=250)
     $ quick_menu = True
     $ music_info = True
 
@@ -5857,6 +5883,8 @@ label dogname_confirmed:
         Y sad "N-no, that's definitely the name we all came up with." with hpunch
         C smile "Hmmmmmmmmmm...?"
         C blink "Alrighty, then~"
+        if not is_demo_version():
+            achieve NAME_DOG
         $ _last_say_who = None
         show cecilia at mycenter_to_myright
         show oriana happy at myleft with dissolve

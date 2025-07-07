@@ -91,6 +91,7 @@ image ctc_auto:
         repeat
 
 image intext_iconback = im.Scale("gui/quick/icon_back.png", 62, 37)
+image pac_assistant_shadow = "gui/pac/pac_assistant_shadow.png"
 
 
 
@@ -269,18 +270,28 @@ image bg library right:
 image bg library left:
     "backgrounds/bg library.png"
     crop (0, 0, 1920, 1080)
-image bg library zoomedout:
+image bg_library_zoomedout:
     "backgrounds/bg library.png"
-    zoom 0.66 yoffset -183
+    zoom 0.66
+image bg library zoomedout = Composite(
+    (1920, 1080),
+    (0, 0), "#000",
+    (10, 185), "bg_library_zoomedout")
+
 image bg library dark right:
     "backgrounds/bg library dark.png"
     crop (960, 0, 1920, 1080)
 image bg library dark left:
     "backgrounds/bg library dark.png"
     crop (0, 0, 1920, 1080)
-image bg library dark zoomedout:
+image bg_library_dark_zoomedout:
     "backgrounds/bg library dark.png"
-    zoom 0.66 yoffset -183
+    zoom 0.66
+image bg library dark zoomedout = Composite(
+    (1920, 1080),
+    (0, 0), "#000",
+    (10, 185), "bg_library_dark_zoomedout")
+
 
 image bg bedroom corpse pac:
     "backgrounds/bg bedroom corpse.png"
@@ -571,6 +582,8 @@ default d3a3_corpse_clue8 = False
 default d3a3_corpse_clue9 = False
 
 default finalchoice_doubt = False
+default finalchoice_chose_cece = False
+default finalchoice_chose_ria = False
 default menu_time_remaining = 15
 
 default d3a6_questions_remaining = 3
@@ -618,7 +631,7 @@ label start:
     scene bg black with dissolveslow
 
 
-    show text "{color=#ff0000}ПРЕДУПРЕЖДЕНИЕ О СОДЕРЖАНИИ{/color}\nЭта игра содержит жёсткий [t_clue]язык[t_cluee], наводящие на размышления темы, полноэкранные [t_clue]визуальные эффекты[t_cluee],\nтревожные звуки, [t_clue]кровь[t_cluee], изображения жестокости и текстовые описания крайнего\nнасилия, [t_clue]убийства[t_cluee] и [t_clue]суицида[t_cluee].\n\nЭто произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
+    show text _ ("{color=#ff0000}CONTENT WARNING{/color}\nThis game contains mild [t_clue]language[t_cluee], suggestive themes, fullscreen [t_clue]visual effects[t_cluee],\ndisturbing sounds, [t_clue]blood[t_cluee], violent imagery, and textual descriptions of extreme\nviolence, [t_clue]murder[t_cluee], and [t_clue]suicide[t_cluee].\n\nThis is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
     pause 5.0
     call screen proceed_button
     hide text with dissolvemed
@@ -685,7 +698,7 @@ label load_in_demo_error:
 label save_file_name_update(chapter_number, day_act):
     $ new_save_name = ""
     if chapter_number == 1:
-        $ current_part_name = _("Part I")
+        $ current_part_name = __("Part I")
         if seen_ending_chaos:
             $ new_save_name = new_save_name + u_loop
         if seen_ending_order:
@@ -694,12 +707,12 @@ label save_file_name_update(chapter_number, day_act):
             $ new_save_name = new_save_name + u_loop
 
         if new_save_name != "":
-            $ new_save_name = new_save_name + " " + _("Part I")
+            $ new_save_name = new_save_name + " " + __("Part I")
         else:
-            $ new_save_name = _("Part I")
+            $ new_save_name = __("Part I")
 
     if chapter_number == 2:
-        $ current_part_name = _("Part II")
+        $ current_part_name = __("Part II")
         if seen_ending_despair:
             $ new_save_name = new_save_name + u_loop
         if seen_ending_judgement:
@@ -710,13 +723,13 @@ label save_file_name_update(chapter_number, day_act):
             $ new_save_name = new_save_name + u_loop
 
         if new_save_name != "":
-            $ new_save_name = new_save_name + " " + _("Part II")
+            $ new_save_name = new_save_name + " " + __("Part II")
         else:
-            $ new_save_name = _("Part II")
+            $ new_save_name = __("Part II")
 
     if chapter_number == 3:
-        $ current_part_name = _("Part III")
-        $ new_save_name = _("Part III")
+        $ current_part_name = __("Part III")
+        $ new_save_name = __("Part III")
 
     $ d1a1_investigated_count = 0
     if d1a1_checked_kitchen:
@@ -727,164 +740,164 @@ label save_file_name_update(chapter_number, day_act):
         $ d1a1_investigated_count += 2
 
     if day_act is "d1a0":
-        $ current_chapter_number = _("Prologue")
-        $ current_chapter_name = _("?????")
+        $ current_chapter_number = __("Prologue")
+        $ current_chapter_name = __("?????")
     elif day_act is "d1a1":
-        $ current_chapter_number = _("Chapter 1")
-        $ current_chapter_name = _("The Game Begins...?")
+        $ current_chapter_number = __("Chapter 1")
+        $ current_chapter_name = __("The Game Begins...?")
     elif day_act is "d1a1_start_investigation":
-        $ current_chapter_number = _("Chapter ") + str(2 + d1a1_investigated_count)
-        $ current_chapter_name = _("Seeking a Way Out")
+        $ current_chapter_number = __("Chapter ") + str(2 + d1a1_investigated_count)
+        $ current_chapter_name = __("Seeking a Way Out")
     elif day_act is "d1a1_kitchen":
-        $ current_chapter_number = _("Chapter ") + str(2 + d1a1_investigated_count)
-        $ current_chapter_name = _("The Kitchen with Cecilia")
+        $ current_chapter_number = __("Chapter ") + str(2 + d1a1_investigated_count)
+        $ current_chapter_name = __("The Kitchen with Cecilia")
     elif day_act is "d1a1_kitchen_end":
-        $ current_chapter_number = _("Chapter ") + str(3 + d1a1_investigated_count)
-        $ current_chapter_name = _("Who Wants to Be a Murderer?")
+        $ current_chapter_number = __("Chapter ") + str(3 + d1a1_investigated_count)
+        $ current_chapter_name = __("Who Wants to Be a Murderer?")
     elif day_act is "d1a1_bathroom":
-        $ current_chapter_number = _("Chapter ") + str(2 + d1a1_investigated_count)
-        $ current_chapter_name = _("The Bathroom with...")
+        $ current_chapter_number = __("Chapter ") + str(2 + d1a1_investigated_count)
+        $ current_chapter_name = __("The Bathroom with...")
     elif day_act is "d1a1_bathroom_end":
-        $ current_chapter_number = _("Chapter ") + str(3 + d1a1_investigated_count)
-        $ current_chapter_name = _("A Wild Dog Chase")
+        $ current_chapter_number = __("Chapter ") + str(3 + d1a1_investigated_count)
+        $ current_chapter_name = __("A Wild Dog Chase")
     elif day_act is "d1a1_upstairs":
-        $ current_chapter_number = _("Chapter ") + str(2 + d1a1_investigated_count)
-        $ current_chapter_name = _("2F with Oriana")
+        $ current_chapter_number = __("Chapter ") + str(2 + d1a1_investigated_count)
+        $ current_chapter_name = __("2F with Oriana")
     elif day_act is "d1a1_upstairs_end":
-        $ current_chapter_number = _("Chapter ") + str(3 + d1a1_investigated_count)
-        $ current_chapter_name = _("My Justice, Your Justice")
+        $ current_chapter_number = __("Chapter ") + str(3 + d1a1_investigated_count)
+        $ current_chapter_name = __("My Justice, Your Justice")
     elif day_act is "d1a2":
-        $ current_chapter_number = _("Chapter 6")
-        $ current_chapter_name = _("Rules Must Be Followed")
+        $ current_chapter_number = __("Chapter 6")
+        $ current_chapter_name = __("Rules Must Be Followed")
     elif day_act is "d1a2_part2":
-        $ current_chapter_number = _("Chapter 7")
-        $ current_chapter_name = _("Good Night")
+        $ current_chapter_number = __("Chapter 7")
+        $ current_chapter_name = __("Good Night")
     elif day_act is "d1a3_karma":
-        $ current_chapter_number = _("Chapter 8")
-        $ current_chapter_name = _("You Cannot Escape...Chaos?")
+        $ current_chapter_number = __("Chapter 8")
+        $ current_chapter_name = __("You Cannot Escape...Chaos?")
     elif day_act is "d1a3_order":
-        $ current_chapter_number = _("Chapter 8")
-        $ current_chapter_name = _("The Demon Condemned")
+        $ current_chapter_number = __("Chapter 8")
+        $ current_chapter_name = __("The Demon Condemned")
     elif day_act is "d1a3_chaos":
-        $ current_chapter_number = _("Chapter 8")
-        $ current_chapter_name = _("You Cannot Escape Chaos")
+        $ current_chapter_number = __("Chapter 8")
+        $ current_chapter_name = __("You Cannot Escape Chaos")
     elif day_act is "d1a4":
-        $ current_chapter_number = _("Chapter 9")
-        $ current_chapter_name = _("Nothing but the Truth")
+        $ current_chapter_number = __("Chapter 9")
+        $ current_chapter_name = __("Nothing but the Truth")
     elif day_act is "d1a4_questioning_end":
-        $ current_chapter_number = _("Chapter 10")
-        $ current_chapter_name = _("A Hard-earned Ceasefire")
+        $ current_chapter_number = __("Chapter 10")
+        $ current_chapter_name = __("A Hard-earned Ceasefire")
     elif day_act is "gameover":
-        $ current_chapter_number = _("Chapter 0")
-        $ current_chapter_name = _("BAD END")
+        $ current_chapter_number = __("Chapter 0")
+        $ current_chapter_name = __("BAD END")
 
     if day_act is "d2a1":
-        $ current_chapter_number = _("Chapter 1")
-        $ current_chapter_name = _("New Day, New Challenges")
+        $ current_chapter_number = __("Chapter 1")
+        $ current_chapter_name = __("New Day, New Challenges")
     elif day_act is "d2a1_attic":
-        $ current_chapter_number = _("Chapter 2")
-        $ current_chapter_name = _("The Attic of Dark Secrets")
+        $ current_chapter_number = __("Chapter 2")
+        $ current_chapter_name = __("The Attic of Dark Secrets")
     elif day_act is "d2a1_despair":
-        $ current_chapter_number = _("Chapter 3")
-        $ current_chapter_name = _("Lost in the Depths of Despair")
+        $ current_chapter_number = __("Chapter 3")
+        $ current_chapter_name = __("Lost in the Depths of Despair")
     elif day_act is "d2a1_lounge":
-        $ current_chapter_number = _("Chapter 2")
-        $ current_chapter_name = _("The Lounge, Unsealed")
+        $ current_chapter_number = __("Chapter 2")
+        $ current_chapter_name = __("The Lounge, Unsealed")
     elif day_act is "d2a1_judgement":
-        $ current_chapter_number = _("Chapter 3")
-        $ current_chapter_name = _("Hell is Where Demons Roam")
+        $ current_chapter_number = __("Chapter 3")
+        $ current_chapter_name = __("Hell is Where Demons Roam")
     elif day_act is "d2a2":
-        $ current_chapter_number = _("Chapter 4")
-        $ current_chapter_name = _("Same Day, Same Challenges")
+        $ current_chapter_number = __("Chapter 4")
+        $ current_chapter_name = __("Same Day, Same Challenges")
     elif day_act is "d2a2_basement":
-        $ current_chapter_number = _("Chapter 5")
-        $ current_chapter_name = _("Basements Are Scary")
+        $ current_chapter_number = __("Chapter 5")
+        $ current_chapter_name = __("Basements Are Scary")
     elif day_act is "d2a2_basement_end":
-        $ current_chapter_number = _("Chapter 6")
-        $ current_chapter_name = _("The Only Escape is Death")
+        $ current_chapter_number = __("Chapter 6")
+        $ current_chapter_name = __("The Only Escape is Death")
     elif day_act is "d2a2_light":
-        $ current_chapter_number = _("Chapter 7")
-        $ current_chapter_name = _("Ashen Memories")
+        $ current_chapter_number = __("Chapter 7")
+        $ current_chapter_name = __("Ashen Memories")
     elif day_act is "d2a2_darkness":
-        $ current_chapter_number = _("Chapter 7")
-        $ current_chapter_name = _("Watch Your Back")
+        $ current_chapter_number = __("Chapter 7")
+        $ current_chapter_name = __("Watch Your Back")
     elif day_act is "d2a3":
-        $ current_chapter_number = _("Chapter 8")
-        $ current_chapter_name = _("KYAAA!! ZOMBIES!!")
+        $ current_chapter_number = __("Chapter 8")
+        $ current_chapter_name = __("KYAAA!! ZOMBIES!!")
     elif day_act is "d2a3_library":
-        $ current_chapter_number = _("Chapter 9")
-        $ current_chapter_name = _("Taking Shelter Under Books")
+        $ current_chapter_number = __("Chapter 9")
+        $ current_chapter_name = __("Taking Shelter Under Books")
     elif day_act is "d2a3_library_cece_hearttoheart":
-        $ current_chapter_number = _("Chapter 10")
-        $ current_chapter_name = _("A Quiet Moment with Cecilia")
+        $ current_chapter_number = __("Chapter 10")
+        $ current_chapter_name = __("A Quiet Moment with Cecilia")
     elif day_act is "gameover_day2":
-        $ current_chapter_number = _("Chapter 0")
-        $ current_chapter_name = _("BAD END")
+        $ current_chapter_number = __("Chapter 0")
+        $ current_chapter_name = __("BAD END")
 
     if day_act is "d3a1":
-        $ current_chapter_number = _("Chapter 1")
-        $ current_chapter_name = _("Climbing Out of the Abyss")
+        $ current_chapter_number = __("Chapter 1")
+        $ current_chapter_name = __("Climbing Out of the Abyss")
     elif day_act is "d3a1_masterbedroom_alone":
-        $ current_chapter_number = _("Chapter 2")
-        $ current_chapter_name = _("Loneliness")
+        $ current_chapter_number = __("Chapter 2")
+        $ current_chapter_name = __("Loneliness")
     elif day_act is "d3a1_masterbedroom_ria_hearttoheart":
-        $ current_chapter_number = _("Chapter 3")
-        $ current_chapter_name = _("A Quiet Moment with Oriana")
+        $ current_chapter_number = __("Chapter 3")
+        $ current_chapter_name = __("A Quiet Moment with Oriana")
     elif day_act is "d3a2":
-        $ current_chapter_number = _("Chapter 4")
-        $ current_chapter_name = _("The Worst Tragedy Imaginable")
+        $ current_chapter_number = __("Chapter 4")
+        $ current_chapter_name = __("The Worst Tragedy Imaginable")
     elif day_act is "d3a2_zombiehunt":
-        $ current_chapter_number = _("Chapter 5")
-        $ current_chapter_name = _("ZOMBIE HUNT! ZOMBIE HUNT!")
+        $ current_chapter_number = __("Chapter 5")
+        $ current_chapter_name = __("ZOMBIE HUNT! ZOMBIE HUNT!")
     elif day_act is "d3a3":
-        $ current_chapter_number = _("Chapter 6")
-        $ current_chapter_name = _("GAME OVER")
+        $ current_chapter_number = __("Chapter 6")
+        $ current_chapter_name = __("GAME OVER")
     elif day_act is "d3a3_trial":
-        $ current_chapter_number = _("Chapter 7")
-        $ current_chapter_name = _("The Final Choice")
+        $ current_chapter_number = __("Chapter 7")
+        $ current_chapter_name = __("The Final Choice")
     elif day_act is "d3a3_cecilia_ending":
-        $ current_chapter_number = _("Epilogue")
-        $ current_chapter_name = _("Cecilia")
+        $ current_chapter_number = __("Epilogue")
+        $ current_chapter_name = __("Cecilia")
     elif day_act is "d3a3_oriana_ending":
-        $ current_chapter_number = _("Epilogue")
-        $ current_chapter_name = _("Oriana")
+        $ current_chapter_number = __("Epilogue")
+        $ current_chapter_name = __("Oriana")
     elif day_act is "d3a3_martyr_ending":
-        $ current_chapter_number = _("Epilogue")
-        $ current_chapter_name = _("The Path of No Regrets")
+        $ current_chapter_number = __("Epilogue")
+        $ current_chapter_name = __("The Path of No Regrets")
     elif day_act is "d3a4":
-        $ current_chapter_number = _("Chapter 8")
-        $ current_chapter_name = _("No Escaping Karma")
+        $ current_chapter_number = __("Chapter 8")
+        $ current_chapter_name = __("No Escaping Karma")
     elif day_act is "d3a4_salvation_ending":
-        $ current_chapter_number = _("Epilogue")
-        $ current_chapter_name = _("The True Ending")
+        $ current_chapter_number = __("Epilogue")
+        $ current_chapter_name = __("The True Ending")
     elif day_act is "d3a5":
-        $ current_chapter_number = _("Chapter 9")
-        $ current_chapter_name = _("Your Last Deduction")
+        $ current_chapter_number = __("Chapter 9")
+        $ current_chapter_name = __("Your Last Deduction")
     elif day_act is "d3a6":
-        $ current_chapter_number = _("Chapter 10")
-        $ current_chapter_name = _("The Professor")
+        $ current_chapter_number = __("Chapter 10")
+        $ current_chapter_name = __("The Professor")
     elif day_act is "d3a6_chasestart":
-        $ current_chapter_number = _("Chapter 11")
-        $ current_chapter_name = _("Run For Your Life")
+        $ current_chapter_number = __("Chapter 11")
+        $ current_chapter_name = __("Run For Your Life")
     elif day_act is "d3a6_chase_finale":
-        $ current_chapter_number = _("Chapter 12")
-        $ current_chapter_name = _("Your Last Gambit")
+        $ current_chapter_number = __("Chapter 12")
+        $ current_chapter_name = __("Your Last Gambit")
     elif day_act is "d3a7":
-        $ current_chapter_number = _("Chapter 13")
-        $ current_chapter_name = _("Farewell, My Killing Game")
+        $ current_chapter_number = __("Chapter 13")
+        $ current_chapter_name = __("Farewell, My Killing Game")
     elif day_act is "d3a8":
-        $ current_chapter_number = _("Epilogue")
-        $ current_chapter_name = _("The REAL Final Choice")
+        $ current_chapter_number = __("Epilogue")
+        $ current_chapter_name = __("The REAL Final Choice")
     elif day_act is "d3a8_secret":
-        $ current_chapter_number = _("Epilogue")
-        $ current_chapter_name = _("?????")
+        $ current_chapter_number = __("Epilogue")
+        $ current_chapter_name = __("?????")
 
 
     $ save_name = new_save_name + " " + current_chapter_number + "\n" + current_chapter_name
     return
 
 label name_entry:
-    $ input_name = "You"
+    $ input_name = _("You")
     I "What is...my name?"
     scene bg black
     show cg naming player:
@@ -893,17 +906,17 @@ label name_entry:
         linear 0.5 alpha 1.0
     $ quick_menu = False
     $ music_info = False
-    $ input_name = renpy.input("ВВЕДИТЕ ВАШЕ {size=+15}{color=#cccc00}ИМЯ{/color}{/size}", exclude={'[', ']', '{', '}'}, default=placeholder_name, pixel_width=250)
+    $ input_name = renpy.input(_("ENTER YOUR {size=+15}{color=#cccc00}NAME{/color}{/size}"), exclude={'[', ']', '{', '}'}, default=placeholder_name, pixel_width=250)
     $ quick_menu = True
     $ music_info = True
     scene bg black with dissolve
 
     $ input_name = input_name.strip()
 
-    if input_name == "" or input_name == "Ты" or input_name == "ты":
+    if input_name == "" or input_name == _("You"):
         if input_name == "":
-            $ placeholder_name = "ИГРОК"
-        $ input_name = "You"
+            $ placeholder_name = __("PLAYER")
+        $ input_name = _("You")
         I "...I'm...having trouble remembering but..."
         I "I think I can at least think of a name to use for now..."
         jump name_entry
@@ -1065,6 +1078,8 @@ label gameover:
                         $ music_info = True
                         hide screen lock_hotkeys
                         $ day1_loop_count = day1_loop_count + 1
+                        if not is_demo_version():
+                            achieve REJECT_END
                         jump d1a1
 label gameover_day2:
     if not config.developer:
@@ -1223,15 +1238,13 @@ label gameover_day2:
             $ mute_choice = True
 
             menu:
-                "I WANT MORE KILLING GAMES" if seen_ending_darkness:
+                "LET'S PLAY ANOTHER KILLING GAME!" if shard_string == "Despair":
                     pass
-                "ON TO THE NEXT KILLING GAME" if seen_ending_judgement:
+                "ON TO ANOTHER KILLING GAME..." if shard_string == "Judgement":
                     pass
-                "START ANOTHER KILLING GAME":
+                "THERE'S NO ESCAPING THE KILLING GAME~" if shard_string == "Darkness":
                     pass
-                "LET'S PLAY ANOTHER KILLING GAME" if seen_ending_despair:
-                    pass
-                "ENJOYING THE KILLING GAMES?" if seen_ending_light:
+                "ARE YOU ENJOYING THE KILLING GAME?!" if shard_string == "Light":
                     pass
                 extend ""
             $ show_choicegrand = False
@@ -1241,6 +1254,7 @@ label gameover_day2:
             play sound sfx_rewind
             scene bg black with pixellate
             pause 6.0
+            achieve REJECT_END
             $ quick_menu = True
             $ music_info = True
             hide screen lock_hotkeys

@@ -358,7 +358,7 @@ label d2a1:
         xalign 0.5 yalign 0.5 zoom 1.1
         easein 3.0 zoom 1.0
     with dissolvemed
-    show screen notify_location("1 этаж - Гостиная", persistent.unlock_bg_lounge)
+    show screen notify_location(_("1F - The Lounge"), persistent.unlock_bg_lounge)
     $ persistent.unlock_bg_lounge = True
     pause 2.5
     Y surprised "Looks like you were right, Ria. It's a living room...or maybe more like a [t_clue]lounge[t_cluee]...?"
@@ -711,7 +711,7 @@ label d2a1_attic:
         xalign 0.5 yalign 0.5 zoom 1.1
         easein 3.0 zoom 1.0
     with dissolvemed
-    show screen notify_location("Чердак", persistent.unlock_bg_attic)
+    show screen notify_location(_("The Attic"), persistent.unlock_bg_attic)
     $ persistent.unlock_bg_attic = True
     pause 1.5
     $ show_music_info_timer = music_info_pop_out_time()
@@ -1075,6 +1075,7 @@ label d2a1_attic_end:
     $ renpy.choice_for_skipping()
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцвка отчаяния{/font}" with dissolve
+    achieve END_DESPAIR
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -1559,6 +1560,7 @@ label d2a1_lounge_tragedy:
     $ renpy.choice_for_skipping()
     $ _skipping = False
     show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцвка правосудия{/font}" with dissolve
+    achieve END_JUDGEMENT
     pause 2.0
     $ _skipping = True
     pause 3.0
@@ -1820,7 +1822,7 @@ label d2a2_basement:
     $ show_side_player = False
     $ show_side_oriana = True
     $ show_side_cecilia = True
-    show screen notify_location("-1 этаж - Подвал", persistent.unlock_bg_basement) 
+    show screen notify_location(_("B1F - The Basement"), persistent.unlock_bg_basement) 
     Y "....."
     $ fadein_sideimage = False
     Y "...Guys, I can't see anything." with hpunch
@@ -2224,6 +2226,7 @@ label d2a2_basement_choice:
             $ renpy.choice_for_skipping()
             $ _skipping = False
             show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка тьмы{/font}" with dissolve
+            achieve END_DARKNESS
             pause 2.0
             $ _skipping = True
             pause 3.0
@@ -2352,6 +2355,7 @@ label d2a2_basement_choice:
             if not seen_ending_light:
                 call truename_entry
 
+            achieve NAME_TRUE
             if input_name_true == input_name:
                 I "[name_player_true]...is in fact my true name..."
             else:
@@ -2413,6 +2417,7 @@ label d2a2_basement_choice:
             $ renpy.choice_for_skipping()
             $ _skipping = False
             show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка света{/font}" with dissolve
+            achieve END_LIGHT
             pause 2.0
             $ _skipping = True
             pause 3.0
@@ -2435,7 +2440,7 @@ label truename_entry:
             I "...My...true name...is..."
     $ quick_menu = False
     $ music_info = False
-    $ input_name_true = renpy.input("ВВЕДИТЕ ВАШЕ {size=+15}{color=#44b817}НАСТОЯЩЕЕ ИМЯ{/color}{/size}", exclude={'[', ']', '{', '}'}, pixel_width=250)
+    $ input_name_true = renpy.input(_("ENTER YOUR {size=+15}{color=#44b817}TRUE NAME{/color}{/size}"), exclude={'[', ']', '{', '}'}, pixel_width=250)
     $ quick_menu = True
     $ music_info = True
 
@@ -2925,7 +2930,7 @@ label d2a3:
 label d2a3_library:
     scene bg black
     show bg library right with dissolvemed
-    show screen notify_location("-1 этаж - Библиотека", persistent.unlock_bg_library) 
+    show screen notify_location(_("B1F - The Library"), persistent.unlock_bg_library) 
     Y pained2 "Hrgh... *gasp* ...Ngh... *pant*" with shakeshort
     $ _last_say_who = "C"
     show cecilia injured at mycenter
@@ -3388,6 +3393,7 @@ label d2a3_library_cece_hearttoheart:
     $ fadein_sideimage = True
     if d2a3_library_cece_sentence == "ABC":
         play ctc_sfx sfx_heartbeat_single
+        achieve THE_CLOWNFISH
         C surprised "...! That's..." with shakeshort
         Y surprised "As promised, I memorized it, but I'm not sure what it means..."
     else:
@@ -3629,6 +3635,7 @@ label d2a3_library_cece_hearttoheart:
             C surprised "....."
             Y relaxed "Sure, maybe you don't consider those dots to be connected, but anyone with the slightest shred of humanity would tell you..."
             Y happy "...You did a really good thing. Regardless of your intentions, the outcome was that your actions saved that girl."
+            achieve CECE_H2H
 
     play ctc_sfx "<silence 1.0>"
     C blink "{cps=6}.....{/cps} ...Heh..."
