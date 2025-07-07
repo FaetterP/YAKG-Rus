@@ -178,7 +178,7 @@ translate russian strings:
 
     # game/script.rpy:634
     old "{color=#ff0000}CONTENT WARNING{/color}\nThis game contains mild [t_clue]language[t_cluee], suggestive themes, fullscreen [t_clue]visual effects[t_cluee],\ndisturbing sounds, [t_clue]blood[t_cluee], violent imagery, and textual descriptions of extreme\nviolence, [t_clue]murder[t_cluee], and [t_clue]suicide[t_cluee].\n\nThis is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author."
-    new ""
+    new "{color=#ff0000}ПРЕДУПРЕЖДЕНИЕ О СОДЕРЖАНИИ{/color}\nЭта игра содержит жёсткий [t_clue]язык[t_cluee], наводящие на размышления темы, полноэкранные [t_clue]визуальные эффекты[t_cluee],\nтревожные звуки, [t_clue]кровь[t_cluee], изображения жестокости и текстовые описания крайнего\nнасилия, [t_clue]убийства[t_cluee] и [t_clue]суицида[t_cluee].\n\nЭто произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора."
 
     # game/script.rpy:701
     old "Part I"
@@ -446,11 +446,11 @@ translate russian strings:
 
     # game/script.rpy:909
     old "ENTER YOUR {size=+15}{color=#cccc00}NAME{/color}{/size}"
-    new ""
+    new "ВВЕДИТЕ ВАШЕ {size=+15}{color=#cccc00}ИМЯ{/color}{/size}"
 
     # game/script.rpy:918
     old "PLAYER"
-    new ""
+    new "ИГРОК"
 
     # game/script.rpy:929
     old "\"Yes, it is.\""
@@ -470,21 +470,21 @@ translate russian strings:
 
     # game/script.rpy:1067
     old "START ANOTHER KILLING GAME"
-    new "НАЧАТЬ ЕЩЕЕОДНУ УБИЙСТВЕННУЮ ИГРУ"
+    new "НАЧАТЬ ДРУГУЮ УБИЙСТВЕННУЮ ИГРУ"
 
     # game/script.rpy:1240
     old "LET'S PLAY ANOTHER KILLING GAME!"
-    new ""
+    new "СЫГРАТЬ ДРУГУЮ УБИЙСТВЕННУЮ ИГРУ!"
 
     # game/script.rpy:1240
     old "ON TO ANOTHER KILLING GAME..."
-    new ""
+    new "В ДРУГУЮ УБИЙСТВЕННУЮ ИГРУ..."
 
     # game/script.rpy:1240
     old "THERE'S NO ESCAPING THE KILLING GAME~"
-    new ""
+    new "ИЗ УБИЙСТВЕННОЙ ИГРЫ НЕТ ВЫХОДА~"
 
     # game/script.rpy:1240
     old "ARE YOU ENJOYING THE KILLING GAME?!"
-    new ""
+    new "ТЫ НАСЛАЖДАЕШЬСЯ УБИЙСТВЕННОЙ ИГРОЙ?!"
 

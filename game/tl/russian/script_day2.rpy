@@ -8716,7 +8716,7 @@ translate russian strings:
 
     # game/script_day2.rpy:361
     old "1F - The Lounge"
-    new ""
+    new "1 этаж - Гостиная"
 
     # game/script_day2.rpy:505
     old "Go with Cece to the [t_clue]Attic[t_cluee]"
@@ -8728,7 +8728,7 @@ translate russian strings:
 
     # game/script_day2.rpy:714
     old "The Attic"
-    new ""
+    new "Чердак"
 
     # game/script_day2.rpy:763
     old "What weird, supernatural discoveries await you in this eerie attic?\nPerhaps one of the many items here will lead you to the truth..."
@@ -8768,7 +8768,7 @@ translate russian strings:
 
     # game/script_day2.rpy:1825
     old "B1F - The Basement"
-    new ""
+    new "Подвал"
 
     # game/script_day2.rpy:1958
     old "You, Cecilia, and Oriana have finally pierced the heart of the killing game.\nWill you be able to find the light before the darkness consumes you...?"
@@ -8804,7 +8804,7 @@ translate russian strings:
 
     # game/script_day2.rpy:2443
     old "ENTER YOUR {size=+15}{color=#44b817}TRUE NAME{/color}{/size}"
-    new ""
+    new "ВВЕДИТЕ ВАШЕ {size=+15}{color=#44b817}НАСТОЯЩЕЕ ИМЯ{/color}{/size}"
 
     # game/script_day2.rpy:2458
     old "\"No, that's wrong.\""
@@ -8828,7 +8828,7 @@ translate russian strings:
 
     # game/script_day2.rpy:2933
     old "B1F - The Library"
-    new ""
+    new "Подвал - Библиотека"
 
     # game/script_day2.rpy:3047
     old "A zombie is trying to kill you! Cecilia's holding the door up, and Oriana is...\nHurry and find something in this room to stop Oriana from bleeding out!"

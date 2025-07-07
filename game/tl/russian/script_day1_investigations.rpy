@@ -7708,7 +7708,7 @@ translate russian strings:
 
     # game/script_day1_investigations.rpy:2422
     old "2F - The Master Bedroom"
-    new ""
+    new "2 этаж - Главная спальня"
 
     # game/script_day1_investigations.rpy:2448
     old "\"Sure, why not?\""
@@ -7760,7 +7760,7 @@ translate russian strings:
 
     # game/script_day1_investigations.rpy:2957
     old "2F - The Master Bathroom"
-    new ""
+    new "2 этаж - Главная ванная"
 
     # game/script_day1_investigations.rpy:3044
     old "Minimalistic"

@@ -1468,7 +1468,7 @@ translate russian d1a1_start_investigation_e385b8b6:
 translate russian d1a1_start_investigation_cf53522f:
 
     # I "...But there's nowhere else to go... Ugh, okay, let's get this over with..." with hpunch
-    I "" with hpunch
+    I "...Но больше идти некуда... Угх, ладно, давай покончим с этим..." with hpunch
 
 # game/script_day1.rpy:840
 translate russian d1a1_start_investigation_1beb3944_1:
@@ -14528,7 +14528,7 @@ translate russian strings:
 
     # game/script_day1.rpy:298
     old "{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Advance dialogue to continue...{/size}\n{size=24}[t_hotkey]Left Click[t_hotkeye] or [t_hotkey]Space[t_hotkeye] or [t_hotkey]Enter[t_hotkeye] or {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Bottom Button){/b}{/size}{/font}{/color}{/font}"
-    new ""
+    new "{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Продвигайте диалог, чтобы продолжить...{/size}\n{size=24}[t_hotkey]Лвая кнопка мыши[t_hotkeye] или [t_hotkey]Пробел[t_hotkeye] или [t_hotkey]Enter[t_hotkeye] или {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Низ){/b}{/size}{/font}{/color}{/font}"
 
     # game/script_day1.rpy:343
     old "Strange Girl"
@@ -14536,7 +14536,7 @@ translate russian strings:
 
     # game/script_day1.rpy:370
     old "1F - The Foyer"
-    new ""
+    new "1 этаж - Фойе"
 
     # game/script_day1.rpy:392
     old "Gloomy Girl"
@@ -14616,11 +14616,11 @@ translate russian strings:
 
     # game/script_day1.rpy:875
     old "1F - The Dining Room"
-    new ""
+    new "1 этаж - Столовая"
 
     # game/script_day1.rpy:913
     old "1F - The Kitchen"
-    new ""
+    new "1 этаж - Кухня"
 
     # game/script_day1.rpy:998
     old "Search the kitchen and dining room for clues to escape!\nTalk to Cecilia when you want to switch rooms."
@@ -14640,7 +14640,7 @@ translate russian strings:
 
     # game/script_day1.rpy:1317
     old "1F - The Bathroom"
-    new ""
+    new "1 этаж - Ванная"
 
     # game/script_day1.rpy:1360
     old "What clues can you discover in this tiny bathroom?\nMaybe some can only be found while you're alone...?"
@@ -14648,11 +14648,11 @@ translate russian strings:
 
     # game/script_day1.rpy:1418
     old "Pet the dog"
-    new ""
+    new "Погладить собаку"
 
     # game/script_day1.rpy:1418
     old "Don't pet the dog"
-    new ""
+    new "Не гладить собаку"
 
     # game/script_day1.rpy:1481
     old "Try to catch it"
@@ -14696,7 +14696,7 @@ translate russian strings:
 
     # game/script_day1.rpy:1769
     old "2F - The Hallway"
-    new ""
+    new "2 этаж - Коридор"
 
     # game/script_day1.rpy:1869
     old "Check out each room in the 2nd floor with Oriana!\nSome rooms may have more clues than others..."
@@ -15016,7 +15016,7 @@ translate russian strings:
 
     # game/script_day1.rpy:5821
     old "ENTER A NAME FOR THE {size=+15}{color=#606060}DOG{/color}{/size}"
-    new ""
+    new "ВВЕДИТЕ ИМЯ ДЛЯ {size=+15}{color=#606060}СОБАКИ{/color}{/size}"
 
     # game/script_day1.rpy:5831
     old "Enter a new name"
