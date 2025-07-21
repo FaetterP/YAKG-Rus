@@ -111,7 +111,7 @@ screen achievement_box(i, achievement_id):
                     activate_sound None
                     has vbox
                     if achievement.has(achievement_id):
-                        text "#[i] | " + BOBCACHIEVEMENTS_MAP[achievement_id][0] style "achievements_labeltext"
+                        text "#[i] | " + __(BOBCACHIEVEMENTS_MAP[achievement_id][0]) style "achievements_labeltext"
                         text BOBCACHIEVEMENTS_MAP[achievement_id][1]
                     else:
                         text "#[i] | " + BOBCACHIVEMENTS_HIDDEN_ACHIEVEMENT_TEXT style "achievements_labeltext"
