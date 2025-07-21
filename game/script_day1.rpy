@@ -419,7 +419,7 @@ label d1a1:
         with dissolve
         call name_entry
 
-    if input_name == "Karma" or input_name == "Carol-Maria":
+    if input_name == "Karma" or input_name == "Carol-Maria" or input_name == "Карма" or input_name == "Карол-Мария":
         Y default "...It's...[name_player]."
         stop music
         show oriana surprised
