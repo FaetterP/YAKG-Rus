@@ -1090,13 +1090,13 @@ translate russian d2a1_attic_check_chest_f123b9dd:
 translate russian d2a1_attic_check_chest_cf6c981a:
 
     # Y surprised "Oh! No, it's a stuffed doll in the shape of a black cat."
-    Y surprised "Оq! Нет, это плюшевая кукла в форме чёрного кота."
+    Y surprised "Ой! Нет, это плюшевая кукла в виде чёрного кота."
 
 # game/script_day2_investigations.rpy:433
 translate russian d2a1_attic_check_chest_469e7c4b:
 
     # C smile "What's up, [name_player]? That chest isn't a mimic trying to eat you, right?"
-    C smile "Что такое, [name_player]? Этот ведь не мимик, который хочет тебя съесть, да?"
+    C smile "Что такое, [name_player]? Этот ведь не мимик, который хочет тебя съесть, верно?"
 
 # game/script_day2_investigations.rpy:441
 translate russian d2a1_attic_check_chest_16ad4c34:
@@ -1408,7 +1408,7 @@ translate russian d2a1_attic_check_trunk_78876ff5:
 translate russian d2a1_attic_check_trunk_b802e4c4:
 
     # Y worried "Hrm... So in other words, if necromancy was really involved, we'd be finding way more clues... {i}Violent{/i} clues, at that..." with hpunch
-    Y worried "Хрм... То есть, если бы некромантия действительно имела место, мы бы находили гораздо больше улик... {i}жестоких{/i} улик, я имею в виду..." with hpunch
+    Y worried "Хрм... То есть, если бы некромантия действительно имела место, мы бы находили гораздо больше улик... {i}Жестоких{/i} улик, я имею в виду..." with hpunch
 
 # game/script_day2_investigations.rpy:536
 translate russian d2a1_attic_check_trunk_48c60ede:
@@ -1438,7 +1438,7 @@ translate russian d2a1_attic_check_trunk_11fdb519_1:
 translate russian d2a1_attic_check_trunk_78e0f1ee:
 
     # Y surprised "It's like some...unholy monster, right? They usually have wings and horns?"
-    Y surprised "Это что-то вроде...дьявольского монстра, да? Обычно у них есть крылья и рога?"
+    Y surprised "Это что-то вроде...дьявольского монстра, верно? Обычно у них есть крылья и рога?"
 
 # game/script_day2_investigations.rpy:543
 translate russian d2a1_attic_check_trunk_5e2180d4:
@@ -1462,7 +1462,7 @@ translate russian d2a1_attic_check_trunk_c5025532:
 translate russian d2a1_attic_check_trunk_981596aa:
 
     # Y thinking "So... I'm wrong?"
-    Y thinking "Значит... я ошибаюсь?"
+    Y thinking "Значит... Я ошибаюсь?"
 
 # game/script_day2_investigations.rpy:548
 translate russian d2a1_attic_check_trunk_3a2f0604:
@@ -1726,13 +1726,13 @@ translate russian d2a1_attic_check_sketches_e93ce594:
 translate russian d2a1_attic_check_sketches_1df09afb:
 
     # Y surprised "Huh? Are deals with the devil really that strict?"
-    Y surprised "А? Сделки с дьяволом и правда такие строгие?"
+    Y surprised "Хм? Сделки с дьяволом и правда такие строгие?"
 
 # game/script_day2_investigations.rpy:613
 translate russian d2a1_attic_check_sketches_98bbb893:
 
     # C sweatdrop "I mean, I've never made one so I wouldn't know for sure." with hpunch
-    C sweatdrop "Ну, я сам никогда их не заключала, так что не могу сказать наверняка." with hpunch
+    C sweatdrop "Ну, я сама никогда их не заключала, так что не могу сказать наверняка." with hpunch
 
 # game/script_day2_investigations.rpy:614
 translate russian d2a1_attic_check_sketches_3c071e64:
@@ -2206,7 +2206,7 @@ translate russian d2a1_attic_check_cross_82de5f60:
 translate russian d2a1_attic_check_cross_cd5c7a28:
 
     # Y thinking "Yeah, that just makes things really confusing..."
-    Y thinking "АГа, это только больше запутывает..."
+    Y thinking "Ага, это только больше запутывает..."
 
 # game/script_day2_investigations.rpy:809
 translate russian d2a1_attic_check_cross_19650ad7:
@@ -2644,7 +2644,7 @@ translate russian d2a1_lounge_assistant_eabb133e:
 translate russian d2a1_lounge_assistant_db80b8b4:
 
     # O irritated "*sigh* ...All right, I'll say this now while I'm still undeniably calm."
-    O irritated "*вздох* ...Ладно, скажу это сейчас, пока я все ещё бесспорно спокойна."
+    O irritated "*вздох* ...Ладно, скажу это сейчас, пока я всё ещё бесспорно спокойна."
 
 # game/script_day2_investigations.rpy:1020
 translate russian d2a1_lounge_assistant_75910785:
@@ -2872,7 +2872,7 @@ translate russian d2a1_lounge_assistant_bfc476dc:
 translate russian d2a1_lounge_assistant_487d18f6:
 
     # O "...As big as this room is, it's nowhere near the scale of investigating the entire second floor."
-    O "...Какой бы большой ни была эта комната, она и близко не стоит с расследованием всего второго этажа."
+    O "...Какой бы большой ни была эта комната, она и близко не стоит с осмотром всего второго этажа."
 
 # game/script_day2_investigations.rpy:1071
 translate russian d2a1_lounge_assistant_be2e53b2:
@@ -3040,13 +3040,13 @@ translate russian d2a1_lounge_check_photos_21e2485c:
 translate russian d2a1_lounge_check_photos_1f107919:
 
     # I "Family, huh... Did I have any family...?"
-    I "Семья, да... А была ли у меня семья...?"
+    I "Семья, хм... А была ли у меня семья...?"
 
 # game/script_day2_investigations.rpy:1145
 translate russian d2a1_lounge_check_photos_aa2f6113:
 
     # Y thinking "Hmm. There are baby photos here too. I guess this means these photos were taken in different years as the kids grew up?"
-    Y thinking "Хмм. Здесь есть и фотографии детей. Похоже, это значит, что фотографии были сделаны в разные годы, по мере того как дети росли?"
+    Y thinking "Хмм. Здесь есть и фотографии детей. Похоже, эти фотографии были сделаны в разные годы, по мере того как дети росли?"
 
 # game/script_day2_investigations.rpy:1146
 translate russian d2a1_lounge_check_photos_bbce73e1:
@@ -3106,7 +3106,7 @@ translate russian d2a1_lounge_check_photos_1d086c30:
 translate russian d2a1_lounge_check_photos_5c63ce09:
 
     # Y panicked "H-huh? What, is there something on my face?" with shakeonce
-    Y panicked "А-а? Что, у меня что-то на лице?" with shakeonce
+    Y panicked "А-а? У меня что-то на лице?" with shakeonce
 
 # game/script_day2_investigations.rpy:1162
 translate russian d2a1_lounge_check_photos_c5ef81f7:
@@ -3118,7 +3118,7 @@ translate russian d2a1_lounge_check_photos_c5ef81f7:
 translate russian d2a1_lounge_check_photos_6e32cc68:
 
     # O default "I'm wondering if these photos helped you remember anything from your own life."
-    O default "Мне интересно, помогли ли эти фотографии вспомнить что-то из твоей жизни."
+    O default "Мне интересно, помогли ли тебе эти фотографии вспомнить что-то из твоей жизни."
 
 # game/script_day2_investigations.rpy:1164
 translate russian d2a1_lounge_check_photos_b818092e:
@@ -3214,7 +3214,7 @@ translate russian d2a1_lounge_check_tv_37cd116d:
 translate russian d2a1_lounge_check_tv_2ee61e67:
 
     # O disappointed "How would I know? Maybe you were too focused on one angle that you didn't bother turning your head around?"
-    O disappointed "Откуда мне знать? Может, ты была слишком была сосоредоточена на одном углу и не потрудился повернуть голову?"
+    O disappointed "Откуда мне знать? Может, ты была слишком была сосоредоточена на одном углу и не потрудилась повернуть голову?"
 
 # game/script_day2_investigations.rpy:1199
 translate russian d2a1_lounge_check_tv_805f0363:
@@ -3244,13 +3244,13 @@ translate russian d2a1_lounge_check_tv_7f9c7a3a:
 translate russian d2a1_lounge_check_tv_e0835a0b:
 
     # Y surprised "Should we move this out of the way, then?"
-    Y surprised "Может, теперь нам стоит передвинуть его с путиы?"
+    Y surprised "Может, теперь нам стоит передвинуть его с пути?"
 
 # game/script_day2_investigations.rpy:1211
 translate russian d2a1_lounge_check_tv_4a623c64:
 
     # O sideeye "Televisions can be fairly heavy. We can just ask Cecilia to move it when she comes back."
-    O sideeye "Телевизоры могут быть довольно тяжелыми. Мы можем просто попросить Сесилию передвинуть его, когда она вернется."
+    O sideeye "Телевизоры могут быть довольно тяжелыми. Мы можем просто попросить Сесилию передвинуть его, когда она вернётся."
 
 # game/script_day2_investigations.rpy:1212
 translate russian d2a1_lounge_check_tv_513ce359:
@@ -3292,7 +3292,7 @@ translate russian d2a1_lounge_check_dogbed_ec0286c5:
 translate russian d2a1_lounge_check_dogbed_51956d4b:
 
     # Y blink "A dog bed, huh...? I wonder if that's the bed for--{w=0.5}{nw}"
-    Y blink "Кровать для собаки, а...? Интересно, это кровать для--{w=0.5}{nw}"
+    Y blink "Кровать для собаки, хм...? Интересно, это кровать для--{w=0.5}{nw}"
 
 # game/script_day2_investigations.rpy:1241
 translate russian d2a1_lounge_check_dogbed_a5c3e2e1:
@@ -3352,7 +3352,7 @@ translate russian d2a1_lounge_check_dogbed_d575a092:
 translate russian d2a1_lounge_check_dogbed_b7afc917:
 
     # Y default "Maybe not, but can you honestly say you don't know [name_dog]'s scent by now?"
-    Y default "Может и нет, но ты действительно можешь сказать, что уже не знаешь запах [name_dog]?"
+    Y default "Может и нет, но ты действительно хочешь сказать, что уже не узнаёшь запах [name_dog]?"
 
 # game/script_day2_investigations.rpy:1260
 translate russian d2a1_lounge_check_dogbed_0da3f551:
@@ -3430,7 +3430,7 @@ translate russian d2a1_lounge_check_dogbed_7906cc1a:
 translate russian d2a1_lounge_check_dogbed_4917f7cf:
 
     # Y worried "...What's up, Ria? You're not thinking about sniffing the bed again, right?"
-    Y worried "...Что-то не так, Рия? Ты не собираешься снова нюхать кровать?"
+    Y worried "...Что-то не так, Рия? Ты же не собираешься снова нюхать кровать, верно?"
 
 # game/script_day2_investigations.rpy:1281
 translate russian d2a1_lounge_check_dogbed_899c97ee:
@@ -3448,7 +3448,7 @@ translate russian d2a1_lounge_check_dogbed_f893a0c1:
 translate russian d2a1_lounge_check_dogbed_d4321a77:
 
     # O blink "Which begs the question: where did [name_dog] sleep last night, if at all?"
-    O blink "Что наводит на вопрос: где [name_dog] спал прошлой ночью, если вообще спал?"
+    O blink "Что наводит на вопрос: где [name_dog] спал прошлой ночью, если он вообще спал?"
 
 # game/script_day2_investigations.rpy:1284
 translate russian d2a1_lounge_check_dogbed_78d77140:
@@ -3832,7 +3832,7 @@ translate russian d2a1_lounge_check_brokenframe_efc4454c:
 translate russian d2a1_lounge_check_brokenframe_af6e442d:
 
     # Y thinking "Hmm... Yep, the glass is broken. If it broke when Cece crawled in here, we would've heard the sound."
-    Y thinking "Хмм... Да, стекло разбито. Если оно разбилось, когда Сеси ползла сюда, мы бы услышали звук."
+    Y thinking "Хмм... Ага, стекло разбито. Если бы оно разбилось, когда Сеси ползла сюда, мы бы услышали звук."
 
 # game/script_day2_investigations.rpy:1446
 translate russian d2a1_lounge_check_brokenframe_efdca285:
@@ -3874,7 +3874,7 @@ translate russian d2a1_lounge_check_brokenframe_bfc476dc:
 translate russian d2a1_lounge_check_brokenframe_5cc4a042:
 
     # O thinking "And that photo frame was just...left there, huh..."
-    O thinking "И эта рамка для фото просто...осталась здесь, а..."
+    O thinking "И эта фоторамка просто...осталась здесь, а..."
 
 # game/script_day2_investigations.rpy:1453
 translate russian d2a1_lounge_check_brokenframe_46df5230:
@@ -4066,7 +4066,7 @@ translate russian d2a1_lounge_check_fireplace_b55c9504:
 translate russian d2a1_lounge_check_fireplace_1011db47:
 
     # Y "Oh. Well, that figures."
-    Y "Ох. ЧТо же, это логично."
+    Y "Ох. Что же, этого стоило ожидать."
 
 # game/script_day2_investigations.rpy:1535
 translate russian d2a1_lounge_check_fireplace_dbc0e9b1:
@@ -4162,7 +4162,7 @@ translate russian d2a1_lounge_check_fireplace_fe462a6a:
 translate russian d2a1_lounge_check_fireplace_695e7f6c:
 
     # O thinking "I suppose they do, yes."
-    O thinking "Предположительно, да."
+    O thinking "Наверное, да."
 
 # game/script_day2_investigations.rpy:1583
 translate russian d2a1_lounge_check_fireplace_d8c77bb4:
@@ -4480,7 +4480,7 @@ translate russian d2a1_lounge_check_patiodoors_d6997540:
 translate russian d2a1_lounge_check_patiodoors_da9e5d88:
 
     # Y surprised "Patio...doors...?"
-    Y surprised "Двери... патио...?"
+    Y surprised "Двери...патио...?"
 
 # game/script_day2_investigations.rpy:1708
 translate russian d2a1_lounge_check_patiodoors_03fe9950:
@@ -4492,7 +4492,7 @@ translate russian d2a1_lounge_check_patiodoors_03fe9950:
 translate russian d2a1_lounge_check_patiodoors_016cd730:
 
     # Y leering "Mrgh... Yep, won't even budge..." with shakeonce
-    Y leering "Мргх... Ага, даже не шелохнулось..." with shakeonce
+    Y leering "Мргх... Ага, даже не шелохнулись..." with shakeonce
 
 # game/script_day2_investigations.rpy:1711
 translate russian d2a1_lounge_check_patiodoors_2c8bf0e2:
@@ -4666,7 +4666,7 @@ translate russian d2a1_lounge_check_painting_e65f0e67:
 translate russian d2a1_lounge_check_lights_8ea49245:
 
     # I "A fancy-looking set of [t_pacclue]lights[t_paccluee]. Naturally, they're not on, but..."
-    I "Красивый комплект [t_pacclue]ламп[t_paccluee]. Естественно, они не горят, но..."
+    I "Красивые [t_pacclue]лампы[t_paccluee]. Естественно, они не горят, но..."
 
 # game/script_day2_investigations.rpy:1798
 translate russian d2a1_lounge_check_lights_f5dc6605:
@@ -4744,7 +4744,7 @@ translate russian d2a1_lounge_check_lights_3576402c:
 translate russian d2a1_lounge_check_lights_8cc55818:
 
     # Y "Then...maybe they tampered with your wristwatch too?"
-    Y "Тогда... может, они подкрутил и твои часы тоже?"
+    Y "Тогда...может, они подкрутил и твои часы тоже?"
 
 # game/script_day2_investigations.rpy:1814
 translate russian d2a1_lounge_check_lights_21b4e7df:
@@ -4894,7 +4894,7 @@ translate russian d2a2_basement_assistant1_50d13bda:
 translate russian d2a2_basement_assistant1_0d0072e6:
 
     # I "Cece's clearly [t_clue]reluctant to talk[t_cluee] right now... But why...?" with hpunch
-    I "Сеси ctqxfc явно [t_clue]не в настроении для разговоров[t_cluee]... Но почему...?" with hpunch
+    I "Сеси сейчас явно [t_clue]не в настроении для разговоров[t_cluee]... Но почему...?" with hpunch
 
 # game/script_day2_investigations.rpy:1899
 translate russian d2a2_basement_assistant1_6a053485:
@@ -4912,7 +4912,7 @@ translate russian d2a2_basement_assistant1_11fdb519_1:
 translate russian d2a2_basement_assistant1_9a6317a8:
 
     # Y blink "The gory stuff around here... It matches up pretty well with the Black Magic Mansion, doesn't it?"
-    Y blink "Все это кровавые штуки вокруг... Они довольно хорошо совпадают с легендой об Особняке Чёрной Магии, не так ли?"
+    Y blink "Всё это кровавые штуки вокруг... Они довольно хорошо совпадают с легендой об особняке чёрной магии, не так ли?"
 
 # game/script_day2_investigations.rpy:1904
 translate russian d2a2_basement_assistant1_1fcd19e9:
@@ -5026,7 +5026,7 @@ translate russian d2a2_basement_assistant1_55c180c6:
 translate russian d2a2_basement_assistant1_00c0a37b:
 
     # C "Obviously, I considered what I know about occult stuff and the Black Magic Mansion, but..."
-    C "Очевидно, я подумала обо всём, что знаю про оккультные вещи и Дом Чёрной Магии, но..."
+    C "Очевидно, я подумала обо всём, что знаю про оккультные вещи и особняк чёрной магии, но..."
 
 # game/script_day2_investigations.rpy:1935
 translate russian d2a2_basement_assistant1_8205f8fc:
@@ -5062,7 +5062,7 @@ translate russian d2a2_basement_assistant1_368cac27:
 translate russian d2a2_basement_assistant1_bad00dd9:
 
     # extend " Then that means there IS a secret...?!" with shakeonce
-    extend "Значит, всё-таки ЕСТЬ какой-то секрет...?!" with shakeonce
+    extend " Значит, всё-таки ЕСТЬ какой-то секрет...?!" with shakeonce
 
 # game/script_day2_investigations.rpy:1944
 translate russian d2a2_basement_assistant1_c4fc43a3:
@@ -5320,7 +5320,7 @@ translate russian d2a2_basement_assistant2_d2e0ffc6:
 translate russian d2a2_basement_assistant2_dc4171da:
 
     # Y "Just wondering if you found anything interesting."
-    Y "Просто интересно, нашла ли ты что-то интересное."
+    Y "Просто хочу узнать, нашла ли ты что-то интересное."
 
 # game/script_day2_investigations.rpy:2016
 translate russian d2a2_basement_assistant2_0da7c932:
@@ -5698,7 +5698,7 @@ translate russian d2a2_basement_assistant2_fb2c11da:
 translate russian d2a2_basement_assistant2_aea73282:
 
     # O thinking "\"Interesting\"...? You mean besides the seated corpse over there?"
-    O thinking "\"Интересно\"...? Ты имеешь в виду что-то кроме того трупа на стуле?"
+    O thinking "\"Интересное\"...? Ты имеешь в виду что-то кроме того трупа на стуле?"
 
 # game/script_day2_investigations.rpy:2103
 translate russian d2a2_basement_assistant2_aa8a4b4f:
@@ -5734,7 +5734,7 @@ translate russian d2a2_basement_assistant2_2906ed25:
 translate russian d2a2_basement_assistant2_fe222b59:
 
     # O leering2 "It's possible the culprit is something beyond anything we could imagine..."
-    O leering2 "Возможно, преступник - это нечто за пределами нашего воображения..."
+    O leering2 "Возможно, преступник - это нечто за пределами нашего понимания..."
 
 # game/script_day2_investigations.rpy:2111
 translate russian d2a2_basement_assistant2_655a4da1:
@@ -6058,7 +6058,7 @@ translate russian d2a2_basement_check_corpse_1f6adefd:
 translate russian d2a2_basement_check_corpse_506494eb:
 
     # O injured "He's... Whoever this man is... He's dead."
-    O injured "Он... Кем бы этот мужчина ни был... он мёртв."
+    O injured "Он... Кем бы этот мужчина ни был... Он мёртв."
 
 # game/script_day2_investigations.rpy:2247
 translate russian d2a2_basement_check_corpse_2fa33ec9:
@@ -6148,7 +6148,7 @@ translate russian d2a2_basement_check_table_ca63e5d5:
 translate russian d2a2_basement_check_table_c2672100:
 
     # I "...Wait, is this...[t_clue]blood[t_cluee]? It's all dry, though..."
-    I "...Подожди, это...[t_clue]кровь[t_cluee]? Хотя она уже вся засохла..."
+    I "...Подождите, это...[t_clue]кровь[t_cluee]? Хотя она уже вся засохла..."
 
 # game/script_day2_investigations.rpy:2283
 translate russian d2a2_basement_check_table_cb8862fb:
@@ -6328,19 +6328,19 @@ translate russian d2a2_basement_check_lights_526107ba:
 translate russian d2a2_basement_check_lights_0ec17f57:
 
     # Y thinking "Hmm... This is kind of a small entryway. I have to duck to not hit my head."
-    Y thinking "Хмм... Это довольно узкий проход. Мне приходится пригибаться, чтобы не удариться головой."
+    Y thinking "Хмм... Тут довольно узкий проход. Мне приходится нагибаться, чтобы не удариться головой."
 
 # game/script_day2_investigations.rpy:2363
 translate russian d2a2_basement_check_lights_8eb6e7c7:
 
     # Y surprised "...Oh, I guess Cece didn't hit her head because she's--"
-    Y surprised "...О, думаю, Сеси не ударилась головой, потому что она--"
+    Y surprised "...Ох, думаю, Сеси не ударилась головой, потому что она--"
 
 # game/script_day2_investigations.rpy:2366
 translate russian d2a2_basement_check_lights_2fe512f0:
 
     # C sobbing "[name_player]! You don't have to voice every thought you have!" with hpunch
-    C sobbing "[name_player]! Не обязательно вслух говорить всё, что приходит в голову!" with hpunch
+    C sobbing "[name_player]! Не обязательно говорить вслух всё, что приходит тебе в голову!" with hpunch
 
 # game/script_day2_investigations.rpy:2367
 translate russian d2a2_basement_check_lights_f57d4b0a:
@@ -6664,7 +6664,7 @@ translate russian d2a2_basement_check_covered_1b31be18:
 translate russian d2a2_basement_check_covered_e578ab1c:
 
     # Y "...Organs...visible..." with shakeshort
-    Y "...Органы...видны..." with shakeshort
+    Y "...Там видно...органы..." with shakeshort
 
 # game/script_day2_investigations.rpy:2523
 translate russian d2a2_basement_check_covered_0ce7f449:
@@ -6682,7 +6682,7 @@ translate russian d2a2_basement_check_covered_7a6eddfb:
 translate russian d2a2_basement_check_covered_f10039ba:
 
     # Y pained "Wh-what? Why would anyone make something so disgusting?!" with shakeshort
-    Y pained "Ч-чего? Зачем кому-то создавать что-то такое отвратительное?!" with shakeshort
+    Y pained "Ч-что? Зачем кому-то создавать что-то настолько отвратительное?!" with shakeshort
 
 # game/script_day2_investigations.rpy:2529
 translate russian d2a2_basement_check_covered_a0443a5e:
@@ -6718,7 +6718,7 @@ translate russian d2a2_basement_check_covered_fbf1f7c7:
 translate russian d2a2_basement_check_covered_981a74dc:
 
     # O irritated "[name_player] is literally on the floor shaking, and you insist on making things even more grotesque..."
-    O irritated "[name_player] буквально лежит на полу и дрожит, а ты настаиваешь на продолжаешь делать всё ещё более омерзительным..."
+    O irritated "[name_player] буквально лежит на полу и дрожит, а ты настаиваешь и продолжаешь делать всё ещё более омерзительным..."
 
 # game/script_day2_investigations.rpy:2542
 translate russian d2a2_basement_check_covered_365cab87:
@@ -6802,7 +6802,7 @@ translate russian d2a2_basement_check_barrel_283e0353:
 translate russian d2a2_basement_check_barrel_eed89223:
 
     # I "{cps=6}.....{/cps} ...Wait, this smell..."
-    I "{cps=6}.....{/cps} ...Подожди, этот запах..."
+    I "{cps=6}.....{/cps} ...Подождите, этот запах..."
 
 # game/script_day2_investigations.rpy:2597
 translate russian d2a2_basement_check_barrel_69bcb393:
@@ -6862,7 +6862,7 @@ translate russian d2a2_basement_check_barrel_c5ab2de6:
 translate russian d2a2_basement_check_spiderweb_7b3a7ce4:
 
     # I "There's a [t_pacclue]spider web[t_paccluee] in this handrail. I guess that's a classic spooky touch but..."
-    I "На этих перилах [t_pacclue]паучья паутина[t_paccluee]. Полагаю, это классический элемент для жутких мест, но..."
+    I "На этих перилах [t_pacclue]паутина[t_paccluee]. Полагаю, это классический элемент для жутких мест, но..."
 
 # game/script_day2_investigations.rpy:2631
 translate russian d2a2_basement_check_spiderweb_a603f09e:
@@ -7126,7 +7126,7 @@ translate russian d2a2_basement_check_box_4b68a08a:
 translate russian d2a2_basement_check_box_6c177f10:
 
     # C pout "Ah, [name_player], no fair! You can't ban me from going near that box, then start playing with it yourself!" with shakeonce
-    C pout "Эй, [name_player], это нечестно! Ты запрещаешь мне подходить к коробке, а сама с ней играешь!" with shakeonce
+    C pout "Эй, [name_player], это нечестно! Ты запрещаешь мне подходить к коробке, а сама играешь с ней!" with shakeonce
 
 # game/script_day2_investigations.rpy:2749
 translate russian d2a2_basement_check_box_cc23cd65:
@@ -7150,7 +7150,7 @@ translate russian d2a2_basement_check_box_de7d20c3:
 translate russian d2a2_basement_check_box_8c9502b3:
 
     # C pout "Look, I know where the line is! I was just trying to reduce the tension here!"
-    C pout "СЛушайте, я знаю границы! Я просто пыталась снять напряжение!"
+    C pout "Слушайте, я знаю границы! Я просто пыталась снять напряжение!"
 
 # game/script_day2_investigations.rpy:2753
 translate russian d2a2_basement_check_box_9371c4b2:
@@ -7408,7 +7408,7 @@ translate russian d2a3_library_check_desk_fb6ffea5:
 translate russian d2a3_library_check_desk_a6a21e3f:
 
     # I "Wait, it looks like this one book is filled cover to cover in handwriting. Someone's journal, maybe?"
-    I "Подожди, похоже, эта книга полностью исписана от корки до корки. Может, это чей-то дневник?"
+    I "Подождите, похоже, эта книга полностью исписана от корки до корки. Может, это чей-то дневник?"
 
 # game/script_day2_investigations.rpy:3019
 translate russian d2a3_library_check_desk_1ac7e400:
@@ -7546,7 +7546,7 @@ translate russian d2a3_library_check_desk_ef8fc8ad:
 translate russian d2a3_library_check_desk_6f1fc479:
 
     # U "I cannot afford any more trespassers ruining my experiments... I must abandon any mercy left in my heart..."
-    U "Я не могу позволить, чтобы кто-то ещё лез в мои эксперименты... Я должен отказаться от любой жалости, оставшейся в моем сердце..."
+    U "Я не могу позволить, чтобы кто-то ещё лез в мои эксперименты... Я должен отказаться от любой жалости, оставшейся в моём сердце..."
 
 # game/script_day2_investigations.rpy:3057
 translate russian d2a3_library_check_desk_4770a095_2:
@@ -7648,7 +7648,7 @@ translate russian d2a3_library_check_bloodbottle_2b9bdf97:
 translate russian d2a3_library_check_bloodbottle_1565976c:
 
     # I "YEP! Blood, of course... Why is it in a bottle on the floor like this...?" with shakeshort
-    I "ДАГА! Кровь, конечно же... Почему это в бутылке, которая стоит вот так на полу...?" with shakeshort
+    I "АГА! Кровь, конечно же... Почему она в бутылке, которая стоит вот так на полу...?" with shakeshort
 
 # game/script_day2_investigations.rpy:3154
 translate russian d2a3_library_check_bloodbottle_edb7c403:
@@ -7684,7 +7684,7 @@ translate russian d2a3_library_check_carpet_0b2dbb1f:
 translate russian d2a3_library_check_carpet_6a7f15bd:
 
     # I "No... This is too thick to cut a makeshift bandage with, even with Cece's knife..." with hpunch
-    I "Нет... Он слишком толстsq, чтобы разрезать импровизированную повязку, даже ножом Сеси..." with hpunch
+    I "Нет... Он слишком толстый, чтобы вырезать импровизированную повязку, даже ножом Сеси..." with hpunch
 
 # game/script_day2_investigations.rpy:3202
 translate russian d2a3_library_check_carpet_94a731d4:
@@ -8610,7 +8610,7 @@ translate russian strings:
 
     # game/script_day2_investigations.rpy:222
     old "\"Yes, let her pop off!\""
-    new "\"Да, пусть она вырвется!\""
+    new "\"Да, пусть она выговорится!\""
 
     # game/script_day2_investigations.rpy:222
     old "\"No, I've had enough of that.\""
@@ -8682,7 +8682,7 @@ translate russian strings:
 
     # game/script_day2_investigations.rpy:972
     old "Tear"
-    new "Разрыв"
+    new "Порванные обои"
 
     # game/script_day2_investigations.rpy:988
     old "Check the area [t_clue]behind her[t_cluee]"
@@ -8758,7 +8758,7 @@ translate russian strings:
 
     # game/script_day2_investigations.rpy:2773
     old "Move"
-    new "Двигаться"
+    new "Идти"
 
     # game/script_day2_investigations.rpy:2779
     old "Small Corpse"

@@ -280,13 +280,13 @@ translate russian d1a1_1ae32905:
 translate russian d1a1_ba346c3d:
 
     # O leering "We can't be too careful. Let's {color=#ff0000}start over{/color}."
-    O leering "Мы не можем быть слишком осторожными. Давайте {color=#ff0000}начнём сначала{/color}."
+    O leering "Мы не можем быть слишком осторожными. Давай {color=#ff0000}начнём сначала{/color}."
 
 # game/script_day1.rpy:436
 translate russian d1a1_fb9783af:
 
     # C blink "Yeah, that's probably for the best."
-    C blink "Да, наверное, так будет лучше."
+    C blink "Ага, наверное, так будет лучше."
 
 # game/script_day1.rpy:437
 translate russian d1a1_83be51ad:
@@ -6826,7 +6826,7 @@ translate russian d1a2_01cdeae4:
 translate russian d1a2_e3908825:
 
     # extend " *SNIFFFFFFF*" with shakeshort
-    extend " *ФФФФФФФ*" with shakeshort
+    extend " *ВДОХХХХХХХ*" with shakeshort
 
 # game/script_day1.rpy:2994
 translate russian d1a2_434c29b5:
@@ -7648,7 +7648,7 @@ translate russian d1a2_f5bd12ac:
 translate russian d1a2_373efc21:
 
     # I "Crap, I said that out loud!" with hpunch
-    I "Черт, я сказала это вслух!" with hpunch
+    I "Чёрт, я сказала это вслух!" with hpunch
 
 # game/script_day1.rpy:3255
 translate russian d1a2_b45ccc0d:
@@ -8884,7 +8884,7 @@ translate russian d1a3_order_aede2a65:
 translate russian d1a3_order_c9b9cebf:
 
     # O "...Good, you're awake."
-    O "...Хорошо, ты проснулся."
+    O "...Хорошо, ты проснулась."
 
 # game/script_day1.rpy:3888
 translate russian d1a3_order_255cd62f:
@@ -13792,7 +13792,7 @@ translate russian d1a4_questioning_end_01cdeae4:
 translate russian d1a4_questioning_end_e3908825:
 
     # extend " *SNIFFFFFFF*" with shakeshort
-    extend " *ФФФФФФФ*" with shakeshort
+    extend " *ВДОХХХХХХХ*" with shakeshort
 
 # game/script_day1.rpy:5781
 translate russian d1a4_questioning_end_89411498:

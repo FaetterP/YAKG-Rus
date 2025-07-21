@@ -2050,7 +2050,7 @@ translate russian d1a1_check_petbowl_bdddff65:
 translate russian d1a1_check_petbowl_362e068b:
 
     # Y worried "...Okay, good talk. Let's get back to work, porcupine gal."
-    Y worried "...Ладно, мы поговорили. Давай вернемся к работе, девчонка-дикобраз."
+    Y worried "...Ладно, мы поговорили. Давай вернёмся к работе, девчонка-дикобраз."
 
 # game/script_day1_investigations.rpy:945
 translate russian d1a1_check_petbowl_5c11fdbe:

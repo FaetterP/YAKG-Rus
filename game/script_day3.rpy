@@ -9392,7 +9392,7 @@ label d3a8:
             show text "Это произведение является вымышленным. Любое сходство с реальными событиями и людьми, живыми\nили мёртвыми, является случайным. Мнения, выраженные персонажами этого\nпроизведения, не обязательно совпадают с мнением автора." with dissolvemed
             pause 15.0
             hide text with dissolvemed
-            show text "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)" with dissolvemed
+            show text "Спасибо моей команде, всем, кто помог мне воплотить это видение в жизнь\nи, конечно, тебе, [name_player_true], за то, что досмотрел эту историю до конца.\n\nИскренне ваш,\nJun Kakeru (2025)" with dissolvemed
             pause 15.0
             $ persistent.unlock_gameclear_cgs = True
             if not chose_suspect:

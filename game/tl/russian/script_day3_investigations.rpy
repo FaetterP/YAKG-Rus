@@ -292,7 +292,7 @@ translate russian d3a3_corpse_check_pockets_11fdb519:
 translate russian d3a3_corpse_check_pockets_df742cbb:
 
     # Y worried "I still don't have all my memories back, and that includes my passcode." with hpunch
-    Y worried "Я всё ещё не мог вспомнить всё до конца, и это касается даже моего пароля." with hpunch
+    Y worried "Я всё ещё не могу вспомнить всё до конца, и это касается даже моего пароля." with hpunch
 
 # game/script_day3_investigations.rpy:232
 translate russian d3a3_corpse_check_pockets_b97673f9:
@@ -304,7 +304,7 @@ translate russian d3a3_corpse_check_pockets_b97673f9:
 translate russian d3a3_corpse_check_pockets_0528a9da:
 
     # O thinking "Oh, I suppose that makes sense."
-    O thinking "О, наверное, это логично."
+    O thinking "Ох, наверное, это логично."
 
 # game/script_day3_investigations.rpy:235
 translate russian d3a3_corpse_check_pockets_9dbd725d:
@@ -376,7 +376,7 @@ translate russian d3a3_corpse_check_pockets_bd09cc75:
 translate russian d3a3_corpse_check_pockets_93492a24:
 
     # C sweatdrop "Yeah, I guess we'll have to try again later..."
-    C sweatdrop "Ага, думаю, нам придется попробовать позже..."
+    C sweatdrop "Ага, думаю, нам придётся попробовать позже..."
 
 # game/script_day3_investigations.rpy:258
 translate russian d3a3_corpse_check_pockets_a00146ac:
@@ -490,7 +490,7 @@ translate russian d3a3_corpse_check_knife_94dddaba:
 translate russian d3a3_corpse_check_knife_57376566:
 
     # I "So that means...someone took his knife from him, and used it to kill him? So maybe it was [t_clue]self-defence[t_cluee]?"
-    I "Значит...кто-то отобрал нож и использовал его, чтобы убить его? Может, это было [t_clue]самооборона[t_cluee]?"
+    I "Значит...кто-то отобрал нож и использовал его, чтобы убить его? Может, это была [t_clue]самооборона[t_cluee]?"
 
 # game/script_day3_investigations.rpy:319
 translate russian d3a3_corpse_check_knife_d5e12def:

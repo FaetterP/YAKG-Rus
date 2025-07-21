@@ -76,7 +76,7 @@ translate russian strings:
 
     # game/0bobcachievements.rpy:22
     old "Under a Corpse's Gaze"
-    new "Под взглядом трупа"
+    new "Под пристальным взглядом трупа"
 
     # game/0bobcachievements.rpy:22
     old "Reach 100% Investigation Progress in the basement."

@@ -226,7 +226,7 @@ translate russian d2a1_d3462057:
 translate russian d2a1_dee24c52:
 
     # C towel sad "Mrgh... Okay, I guess you're allowed to not be into girls..." with hpunch
-    C towel sad "Мргх... Ладно, полагаю, ты имеешь право не интересоваться девочкаами..." with hpunch
+    C towel sad "Мргх... Ладно, полагаю, ты имеешь право не интересоваться девочками..." with hpunch
 
 # game/script_day2.rpy:116
 translate russian d2a1_b947540f:
@@ -418,7 +418,7 @@ translate russian d2a1_cd9f8fdc:
 translate russian d2a1_3c27e5d2:
 
     # I "...Yeah, it's possible the time limit is [t_clue]before the next time the clock chimes[t_cluee]."
-    I "...Да, возможно, что ограничение времени [t_clue]до следующего звона часов[t_cluee]."
+    I "...Ага, возможно, что ограничение времени [t_clue]до следующего звона часов[t_cluee]."
 
 # game/script_day2.rpy:202
 translate russian d2a1_52cdc46d:
@@ -472,7 +472,7 @@ translate russian d2a1_443e4a86:
 translate russian d2a1_9c29bfe7:
 
     # O blink "Considering the pet bowl in the kitchen, we can assume [name_dog] used to live here with the family."
-    O blink "Учитывая миску для корма на кухне, можно предположить, что [name_dog] жил здесь с семьей."
+    O blink "Учитывая миску для корма на кухне, можно предположить, что [name_dog] жил здесь с семьёй."
 
 # game/script_day2.rpy:218
 translate russian d2a1_e2bc4fbd:
@@ -520,7 +520,7 @@ translate russian d2a1_3d003c25:
 translate russian d2a1_eff9757a:
 
     # O "Cecilia said she was going to take a shower. And the only working one is in the master bedroom's bathroom."
-    O "Сесилия сказала, что пойдет принять душ. И единственный работающий в ванной в главной спальне."
+    O "Сесилия сказала, что пойдет принять душ. И единственный работающий находится в ванной в главной спальне."
 
 # game/script_day2.rpy:241
 translate russian d2a1_de6f8359:
@@ -688,7 +688,7 @@ translate russian d2a1_12bb00ca:
 translate russian d2a1_4fbb152f:
 
     # C "Oh yeah, there's something I forgot to mention to you both! You know that--"
-    C "А да, я забыла кое-что вам сказать! Знаете, что--"
+    C "Ой, да, я забыла кое-что вам сказать! Знаете, что--"
 
 # game/script_day2.rpy:296
 translate russian d2a1_0c5a0983:
@@ -700,7 +700,7 @@ translate russian d2a1_0c5a0983:
 translate russian d2a1_54cbd969:
 
     # C surprised "Huh? Oh, well look at that! Anyway, so you know that--"
-    C surprised "Хм? О, посмотрите-ка! В любом случае, ты знаешь, что--"
+    C surprised "А? О, хорошо, посмотри на него! В любом случае, ты знаешь, что--"
 
 # game/script_day2.rpy:298
 translate russian d2a1_3fa628ac:
@@ -754,7 +754,7 @@ translate russian d2a1_0569cbc8:
 translate russian d2a1_73976b51:
 
     # O disappointed "...You know you're not getting out of this."
-    O disappointed "...Ты знаешь, что ты отсюда не выбраться."
+    O disappointed "...Ты знаешь, что отсюда не выбраться."
 
 # game/script_day2.rpy:308
 translate russian d2a1_3bbe9e0a:
@@ -772,7 +772,7 @@ translate russian d2a1_2aeb8c93:
 translate russian d2a1_a8d77f67:
 
     # C "But I WILL struggle, okay?! This won't be an easy fit for me!"
-    C "Но я БУДУ сопротивляться, хорошо?! Это будет нелегко для меня!"
+    C "Но я БУДУ сопротивляться, ладно?! Для меня это тоже нелегко!"
 
 # game/script_day2.rpy:320
 translate russian d2a1_b30c9741:
@@ -802,7 +802,7 @@ translate russian d2a1_bd34b115:
 translate russian d2a1_0dd3d662:
 
     # C thinking "Huh, looks like this little cabinet was [t_clue]blocking the door[t_cluee] at its hinges."
-    C thinking "Хм, похоже, этот маленький шкаф [t_clue]блокировал дверь[t_cluee] на петлях."
+    C thinking "А, похоже, этот маленький шкаф [t_clue]блокировал дверь[t_cluee] на петлях."
 
 # game/script_day2.rpy:328
 translate russian d2a1_f0a051f6:
@@ -814,25 +814,25 @@ translate russian d2a1_f0a051f6:
 translate russian d2a1_b231da8e:
 
     # O confused "It {i}does{/i} make sense... After all, why would a living room door need a lock?"
-    O confused "Это {i}действительно{/i} имеет смысл... В конце концов, зачем двери в гостиной замок?"
+    O confused "Это {i}действительно{/i} имеет смысл... В конце концов, зачем нужно закрывать дверь в жилую конату?"
 
 # game/script_day2.rpy:332
 translate russian d2a1_498973f9:
 
     # C blink "Okay, little cabinet, let's pull you out of there, and..."
-    C blink "Ладно, маленький шкафчик, давай вытащим тебя отсюда, и..."
+    C blink "Ладно, маленький шкафчик, давай оттащим тебя отсюда, и..."
 
 # game/script_day2.rpy:342
 translate russian d2a1_368d6605:
 
     # C "Okay, come on in, guys!"
-    C "Ладно, заходите, девчонки!"
+    C "Окей, заходите, девчонки!"
 
 # game/script_day2.rpy:364
 translate russian d2a1_d1b7cd17:
 
     # Y surprised "Looks like you were right, Ria. It's a living room...or maybe more like a [t_clue]lounge[t_cluee]...?"
-    Y surprised "Похоже, Рия, ты была права. Это жилая комната... или, скорее что-то типа [t_clue]гостиной[t_cluee]...?"
+    Y surprised "Похоже, Рия, ты была права. Это жилая комната...или, скорее, что-то типа [t_clue]гостиной[t_cluee]...?"
 
 # game/script_day2.rpy:365
 translate russian d2a1_ffc2e1f1:
@@ -880,7 +880,7 @@ translate russian d2a1_a3334684:
 translate russian d2a1_8f3f17c3:
 
     # Y surprised "R-right. Thanks, Cece. Your tiny frame really came in handy."
-    Y surprised "П-прости. Спасибо, Сеси. Твоя маленькая фигурка действительно оказалась очень кстати."
+    Y surprised "П-прости. Спасибо, Сеси. Твоя маленькая фигура действительно оказалась очень кстати."
 
 # game/script_day2.rpy:394
 translate russian d2a1_25043049:
@@ -934,13 +934,13 @@ translate russian d2a1_9198542c:
 translate russian d2a1_5038a87a:
 
     # C blink "Y'see, just a couple hours ago, I was watching you sleep for a while when something interesting caught my eye."
-    C blink "Смотри, всего пару часов назад я наблюдала за твоим сном, когда что-то интересное привлекло моё внимание."
+    C blink "Смотри, всего пару часов назад я смотрела, как ты спишь, когда что-то интересное привлекло моё внимание."
 
 # game/script_day2.rpy:415
 translate russian d2a1_d48202d6:
 
     # C smile "On the frame of the bed, next to the wardrobe...was the tiniest little [t_clue]keyhole[t_cluee]."
-    C smile "На раме кровати, рядом с шкафом... была крошечная [t_clue]замочная скважина[t_cluee]."
+    C smile "На раме кровати, рядом с шкафом...была крошечная [t_clue]замочная скважина[t_cluee]."
 
 # game/script_day2.rpy:419
 translate russian d2a1_9151b852:
@@ -958,7 +958,7 @@ translate russian d2a1_b3968848:
 translate russian d2a1_23915043:
 
     # Y worried "...Did you just say you were watching me sleep?"
-    Y worried "...Ты только что сказала, что наблюдала за моим сном?"
+    Y worried "...Ты только что сказала, что смотрела, как я сплю?"
 
 # game/script_day2.rpy:424
 translate russian d2a1_d490fe65:
@@ -1294,7 +1294,7 @@ translate russian d2a1_start_investigation_a7ec8435:
 translate russian d2a1_start_investigation_48c535a9:
 
     # O thinking "{cps=6}.....{/cps} ...Don't waste any time coming back, okay?"
-    O thinking "{cps=6}.....{/cps} ...Не трать времени, возвращайся, ладно?"
+    O thinking "{cps=6}.....{/cps} ...Не трать время, возвращайся, ладно?"
 
 # game/script_day2.rpy:533
 translate russian d2a1_start_investigation_d5d916f4:
@@ -1330,7 +1330,7 @@ translate russian d2a1_start_investigation_c63ca320:
 translate russian d2a1_start_investigation_bd7bbb0f:
 
     # Y panicked "WHOA!" with shakeshort
-    Y panicked "ВАУ!" with shakeshort
+    Y panicked "ВОУ!" with shakeshort
 
 # game/script_day2.rpy:548
 translate russian d2a1_start_investigation_29f1af02:
@@ -1450,7 +1450,7 @@ translate russian d2a1_start_investigation_2b84d902:
 translate russian d2a1_start_investigation_a547a41c:
 
     # O sideeye "...I may not believe in supernatural phenomena, but... If anyone can find something relevant, it'd be you."
-    O sideeye "...Я, может, и не верю в сверхъестественные явления, но... если кто и может найти что-то важное, то это ты."
+    O sideeye "...Я, может, и не верю в сверхъестественные явления, но... Если кто и может найти что-то важное, то это ты."
 
 # game/script_day2.rpy:606
 translate russian d2a1_start_investigation_928023ab:
@@ -1624,7 +1624,7 @@ translate russian d2a1_attic_070a836a:
 translate russian d2a1_attic_c52f2b84:
 
     # Y thinking "Still... I wonder if anything here will actually be useful to us..."
-    Y thinking "Всё же... Интересно, будет ли здесь что-то, что действительно пригодится нам..."
+    Y thinking "Всё же... Интересно, будет ли здесь что-то, что действительно нам пригодится..."
 
 # game/script_day2.rpy:728
 translate russian d2a1_attic_a7af916a:
@@ -1684,7 +1684,7 @@ translate russian d2a1_attic_end_4ad1e855:
 translate russian d2a1_attic_end_30350546:
 
     # Y blink "Well, everything in this attic appears to be related to [t_clue]demons[t_cluee] and [t_clue]the dead[t_cluee]."
-    Y blink "Что же, всё в этом чердаке похоже связано с [t_clue]демонами[t_cluee] и [t_clue]мертвыми[t_cluee]."
+    Y blink "Что же, похоже, всё в этом чердаке связано с [t_clue]демонами[t_cluee] и [t_clue]мёртвыми[t_cluee]."
 
 # game/script_day2.rpy:798
 translate russian d2a1_attic_end_074c7979:
@@ -1726,7 +1726,7 @@ translate russian d2a1_attic_end_3435fb6b:
 translate russian d2a1_attic_end_65301f97:
 
     # Y surprised "Huh? I could've sworn I saw one book about summoning demons..."
-    Y surprised "Ха? Я могла поклясться, что видела книгу о призыве демонов..."
+    Y surprised "Хм? Я могла поклясться, что видела книгу о призыве демонов..."
 
 # game/script_day2.rpy:809
 translate russian d2a1_attic_end_c099d191:
@@ -1798,7 +1798,7 @@ translate russian d2a1_attic_end_6c028693:
 translate russian d2a1_attic_end_1de090a6:
 
     # C smug "Oh, psh, totally! Those are the most popular types, especially with dreamy maidens like myself."
-    C smug "О, пфф, конечно! Это самые популярные запросы, особенно среди мечтательных девушек, как я."
+    C smug "Ой, пфф, конечно! Это самые популярные запросы, особенно среди мечтательных девушек, как я."
 
 # game/script_day2.rpy:842
 translate russian d2a1_attic_end_73f2e804:
@@ -2038,7 +2038,7 @@ translate russian d2a1_attic_end_1ee0b552:
 translate russian d2a1_attic_end_5d0dcffc:
 
     # Y afraid "H-hey... Ria, are you tired? Can't you...see...me..." with shakeonce
-    Y afraid "Х-хей... Рия, ты устала? Ты не можешь...видеть...меня..." with shakeonce
+    Y afraid "Э-эй... Рия, ты устала? Ты можешь...видеть...меня..." with shakeonce
 
 # game/script_day2.rpy:967
 translate russian d2a1_attic_end_7113b4a6:
@@ -2212,7 +2212,7 @@ translate russian d2a1_attic_end_51206869:
 translate russian d2a1_attic_end_dcee4fdb:
 
     # C "And there's a faint trail of blood drops leading to the [t_clue]corner[t_cluee] over there, AWAY from the door we entered."
-    C "И там есть слабый след капель крови, ведущий в [t_clue]угол[t_cluee], ПОДАЛЬШЕ от двери, через которую мы вошли."
+    C "И там есть слабый след капель крови, ведущий в [t_clue]угол[t_cluee], чуть ДАЛЬШЕ от двери, через которую мы вошли."
 
 # game/script_day2.rpy:1018
 translate russian d2a1_attic_end_fc2242ca:
@@ -2350,7 +2350,7 @@ translate russian d2a1_attic_end_631afa0b:
 translate russian d2a1_attic_end_e70da02c:
 
     # Y shadow "It's...for the best..."
-    Y shadow "Это... к лучшему..."
+    Y shadow "Это...к лучшему..."
 
 # game/script_day2.rpy:1057
 translate russian d2a1_attic_end_dc8e4ee9:
@@ -2398,7 +2398,7 @@ translate russian d2a1_attic_end_0de32b05:
 translate russian d2a1_attic_end_aded82b1:
 
     # KI "[t_ghost]{size=+5}IT CAN'T END LIKE THIIIIIIIS!!{/size}[t_ghoste]" with shakelong
-    KI "{t_ghost}{size=+5}ЭТО НЕ МОЖЕТ ЗАКОНЧИТЬСЯ ТАААААААК!!!!{/size}{t_ghoste}" with shakelong
+    KI "[t_ghost]{size=+5}ЭТО НЕ МОЖЕТ ЗАКОНЧИТЬСЯ ТАААААААК!!!!{/size}[t_ghoste]" with shakelong
 
 # game/script_day2.rpy:1096
 translate russian d2a1_lounge_96381da6:
@@ -2446,13 +2446,13 @@ translate russian d2a1_lounge_ff75ecfd:
 translate russian d2a1_lounge_0ef37c03:
 
     # O "Don't just disappear on me like that! I was super duper worried!" with hpunch
-    O "Не исчезай просто так! Я супер-дупер переживала!" with hpunch
+    O "Не исчезай просто так! Я супер-пупер переживала!" with hpunch
 
 # game/script_day2.rpy:1117
 translate russian d2a1_lounge_2ac4f979:
 
     # I "{cps=6}.....{/cps} ...I don't think it's wrong to be enthusiastic about things you love."
-    I "{cps=6}.....{/cps} ...Я не думаю, это неправильно быть настолько увлечённой тем, что ты любишь."
+    I "{cps=6}.....{/cps} ...Я не думаю, что это неправильно проявлять энтузиазм к тому, что тебе нравится."
 
 # game/script_day2.rpy:1124
 translate russian d2a1_lounge_288c0ade:
@@ -2488,13 +2488,13 @@ translate russian d2a1_lounge_a51560e5:
 translate russian d2a1_lounge_c0aadc19:
 
     # Y relaxed "In the meantime, let's take a good look around this room like we planned. M'kay?"
-    Y relaxed "А пока давайте хорошо осмотрим эту комнату, как мы и планировали. Хорошо?"
+    Y relaxed "А пока давайте хорошо осмотрим эту комнату, как мы и планировали. Ладно?"
 
 # game/script_day2.rpy:1140
 translate russian d2a1_lounge_8c26f115:
 
     # O "...M'kay. You take the lead..."
-    O "...Хорошо. Веди нас..."
+    O "...Ладно. Веди нас..."
 
 # game/script_day2.rpy:1141
 translate russian d2a1_lounge_b39cf43e:
@@ -2506,7 +2506,7 @@ translate russian d2a1_lounge_b39cf43e:
 translate russian d2a1_lounge_69c8180c:
 
     # extend happy " Pft..." with vpunch
-    extend happy " Пфф..." with vpunch
+    extend happy " Пфт..." with vpunch
 
 # game/script_day2.rpy:1146
 translate russian d2a1_lounge_1c01b3a9:
@@ -2596,7 +2596,7 @@ translate russian d2a1_lounge_end_6c35e428:
 translate russian d2a1_lounge_end_1b250bad:
 
     # O irritated "...You can stop treating me like a preschooler anytime now."
-    O irritated "...Ты можешь перестать обращаться со мной как с детсадовкой в любой момент."
+    O irritated "...Ты в любой момент можешь перестать обращаться со мной как с детсадовкой."
 
 # game/script_day2.rpy:1224
 translate russian d2a1_lounge_end_d1ece83a:
@@ -2608,7 +2608,7 @@ translate russian d2a1_lounge_end_d1ece83a:
 translate russian d2a1_lounge_end_16caecae:
 
     # I "She's back."
-    I "Она вернулась."
+    I "Она отвернулась."
 
 # game/script_day2.rpy:1226
 translate russian d2a1_lounge_end_86c934a0:
@@ -2644,7 +2644,7 @@ translate russian d2a1_lounge_end_4d7c616a:
 translate russian d2a1_lounge_tragedy_fb48f479:
 
     # O default "[name_player]. Think about it. What tragedy happened to the family?{nw}"
-    O default "[name_player], подумай об этом. Какая трагедия случилась с семьей?{nw}"
+    O default "[name_player], подумай об этом. Какая трагедия случилась с семьёй?{nw}"
 
 # game/script_day2.rpy:1236
 translate russian d2a1_lounge_tragedy_11fdb519:
@@ -2866,7 +2866,7 @@ translate russian d2a1_lounge_tragedy_4fb90199:
 translate russian d2a1_lounge_tragedy_c27691e8:
 
     # Y leering "But there's [t_clue]no mention of the daughter[t_cluee] at all."
-    Y leering "Но там [t_clue]вообще не упоминается дочь[t_cluee]."
+    Y leering "Но там вообще [t_clue]не упоминается дочь[t_cluee]."
 
 # game/script_day2.rpy:1292
 translate russian d2a1_lounge_tragedy_8eca5824:
@@ -2914,7 +2914,7 @@ translate russian d2a1_lounge_tragedy_2228cb6b:
 translate russian d2a1_lounge_tragedy_5ef564b3:
 
     # O "Through some unknown means, the daughter must have died first. That has to be the tragedy that tore their family apart."
-    O "Каким-то неизвестным образом, дочь, должно быть, умерла первой. Это могло быть той трагедией, которая разорвала их семью."
+    O "Каким-то неизвестным образом, дочь, должно быть, умерла первой. Это могло быть той трагедией, которая разрушила их семью."
 
 # game/script_day2.rpy:1304
 translate russian d2a1_lounge_tragedy_21791070:
@@ -2986,7 +2986,7 @@ translate russian d2a1_lounge_tragedy_df117f36:
 translate russian d2a1_lounge_tragedy_7c0973e3:
 
     # O confused "Back to our present situation..."
-    O confused "Вернемся к нашей текущей ситуации..."
+    O confused "Вернёмся к нашей текущей ситуации..."
 
 # game/script_day2.rpy:1320
 translate russian d2a1_lounge_tragedy_90849944:
@@ -3004,7 +3004,7 @@ translate russian d2a1_lounge_tragedy_56aba764:
 translate russian d2a1_lounge_tragedy_c7a0d03b:
 
     # Y thinking "Considering the type of man he was, I guess that's plausible..."
-    Y thinking "Учитывая, каким человеком он был, думаю, это правдоподобно..."
+    Y thinking "Учитывая, каким человеком он был, думаю, это может быть правдой..."
 
 # game/script_day2.rpy:1324
 translate russian d2a1_lounge_tragedy_355b7a2f:
@@ -3058,7 +3058,7 @@ translate russian d2a1_lounge_tragedy_bffb1959:
 translate russian d2a1_lounge_tragedy_f2eb0de1:
 
     # Y surprised "Oh yeah, Cece's still not back..."
-    Y surprised "О, точно, Сеси всё ещё не вернулась..."
+    Y surprised "Ой, точно, Сеси всё ещё не вернулась..."
 
 # game/script_day2.rpy:1335
 translate russian d2a1_lounge_tragedy_0b44bb81:
@@ -3214,7 +3214,7 @@ translate russian d2a1_lounge_tragedy_38c61561:
 translate russian d2a1_lounge_tragedy_1e62f727:
 
     # I "Cece's...been slashed...?"
-    I "Сеси... порезана...?"
+    I "Сеси...порезана...?"
 
 # game/script_day2.rpy:1420
 translate russian d2a1_lounge_tragedy_910c1da8:
@@ -3244,7 +3244,7 @@ translate russian d2a1_lounge_tragedy_4203ebb2:
 translate russian d2a1_lounge_tragedy_565be762:
 
     # C "...I...messed up..."
-    C "...Я... облажалась..."
+    C "...Я...облажалась..."
 
 # game/script_day2.rpy:1430
 translate russian d2a1_lounge_tragedy_ebc1d6f8:
@@ -3334,7 +3334,7 @@ translate russian d2a1_lounge_tragedy_82f8ccb8:
 translate russian d2a1_lounge_tragedy_356e4c5d:
 
     # C "[t_clue]Behind[t_cluee]...[t_clue]trunk[t_cluee]..."
-    C "[t_clue]Сзади[t_cluee]...[t_clue]багажник[t_cluee]..."
+    C "[t_clue]Сзади[t_cluee]...[t_clue]сундук[t_cluee]..."
 
 # game/script_day2.rpy:1458
 translate russian d2a1_lounge_tragedy_05fdce55:
@@ -3418,7 +3418,7 @@ translate russian d2a1_lounge_tragedy_27d2a107:
 translate russian d2a1_lounge_tragedy_9720b35d:
 
     # O surprised "...What? Come on, [name_player], she didn't mean a literal demon."
-    O surprised "...Что? Давай, [name_player], она не имела в виду буквально демона."
+    O surprised "...Что? Давай же, [name_player], она не имела в виду буквально демона."
 
 # game/script_day2.rpy:1489
 translate russian d2a1_lounge_tragedy_d46b53a8:
@@ -3484,7 +3484,7 @@ translate russian d2a1_lounge_tragedy_c94adb79:
 translate russian d2a1_lounge_tragedy_3944fcf6:
 
     # KI "[t_ghost]...can't...[t_ghoste]"
-    KI "[t_ghost]...не может...[t_ghoste]"
+    KI "[t_ghost]...не могу...[t_ghoste]"
 
 # game/script_day2.rpy:1510
 translate russian d2a1_lounge_tragedy_f9891b02:
@@ -3544,7 +3544,7 @@ translate russian d2a1_lounge_tragedy_4b444e61:
 translate russian d2a1_lounge_tragedy_c8a6ae9c:
 
     # Y shadow "I... I can't... do that..."
-    Y shadow "Я... Я не могу... сделать этого..."
+    Y shadow "Я... Я не могу... сделать это..."
 
 # game/script_day2.rpy:1522
 translate russian d2a1_lounge_tragedy_dc8627dc:
@@ -3556,7 +3556,7 @@ translate russian d2a1_lounge_tragedy_dc8627dc:
 translate russian d2a1_lounge_tragedy_c0649803:
 
     # I "...!! Wait, [t_clue]behind the trunk[t_cluee]!" with shakeshort
-    I "...!! Подожди, [t_clue]сзади багажника[t_cluee]!" with shakeshort
+    I "...!! Подожди, [t_clue]за сундуком[t_cluee]!" with shakeshort
 
 # game/script_day2.rpy:1531
 translate russian d2a1_lounge_tragedy_cb701e28:
@@ -3724,7 +3724,7 @@ translate russian d2a2_54112974:
 translate russian d2a2_2f6b2dbd:
 
     # I "Yeah... We're... We're all safe...for now..." with hpunch
-    I "Да... Мы... Мы все в безопасности... пока что..." with hpunch
+    I "Да... Мы... Мы все в безопасности...пока что..." with hpunch
 
 # game/script_day2.rpy:1660
 translate russian d2a2_4985f01a:
@@ -3790,7 +3790,7 @@ translate russian d2a2_622b9816:
 translate russian d2a2_ebd0d6a7:
 
     # Y depressed "No matter...what I chose... Either you...{cps=2} {/cps}{nw}"
-    Y depressed "Не важно... что я сделаю... Либо ты...{cps=2} {/cps}{nw}"
+    Y depressed "Не важно...что я сделаю... Либо ты...{cps=2} {/cps}{nw}"
 
 # game/script_day2.rpy:1678
 translate russian d2a2_9475688a:
@@ -3970,7 +3970,7 @@ translate russian d2a2_c22d9d07:
 translate russian d2a2_21711026:
 
     # C smug "Like that book [t_clue]behind the trunk[t_cluee], right? What did you say it said? \"Opening a Gate to {color=#ff0000}HELL{/color}\"...?"
-    C smug "Как та книга [t_clue]сзади багажника[t_cluee], верно? Что, говоришь, там было написано? \"Открытие Врат в {color=#ff0000}АД{/color}\"...?"
+    C smug "Как та книга [t_clue]за сундуком[t_cluee], верно? Что, говоришь, там было написано? \"Открытие Врат в {color=#ff0000}АД{/color}\"...?"
 
 # game/script_day2.rpy:1721
 translate russian d2a2_a34c8916:
@@ -4048,7 +4048,7 @@ translate russian d2a2_3159246e:
 translate russian d2a2_c7116511:
 
     # C pout "I probably got distracted reading books! There's no way I can be taken down when I'm 100%% focused!" with shakeonce
-    C pout "Наверное, я отвлеклась, читая книги! Не может быть, чтобы меня убили, когда я на 100% сосредоточена!" with shakeonce
+    C pout "Наверное, я отвлеклась, читая книги! Не может быть, чтобы меня убили, когда я на 100%% сосредоточена!" with shakeonce
 
 # game/script_day2.rpy:1736
 translate russian d2a2_9f2d620a:
@@ -4120,7 +4120,7 @@ translate russian d2a2_aaab68ed:
 translate russian d2a2_f6c15279:
 
     # C surprised "...Oh. Right, I guess there's no arguing that I won't fit, huh?"
-    C surprised "...А. Верно, полагаю, мы не будем спорить, что я не пролезу, да?"
+    C surprised "...Ой. Верно, полагаю, сейчас мы не будем спорить, пролезу ли я, да?"
 
 # game/script_day2.rpy:1752
 translate russian d2a2_1756c4fb:
@@ -4276,7 +4276,7 @@ translate russian d2a2_basement_4c4a75c0:
 translate russian d2a2_basement_c56f9bbd:
 
     # C hidden "Agh, if only we still had our phones! A flashlight would be great right now." with hpunch
-    C hidden "Агх, если бы у нас были наши телефоны! Фонарик сейчас быо бы очень кстати." with hpunch
+    C hidden "Агх, если бы у нас были наши телефоны! Фонарик сейчас был бы очень кстати." with hpunch
 
 # game/script_day2.rpy:1832
 translate russian d2a2_basement_8f53e09f:
@@ -4330,13 +4330,13 @@ translate russian d2a2_basement_2fba2374:
 translate russian d2a2_basement_170ef926:
 
     # C "A tiny little room... Walls... Touchy touch..."
-    C "Крошечная комната... Стены... Прикосновения..."
+    C "Крошечная маленькя комнатка... Стены... Сейчас я буду везде трогать..."
 
 # game/script_day2.rpy:1844
 translate russian d2a2_basement_2ca03099:
 
     # C "Wait, I think this is a [t_clue]breaker panel[t_cluee]!" with hpunch
-    C "Подождите, кажется, это [t_clue]панель предохранителей[t_cluee]!" with hpunch
+    C "Подождите, кажется, это [t_clue]распределительный щиток[t_cluee]!" with hpunch
 
 # game/script_day2.rpy:1856
 translate russian d2a2_basement_9ca9a6e7:
@@ -4468,7 +4468,7 @@ translate russian d2a2_basement_928023ab:
 translate russian d2a2_basement_6702df3b:
 
     # C "...So, uh... What now? Looks like the culprit's nowhere to be found after all."
-    C "...Так, эм... Что теперь? Похоже, здесь нигде преступника мы не найдём."
+    C "...Так, эм... Что теперь? Похоже, преступника здесь мы нигде не найдём."
 
 # game/script_day2.rpy:1905
 translate russian d2a2_basement_50756dc2:
@@ -4666,7 +4666,7 @@ translate russian d2a2_basement_end_22a16aab:
 translate russian d2a2_basement_end_70a88279:
 
     # I "She's actually pretty clumsy, huh...?"
-    I "Она на самом деле довольно неуклюжая, ха...?"
+    I "Она на самом деле довольно неуклюжая, а...?"
 
 # game/script_day2.rpy:2029
 translate russian d2a2_basement_end_ef1f712c:
@@ -5008,7 +5008,7 @@ translate russian d2a2_basement_choice_3a0cf572:
 translate russian d2a2_basement_choice_8d4093cb:
 
     # Y thinking "Seems like the culprit isn't hiding down there either, huh?"
-    Y thinking "Похоже, что и преступник там не прячется, а?"
+    Y thinking "Похоже, что и преступник там не прячется, да?"
 
 # game/script_day2.rpy:2152
 translate russian d2a2_basement_choice_7bc7f198:
@@ -5050,7 +5050,7 @@ translate russian d2a2_basement_choice_d0c7e91b:
 translate russian d2a2_basement_choice_2c63ed9b:
 
     # I "Someone...[t_clue]stabbed me[t_cluee]...in the back..." with shakeonce
-    I "Кто-то...[t_clue]пырнул меня[t_cluee]... в спину..." with shakeonce
+    I "Кто-то...[t_clue]пырнул меня[t_cluee]...в спину..." with shakeonce
 
 # game/script_day2.rpy:2175
 translate russian d2a2_basement_choice_3c1905d3:
@@ -5080,7 +5080,7 @@ translate russian d2a2_basement_choice_24ab7faf:
 translate russian d2a2_basement_choice_d811ad25:
 
     # I "I'm the one...who messed up..."
-    I "Как раз я... облажалась..."
+    I "Как раз я...облажалась..."
 
 # game/script_day2.rpy:2188
 translate russian d2a2_basement_choice_a7ad2eb9:
@@ -5110,7 +5110,7 @@ translate russian d2a2_basement_choice_25eb2205:
 translate russian d2a2_basement_choice_b1a71b60:
 
     # I "...Huh. Wait. This is...[t_clue]good[t_cluee]..."
-    I "...Хмм. Подожди. Это... [t_clue]хорошо[t_cluee]..."
+    I "...Хмм. Подождите. Это...[t_clue]хорошо[t_cluee]..."
 
 # game/script_day2.rpy:2194
 translate russian d2a2_basement_choice_a8b0a6df:
@@ -5128,7 +5128,7 @@ translate russian d2a2_basement_choice_246c1e7e:
 translate russian d2a2_basement_choice_9e0cd9a7:
 
     # I "Now the killing games...can finally end..."
-    I "Теперь убийственные игры... наконец-то могут закончиться..."
+    I "Теперь убийственные игры...наконец-то могут закончиться..."
 
 # game/script_day2.rpy:2198
 translate russian d2a2_basement_choice_c740e17f:
@@ -5380,13 +5380,13 @@ translate russian d2a2_basement_choice_fb5f3f45:
 translate russian d2a2_basement_choice_b88e6a03:
 
     # I "Bright... Red..." with shakeonce
-    I "Яркое... красное..." with shakeonce
+    I "Яркое... Красное..." with shakeonce
 
 # game/script_day2.rpy:2342
 translate russian d2a2_basement_choice_b2721e80:
 
     # I "My body's...burning...?"
-    I "Моё тело... горит...?"
+    I "Моё тело...горит...?"
 
 # game/script_day2.rpy:2343
 translate russian d2a2_basement_choice_fa386066:
@@ -5410,25 +5410,25 @@ translate russian d2a2_basement_choice_ac52c10c:
 translate russian d2a2_basement_choice_67914dba:
 
     # I "Kill me."
-    I "Убей меня."
+    I "Убейте меня."
 
 # game/script_day2.rpy:2347
 translate russian d2a2_basement_choice_e705d811:
 
     # extend " Kill me."
-    extend " Убей меня."
+    extend " Убейте меня."
 
 # game/script_day2.rpy:2348
 translate russian d2a2_basement_choice_f9c8361b:
 
     # extend "{cps=36} Kill me, kill me, kill me, kill me, kill me, kill me, kill me, kill me, kill me...{/cps}"
-    extend "{cps=36} Убей меня, убей меня, убей меня, убей меня, убей меня, убей меня, убей меня, убей меня, убей меня...{/cps}"
+    extend "{cps=36} Убейте меня, убейте меня, убейте меня, убейте меня, убейте меня, убейте меня, убейте меня, убейте меня, убейте меня...{/cps}"
 
 # game/script_day2.rpy:2349
 translate russian d2a2_basement_choice_45e19a3b:
 
     # I "{cps=48}KILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLME\nKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLMEKILLME--{/cps}" with shakeshort
-    I "{cps=48}УБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯ\nУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯУБЕЙМЕНЯ--{/cps}" with shakeshort
+    I "{cps=48}УБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯ\nУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯУБЕЙТЕМЕНЯ--{/cps}" with shakeshort
 
 # game/script_day2.rpy:2350
 translate russian d2a2_basement_choice_6a5a26b9:
@@ -5482,7 +5482,7 @@ translate russian d2a2_basement_choice_21aa8611:
 translate russian d2a2_basement_choice_7d6728d9:
 
     # I "{cps=6}I...{/cps}should be dead already.{w=1.0} I died...{nw}"
-    I "{cps=6}Я...{/cps}должен быть, уже умерла.{w=1.0} Я мертва...{nw}"
+    I "{cps=6}Я...{/cps}должно быть, уже умерла.{w=1.0} Я мертва...{nw}"
 
 # game/script_day2.rpy:2380
 translate russian d2a2_basement_choice_11fdb519:
@@ -5572,7 +5572,7 @@ translate russian d2a2_basement_choice_bc4aaa2e:
 translate russian d2a2_basement_choice_57a2a8cd:
 
     # I "Ria's...talking to...[t_clue]someone[t_cluee]...?" with shakeonce
-    I "Рия... разговаривает с...[t_clue]кем-то[t_cluee]...?" with shakeonce
+    I "Рия...разговаривает с...[t_clue]кем-то[t_cluee]...?" with shakeonce
 
 # game/script_day2.rpy:2403
 translate russian d2a2_basement_choice_46359d5b:
@@ -5704,7 +5704,7 @@ translate russian d2a3_6e8c8828:
 translate russian d2a3_95265ee8:
 
     # O "...It's just...now that you've said that..."
-    O "...Просто... теперь, когда ты это сказала..."
+    O "...Просто...теперь, когда ты это сказала..."
 
 # game/script_day2.rpy:2482
 translate russian d2a3_86045c9e:
@@ -5716,7 +5716,7 @@ translate russian d2a3_86045c9e:
 translate russian d2a3_e811dcbd:
 
     # Y thinking "But...didn't you say it could be an escape route?"
-    Y thinking "Но... разве ты не говорила, что это может быть выходом?"
+    Y thinking "Но...разве ты не говорила, что это может быть выходом?"
 
 # game/script_day2.rpy:2484
 translate russian d2a3_617deba5:
@@ -5740,7 +5740,7 @@ translate russian d2a3_11fdb519:
 translate russian d2a3_a334e867:
 
     # Y blink "You find a key down there, but...someone [t_clue]stabs my back[t_cluee] and kills me."
-    Y blink "Ты найдешь там ключ, но... кто-то [t_clue]ударит меня в спину[t_cluee] и убьёт."
+    Y blink "Ты найдешь там ключ, но...кто-то [t_clue]ударит меня в спину[t_cluee] и убьёт."
 
 # game/script_day2.rpy:2491
 translate russian d2a3_4a8d3bd4:
@@ -5836,7 +5836,7 @@ translate russian d2a3_df7c0c22:
 translate russian d2a3_64348823:
 
     # O default "Looking at this hatch... It brings me a mysterious sense of foreboding."
-    O default "этот люк... Он вызывает у меня таинственное предчувствие."
+    O default "Этот люк... Он вызывает у меня таинственное предчувствие."
 
 # game/script_day2.rpy:2522
 translate russian d2a3_25d2dfb4:
@@ -5926,13 +5926,13 @@ translate russian d2a3_e1d3a06b:
 translate russian d2a3_cb5d6905:
 
     # O surprised "Oh, you were right. She's waking up."
-    O surprised "О, ты была права. Она просыпается."
+    O surprised "Ох, ты была права. Она просыпается."
 
 # game/script_day2.rpy:2545
 translate russian d2a3_fc16bf51:
 
     # C "Just...five more minutes... Mom..."
-    C "Ещё... пять минуточек... Мама..."
+    C "Ещё...пять минуточек... Мама..."
 
 # game/script_day2.rpy:2546
 translate russian d2a3_5d19ccfb:
@@ -5968,7 +5968,7 @@ translate russian d2a3_d610aafa:
 translate russian d2a3_8fadd043:
 
     # C surprised "*gasp* Wait, what did you do while I was knocked out? No way, did you raise the age rating of this ga--" with shakeshort
-    C surprised "*вздох* Подожди, что вы делали, пока я была без сознания? Не может быть, ты повысила возрастное ограничение этой игр--" with shakeshort
+    C surprised "*вздох* Подождите, что вы делали, пока я была без сознания? Не может быть, вы повысили возрастное ограничение этой игр--" with shakeshort
 
 # game/script_day2.rpy:2566
 translate russian d2a3_ed8ec698:
@@ -6214,7 +6214,7 @@ translate russian d2a3_5c030ebd:
 translate russian d2a3_b0c7bce1:
 
     # extend annoyed2 " {size=-10}I hope you get stabbed a little anyway.{/size}"
-    extend annoyed2 " {size=-10}Надеюсь, тебя всё-таки немного поранят.{/size}"
+    extend annoyed2 " {size=-10}Надеюсь, тебя всё-таки немного пырнут.{/size}"
 
 # game/script_day2.rpy:2632
 translate russian d2a3_67dc4925:
@@ -6232,7 +6232,7 @@ translate russian d2a3_125d184c:
 translate russian d2a3_91f89a2c:
 
     # Y panicked "Whoa!" with shakelong
-    Y panicked "Ого!" with shakelong
+    Y panicked "Воу!" with shakelong
 
 # game/script_day2.rpy:2645
 translate russian d2a3_3b21aa31:
@@ -6304,7 +6304,7 @@ translate russian d2a3_a31bba36:
 translate russian d2a3_a7f15bbc:
 
     # C grin "You look really worked up and excited right now, [name_player]."
-    C grin "Nы выглядишь такой взволнованный и напряжённой, [name_player]."
+    C grin "Ты выглядишь такой взволнованной и напряжённой, [name_player]."
 
 # game/script_day2.rpy:2666
 translate russian d2a3_5ab492db:
@@ -6412,7 +6412,7 @@ translate russian d2a3_7017c131:
 translate russian d2a3_2724585b:
 
     # C thinking "You're acting really strange right now, [name_player]. And that's coming from ME!"
-    C thinking "Ты сейчас ведёшь себя очень странно, [name_player]. И это касается МЕНЧ тоже!"
+    C thinking "Ты сейчас ведёшь себя очень странно, [name_player]. И это касается МЕНЯ тоже!"
 
 # game/script_day2.rpy:2693
 translate russian d2a3_21791070_2:
@@ -6514,7 +6514,7 @@ translate russian d2a3_6012c031:
 translate russian d2a3_466286ce:
 
     # I "He's...MOVING?!" with shakeshort
-    I "Он... ДВИЖЕТСЯ?!" with shakeshort
+    I "Он...ДВИЖЕТСЯ?!" with shakeshort
 
 # game/script_day2.rpy:2798
 translate russian d2a3_214f06f9:
@@ -6850,7 +6850,7 @@ translate russian d2a3_library_end_a6639784:
 translate russian d2a3_library_end_72c0a67c:
 
     # C thinking "Can't believe you missed something so obvious. Come on, were you really even trying?"
-    C thinking "Не могу поверить, что ты не заметил такую очевидную вещь. Серьёзно, ты вообще пыталась?"
+    C thinking "Не могу поверить, что ты не заметила такую очевидную вещь. Серьёзно, ты вообще пыталась?"
 
 # game/script_day2.rpy:3125
 translate russian d2a3_library_end_293cb237:
@@ -7048,7 +7048,7 @@ translate russian d2a3_library_end_450c033d:
 translate russian d2a3_library_end_ea46ee01:
 
     # I "I've been...time traveling...too much...again..."
-    I "Я... путешествую во времени... слишком много..."
+    I "Я...снова...путешествую во времени...слишком много..."
 
 # game/script_day2.rpy:3187
 translate russian d2a3_library_end_726740fc:
@@ -7156,7 +7156,7 @@ translate russian d2a3_library_end_2214bc4a:
 translate russian d2a3_library_end_b4df1217:
 
     # I "...Oh, it's true. How did I not notice her head on my shoulder...?"
-    I "...Ох, и правда. Как я не заметила, что её голова лежит на моем плече...?"
+    I "...Ох, и правда. Как я не заметила, что её голова лежит на моём плече...?"
 
 # game/script_day2.rpy:3234
 translate russian d2a3_library_end_e9b9d2f6:
@@ -7552,7 +7552,7 @@ translate russian d2a3_library_cece_hearttoheart_3f6ad74d:
 translate russian d2a3_library_cece_hearttoheart_57bbb99a:
 
     # Y sad "The time I found Ria dead in the lounge, just before I was about to go back in time..."
-    Y sad "Когда я нашла Рию мертвой в гостиной, прямо перед тем как вернуться в прошлое..."
+    Y sad "Когда я нашла Рию мёртвой в гостиной, прямо перед тем как вернуться в прошлое..."
 
 # game/script_day2.rpy:3351
 translate russian d2a3_library_cece_hearttoheart_7c6c2607:
@@ -7864,7 +7864,7 @@ translate russian d2a3_library_cece_hearttoheart_a3ea433f:
 translate russian d2a3_library_cece_hearttoheart_5388cea3:
 
     # C "What do you think happens to the dead Ria and the still-alive me AFTER you travel back?{nw}"
-    C "Что ты думаешь происходит с мертвой Рией и всё ещё живой мной ПОСЛЕ того, как ты вернешься назад?"
+    C "Что ты думаешь происходит с мёртвой Рией и всё ещё живой мной ПОСЛЕ того, как ты вернёшься назад?"
 
 # game/script_day2.rpy:3441
 translate russian d2a3_library_cece_hearttoheart_11fdb519_4:
@@ -8254,13 +8254,13 @@ translate russian d2a3_library_cece_hearttoheart_de0aad6d:
 translate russian d2a3_library_cece_hearttoheart_ae7b09c8:
 
     # C "I don't think anyone noticed I was there, but a couple of the boys were fooling around with the food dispensers."
-    C "Не думаю, что кто-то заметил, что я тоже там была, но несколько мальчишек возились с кормушками."
+    C "Не думаю, что кто-то заметил, что я тоже там была, но несколько мальчишек дурачились с кормушками."
 
 # game/script_day2.rpy:3556
 translate russian d2a3_library_cece_hearttoheart_93776ce8:
 
     # C "That's probably how she ended up feeding the clownfish the wrong food. But what was she going to do, finger all of those boys?"
-    C "Наверное, именно так она накормила рыбу-клоуна неправильной едой. Но что она могла сделать, указать пальцем на тех мальчишек?"
+    C "Наверное, именно из-за этого она накормила рыбу-клоуна неправильной едой. Но что она могла сделать, указать пальцем на тех мальчишек?"
 
 # game/script_day2.rpy:3557
 translate russian d2a3_library_cece_hearttoheart_25a27c30:
@@ -8326,7 +8326,7 @@ translate russian d2a3_library_cece_hearttoheart_bc31b3d7:
 translate russian d2a3_library_cece_hearttoheart_dcda7b91:
 
     # C happy "Nope. I didn't really care. I was more concerned with being able to take the dead clownfish home. Boy, the teacher got maaad~"
-    C happy "Неа. На самом деле, мне было всё равно. Я больше переживала, чтобы забрать мёртвую рыбу-клоуна домой. Воу, как учитель разозлился~"
+    C happy "Неа. На самом деле, мне было всё равно. Я больше переживала, чтобы забрать мёртвую рыбу-клоуна домой. Чёрт, как учитель разозлился~"
 
 # game/script_day2.rpy:3585
 translate russian d2a3_library_cece_hearttoheart_263294a6:
@@ -8398,7 +8398,7 @@ translate russian d2a3_library_cece_hearttoheart_66e998a0:
 translate russian d2a3_library_cece_hearttoheart_b3558fcf:
 
     # extend surprised " Oooh. Wait, [name_player], I think maybe that was why I didn't say anything about Serena."
-    extend surprised "Ооох. Подожди, [name_player], думаю, именно поэтому я ничего не сказала о Серене."
+    extend surprised " Ооох. Подожди, [name_player], думаю, именно поэтому я ничего не сказала о Серене."
 
 # game/script_day2.rpy:3599
 translate russian d2a3_library_cece_hearttoheart_2c4e95e3:
@@ -8900,15 +8900,15 @@ translate russian strings:
 
     # game/script_day2.rpy:3440
     old "\"You continue on.\""
-    new "\"Ты продолжаешь.\""
+    new "\"Ты продолжишь существовать.\""
 
     # game/script_day2.rpy:3440
     old "\"You get rewound.\""
-    new "\"Тебя перематывают.\""
+    new "\"Тебя тоже вернёт назад.\""
 
     # game/script_day2.rpy:3440
     old "\"You get erased.\""
-    new "\"Тебя стирают.\""
+    new "\"Ты будешь стёрта.\""
 
     # game/script_day2.rpy:3608
     old "\"You're a good person after all.\""

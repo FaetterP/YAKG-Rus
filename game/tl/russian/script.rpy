@@ -134,7 +134,7 @@ translate russian strings:
 
     # game/script.rpy:128
     old "To be {color=#ff0000}CONCLUDED{/color} in Part III..."
-    new "Будет {color=#ff0000}ЗАКЛЮЧЕНО{/color} в Части III..."
+    new "{color=#ff0000}ЗАКЛЮЧЕНИЕ{/color} в Части III..."
 
     # game/script.rpy:130
     old "{size=+30}PART {/size}{size=+50}III{/size}"
@@ -318,7 +318,7 @@ translate russian strings:
 
     # game/script.rpy:805
     old "The Lounge, Unsealed"
-    new "Гостиная, раскрытая"
+    new "Вскрытая гостиная"
 
     # game/script.rpy:808
     old "Hell is Where Demons Roam"
@@ -338,7 +338,7 @@ translate russian strings:
 
     # game/script.rpy:814
     old "Basements Are Scary"
-    new "Страшные подвалы"
+    new "Страшный подвал"
 
     # game/script.rpy:817
     old "The Only Escape is Death"
@@ -350,7 +350,7 @@ translate russian strings:
 
     # game/script.rpy:823
     old "Watch Your Back"
-    new "Оглядывайся"
+    new "Оглянись"
 
     # game/script.rpy:826
     old "KYAAA!! ZOMBIES!!"
@@ -406,7 +406,7 @@ translate russian strings:
 
     # game/script.rpy:872
     old "The True Ending"
-    new "Настоящая концовка"
+    new "Истинная концовка"
 
     # game/script.rpy:875
     old "Your Last Deduction"
