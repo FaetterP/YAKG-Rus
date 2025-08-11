@@ -84,7 +84,7 @@ translate russian strings:
 
     # game/tutorial.rpy:1
     old "Not all choices will lead to major shifts in the story. You may\nwant to [t_clue]save[t_cluee] and think carefully when it feels like it matters."
-    new "Не все выборы приведут к серьёзным изменениям сюжета.\n[т_clue]Сохранитесь[т_cluee], чтобы осторожно подумать, если посчитаете это необходимым."
+    new "Не все выборы приведут к серьёзным изменениям сюжета.\n[t_clue]Сохранитесь[t_cluee], чтобы осторожно подумать, если посчитаете это необходимым."
 
     # game/tutorial.rpy:1
     old "THANK YOU!"
