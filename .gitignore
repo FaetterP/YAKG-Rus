@@ -33,4 +33,17 @@ game/fonts/*
 !game/fonts/Changa-SemiBold.ttf
 !game/fonts/LovecraftsDiary.ttf
 
+!game/images/
+game/images/*
+!game/images/objects
+game/images/objects/*
+!game/images/objects/pac intrologo empty.png
+!game/images/objects/pac intrologo.png
+
+!game/images/backgrounds
+game/images/backgrounds/*
+!game/images/backgrounds/bg frontdoor incomplete.png
+!game/images/backgrounds/bg frontdoor.png
+!game/images/backgrounds/bg secretending2.png
+
 .vscode
