@@ -13,6 +13,8 @@ game/tl/None
 !game/script_day1.rpy
 !game/script_day2.rpy
 !game/script_day3.rpy
+!game/pac_investigations.rpy
+!game/sbobcachievements.rpy
 
 files.txt
 log.txt
@@ -22,5 +24,26 @@ errors.txt
 YAKG.exe
 YAKG.py
 YAKG.sh
+
+!game/fonts/
+game/fonts/*
+!game/fonts/Alkalami-Regular.ttf
+!game/fonts/AveriaLibre-Regular.ttf
+!game/fonts/AveriaSerifLibre-Regular.ttf
+!game/fonts/Changa-SemiBold.ttf
+!game/fonts/LovecraftsDiary.ttf
+
+!game/images/
+game/images/*
+!game/images/objects
+game/images/objects/*
+!game/images/objects/pac intrologo empty.png
+!game/images/objects/pac intrologo.png
+
+!game/images/backgrounds
+game/images/backgrounds/*
+!game/images/backgrounds/bg frontdoor incomplete.png
+!game/images/backgrounds/bg frontdoor.png
+!game/images/backgrounds/bg secretending2.png
 
 .vscode
