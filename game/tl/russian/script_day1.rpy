@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 # game/script_day1.rpy:16
 translate russian d1a0_f572d509:
@@ -14522,7 +14522,7 @@ translate russian day1_end_11fdb519:
 
 translate russian strings:
 
-    # game/script_day1.rpy:44
+    # game/script_day1.rpy:45
     old "KILL"
     new ""
 
@@ -14542,75 +14542,87 @@ translate russian strings:
     old "Gloomy Girl"
     new ""
 
-    # game/script_day1.rpy:533
+    # game/script_day1.rpy:422
+    old "Karma"
+    new ""
+
+    # game/script_day1.rpy:422
+    old "Carol-Maria"
+    new ""
+
+    # game/script_day1.rpy:445
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}THE END{/size}\nThank you for playing!{/font}"
+    new ""
+
+    # game/script_day1.rpy:535
     old "Tell the truth"
     new ""
 
-    # game/script_day1.rpy:533
+    # game/script_day1.rpy:551
     old "Lie to them"
     new ""
 
-    # game/script_day1.rpy:582
+    # game/script_day1.rpy:584
     old "\"What is the weird fog?\""
     new ""
 
-    # game/script_day1.rpy:582
+    # game/script_day1.rpy:604
     old "\"Can't we call for help?\""
     new ""
 
-    # game/script_day1.rpy:582
+    # game/script_day1.rpy:612
     old "\"About the writing on the door...\""
     new ""
 
-    # game/script_day1.rpy:651
+    # game/script_day1.rpy:653
     old "Say something"
     new ""
 
-    # game/script_day1.rpy:651
+    # game/script_day1.rpy:659
     old "Say nothing"
     new ""
 
-    # game/script_day1.rpy:679
+    # game/script_day1.rpy:681
     old "\"Absolutely.\""
     new ""
 
-    # game/script_day1.rpy:679
+    # game/script_day1.rpy:689
     old "\"Hard to say...\""
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:769
     old "Investigate the [t_clue]Kitchen[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:776
     old "[u_check]Investigate the [t_clue]Kitchen[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:781
     old "Investigate the [t_clue]Bathroom[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:788
     old "[u_check]Investigate the [t_clue]Bathroom[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:795
     old "Investigate the rooms [t_clue]Upstairs[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:802
     old "[u_check]Investigate the rooms [t_clue]Upstairs[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:768
+    # game/script_day1.rpy:807
     old "{color=#cccc00}Gather your thoughts{/color}"
     new ""
 
-    # game/script_day1.rpy:812
+    # game/script_day1.rpy:814
     old "{color=#cccc00}Learn what to do next{/color}"
     new ""
 
-    # game/script_day1.rpy:812
+    # game/script_day1.rpy:852
     old "\"I don't need any hints!\""
     new ""
 
@@ -14626,15 +14638,15 @@ translate russian strings:
     old "Search the kitchen and dining room for clues to escape!\nTalk to Cecilia when you want to switch rooms."
     new ""
 
-    # game/script_day1.rpy:1129
+    # game/script_day1.rpy:1130
     old "\"Yes, let's kill her.\""
     new ""
 
-    # game/script_day1.rpy:1129
+    # game/script_day1.rpy:1184
     old "\"No, we can't do this!\""
     new ""
 
-    # game/script_day1.rpy:1129
+    # game/script_day1.rpy:1234
     old "\"I...I don't know...\""
     new ""
 
@@ -14646,51 +14658,51 @@ translate russian strings:
     old "What clues can you discover in this tiny bathroom?\nMaybe some can only be found while you're alone...?"
     new ""
 
-    # game/script_day1.rpy:1418
+    # game/script_day1.rpy:1420
     old "Pet the dog"
     new ""
 
-    # game/script_day1.rpy:1418
+    # game/script_day1.rpy:1440
     old "Don't pet the dog"
     new ""
 
-    # game/script_day1.rpy:1481
+    # game/script_day1.rpy:1483
     old "Try to catch it"
     new ""
 
-    # game/script_day1.rpy:1481
+    # game/script_day1.rpy:1485
     old "Let it go"
     new ""
 
-    # game/script_day1.rpy:1492
+    # game/script_day1.rpy:1494
     old "Pounce and grab it"
     new ""
 
-    # game/script_day1.rpy:1492
+    # game/script_day1.rpy:1503
     old "Approach it slowly"
     new ""
 
-    # game/script_day1.rpy:1536
+    # game/script_day1.rpy:1538
     old "Approach it from the left"
     new ""
 
-    # game/script_day1.rpy:1536
+    # game/script_day1.rpy:1553
     old "Approach it from the right"
     new ""
 
-    # game/script_day1.rpy:1582
+    # game/script_day1.rpy:1584
     old "Try to trick it"
     new ""
 
-    # game/script_day1.rpy:1582
+    # game/script_day1.rpy:1595
     old "Match its movements"
     new ""
 
-    # game/script_day1.rpy:1630
+    # game/script_day1.rpy:1632
     old "Grab the right one"
     new ""
 
-    # game/script_day1.rpy:1630
+    # game/script_day1.rpy:1659
     old "Grab the wrong one"
     new ""
 
@@ -14702,271 +14714,287 @@ translate russian strings:
     old "Check out each room in the 2nd floor with Oriana!\nSome rooms may have more clues than others..."
     new ""
 
-    # game/script_day1.rpy:2034
+    # game/script_day1.rpy:2035
     old "\"It's always wrong to kill people.\""
     new ""
 
-    # game/script_day1.rpy:2034
+    # game/script_day1.rpy:2117
     old "\"If it's to preserve life, we should kill.\""
     new ""
 
-    # game/script_day1.rpy:2034
+    # game/script_day1.rpy:2184
     old "\"Some people deserve to die.\""
     new ""
 
-    # game/script_day1.rpy:2378
+    # game/script_day1.rpy:2319
+    old "{size=+30}{color=#ff0000}20 HOURS{/color}{/size}"
+    new ""
+
+    # game/script_day1.rpy:2380
     old "{color=#cccc00}Skip the discussion and dinner{/color}"
     new ""
 
-    # game/script_day1.rpy:2378
+    # game/script_day1.rpy:2400
     old "Don't skip"
     new ""
 
-    # game/script_day1.rpy:2583
+    # game/script_day1.rpy:2585
     old "\"How did they catch us?\""
     new ""
 
-    # game/script_day1.rpy:2583
-    old "\"Why are they doing this?\""
-    new ""
-
-    # game/script_day1.rpy:2603
+    # game/script_day1.rpy:2605
     old "\"Were you alone?\""
     new ""
 
-    # game/script_day1.rpy:2603
+    # game/script_day1.rpy:2607
     old "\"Where were you?\""
     new ""
 
-    # game/script_day1.rpy:2659
+    # game/script_day1.rpy:2626
+    old "\"Why are they doing this?\""
+    new ""
+
+    # game/script_day1.rpy:2661
     old "\"Is this the culprit's house?\""
     new ""
 
-    # game/script_day1.rpy:2659
-    old "\"Who is our culprit?\""
-    new ""
-
-    # game/script_day1.rpy:2666
+    # game/script_day1.rpy:2668
     old "\"You might be right...\""
     new ""
 
-    # game/script_day1.rpy:2666
+    # game/script_day1.rpy:2673
     old "\"No, that can't be it.\""
     new ""
 
-    # game/script_day1.rpy:2733
+    # game/script_day1.rpy:2701
+    old "\"Who is our culprit?\""
+    new ""
+
+    # game/script_day1.rpy:2735
     old "Admit you have no idea"
     new ""
 
-    # game/script_day1.rpy:2733
+    # game/script_day1.rpy:2740
     old "Try making a deduction"
     new ""
 
-    # game/script_day1.rpy:2759
+    # game/script_day1.rpy:2761
     old "\"Why were we the victims?\""
     new ""
 
-    # game/script_day1.rpy:2759
+    # game/script_day1.rpy:2785
     old "\"Why three victims?\""
     new ""
 
-    # game/script_day1.rpy:2907
+    # game/script_day1.rpy:2909
     old "One of us"
     new ""
 
-    # game/script_day1.rpy:2907
+    # game/script_day1.rpy:2927
     old "The culprit"
     new ""
 
-    # game/script_day1.rpy:2907
+    # game/script_day1.rpy:2939
     old "Nobody"
     new ""
 
-    # game/script_day1.rpy:3024
+    # game/script_day1.rpy:3026
     old "\"Does it belong to the owner of this house?\""
     new ""
 
-    # game/script_day1.rpy:3024
+    # game/script_day1.rpy:3036
     old "\"Does it belong to the culprit?\""
     new ""
 
-    # game/script_day1.rpy:3121
+    # game/script_day1.rpy:3123
     old "Cerberus"
     new ""
 
-    # game/script_day1.rpy:3121
+    # game/script_day1.rpy:3130
     old "Shaggy"
     new ""
 
-    # game/script_day1.rpy:3182
+    # game/script_day1.rpy:3184
     old "Agree"
     new ""
 
-    # game/script_day1.rpy:3182
+    # game/script_day1.rpy:3188
     old "Object"
     new ""
 
-    # game/script_day1.rpy:3224
+    # game/script_day1.rpy:3226
     old "Play rock"
     new ""
 
-    # game/script_day1.rpy:3224
+    # game/script_day1.rpy:3230
     old "Play paper"
     new ""
 
-    # game/script_day1.rpy:3224
+    # game/script_day1.rpy:3234
     old "Play scissors"
     new ""
 
-    # game/script_day1.rpy:3991
+    # game/script_day1.rpy:3847
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nKarma Ending{/font}"
+    new ""
+
+    # game/script_day1.rpy:3993
     old "Accuse her"
     new ""
 
-    # game/script_day1.rpy:4385
+    # game/script_day1.rpy:4158
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nOrder Ending{/font}"
+    new ""
+
+    # game/script_day1.rpy:4386
     old "Let Cecilia kill her"
     new ""
 
-    # game/script_day1.rpy:4385
+    # game/script_day1.rpy:4473
     old "Kill Oriana yourself"
     new ""
 
-    # game/script_day1.rpy:4385
-    old "Stop Cecilia"
-    new ""
-
-    # game/script_day1.rpy:4561
+    # game/script_day1.rpy:4562
     old "Kill Oriana quickly"
     new ""
 
-    # game/script_day1.rpy:4561
+    # game/script_day1.rpy:4568
     old "Apologize first"
     new ""
 
-    # game/script_day1.rpy:4561
+    # game/script_day1.rpy:4594
     old "{color=#ff0000}Kill Cecilia instead{/color}"
     new ""
 
-    # game/script_day1.rpy:4846
+    # game/script_day1.rpy:4661
+    old "Stop Cecilia"
+    new ""
+
+    # game/script_day1.rpy:4716
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nChaos Ending{/font}"
+    new ""
+
+    # game/script_day1.rpy:4848
     old "Tell the truth (disabled)"
     new ""
 
-    # game/script_day1.rpy:4846
+    # game/script_day1.rpy:4850
     old "Lie to them (disabled)"
     new ""
 
-    # game/script_day1.rpy:4846
+    # game/script_day1.rpy:4852
     old "{color=#cccc00}Tell the WHOLE truth{/color}"
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4984
     old "\"Why were you keeping secrets from me?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4986
     old "[u_check]\"Why were you keeping secrets from me?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4989
     old "\"How do you two know each other?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4991
     old "[u_check]\"How do you two know each other?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4994
     old "\"Could Cecilia really be the culprit?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4996
     old "[u_check]\"Could Cece really be the culprit?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:4999
     old "\"Why does Oriana hate Cece so much?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5001
     old "[u_check]\"Why does Ria hate Cece so much?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5004
     old "\"Can we trust Cece?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5006
     old "[u_check]\"Can we trust Cece?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5009
     old "\"About your club's third member...\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5011
     old "[u_check]\"About your club's third member...\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5014
     old "\"Why do I keep going back in time?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5016
     old "[u_check]\"Why do I keep going back in time?\""
     new ""
 
-    # game/script_day1.rpy:4983
+    # game/script_day1.rpy:5019
     old "[t_clue]End your questioning[t_cluee]"
     new ""
 
-    # game/script_day1.rpy:5031
+    # game/script_day1.rpy:5033
     old "\"That's a good point...\""
     new ""
 
-    # game/script_day1.rpy:5031
+    # game/script_day1.rpy:5039
     old "\"I would never do that!\""
     new ""
 
-    # game/script_day1.rpy:5076
+    # game/script_day1.rpy:5078
     old "\"[name_cecilia] is older?!\""
     new ""
 
-    # game/script_day1.rpy:5076
-    old "\"Why is [name_oriana] in the club?\""
-    new ""
-
-    # game/script_day1.rpy:5076
-    old "\"Who else is in the Occult Club?\""
-    new ""
-
-    # game/script_day1.rpy:5084
+    # game/script_day1.rpy:5086
     old "\"Yes.\""
     new ""
 
-    # game/script_day1.rpy:5084
+    # game/script_day1.rpy:5095
     old "\"No...\""
+    new ""
+
+    # game/script_day1.rpy:5100
+    old "\"Why is [name_oriana] in the club?\""
+    new ""
+
+    # game/script_day1.rpy:5110
+    old "\"Who else is in the Occult Club?\""
     new ""
 
     # game/script_day1.rpy:5155
     old "Cece"
     new ""
 
-    # game/script_day1.rpy:5249
+    # game/script_day1.rpy:5251
     old "\"Not at all.\""
     new ""
 
-    # game/script_day1.rpy:5249
+    # game/script_day1.rpy:5256
     old "\"A little.\""
     new ""
 
-    # game/script_day1.rpy:5249
+    # game/script_day1.rpy:5261
     old "\"I was about to cry...\""
     new ""
 
-    # game/script_day1.rpy:5273
+    # game/script_day1.rpy:5275
     old "\"Is our culprit a ghost?\""
     new ""
 
-    # game/script_day1.rpy:5273
+    # game/script_day1.rpy:5297
     old "\"Is the legend true?\""
     new ""
 
@@ -14974,43 +15002,43 @@ translate russian strings:
     old "Ria"
     new ""
 
-    # game/script_day1.rpy:5451
+    # game/script_day1.rpy:5453
     old "\"What kind of person is she?\""
     new ""
 
-    # game/script_day1.rpy:5451
+    # game/script_day1.rpy:5470
     old "\"Is that person me?\""
     new ""
 
-    # game/script_day1.rpy:5477
+    # game/script_day1.rpy:5478
     old "Because of what Cece said"
     new ""
 
-    # game/script_day1.rpy:5477
-    old "Because of the Occult Club"
-    new ""
-
-    # game/script_day1.rpy:5477
-    old "\"I don't know...\""
-    new ""
-
-    # game/script_day1.rpy:5490
+    # game/script_day1.rpy:5492
     old "It was too friendly"
     new ""
 
-    # game/script_day1.rpy:5490
+    # game/script_day1.rpy:5506
     old "She used the wrong name"
     new ""
 
-    # game/script_day1.rpy:5592
+    # game/script_day1.rpy:5551
+    old "Because of the Occult Club"
+    new ""
+
+    # game/script_day1.rpy:5568
+    old "\"I don't know...\""
+    new ""
+
+    # game/script_day1.rpy:5594
     old "No more secrets"
     new ""
 
-    # game/script_day1.rpy:5623
+    # game/script_day1.rpy:5625
     old "The Black Magic Mansion"
     new ""
 
-    # game/script_day1.rpy:5804
+    # game/script_day1.rpy:5815
     old "Make up a new one"
     new ""
 
@@ -15018,31 +15046,31 @@ translate russian strings:
     old "ENTER A NAME FOR THE {size=+15}{color=#606060}DOG{/color}{/size}"
     new ""
 
-    # game/script_day1.rpy:5831
+    # game/script_day1.rpy:5833
     old "Enter a new name"
     new ""
 
-    # game/script_day1.rpy:5831
+    # game/script_day1.rpy:5835
     old "Go back to the lame names"
     new ""
 
-    # game/script_day1.rpy:5850
+    # game/script_day1.rpy:5852
     old "\"Yep.\""
     new ""
 
-    # game/script_day1.rpy:5850
+    # game/script_day1.rpy:5854
     old "\"No, let's pick something else...\""
     new ""
 
-    # game/script_day1.rpy:6032
+    # game/script_day1.rpy:6034
     old "Kill one of them"
     new ""
 
-    # game/script_day1.rpy:6032
+    # game/script_day1.rpy:6038
     old "Sacrifice myself"
     new ""
 
-    # game/script_day1.rpy:6032
+    # game/script_day1.rpy:6049
     old "Have everyone die together"
     new ""
 

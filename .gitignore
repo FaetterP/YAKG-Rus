@@ -5,6 +5,7 @@ YAKG.app/*
 game/*
 !game/tl/
 game/tl/None
+game/tl/japanese
 !game/tl/russian
 !game/screens.rpy
 !game/gui.rpy

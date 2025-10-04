@@ -1281,7 +1281,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
     $ persistent.unlock_cg_origin_oriana = True
     $ name_npc = _("???")
     $ name_karma = _("???")
-    $ name_oriana = _("Ria")
+    $ name_oriana = __("Ria")
     window auto hide
     pause 2.0
     scene cg ria hearttoheart:
@@ -3510,7 +3510,7 @@ label d3a3_oriana_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Oriana Ending{/color}{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Oriana Ending{/color}{/font}") with dissolve
     pause 2.0
     achieve END_ORIANA
     pause 3.0
@@ -3523,7 +3523,7 @@ label d3a3_oriana_ending:
     stop music fadeout 5.0
     $ _skipping = True
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text _ ("This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -3628,7 +3628,7 @@ label d3a3_cecilia_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Cecilia Ending{/color}{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Cecilia Ending{/color}{/font}") with dissolve
     pause 2.0
     achieve END_CECILIA
     pause 3.0
@@ -3641,7 +3641,7 @@ label d3a3_cecilia_ending:
     stop music fadeout 5.0
     $ _skipping = True
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text _ ("This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -3685,7 +3685,7 @@ label d3a3_martyr_ending:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Martyr Ending{/color}{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Martyr Ending{/color}{/font}") with dissolve
     pause 2.0
     achieve END_MARTYR
     pause 3.0
@@ -3698,7 +3698,7 @@ label d3a3_martyr_ending:
     stop music fadeout 5.0
     $ _skipping = True
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text _ ("This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -4868,7 +4868,7 @@ label d3a4_salvation_ending:
     $ _skipping = False
     show pac_assistant_shadow at truecenter:
         zoom 1.75 alpha 0.4
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}TRUE END{/color}{/size}\nSalvation Ending{/font}"
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}TRUE END{/color}{/size}\nSalvation Ending{/font}")
     with dissolve
     achieve END_SALVATION
     pause 2.0
@@ -4890,7 +4890,7 @@ label d3a4_salvation_ending:
     $ _skipping = True
     scene bg black with dissolveslow
     pause 5.0
-    show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+    show text _ ("This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
     pause 15.0
     hide text with dissolvemed
     $ quick_menu = True
@@ -5580,7 +5580,7 @@ label d3a5_gameover:
     $ _skipping = False
     show pac_assistant_shadow at truecenter:
         zoom 1.75 alpha 0.4
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nYOU LOSE{/font}"
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nYOU LOSE{/font}")
     with dissolve
     achieve YOU_LOSE
     pause 2.0
@@ -8549,7 +8549,7 @@ label d3a7:
     scene bg basement:
         xalign 0.0 yalign 0.6 zoom 1.5
     with dissolveslow
-    $ name_cecilia = _("Cece")
+    $ name_cecilia = __("Cece")
     $ show_side_cecilia = True
     C sad "Mrgh..."
     $ show_side_cecilia = False
@@ -9127,7 +9127,7 @@ label d3a8:
             pause 2.0
             $ renpy.choice_for_skipping()
             $ _skipping = False
-            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}" with dissolve
+            show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}") with dissolve
             pause 2.0
             achieve END_FINAL
             pause 3.0
@@ -9175,10 +9175,10 @@ label d3a8:
             scene bg black
             with dissolvemed
             pause 3.0
-            show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+            show text _ ("This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
             pause 15.0
             hide text with dissolvemed
-            show text "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)" with dissolvemed
+            show text _ ("Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)") with dissolvemed
             pause 15.0
             hide text with dissolvemed
             pause 3.0
@@ -9341,7 +9341,7 @@ label d3a8:
             pause 2.0
             $ renpy.choice_for_skipping()
             $ _skipping = False
-            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}" with dissolve
+            show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}") with dissolve
             pause 2.0
             achieve END_FINAL
             pause 3.0
@@ -9389,10 +9389,10 @@ label d3a8:
             scene bg black
             with dissolvemed
             pause 3.0
-            show text "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author." with dissolvemed
+            show text _ ("This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author.") with dissolvemed
             pause 15.0
             hide text with dissolvemed
-            show text "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)" with dissolvemed
+            show text _ ("Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)") with dissolvemed
             pause 15.0
             $ persistent.unlock_gameclear_cgs = True
             if not chose_suspect:
@@ -9421,7 +9421,7 @@ label d3a8:
                 pause 0.5
                 play sound sfx_whoosh
                 show cecilia pout at shudder
-                show text "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)":
+                show text _ ("Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)"):
                     rotate 0
                     linear 0.5 rotate 270
                 hide text with moveoutleft

@@ -2894,13 +2894,13 @@ label d1a1_check_bed:
                 $ music_info = False
                 $ renpy.music.set_volume(0.0, 3, channel="music")
                 scene bg black with dissolveslow
-                show text "[name_player] fell asleep, and soon woke up in the real world.\nThe three of them being trapped in that house was all just a [t_clue]dream[t_cluee]." with dissolve
+                show text _ ("[name_player] fell asleep, and soon woke up in the real world.\nThe three of them being trapped in that house was all just a [t_clue]dream[t_cluee].") with dissolve
                 pause 6.0
                 hide text with dissolve
-                show text "By doing the unthinkable and falling asleep in that horrible situation,\n[name_player] saved everyone, and they all soon returned to their normal lives." with dissolve
+                show text _ ("By doing the unthinkable and falling asleep in that horrible situation,\n[name_player] saved everyone, and they all soon returned to their normal lives.") with dissolve
                 pause 6.0
                 hide text with dissolve
-                show text "THE END" with dissolve
+                show text _ ("THE END") with dissolve
                 pause 1.0
                 hide text
                 $ quick_menu = True

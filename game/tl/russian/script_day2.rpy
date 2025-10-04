@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 # game/script_day2.rpy:9
 translate russian d2a1_a00146ac:
@@ -8702,15 +8702,15 @@ translate russian day2_end_11fdb519:
 
 translate russian strings:
 
-    # game/script_day2.rpy:61
+    # game/script_day2.rpy:63
     old "Be flustered"
     new ""
 
-    # game/script_day2.rpy:61
+    # game/script_day2.rpy:91
     old "Be unfazed"
     new ""
 
-    # game/script_day2.rpy:61
+    # game/script_day2.rpy:130
     old "Be angry"
     new ""
 
@@ -8718,11 +8718,11 @@ translate russian strings:
     old "1F - The Lounge"
     new ""
 
-    # game/script_day2.rpy:505
+    # game/script_day2.rpy:506
     old "Go with Cece to the [t_clue]Attic[t_cluee]"
     new ""
 
-    # game/script_day2.rpy:505
+    # game/script_day2.rpy:576
     old "Stay with Ria in the [t_clue]Lounge[t_cluee]"
     new ""
 
@@ -8734,36 +8734,48 @@ translate russian strings:
     old "What weird, supernatural discoveries await you in this eerie attic?\nPerhaps one of the many items here will lead you to the truth..."
     new ""
 
-    # game/script_day2.rpy:1002
+    # game/script_day2.rpy:1004
     old "She killed herself"
     new ""
 
-    # game/script_day2.rpy:1002
+    # game/script_day2.rpy:1012
     old "The culprit killed her"
+    new ""
+
+    # game/script_day2.rpy:1077
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDespair Ending{/font}"
     new ""
 
     # game/script_day2.rpy:1174
     old "You finally opened the final room in the first floor. Who is the culprit?\nWhy was this room sealed? The answers to these questions beckon you..."
     new ""
 
-    # game/script_day2.rpy:1235
+    # game/script_day2.rpy:1237
     old "The parents divorced"
     new ""
 
-    # game/script_day2.rpy:1235
+    # game/script_day2.rpy:1249
     old "The son died"
     new ""
 
-    # game/script_day2.rpy:1235
+    # game/script_day2.rpy:1263
     old "The daughter died"
     new ""
 
-    # game/script_day2.rpy:1271
+    # game/script_day2.rpy:1273
     old "The timing of the son and mother's actions"
     new ""
 
-    # game/script_day2.rpy:1271
+    # game/script_day2.rpy:1286
     old "The daughter isn't mentioned in the letter"
+    new ""
+
+    # game/script_day2.rpy:1554
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}Page 44{/size}\nOpening a Gate to {color=#ff0000}HELL{/color}{/font}"
+    new ""
+
+    # game/script_day2.rpy:1562
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nJudgement Ending{/font}"
     new ""
 
     # game/script_day2.rpy:1825
@@ -8774,31 +8786,39 @@ translate russian strings:
     old "You, Cecilia, and Oriana have finally pierced the heart of the killing game.\nWill you be able to find the light before the darkness consumes you...?"
     new ""
 
-    # game/script_day2.rpy:2095
+    # game/script_day2.rpy:2096
     old "Have Ria jump in"
     new ""
 
-    # game/script_day2.rpy:2095
+    # game/script_day2.rpy:2228
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDarkness Ending{/font}"
+    new ""
+
+    # game/script_day2.rpy:2241
     old "Have Cece jump in"
     new ""
 
-    # game/script_day2.rpy:2095
+    # game/script_day2.rpy:2269
     old "Jump in yourself"
     new ""
 
-    # game/script_day2.rpy:2379
+    # game/script_day2.rpy:2381
     old "With regrets"
     new ""
 
-    # game/script_day2.rpy:2379
+    # game/script_day2.rpy:2383
     old "Without regrets"
     new ""
 
-    # game/script_day2.rpy:2433
+    # game/script_day2.rpy:2419
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nLight Ending{/font}"
+    new ""
+
+    # game/script_day2.rpy:2435
     old "\"...is [name_player].\""
     new ""
 
-    # game/script_day2.rpy:2433
+    # game/script_day2.rpy:2439
     old "\"...is NOT [name_player].\""
     new ""
 
@@ -8806,23 +8826,23 @@ translate russian strings:
     old "ENTER YOUR {size=+15}{color=#44b817}TRUE NAME{/color}{/size}"
     new ""
 
-    # game/script_day2.rpy:2458
+    # game/script_day2.rpy:2462
     old "\"No, that's wrong.\""
     new ""
 
-    # game/script_day2.rpy:2487
+    # game/script_day2.rpy:2489
     old "Tell her"
     new ""
 
-    # game/script_day2.rpy:2487
+    # game/script_day2.rpy:2494
     old "Don't tell her"
     new ""
 
-    # game/script_day2.rpy:2873
+    # game/script_day2.rpy:2875
     old "Go up the stairs"
     new ""
 
-    # game/script_day2.rpy:2873
+    # game/script_day2.rpy:2907
     old "Go into the locked room"
     new ""
 
@@ -8834,87 +8854,87 @@ translate russian strings:
     old "A zombie is trying to kill you! Cecilia's holding the door up, and Oriana is...\nHurry and find something in this room to stop Oriana from bleeding out!"
     new ""
 
-    # game/script_day2.rpy:3315
+    # game/script_day2.rpy:3316
     old "Keep talking with Cece"
     new ""
 
-    # game/script_day2.rpy:3315
+    # game/script_day2.rpy:3320
     old "Stop talking with Cece"
     new ""
 
-    # game/script_day2.rpy:3358
+    # game/script_day2.rpy:3360
     old "\"Selena...\""
     new ""
 
-    # game/script_day2.rpy:3358
+    # game/script_day2.rpy:3362
     old "\"Serena...\""
     new ""
 
-    # game/script_day2.rpy:3358
+    # game/script_day2.rpy:3365
     old "\"Serene...\""
     new ""
 
-    # game/script_day2.rpy:3358
+    # game/script_day2.rpy:3367
     old "\"Celene...\""
     new ""
 
-    # game/script_day2.rpy:3370
+    # game/script_day2.rpy:3372
     old "\"...killed...\""
     new ""
 
-    # game/script_day2.rpy:3370
+    # game/script_day2.rpy:3375
     old "\"...grilled...\""
     new ""
 
-    # game/script_day2.rpy:3370
+    # game/script_day2.rpy:3377
     old "\"...spilled...\""
     new ""
 
-    # game/script_day2.rpy:3370
+    # game/script_day2.rpy:3379
     old "\"...chilled...\""
     new ""
 
-    # game/script_day2.rpy:3382
+    # game/script_day2.rpy:3384
     old "\"...the monkfish.\""
     new ""
 
-    # game/script_day2.rpy:3382
+    # game/script_day2.rpy:3386
     old "\"...the koi fish.\""
     new ""
 
-    # game/script_day2.rpy:3382
+    # game/script_day2.rpy:3388
     old "\"...the goldfish.\""
     new ""
 
-    # game/script_day2.rpy:3382
+    # game/script_day2.rpy:3390
     old "\"...the clownfish.\""
     new ""
 
-    # game/script_day2.rpy:3423
+    # game/script_day2.rpy:3425
     old "\"Yes, tell me.\""
     new ""
 
-    # game/script_day2.rpy:3423
-    old "\"Actually, never mind...\""
-    new ""
-
-    # game/script_day2.rpy:3440
+    # game/script_day2.rpy:3442
     old "\"You continue on.\""
     new ""
 
-    # game/script_day2.rpy:3440
+    # game/script_day2.rpy:3463
     old "\"You get rewound.\""
     new ""
 
-    # game/script_day2.rpy:3440
+    # game/script_day2.rpy:3472
     old "\"You get erased.\""
     new ""
 
-    # game/script_day2.rpy:3608
+    # game/script_day2.rpy:3498
+    old "\"Actually, never mind...\""
+    new ""
+
+    # game/script_day2.rpy:3610
     old "\"You're a good person after all.\""
     new ""
 
-    # game/script_day2.rpy:3608
+    # game/script_day2.rpy:3625
     old "\"You really are a weirdo.\""
     new ""
 

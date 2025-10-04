@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 # game/script_day2_investigations.rpy:48
 translate russian d2a1_attic_assistant_928023ab:
@@ -8596,44 +8596,44 @@ translate russian strings:
     old "Boxes"
     new ""
 
-    # game/script_day2_investigations.rpy:67
+    # game/script_day2_investigations.rpy:69
     old "\"I do, yes!\""
     new ""
 
-    # game/script_day2_investigations.rpy:67
+    # game/script_day2_investigations.rpy:74
     old "\"No, not really...\""
     new ""
 
-    # game/script_day2_investigations.rpy:193
+    # game/script_day2_investigations.rpy:195
     old "Ask about chaos magic"
     new ""
 
-    # game/script_day2_investigations.rpy:222
+    # game/script_day2_investigations.rpy:224
     old "\"Yes, let her pop off!\""
     new ""
 
-    # game/script_day2_investigations.rpy:222
+    # game/script_day2_investigations.rpy:248
     old "\"No, I've had enough of that.\""
     new ""
 
-    # game/script_day2_investigations.rpy:513
+    # game/script_day2_investigations.rpy:515
     old "Necromancy"
     new ""
 
-    # game/script_day2_investigations.rpy:513
+    # game/script_day2_investigations.rpy:535
     old "Demonology"
     new ""
 
-    # game/script_day2_investigations.rpy:513
-    old "Channeling"
-    new ""
-
-    # game/script_day2_investigations.rpy:539
+    # game/script_day2_investigations.rpy:541
     old "A monster"
     new ""
 
-    # game/script_day2_investigations.rpy:539
+    # game/script_day2_investigations.rpy:544
     old "A spirit"
+    new ""
+
+    # game/script_day2_investigations.rpy:564
+    old "Channeling"
     new ""
 
     # game/script_day2_investigations.rpy:950
@@ -8684,23 +8684,23 @@ translate russian strings:
     old "Tear"
     new ""
 
-    # game/script_day2_investigations.rpy:988
-    old "Check the area [t_clue]behind her[t_cluee]"
-    new ""
-
-    # game/script_day2_investigations.rpy:1000
+    # game/script_day2_investigations.rpy:1002
     old "Tease her"
     new ""
 
-    # game/script_day2_investigations.rpy:1000
+    # game/script_day2_investigations.rpy:1007
     old "Calm her"
     new ""
 
-    # game/script_day2_investigations.rpy:1396
+    # game/script_day2_investigations.rpy:1091
+    old "Check the area [t_clue]behind her[t_cluee]"
+    new ""
+
+    # game/script_day2_investigations.rpy:1398
     old "Sit on the couch again"
     new ""
 
-    # game/script_day2_investigations.rpy:1396
+    # game/script_day2_investigations.rpy:1418
     old "Don't sit on the couch"
     new ""
 
@@ -8736,19 +8736,19 @@ translate russian strings:
     old "Box"
     new ""
 
-    # game/script_day2_investigations.rpy:1900
+    # game/script_day2_investigations.rpy:1902
     old "Talk about the Black Magic Mansion"
     new ""
 
-    # game/script_day2_investigations.rpy:1900
+    # game/script_day2_investigations.rpy:1910
     old "Talk about chaos magic"
     new ""
 
-    # game/script_day2_investigations.rpy:2083
+    # game/script_day2_investigations.rpy:2085
     old "\"Absolutely, I would!\""
     new ""
 
-    # game/script_day2_investigations.rpy:2083
+    # game/script_day2_investigations.rpy:2089
     old "\"I...uh...\""
     new ""
 
@@ -8796,47 +8796,47 @@ translate russian strings:
     old "Sand Bottle"
     new ""
 
-    # game/script_day2_investigations.rpy:2898
+    # game/script_day2_investigations.rpy:2900
     old "Look under the sheet"
     new ""
 
-    # game/script_day2_investigations.rpy:2898
+    # game/script_day2_investigations.rpy:2927
     old "Don't look under the sheet"
     new ""
 
-    # game/script_day2_investigations.rpy:3021
+    # game/script_day2_investigations.rpy:3023
     old "Read the open book"
     new ""
 
-    # game/script_day2_investigations.rpy:3021
-    old "Go through the drawers"
-    new ""
-
-    # game/script_day2_investigations.rpy:3021
-    old "Leave the desk alone"
-    new ""
-
-    # game/script_day2_investigations.rpy:3033
+    # game/script_day2_investigations.rpy:3035
     old "Keep reading"
     new ""
 
-    # game/script_day2_investigations.rpy:3033
+    # game/script_day2_investigations.rpy:3064
     old "Stop reading"
     new ""
 
-    # game/script_day2_investigations.rpy:3260
+    # game/script_day2_investigations.rpy:3073
+    old "Go through the drawers"
+    new ""
+
+    # game/script_day2_investigations.rpy:3082
+    old "Leave the desk alone"
+    new ""
+
+    # game/script_day2_investigations.rpy:3262
     old "Open the folder"
     new ""
 
-    # game/script_day2_investigations.rpy:3260
+    # game/script_day2_investigations.rpy:3269
     old "Read the book"
     new ""
 
-    # game/script_day2_investigations.rpy:3260
+    # game/script_day2_investigations.rpy:3376
     old "Look somewhere else"
     new ""
 
-    # game/script_day2_investigations.rpy:3452
+    # game/script_day2_investigations.rpy:3540
     old "Bring back the rag"
     new ""
 

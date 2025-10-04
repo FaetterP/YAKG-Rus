@@ -1,6 +1,10 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 translate russian strings:
+
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new ""
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -50,84 +54,100 @@ translate russian strings:
     old "decrease"
     new ""
 
-    # renpy/common/00accessibility.rpy:121
-    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new ""
-
-    # renpy/common/00accessibility.rpy:140
-    old "Font Override"
-    new ""
-
-    # renpy/common/00accessibility.rpy:144
-    old "Default"
-    new ""
-
-    # renpy/common/00accessibility.rpy:148
-    old "DejaVu Sans"
-    new ""
-
-    # renpy/common/00accessibility.rpy:152
-    old "Opendyslexic"
-    new ""
-
-    # renpy/common/00accessibility.rpy:158
-    old "Text Size Scaling"
-    new ""
-
-    # renpy/common/00accessibility.rpy:164
-    old "Reset"
-    new ""
-
-    # renpy/common/00accessibility.rpy:170
-    old "Line Spacing Scaling"
-    new ""
-
-    # renpy/common/00accessibility.rpy:182
-    old "High Contrast Text"
-    new ""
-
-    # renpy/common/00accessibility.rpy:184
-    old "Enable"
-    new ""
-
-    # renpy/common/00accessibility.rpy:188
-    old "Disable"
-    new ""
-
-    # renpy/common/00accessibility.rpy:195
+    # renpy/common/00accessibility.rpy:134
     old "Self-Voicing"
     new ""
 
-    # renpy/common/00accessibility.rpy:198
+    # renpy/common/00accessibility.rpy:137
     old "Self-voicing support is limited when using a touch screen."
     new ""
 
-    # renpy/common/00accessibility.rpy:202
+    # renpy/common/00accessibility.rpy:139
     old "Off"
     new ""
 
-    # renpy/common/00accessibility.rpy:206
+    # renpy/common/00accessibility.rpy:143
     old "Text-to-speech"
     new ""
 
-    # renpy/common/00accessibility.rpy:210
+    # renpy/common/00accessibility.rpy:147
     old "Clipboard"
     new ""
 
-    # renpy/common/00accessibility.rpy:214
+    # renpy/common/00accessibility.rpy:151
     old "Debug"
     new ""
 
-    # renpy/common/00accessibility.rpy:228
+    # renpy/common/00accessibility.rpy:163
+    old "Reset"
+    new ""
+
+    # renpy/common/00accessibility.rpy:167
     old "Self-Voicing Volume Drop"
     new ""
 
-    # renpy/common/00accessibility.rpy:237
-    old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
     new ""
 
-    # renpy/common/00accessibility.rpy:242
+    # renpy/common/00accessibility.rpy:182
+    old "Enable"
+    new ""
+
+    # renpy/common/00accessibility.rpy:186
+    old "Disable"
+    new ""
+
+    # renpy/common/00accessibility.rpy:198
+    old "Font Override"
+    new ""
+
+    # renpy/common/00accessibility.rpy:200
+    old "Default"
+    new ""
+
+    # renpy/common/00accessibility.rpy:204
+    old "DejaVu Sans"
+    new ""
+
+    # renpy/common/00accessibility.rpy:208
+    old "Opendyslexic"
+    new ""
+
+    # renpy/common/00accessibility.rpy:212
+    old "High Contrast Text"
+    new ""
+
+    # renpy/common/00accessibility.rpy:224
+    old "Text Size Scaling"
+    new ""
+
+    # renpy/common/00accessibility.rpy:235
+    old "Line Spacing Scaling"
+    new ""
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new ""
+
+    # renpy/common/00accessibility.rpy:267
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new ""
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new ""
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new ""
+
+    # renpy/common/00accessibility.rpy:296
     old "Return"
+    new ""
+
+    # renpy/common/00accessibility.rpy:306
+    old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new ""
 
     # renpy/common/00action_file.rpy:26
@@ -342,11 +362,11 @@ translate russian strings:
     old "Quick load."
     new ""
 
-    # renpy/common/00action_other.rpy:379
+    # renpy/common/00action_other.rpy:416
     old "Language [text]"
     new ""
 
-    # renpy/common/00action_other.rpy:744
+    # renpy/common/00action_other.rpy:786
     old "Open [text] directory."
     new ""
 
@@ -530,267 +550,275 @@ translate russian strings:
     old "Saved screenshot as %s."
     new ""
 
-    # renpy/common/00library.rpy:251
+    # renpy/common/00library.rpy:257
     old "Skip Mode"
     new ""
 
-    # renpy/common/00library.rpy:338
+    # renpy/common/00library.rpy:344
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new ""
 
-    # renpy/common/00preferences.rpy:290
+    # renpy/common/00preferences.rpy:295
     old "display"
     new ""
 
-    # renpy/common/00preferences.rpy:310
+    # renpy/common/00preferences.rpy:315
     old "transitions"
     new ""
 
-    # renpy/common/00preferences.rpy:319
+    # renpy/common/00preferences.rpy:324
     old "skip transitions"
     new ""
 
-    # renpy/common/00preferences.rpy:321
+    # renpy/common/00preferences.rpy:326
     old "video sprites"
     new ""
 
-    # renpy/common/00preferences.rpy:330
+    # renpy/common/00preferences.rpy:335
     old "show empty window"
     new ""
 
-    # renpy/common/00preferences.rpy:339
+    # renpy/common/00preferences.rpy:344
     old "text speed"
     new ""
 
-    # renpy/common/00preferences.rpy:347
+    # renpy/common/00preferences.rpy:352
     old "joystick"
     new ""
 
-    # renpy/common/00preferences.rpy:347
+    # renpy/common/00preferences.rpy:352
     old "joystick..."
     new ""
 
-    # renpy/common/00preferences.rpy:354
+    # renpy/common/00preferences.rpy:359
     old "skip"
     new ""
 
-    # renpy/common/00preferences.rpy:357
+    # renpy/common/00preferences.rpy:362
     old "skip unseen [text]"
     new ""
 
-    # renpy/common/00preferences.rpy:362
+    # renpy/common/00preferences.rpy:367
     old "skip unseen text"
     new ""
 
-    # renpy/common/00preferences.rpy:364
+    # renpy/common/00preferences.rpy:369
     old "begin skipping"
     new ""
 
-    # renpy/common/00preferences.rpy:368
+    # renpy/common/00preferences.rpy:373
     old "after choices"
     new ""
 
-    # renpy/common/00preferences.rpy:375
+    # renpy/common/00preferences.rpy:380
     old "skip after choices"
     new ""
 
-    # renpy/common/00preferences.rpy:377
+    # renpy/common/00preferences.rpy:382
     old "auto-forward time"
     new ""
 
-    # renpy/common/00preferences.rpy:391
+    # renpy/common/00preferences.rpy:396
     old "auto-forward"
     new ""
 
-    # renpy/common/00preferences.rpy:398
+    # renpy/common/00preferences.rpy:403
     old "Auto forward"
     new ""
 
-    # renpy/common/00preferences.rpy:401
+    # renpy/common/00preferences.rpy:406
     old "auto-forward after click"
     new ""
 
-    # renpy/common/00preferences.rpy:410
+    # renpy/common/00preferences.rpy:415
     old "automatic move"
     new ""
 
-    # renpy/common/00preferences.rpy:419
+    # renpy/common/00preferences.rpy:424
     old "wait for voice"
     new ""
 
-    # renpy/common/00preferences.rpy:428
+    # renpy/common/00preferences.rpy:433
     old "voice sustain"
     new ""
 
-    # renpy/common/00preferences.rpy:437
+    # renpy/common/00preferences.rpy:442
     old "self voicing"
     new ""
 
-    # renpy/common/00preferences.rpy:440
+    # renpy/common/00preferences.rpy:445
     old "self voicing enable"
     new ""
 
-    # renpy/common/00preferences.rpy:442
+    # renpy/common/00preferences.rpy:447
     old "self voicing disable"
     new ""
 
-    # renpy/common/00preferences.rpy:446
+    # renpy/common/00preferences.rpy:451
     old "self voicing volume drop"
     new ""
 
-    # renpy/common/00preferences.rpy:454
+    # renpy/common/00preferences.rpy:459
     old "clipboard voicing"
     new ""
 
-    # renpy/common/00preferences.rpy:457
+    # renpy/common/00preferences.rpy:462
     old "clipboard voicing enable"
     new ""
 
-    # renpy/common/00preferences.rpy:459
+    # renpy/common/00preferences.rpy:464
     old "clipboard voicing disable"
     new ""
 
-    # renpy/common/00preferences.rpy:463
+    # renpy/common/00preferences.rpy:468
     old "debug voicing"
     new ""
 
-    # renpy/common/00preferences.rpy:466
+    # renpy/common/00preferences.rpy:471
     old "debug voicing enable"
     new ""
 
-    # renpy/common/00preferences.rpy:468
+    # renpy/common/00preferences.rpy:473
     old "debug voicing disable"
     new ""
 
-    # renpy/common/00preferences.rpy:472
+    # renpy/common/00preferences.rpy:477
     old "emphasize audio"
     new ""
 
-    # renpy/common/00preferences.rpy:481
+    # renpy/common/00preferences.rpy:486
     old "rollback side"
     new ""
 
-    # renpy/common/00preferences.rpy:491
+    # renpy/common/00preferences.rpy:496
     old "gl powersave"
     new ""
 
-    # renpy/common/00preferences.rpy:497
+    # renpy/common/00preferences.rpy:502
     old "gl framerate"
     new ""
 
-    # renpy/common/00preferences.rpy:500
+    # renpy/common/00preferences.rpy:505
     old "gl tearing"
     new ""
 
-    # renpy/common/00preferences.rpy:503
+    # renpy/common/00preferences.rpy:508
     old "font transform"
     new ""
 
-    # renpy/common/00preferences.rpy:506
+    # renpy/common/00preferences.rpy:511
     old "font size"
     new ""
 
-    # renpy/common/00preferences.rpy:514
+    # renpy/common/00preferences.rpy:519
     old "font line spacing"
     new ""
 
-    # renpy/common/00preferences.rpy:522
+    # renpy/common/00preferences.rpy:527
     old "system cursor"
     new ""
 
-    # renpy/common/00preferences.rpy:531
+    # renpy/common/00preferences.rpy:536
     old "renderer menu"
     new ""
 
-    # renpy/common/00preferences.rpy:534
+    # renpy/common/00preferences.rpy:539
     old "accessibility menu"
     new ""
 
-    # renpy/common/00preferences.rpy:537
+    # renpy/common/00preferences.rpy:542
     old "high contrast text"
     new ""
 
-    # renpy/common/00preferences.rpy:546
+    # renpy/common/00preferences.rpy:551
     old "audio when minimized"
     new ""
 
-    # renpy/common/00preferences.rpy:555
+    # renpy/common/00preferences.rpy:560
     old "audio when unfocused"
     new ""
 
-    # renpy/common/00preferences.rpy:564
+    # renpy/common/00preferences.rpy:569
     old "web cache preload"
     new ""
 
-    # renpy/common/00preferences.rpy:579
+    # renpy/common/00preferences.rpy:584
     old "voice after game menu"
     new ""
 
-    # renpy/common/00preferences.rpy:588
+    # renpy/common/00preferences.rpy:593
     old "restore window position"
     new ""
 
-    # renpy/common/00preferences.rpy:597
-    old "reset"
-    new ""
-
-    # renpy/common/00preferences.rpy:610
-    old "main volume"
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
     new ""
 
     # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new ""
+
+    # renpy/common/00preferences.rpy:619
+    old "reset"
+    new ""
+
+    # renpy/common/00preferences.rpy:632
+    old "main volume"
+    new ""
+
+    # renpy/common/00preferences.rpy:633
     old "music volume"
     new ""
 
-    # renpy/common/00preferences.rpy:612
+    # renpy/common/00preferences.rpy:634
     old "sound volume"
     new ""
 
-    # renpy/common/00preferences.rpy:613
+    # renpy/common/00preferences.rpy:635
     old "voice volume"
     new ""
 
-    # renpy/common/00preferences.rpy:614
+    # renpy/common/00preferences.rpy:636
     old "mute main"
     new ""
 
-    # renpy/common/00preferences.rpy:615
+    # renpy/common/00preferences.rpy:637
     old "mute music"
     new ""
 
-    # renpy/common/00preferences.rpy:616
+    # renpy/common/00preferences.rpy:638
     old "mute sound"
     new ""
 
-    # renpy/common/00preferences.rpy:617
+    # renpy/common/00preferences.rpy:639
     old "mute voice"
     new ""
 
-    # renpy/common/00preferences.rpy:618
+    # renpy/common/00preferences.rpy:640
     old "mute all"
     new ""
 
-    # renpy/common/00preferences.rpy:701
+    # renpy/common/00preferences.rpy:723
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new ""
 
-    # renpy/common/00preferences.rpy:703
+    # renpy/common/00preferences.rpy:725
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
     new ""
 
-    # renpy/common/00preferences.rpy:705
+    # renpy/common/00preferences.rpy:727
     old "Self-voicing enabled. Press 'v' to disable."
     new ""
 
-    # renpy/common/00speechbubble.rpy:416
+    # renpy/common/00speechbubble.rpy:420
     old "Speech Bubble Editor"
     new ""
 
-    # renpy/common/00speechbubble.rpy:421
+    # renpy/common/00speechbubble.rpy:425
     old "(hide)"
     new ""
 
-    # renpy/common/00speechbubble.rpy:432
+    # renpy/common/00speechbubble.rpy:436
     old "(clear retained bubbles)"
     new ""
 
@@ -798,75 +826,79 @@ translate russian strings:
     old "Sync downloaded."
     new ""
 
-    # renpy/common/00sync.rpy:193
+    # renpy/common/00sync.rpy:184
     old "Could not connect to the Ren'Py Sync server."
     new ""
 
-    # renpy/common/00sync.rpy:195
+    # renpy/common/00sync.rpy:186
     old "The Ren'Py Sync server timed out."
     new ""
 
-    # renpy/common/00sync.rpy:197
+    # renpy/common/00sync.rpy:188
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
     new ""
 
-    # renpy/common/00sync.rpy:213
+    # renpy/common/00sync.rpy:204
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
     new ""
 
-    # renpy/common/00sync.rpy:316
+    # renpy/common/00sync.rpy:305
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
     new ""
 
-    # renpy/common/00sync.rpy:335
+    # renpy/common/00sync.rpy:324
     old "The sync ID is not in the correct format."
     new ""
 
-    # renpy/common/00sync.rpy:355
+    # renpy/common/00sync.rpy:344
     old "The sync could not be decrypted."
     new ""
 
-    # renpy/common/00sync.rpy:378
+    # renpy/common/00sync.rpy:367
     old "The sync belongs to a different game."
     new ""
 
-    # renpy/common/00sync.rpy:383
+    # renpy/common/00sync.rpy:372
     old "The sync contains a file with an invalid name."
     new ""
 
-    # renpy/common/00sync.rpy:440
+    # renpy/common/00sync.rpy:425
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
     new ""
 
-    # renpy/common/00sync.rpy:448
+    # renpy/common/00sync.rpy:433
     old "Yes"
     new ""
 
-    # renpy/common/00sync.rpy:449
+    # renpy/common/00sync.rpy:434
     old "No"
     new ""
 
-    # renpy/common/00sync.rpy:472
+    # renpy/common/00sync.rpy:457
     old "Enter Sync ID"
     new ""
 
-    # renpy/common/00sync.rpy:483
+    # renpy/common/00sync.rpy:468
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
     new ""
 
-    # renpy/common/00sync.rpy:513
+    # renpy/common/00sync.rpy:498
     old "Sync Success"
     new ""
 
-    # renpy/common/00sync.rpy:516
+    # renpy/common/00sync.rpy:501
     old "The Sync ID is:"
     new ""
 
-    # renpy/common/00sync.rpy:522
+    # renpy/common/00sync.rpy:507
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
     new ""
 
-    # renpy/common/00sync.rpy:551
+    # renpy/common/00sync.rpy:511
+    old "Continue"
+    new ""
+
+    # renpy/common/00sync.rpy:536
     old "Sync Error"
     new ""
 
@@ -886,247 +918,235 @@ translate russian strings:
     old "Contacting App Store\nPlease Wait..."
     new ""
 
-    # renpy/common/00updater.rpy:505
+    # renpy/common/00updater.rpy:415
     old "No update methods found."
     new ""
 
-    # renpy/common/00updater.rpy:552
+    # renpy/common/00updater.rpy:462
     old "Could not download file list: "
     new ""
 
-    # renpy/common/00updater.rpy:555
+    # renpy/common/00updater.rpy:465
     old "File list digest does not match."
     new ""
 
-    # renpy/common/00updater.rpy:765
+    # renpy/common/00updater.rpy:675
     old "An error is being simulated."
     new ""
 
-    # renpy/common/00updater.rpy:953
+    # renpy/common/00updater.rpy:863
     old "Either this project does not support updating, or the update status file was deleted."
     new ""
 
-    # renpy/common/00updater.rpy:967
+    # renpy/common/00updater.rpy:877
     old "This account does not have permission to perform an update."
     new ""
 
-    # renpy/common/00updater.rpy:970
+    # renpy/common/00updater.rpy:880
     old "This account does not have permission to write the update log."
     new ""
 
-    # renpy/common/00updater.rpy:1050
+    # renpy/common/00updater.rpy:966
     old "Could not verify update signature."
     new ""
 
-    # renpy/common/00updater.rpy:1373
+    # renpy/common/00updater.rpy:1289
     old "The update file was not downloaded."
     new ""
 
-    # renpy/common/00updater.rpy:1391
+    # renpy/common/00updater.rpy:1307
     old "The update file does not have the correct digest - it may have been corrupted."
     new ""
 
-    # renpy/common/00updater.rpy:1541
+    # renpy/common/00updater.rpy:1457
     old "While unpacking {}, unknown type {}."
     new ""
 
-    # renpy/common/00updater.rpy:2022
+    # renpy/common/00updater.rpy:1928
     old "Updater"
     new ""
 
-    # renpy/common/00updater.rpy:2029
-    old "An error has occured:"
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
     new ""
 
-    # renpy/common/00updater.rpy:2031
+    # renpy/common/00updater.rpy:1937
     old "Checking for updates."
     new ""
 
-    # renpy/common/00updater.rpy:2033
+    # renpy/common/00updater.rpy:1939
     old "This program is up to date."
     new ""
 
-    # renpy/common/00updater.rpy:2035
+    # renpy/common/00updater.rpy:1941
     old "[u.version] is available. Do you want to install it?"
     new ""
 
-    # renpy/common/00updater.rpy:2037
+    # renpy/common/00updater.rpy:1943
     old "Preparing to download the updates."
     new ""
 
-    # renpy/common/00updater.rpy:2039
+    # renpy/common/00updater.rpy:1945
     old "Downloading the updates."
     new ""
 
-    # renpy/common/00updater.rpy:2041
+    # renpy/common/00updater.rpy:1947
     old "Unpacking the updates."
     new ""
 
-    # renpy/common/00updater.rpy:2043
+    # renpy/common/00updater.rpy:1949
     old "Finishing up."
     new ""
 
-    # renpy/common/00updater.rpy:2045
+    # renpy/common/00updater.rpy:1951
     old "The updates have been installed. The program will restart."
     new ""
 
-    # renpy/common/00updater.rpy:2047
+    # renpy/common/00updater.rpy:1953
     old "The updates have been installed."
     new ""
 
-    # renpy/common/00updater.rpy:2049
+    # renpy/common/00updater.rpy:1955
     old "The updates were cancelled."
     new ""
 
-    # renpy/common/00updater.rpy:2080
+    # renpy/common/00updater.rpy:1986
     old "Preparing to download the game data."
     new ""
 
-    # renpy/common/00updater.rpy:2082
+    # renpy/common/00updater.rpy:1988
     old "Downloading the game data."
     new ""
 
-    # renpy/common/00updater.rpy:2084
+    # renpy/common/00updater.rpy:1990
     old "The game data has been downloaded."
     new ""
 
-    # renpy/common/00updater.rpy:2086
-    old "An error occured when trying to download game data:"
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
     new ""
 
-    # renpy/common/00updater.rpy:2091
+    # renpy/common/00updater.rpy:1997
     old "This game cannot be run until the game data has been downloaded."
     new ""
 
-    # renpy/common/00updater.rpy:2098
+    # renpy/common/00updater.rpy:2004
     old "Retry"
     new ""
 
-    # renpy/common/00gallery.rpy:643
+    # renpy/common/00gallery.rpy:676
     old "Image [index] of [count] locked."
     new ""
 
-    # renpy/common/00gallery.rpy:663
+    # renpy/common/00gallery.rpy:696
     old "prev"
     new ""
 
-    # renpy/common/00gallery.rpy:664
+    # renpy/common/00gallery.rpy:697
     old "next"
     new ""
 
-    # renpy/common/00gallery.rpy:665
+    # renpy/common/00gallery.rpy:698
     old "slideshow"
     new ""
 
-    # renpy/common/00gallery.rpy:666
+    # renpy/common/00gallery.rpy:699
     old "return"
     new ""
 
-    # renpy/common/00gltest.rpy:90
+    # renpy/common/00gltest.rpy:89
     old "Renderer"
     new ""
 
-    # renpy/common/00gltest.rpy:94
+    # renpy/common/00gltest.rpy:91
     old "Automatically Choose"
     new ""
 
-    # renpy/common/00gltest.rpy:101
-    old "Force GL Renderer"
-    new ""
-
-    # renpy/common/00gltest.rpy:106
-    old "Force ANGLE Renderer"
-    new ""
-
-    # renpy/common/00gltest.rpy:111
-    old "Force GLES Renderer"
-    new ""
-
-    # renpy/common/00gltest.rpy:117
+    # renpy/common/00gltest.rpy:96
     old "Force GL2 Renderer"
     new ""
 
-    # renpy/common/00gltest.rpy:122
+    # renpy/common/00gltest.rpy:101
     old "Force ANGLE2 Renderer"
     new ""
 
-    # renpy/common/00gltest.rpy:127
+    # renpy/common/00gltest.rpy:106
     old "Force GLES2 Renderer"
     new ""
 
-    # renpy/common/00gltest.rpy:137
+    # renpy/common/00gltest.rpy:112
     old "Enable (No Blocklist)"
     new ""
 
-    # renpy/common/00gltest.rpy:151
+    # renpy/common/00gltest.rpy:126
     old "Calibrate"
     new ""
 
-    # renpy/common/00gltest.rpy:160
+    # renpy/common/00gltest.rpy:135
     old "Powersave"
     new ""
 
-    # renpy/common/00gltest.rpy:174
+    # renpy/common/00gltest.rpy:145
     old "Framerate"
     new ""
 
-    # renpy/common/00gltest.rpy:178
+    # renpy/common/00gltest.rpy:147
     old "Screen"
     new ""
 
-    # renpy/common/00gltest.rpy:182
+    # renpy/common/00gltest.rpy:151
     old "60"
     new ""
 
-    # renpy/common/00gltest.rpy:186
+    # renpy/common/00gltest.rpy:155
     old "30"
     new ""
 
-    # renpy/common/00gltest.rpy:192
+    # renpy/common/00gltest.rpy:159
     old "Tearing"
     new ""
 
-    # renpy/common/00gltest.rpy:208
+    # renpy/common/00gltest.rpy:171
     old "Changes will take effect the next time this program is run."
     new ""
 
-    # renpy/common/00gltest.rpy:244
+    # renpy/common/00gltest.rpy:207
     old "Performance Warning"
     new ""
 
-    # renpy/common/00gltest.rpy:249
+    # renpy/common/00gltest.rpy:212
     old "This computer is using software rendering."
     new ""
 
-    # renpy/common/00gltest.rpy:251
+    # renpy/common/00gltest.rpy:214
     old "This game requires use of GL2 that can't be initialised."
     new ""
 
-    # renpy/common/00gltest.rpy:253
+    # renpy/common/00gltest.rpy:216
     old "This computer has a problem displaying graphics: [problem]."
     new ""
 
-    # renpy/common/00gltest.rpy:257
+    # renpy/common/00gltest.rpy:220
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
     new ""
 
-    # renpy/common/00gltest.rpy:261
+    # renpy/common/00gltest.rpy:224
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
     new ""
 
-    # renpy/common/00gltest.rpy:266
+    # renpy/common/00gltest.rpy:229
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
     new ""
 
-    # renpy/common/00gltest.rpy:271
+    # renpy/common/00gltest.rpy:234
     old "Continue, Show this warning again"
     new ""
 
-    # renpy/common/00gltest.rpy:275
+    # renpy/common/00gltest.rpy:238
     old "Continue, Don't show warning again"
     new ""
 
-    # renpy/common/00gltest.rpy:283
+    # renpy/common/00gltest.rpy:246
     old "Change render options"
     new ""
 
@@ -1154,75 +1174,75 @@ translate russian strings:
     old "Back (B)"
     new ""
 
-    # renpy/common/_errorhandling.rpym:674
+    # renpy/common/_errorhandling.rpym:757
     old "Open"
     new ""
 
-    # renpy/common/_errorhandling.rpym:676
+    # renpy/common/_errorhandling.rpym:759
     old "Opens the traceback.txt file in a text editor."
     new ""
 
-    # renpy/common/_errorhandling.rpym:678
+    # renpy/common/_errorhandling.rpym:761
     old "Copy BBCode"
     new ""
 
-    # renpy/common/_errorhandling.rpym:680
+    # renpy/common/_errorhandling.rpym:763
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
     new ""
 
-    # renpy/common/_errorhandling.rpym:682
+    # renpy/common/_errorhandling.rpym:765
     old "Copy Markdown"
     new ""
 
-    # renpy/common/_errorhandling.rpym:684
+    # renpy/common/_errorhandling.rpym:767
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
     new ""
 
-    # renpy/common/_errorhandling.rpym:716
+    # renpy/common/_errorhandling.rpym:799
     old "An exception has occurred."
     new ""
 
-    # renpy/common/_errorhandling.rpym:739
+    # renpy/common/_errorhandling.rpym:828
     old "Rollback"
     new ""
 
-    # renpy/common/_errorhandling.rpym:741
+    # renpy/common/_errorhandling.rpym:830
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new ""
 
-    # renpy/common/_errorhandling.rpym:744
+    # renpy/common/_errorhandling.rpym:833
     old "Ignore"
     new ""
 
-    # renpy/common/_errorhandling.rpym:748
+    # renpy/common/_errorhandling.rpym:837
     old "Ignores the exception, allowing you to continue."
     new ""
 
-    # renpy/common/_errorhandling.rpym:750
+    # renpy/common/_errorhandling.rpym:839
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
     new ""
 
-    # renpy/common/_errorhandling.rpym:754
+    # renpy/common/_errorhandling.rpym:843
     old "Reload"
     new ""
 
-    # renpy/common/_errorhandling.rpym:756
+    # renpy/common/_errorhandling.rpym:845
     old "Reloads the game from disk, saving and restoring game state if possible."
     new ""
 
-    # renpy/common/_errorhandling.rpym:759
+    # renpy/common/_errorhandling.rpym:848
     old "Console"
     new ""
 
-    # renpy/common/_errorhandling.rpym:761
+    # renpy/common/_errorhandling.rpym:850
     old "Opens a console to allow debugging the problem."
     new ""
 
-    # renpy/common/_errorhandling.rpym:774
+    # renpy/common/_errorhandling.rpym:863
     old "Quits the game."
     new ""
 
-    # renpy/common/_errorhandling.rpym:796
+    # renpy/common/_errorhandling.rpym:885
     old "Parsing the script failed."
     new ""
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 translate russian strings:
 
@@ -75,7 +75,7 @@ translate russian strings:
     new ""
 
     # game/screens.rpy:650
-    old "Continue"
+    old "Continue{#menu}"
     new ""
 
     # game/screens.rpy:650
@@ -162,427 +162,435 @@ translate russian strings:
     old "Close"
     new ""
 
-    # game/screens.rpy:948
+    # game/screens.rpy:950
     old "Ver. [config.version!t] | [u_copyright] 2025 Jun Kakeru\n"
     new ""
 
-    # game/screens.rpy:954
+    # game/screens.rpy:956
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new ""
 
-    # game/screens.rpy:1000
+    # game/screens.rpy:1002
     old "Page {}: My Saves"
     new ""
 
-    # game/screens.rpy:1000
+    # game/screens.rpy:1002
     old "Autosaves"
     new ""
 
-    # game/screens.rpy:1000
+    # game/screens.rpy:1002
     old "Quick Saves"
     new ""
 
-    # game/screens.rpy:1025
+    # game/screens.rpy:1027
     old "Select a slot to {color=#508ef2}save{/color} your current progress in."
     new ""
 
-    # game/screens.rpy:1029
+    # game/screens.rpy:1031
     old "Choose a save to {color=#d93838}load{/color} and resume a playthrough."
     new ""
 
-    # game/screens.rpy:1059
+    # game/screens.rpy:1061
     old "Empty Slot"
     new ""
 
-    # game/screens.rpy:1061
+    # game/screens.rpy:1063
     old "{#file_time}%B %d, %Y | %H:%M"
     new ""
 
-    # game/screens.rpy:1080
+    # game/screens.rpy:1082
     old "<"
     new ""
 
-    # game/screens.rpy:1084
+    # game/screens.rpy:1086
     old "{#auto_page}A"
     new ""
 
-    # game/screens.rpy:1087
+    # game/screens.rpy:1089
     old "{#quick_page}Q"
     new ""
 
-    # game/screens.rpy:1090
+    # game/screens.rpy:1092
     old "{#auto_page}Autosaves"
     new ""
 
-    # game/screens.rpy:1103
+    # game/screens.rpy:1105
     old ">"
     new ""
 
-    # game/screens.rpy:1108
+    # game/screens.rpy:1110
     old "Upload Sync"
     new ""
 
-    # game/screens.rpy:1112
+    # game/screens.rpy:1114
     old "Download Sync"
     new ""
 
-    # game/screens.rpy:1195
+    # game/screens.rpy:1197
     old "Gameplay"
     new ""
 
-    # game/screens.rpy:1196
+    # game/screens.rpy:1200
     old "Skip Unseen Text"
     new ""
 
-    # game/screens.rpy:1196
+    # game/screens.rpy:1200
     old "{size=+10}Skip Unseen Text{/size}\nAllows \"Skip\" controls to skip through text you have {color=#ff0000}NOT{/color} read yet."
     new ""
 
-    # game/screens.rpy:1197
+    # game/screens.rpy:1201
     old "Skip After Choices"
     new ""
 
-    # game/screens.rpy:1197
+    # game/screens.rpy:1201
     old "{size=+10}Skip After Choices{/size}\nAllows \"Skip\" to stay active after selecting choices or clues in Investigations."
     new ""
 
-    # game/screens.rpy:1198
+    # game/screens.rpy:1202
     old "Skip Transitions"
     new ""
 
-    # game/screens.rpy:1198
+    # game/screens.rpy:1202
     old "{size=+10}Skip Transitions{/size}\nSkips all transitions and most image animations."
     new ""
 
-    # game/screens.rpy:1202
+    # game/screens.rpy:1208
     old "Darken Flashes"
     new ""
 
-    # game/screens.rpy:1202
+    # game/screens.rpy:1208
     old "{size=+10}Darken Flashes{/size}\nLowers the brightness of flash transitions and effects."
     new ""
 
-    # game/screens.rpy:1203
+    # game/screens.rpy:1209
     old "Use Ren'Py Features"
     new ""
 
-    # game/screens.rpy:1203
+    # game/screens.rpy:1209
     old "{size=+10}Use Ren'Py Features{/size}\nEnables Rollback, Quick Saves, Sync, and a familiar quick menu layout {color=#ff3eff}for players used to Ren'Py{/color}."
     new ""
 
-    # game/screens.rpy:1208
+    # game/screens.rpy:1214
     old "Display"
     new ""
 
-    # game/screens.rpy:1209
-    old "Window"
+    # game/screens.rpy:1217
+    old "Window{#preference}"
     new ""
 
-    # game/screens.rpy:1210
+    # game/screens.rpy:1218
     old "Fullscreen"
     new ""
 
-    # game/screens.rpy:1213
+    # game/screens.rpy:1221
     old "Language"
     new ""
 
-    # game/screens.rpy:1228
+    # game/screens.rpy:1224
+    old "{font=fonts/Changa-SemiBold.ttf}Switch the game language to English?{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}言語を英語に変更しますか？{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}古いセーブでは{color=#ff0000}テキストの不具合{/color}が起きる可能性があります。{/font}"
+    new ""
+
+    # game/screens.rpy:1225
+    old "{font=fonts/Changa-SemiBold.ttf}Switch the game language to Japanese?{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}言語を日本語に変更しますか？{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}古いセーブでは{color=#ff0000}テキストの不具合{/color}が起きる可能性があります。{/font}"
+    new ""
+
+    # game/screens.rpy:1237
     old "Text Speed"
     new ""
 
-    # game/screens.rpy:1230
+    # game/screens.rpy:1239
     old "Slow"
     new ""
 
-    # game/screens.rpy:1233
+    # game/screens.rpy:1242
     old "{size=+10}Text Speed{/size}\nAdjust the speed at which normal dialogue text prints on the screen."
     new ""
 
-    # game/screens.rpy:1234
+    # game/screens.rpy:1243
     old "Fast"
     new ""
 
-    # game/screens.rpy:1238
+    # game/screens.rpy:1247
     old "Auto-Forward Delay"
     new ""
 
-    # game/screens.rpy:1240
+    # game/screens.rpy:1249
     old "Short"
     new ""
 
-    # game/screens.rpy:1243
+    # game/screens.rpy:1252
     old "{size=+10}Auto-Forward Delay{/size}\nAdjust the amount of time before dialogue advances while using \"Auto\"."
     new ""
 
-    # game/screens.rpy:1244
+    # game/screens.rpy:1253
     old "Long"
     new ""
 
-    # game/screens.rpy:1248
+    # game/screens.rpy:1257
     old "Skip Speed"
     new ""
 
-    # game/screens.rpy:1255
+    # game/screens.rpy:1264
     old "{size=+10}Skip Speed{/size}\nAdjust the speed at which \"Skip\" controls advance through dialogue text."
     new ""
 
-    # game/screens.rpy:1263
+    # game/screens.rpy:1272
     old "Music Volume"
     new ""
 
-    # game/screens.rpy:1265
+    # game/screens.rpy:1274
     old "Music Volume{image=gui/icon_mute.png}"
     new ""
 
-    # game/screens.rpy:1273
+    # game/screens.rpy:1283
     old "Sound Volume"
     new ""
 
-    # game/screens.rpy:1275
+    # game/screens.rpy:1285
     old "Sound Volume{image=gui/icon_mute.png}"
     new ""
 
-    # game/screens.rpy:1287
+    # game/screens.rpy:1297
     old "Voice Volume"
     new ""
 
-    # game/screens.rpy:1293
+    # game/screens.rpy:1303
     old "Test"
     new ""
 
-    # game/screens.rpy:1298
+    # game/screens.rpy:1308
     old "Mute All"
     new ""
 
-    # game/screens.rpy:1301
+    # game/screens.rpy:1311
     old "Restore Defaults"
     new ""
 
-    # game/screens.rpy:1301
+    # game/screens.rpy:1311
     old "{size=+10}Restore Defaults{/size}\nRevert all text and volume sliders to default values."
     new ""
 
-    # game/screens.rpy:1303
+    # game/screens.rpy:1313
     old "Restore all sliders to their default values?"
     new ""
 
-    # game/screens.rpy:1473
+    # game/screens.rpy:1483
     old "The dialogue log is empty."
     new ""
 
-    # game/screens.rpy:1548
+    # game/screens.rpy:1563
     old "Tutorials"
     new ""
 
-    # game/screens.rpy:1552
+    # game/screens.rpy:1567
     old "Gamepad"
     new ""
 
-    # game/screens.rpy:1554
+    # game/screens.rpy:1569
     old "Keyboard"
     new ""
 
-    # game/screens.rpy:1555
+    # game/screens.rpy:1570
     old "Mouse"
     new ""
 
-    # game/screens.rpy:1569
+    # game/screens.rpy:1585
     old "Enter"
     new ""
 
-    # game/screens.rpy:1570
+    # game/screens.rpy:1586
     old "Advances dialogue and activates selected buttons."
     new ""
 
-    # game/screens.rpy:1573
+    # game/screens.rpy:1589
     old "Space"
     new ""
 
-    # game/screens.rpy:1574
+    # game/screens.rpy:1590
     old "Advances dialogue only."
     new ""
 
-    # game/screens.rpy:1578
+    # game/screens.rpy:1594
     old "R, Page Up"
     new ""
 
-    # game/screens.rpy:1580
+    # game/screens.rpy:1596
     old "Uses the power of Rollback to turn back time."
     new ""
 
-    # game/screens.rpy:1583
+    # game/screens.rpy:1599
     old "Arrow Keys"
     new ""
 
-    # game/screens.rpy:1584
+    # game/screens.rpy:1600
     old "Navigates visible buttons."
     new ""
 
-    # game/screens.rpy:1587
+    # game/screens.rpy:1603
     old "Escape"
     new ""
 
-    # game/screens.rpy:1588
+    # game/screens.rpy:1604
     old "Pauses the game by opening the game menu."
     new ""
 
-    # game/screens.rpy:1592
+    # game/screens.rpy:1608
     old "Opens the Help screen."
     new ""
 
-    # game/screens.rpy:1596
+    # game/screens.rpy:1612
     old "Opens the Log screen."
     new ""
 
-    # game/screens.rpy:1599
+    # game/screens.rpy:1615
     old "Ctrl"
     new ""
 
-    # game/screens.rpy:1600
+    # game/screens.rpy:1616
     old "Skips dialogue while held down."
     new ""
 
-    # game/screens.rpy:1603
+    # game/screens.rpy:1619
     old "Tab"
     new ""
 
-    # game/screens.rpy:1604
+    # game/screens.rpy:1620
     old "Toggles dialogue skipping."
     new ""
 
-    # game/screens.rpy:1612
+    # game/screens.rpy:1628
     old "Toggles auto-forward."
     new ""
 
-    # game/screens.rpy:1616
+    # game/screens.rpy:1632
     old "Hides the user interface."
     new ""
 
-    # game/screens.rpy:1620
+    # game/screens.rpy:1636
     old "Takes a screenshot."
     new ""
 
-    # game/screens.rpy:1624
+    # game/screens.rpy:1640
     old "Toggles the music information panel."
     new ""
 
-    # game/screens.rpy:1628
+    # game/screens.rpy:1644
     old "Toggle fullscreen or windowed mode."
     new ""
 
-    # game/screens.rpy:1632
+    # game/screens.rpy:1648
     old "Delete the currently selected save file."
     new ""
 
-    # game/screens.rpy:1636
+    # game/screens.rpy:1652
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
     new ""
 
-    # game/screens.rpy:1640
+    # game/screens.rpy:1656
     old "Opens the accessibility menu."
     new ""
 
-    # game/screens.rpy:1646
+    # game/screens.rpy:1662
     old "Left Click"
     new ""
 
-    # game/screens.rpy:1647
+    # game/screens.rpy:1663
     old "Advances dialogue and activates hovered buttons."
     new ""
 
-    # game/screens.rpy:1650
+    # game/screens.rpy:1666
     old "Middle Click"
     new ""
 
-    # game/screens.rpy:1654
+    # game/screens.rpy:1670
     old "Right Click"
     new ""
 
-    # game/screens.rpy:1658
+    # game/screens.rpy:1674
     old "Mouse Wheel Up"
     new ""
 
-    # game/screens.rpy:1673
+    # game/screens.rpy:1689
     old "A / Bottom Button"
     new ""
 
-    # game/screens.rpy:1677
+    # game/screens.rpy:1693
     old "B / Right Button"
     new ""
 
-    # game/screens.rpy:1678
+    # game/screens.rpy:1694
     old "Advances dialogue only. Skips dialogue while held down."
     new ""
 
-    # game/screens.rpy:1681
+    # game/screens.rpy:1697
     old "X / Left Button"
     new ""
 
-    # game/screens.rpy:1685
+    # game/screens.rpy:1701
     old "Y / Top Button"
     new ""
 
-    # game/screens.rpy:1689
+    # game/screens.rpy:1705
     old "Right Trigger"
     new ""
 
-    # game/screens.rpy:1693
+    # game/screens.rpy:1709
     old "Right Shoulder"
     new ""
 
-    # game/screens.rpy:1698
+    # game/screens.rpy:1714
     old "Left Trigger,\nLeft Shoulder"
     new ""
 
-    # game/screens.rpy:1703
+    # game/screens.rpy:1719
     old "D-Pad, Sticks"
     new ""
 
-    # game/screens.rpy:1707
+    # game/screens.rpy:1723
     old "Left Stick Click,\nRight Stick Click"
     new ""
 
-    # game/screens.rpy:1711
+    # game/screens.rpy:1727
     old "Start (+), Guide"
     new ""
 
-    # game/screens.rpy:1715
+    # game/screens.rpy:1731
     old "Back (-)"
     new ""
 
-    # game/screens.rpy:1722
+    # game/screens.rpy:1738
     old "Calibrate Gamepad"
     new ""
 
-    # game/screens.rpy:1794
+    # game/screens.rpy:1810
     old "YES"
     new ""
 
-    # game/screens.rpy:1800
+    # game/screens.rpy:1816
     old "NO"
     new ""
 
-    # game/screens.rpy:1848
+    # game/screens.rpy:1864
     old "SKIPPING"
     new ""
 
-    # game/screens.rpy:1901
+    # game/screens.rpy:1928
     old "{color=#cccc00}New Location!{/color}"
     new ""
 
-    # game/screens.rpy:2194
+    # game/screens.rpy:2224
     old "Back"
     new ""
 
-    # game/screens.rpy:2195
+    # game/screens.rpy:2225
     old "Skip"
     new ""
 
-    # game/screens.rpy:2196
+    # game/screens.rpy:2226
     old "Auto"
     new ""
 
-    # game/screens.rpy:2197
+    # game/screens.rpy:2227
     old "Menu"
     new ""
 

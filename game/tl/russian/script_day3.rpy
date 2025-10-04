@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 # game/script_day3.rpy:9
 translate russian d3a1_a00146ac:
@@ -21698,91 +21698,91 @@ translate russian d3a8_01871323:
 
 translate russian strings:
 
-    # game/script_day3.rpy:60
+    # game/script_day3.rpy:62
     old "\"I'll do it.\""
     new ""
 
-    # game/script_day3.rpy:60
+    # game/script_day3.rpy:65
     old "\"You do it.\""
     new ""
 
-    # game/script_day3.rpy:81
+    # game/script_day3.rpy:83
     old "Open it now"
     new ""
 
-    # game/script_day3.rpy:81
+    # game/script_day3.rpy:85
     old "Wait a moment first"
     new ""
 
-    # game/script_day3.rpy:129
+    # game/script_day3.rpy:131
     old "Move up quickly"
     new ""
 
-    # game/script_day3.rpy:129
+    # game/script_day3.rpy:143
     old "Move up slowly"
     new ""
 
-    # game/script_day3.rpy:276
+    # game/script_day3.rpy:277
     old "Go to the [t_clue]Kitchen[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:276
+    # game/script_day3.rpy:296
     old "[u_check]Go to the [t_clue]Kitchen[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:276
+    # game/script_day3.rpy:301
     old "Go to the [t_clue]Bathroom[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:276
+    # game/script_day3.rpy:317
     old "[u_check]Go to the [t_clue]Bathroom[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:276
+    # game/script_day3.rpy:323
     old "Go to the hallway [t_clue]Upstairs[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:695
+    # game/script_day3.rpy:697
     old "The monstrous attacker"
     new ""
 
-    # game/script_day3.rpy:695
+    # game/script_day3.rpy:741
     old "The dog"
     new ""
 
-    # game/script_day3.rpy:695
+    # game/script_day3.rpy:798
     old "Someone outside the house"
     new ""
 
-    # game/script_day3.rpy:868
+    # game/script_day3.rpy:941
     old "Me"
     new ""
 
-    # game/script_day3.rpy:868
+    # game/script_day3.rpy:959
     old "The third club member"
     new ""
 
-    # game/script_day3.rpy:868
+    # game/script_day3.rpy:987
     old "Cancel your accusation"
     new ""
 
-    # game/script_day3.rpy:1050
+    # game/script_day3.rpy:1052
     old "\"It'll be fine now.\""
     new ""
 
-    # game/script_day3.rpy:1050
+    # game/script_day3.rpy:1059
     old "\"We should be careful.\""
     new ""
 
-    # game/script_day3.rpy:1109
+    # game/script_day3.rpy:1110
     old "Keep talking with Ria"
     new ""
 
-    # game/script_day3.rpy:1109
+    # game/script_day3.rpy:1114
     old "Stop talking with Ria"
     new ""
 
-    # game/script_day3.rpy:1148
+    # game/script_day3.rpy:1150
     old "\"I remember.\""
     new ""
 
@@ -21814,275 +21814,295 @@ translate russian strings:
     old "Teacher"
     new ""
 
-    # game/script_day3.rpy:1383
+    # game/script_day3.rpy:1385
     old "\"You're stronger than you think.\""
     new ""
 
-    # game/script_day3.rpy:1383
+    # game/script_day3.rpy:1441
     old "\"You're being too harsh with yourself.\""
     new ""
 
-    # game/script_day3.rpy:1687
+    # game/script_day3.rpy:1689
     old "Digging through the underground passage"
     new ""
 
-    # game/script_day3.rpy:1687
+    # game/script_day3.rpy:1698
     old "Using what Cece learned in the attic"
     new ""
 
-    # game/script_day3.rpy:1687
+    # game/script_day3.rpy:1708
     old "Killing the zombie"
     new ""
 
-    # game/script_day3.rpy:1721
+    # game/script_day3.rpy:1723
     old "\"Yes, I'm sure.\""
     new ""
 
-    # game/script_day3.rpy:1721
+    # game/script_day3.rpy:1734
     old "\"I don't know!\""
     new ""
 
-    # game/script_day3.rpy:1787
+    # game/script_day3.rpy:1789
     old "Investigate [name_dog]'s corpse"
     new ""
 
-    # game/script_day3.rpy:1787
+    # game/script_day3.rpy:1824
     old "\"No, there's no need...\""
     new ""
 
-    # game/script_day3.rpy:1933
-    old "Investigate the [t_clue]Lounge[t_cluee]"
-    new ""
-
-    # game/script_day3.rpy:1933
-    old "[u_check]Investigate the [t_clue]Lounge[t_cluee]"
-    new ""
-
-    # game/script_day3.rpy:1944
+    # game/script_day3.rpy:1946
     old "Open the door quickly"
     new ""
 
-    # game/script_day3.rpy:1944
+    # game/script_day3.rpy:1970
     old "Open the door carefully"
     new ""
 
-    # game/script_day3.rpy:2260
+    # game/script_day3.rpy:2155
+    old "Investigate the [t_clue]Lounge[t_cluee]"
+    new ""
+
+    # game/script_day3.rpy:2262
     old "\"Yeah, I will.\""
     new ""
 
-    # game/script_day3.rpy:2260
+    # game/script_day3.rpy:2344
     old "\"No, there's no need.\""
     new ""
 
-    # game/script_day3.rpy:2662
+    # game/script_day3.rpy:2355
+    old "[u_check]Investigate the [t_clue]Lounge[t_cluee]"
+    new ""
+
+    # game/script_day3.rpy:2664
     old "We're still missing something"
     new ""
 
-    # game/script_day3.rpy:2662
+    # game/script_day3.rpy:2669
     old "That person's death did not qualify"
     new ""
 
-    # game/script_day3.rpy:2662
+    # game/script_day3.rpy:2675
     old "Only the culprit knows how to open it"
     new ""
 
-    # game/script_day3.rpy:2781
+    # game/script_day3.rpy:2838
     old "The mastermind himself"
     new ""
 
-    # game/script_day3.rpy:3061
+    # game/script_day3.rpy:3063
     old "Proceed"
     new ""
 
-    # game/script_day3.rpy:3165
+    # game/script_day3.rpy:3168
     old "DON'T KILL"
     new ""
 
-    # game/script_day3.rpy:3999
+    # game/script_day3.rpy:3513
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Oriana Ending{/color}{/font}"
+    new ""
+
+    # game/script_day3.rpy:3526
+    old "This is a work of fiction. Any resemblance to real-world events and people, living\nor dead, is entirely coincidental. Opinions expressed by the characters of this\nwork are not necessarily shared by the author."
+    new ""
+
+    # game/script_day3.rpy:3631
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Cecilia Ending{/color}{/font}"
+    new ""
+
+    # game/script_day3.rpy:3688
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Martyr Ending{/color}{/font}"
+    new ""
+
+    # game/script_day3.rpy:4001
     old "\"Who are you?\""
     new ""
 
-    # game/script_day3.rpy:3999
+    # game/script_day3.rpy:4004
     old "\"Wait. You're...\""
-    new ""
-
-    # game/script_day3.rpy:4010
-    old "Karma"
     new ""
 
     # game/script_day3.rpy:4295
     old "Corpse?"
     new ""
 
-    # game/script_day3.rpy:4595
+    # game/script_day3.rpy:4596
     old "Sacrifice yourself and save them"
     new ""
 
-    # game/script_day3.rpy:4605
+    # game/script_day3.rpy:4610
     old "Don't sacrifice yourself"
     new ""
 
-    # game/script_day3.rpy:4617
+    # game/script_day3.rpy:4618
     old "Sacrifice yourself"
     new ""
 
-    # game/script_day3.rpy:4627
+    # game/script_day3.rpy:4628
     old "Come on, sacrifice yourself already"
     new ""
 
-    # game/script_day3.rpy:4627
+    # game/script_day3.rpy:4631
     old "Don't do it"
     new ""
 
-    # game/script_day3.rpy:4642
+    # game/script_day3.rpy:4643
     old "Okay, sacrifice yourself after all"
     new ""
 
-    # game/script_day3.rpy:4642
+    # game/script_day3.rpy:4646
     old "Seriously, stop"
     new ""
 
-    # game/script_day3.rpy:4658
+    # game/script_day3.rpy:4659
     old "Sorry, never mind, go ahead and sacrifice yourself"
     new ""
 
-    # game/script_day3.rpy:4658
+    # game/script_day3.rpy:4664
     old "There's something wrong here"
     new ""
 
-    # game/script_day3.rpy:4684
+    # game/script_day3.rpy:4685
     old "...Okay, it's nothing, go ahead and sacrifice yourself"
     new ""
 
-    # game/script_day3.rpy:4684
+    # game/script_day3.rpy:4689
     old "Think carefully about this..."
     new ""
 
-    # game/script_day3.rpy:4904
+    # game/script_day3.rpy:4871
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#cc00bb}TRUE END{/color}{/size}\nSalvation Ending{/font}"
+    new ""
+
+    # game/script_day3.rpy:4905
     old "Load a save file"
     new ""
 
-    # game/script_day3.rpy:4904
+    # game/script_day3.rpy:4908
     old "Return to the Title Screen"
     new ""
 
-    # game/script_day3.rpy:4983
+    # game/script_day3.rpy:4985
     old "\"I'm already dead.\""
     new ""
 
-    # game/script_day3.rpy:4983
+    # game/script_day3.rpy:4995
     old "\"The Professor's death didn't open it.\""
     new ""
 
-    # game/script_day3.rpy:4983
+    # game/script_day3.rpy:4997
     old "\"The door won't open without me.\""
     new ""
 
-    # game/script_day3.rpy:5017
+    # game/script_day3.rpy:5019
     old "\"He was dead from the start.\""
     new ""
 
-    # game/script_day3.rpy:5017
+    # game/script_day3.rpy:5032
     old "\"He's the owner of the house.\""
     new ""
 
-    # game/script_day3.rpy:5017
+    # game/script_day3.rpy:5058
     old "\"He didn't actually die.\""
     new ""
 
-    # game/script_day3.rpy:5075
+    # game/script_day3.rpy:5077
     old "\"It's someone else's corpse.\""
     new ""
 
-    # game/script_day3.rpy:5075
+    # game/script_day3.rpy:5092
     old "\"It's an artificial body.\""
     new ""
 
-    # game/script_day3.rpy:5075
+    # game/script_day3.rpy:5108
     old "\"It's a soulless shell.\""
     new ""
 
-    # game/script_day3.rpy:5075
+    # game/script_day3.rpy:5110
     old "\"It's a puppet he can control.\""
     new ""
 
-    # game/script_day3.rpy:5142
+    # game/script_day3.rpy:5144
     old "\"By floating around.\""
     new ""
 
-    # game/script_day3.rpy:5142
+    # game/script_day3.rpy:5158
     old "\"With spirit channeling.\""
     new ""
 
-    # game/script_day3.rpy:5142
+    # game/script_day3.rpy:5173
     old "\"By getting killed.\""
     new ""
 
-    # game/script_day3.rpy:5142
+    # game/script_day3.rpy:5195
     old "\"By inhabiting a host.\""
     new ""
 
-    # game/script_day3.rpy:5215
+    # game/script_day3.rpy:5217
     old "\"There are multiple wrist shackles.\""
     new ""
 
-    # game/script_day3.rpy:5215
+    # game/script_day3.rpy:5219
     old "\"There are two souls in this wrist shackle.\""
     new ""
 
-    # game/script_day3.rpy:5215
-    old "\"There are other artifacts like this one.\""
-    new ""
-
-    # game/script_day3.rpy:5215
-    old "\"I must be the Professor.\""
-    new ""
-
-    # game/script_day3.rpy:5225
+    # game/script_day3.rpy:5233
     old "The daughter of the house"
     new ""
 
-    # game/script_day3.rpy:5225
+    # game/script_day3.rpy:5240
     old "A stranger"
     new ""
 
-    # game/script_day3.rpy:5263
+    # game/script_day3.rpy:5259
+    old "\"There are other artifacts like this one.\""
+    new ""
+
+    # game/script_day3.rpy:5265
     old "Cece's Knife"
     new ""
 
-    # game/script_day3.rpy:5263
+    # game/script_day3.rpy:5276
     old "Ria's Choker"
     new ""
 
-    # game/script_day3.rpy:5263
+    # game/script_day3.rpy:5288
     old "Karma's Earring"
     new ""
 
-    # game/script_day3.rpy:5400
+    # game/script_day3.rpy:5304
+    old "\"I must be the Professor.\""
+    new ""
+
+    # game/script_day3.rpy:5402
     old "\"It moved to find a new host.\""
     new ""
 
-    # game/script_day3.rpy:5400
+    # game/script_day3.rpy:5431
     old "\"Someone picked it up.\""
     new ""
 
-    # game/script_day3.rpy:5400
+    # game/script_day3.rpy:5433
     old "\"It dissolved away.\""
     new ""
 
-    # game/script_day3.rpy:5593
+    # game/script_day3.rpy:5583
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nYOU LOSE{/font}"
+    new ""
+
+    # game/script_day3.rpy:5594
     old "TRY AGAIN"
     new ""
 
-    # game/script_day3.rpy:5603
+    # game/script_day3.rpy:5605
     old "\"You love occult stuff.\""
     new ""
 
-    # game/script_day3.rpy:5603
+    # game/script_day3.rpy:5612
     old "\"You picked it up by mistake.\""
     new ""
 
-    # game/script_day3.rpy:5603
+    # game/script_day3.rpy:5620
     old "\"You were forced to take it.\""
     new ""
 
@@ -22094,251 +22114,259 @@ translate russian strings:
     old "{color=#cc00bb}The Professor{/color}"
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5936
     old "\"Why did you take over Cece's body?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5938
     old "[u_check]\"Why did you take over Cece's body?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5941
     old "\"Are you the father of the house?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5943
     old "[u_check]\"Are you the father of the house?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5946
     old "\"What were you doing as the dog?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5948
     old "[u_check]\"What were you doing as the dog?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5951
     old "\"Is this house really the Black Magic Mansion?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5953
     old "[u_check]\"Is this house really the Black Magic Mansion?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5956
     old "\"Do you know who I am?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5958
     old "[u_check]\"Do you know who I am?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5961
     old "\"How come nobody noticed my wrist shackle?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5963
     old "[u_check]\"How come nobody noticed my wrist shackle?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5966
     old "\"Why is Karma able to rewind time?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5968
     old "[u_check]\"Why is Karma able to rewind time?\""
     new ""
 
-    # game/script_day3.rpy:5935
+    # game/script_day3.rpy:5971
     old "[t_clue]\"That's enough Q and A.\"[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:6829
+    # game/script_day3.rpy:6831
     old "Go out now"
     new ""
 
-    # game/script_day3.rpy:6829
+    # game/script_day3.rpy:6876
     old "Wait a little longer"
     new ""
 
-    # game/script_day3.rpy:6912
+    # game/script_day3.rpy:6914
     old "Grab the wrist shackle"
     new ""
 
-    # game/script_day3.rpy:6912
+    # game/script_day3.rpy:6925
     old "Punch her in the face"
     new ""
 
-    # game/script_day3.rpy:6989
+    # game/script_day3.rpy:6991
     old "Headbutt her"
     new ""
 
-    # game/script_day3.rpy:6989
+    # game/script_day3.rpy:7032
     old "Grab the shackle once she's close"
     new ""
 
-    # game/script_day3.rpy:6989
+    # game/script_day3.rpy:7064
     old "Turn back"
     new ""
 
-    # game/script_day3.rpy:7202
+    # game/script_day3.rpy:7204
     old "Sacrifice yourself as well"
     new ""
 
-    # game/script_day3.rpy:7202
+    # game/script_day3.rpy:7232
     old "Throw yourself into the Gate instead"
     new ""
 
-    # game/script_day3.rpy:7202
+    # game/script_day3.rpy:7256
     old "Wait for the next victim"
     new ""
 
-    # game/script_day3.rpy:7369
+    # game/script_day3.rpy:7371
     old "Strike first"
     new ""
 
-    # game/script_day3.rpy:7369
+    # game/script_day3.rpy:7390
     old "Bide your time"
     new ""
 
-    # game/script_day3.rpy:7399
+    # game/script_day3.rpy:7401
     old "Block high"
     new ""
 
-    # game/script_day3.rpy:7399
+    # game/script_day3.rpy:7416
     old "Block low"
     new ""
 
-    # game/script_day3.rpy:7433
+    # game/script_day3.rpy:7435
     old "Try to attack first"
     new ""
 
-    # game/script_day3.rpy:7433
+    # game/script_day3.rpy:7446
     old "Run away"
     new ""
 
-    # game/script_day3.rpy:7466
+    # game/script_day3.rpy:7468
     old "Stab"
     new ""
 
-    # game/script_day3.rpy:7466
+    # game/script_day3.rpy:7487
     old "Dodge"
     new ""
 
-    # game/script_day3.rpy:7466
+    # game/script_day3.rpy:7495
     old "Block"
     new ""
 
-    # game/script_day3.rpy:7517
+    # game/script_day3.rpy:7519
     old "PANIC"
     new ""
 
-    # game/script_day3.rpy:7517
+    # game/script_day3.rpy:7534
     old "Slash vertically"
     new ""
 
-    # game/script_day3.rpy:7517
+    # game/script_day3.rpy:7551
     old "Block horizontally"
     new ""
 
-    # game/script_day3.rpy:7584
+    # game/script_day3.rpy:7586
     old "Block left"
     new ""
 
-    # game/script_day3.rpy:7584
+    # game/script_day3.rpy:7603
     old "Block right"
     new ""
 
-    # game/script_day3.rpy:7629
+    # game/script_day3.rpy:7630
     old "{size=+10}{font=DejaVuSans.ttf}←{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7629
+    # game/script_day3.rpy:7640
     old "{size=+10}{font=DejaVuSans.ttf}↑{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7629
+    # game/script_day3.rpy:7650
     old "{size=+10}{font=DejaVuSans.ttf}↺{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7629
+    # game/script_day3.rpy:7660
     old "{size=+10}{font=DejaVuSans.ttf}→{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7629
+    # game/script_day3.rpy:7670
     old "{size=+10}{font=DejaVuSans.ttf}↓{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7678
     old "{size=+10}{font=DejaVuSans.ttf}↖{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7689
     old "{size=+10}{font=DejaVuSans.ttf}↷{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7700
     old "{size=+10}{font=DejaVuSans.ttf}↩{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7711
     old "{size=+10}{font=DejaVuSans.ttf}↙{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7722
     old "{size=+10}{font=DejaVuSans.ttf}⇊{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7734
     old "{size=+10}{font=DejaVuSans.ttf}↱{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7745
     old "{size=+10}{font=DejaVuSans.ttf}↻{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7677
+    # game/script_day3.rpy:7761
     old "{size=+10}{font=DejaVuSans.ttf}↳{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7816
+    # game/script_day3.rpy:7818
     old "Stay silent"
     new ""
 
-    # game/script_day3.rpy:7816
+    # game/script_day3.rpy:7822
     old "Agree and surrender"
     new ""
 
-    # game/script_day3.rpy:7816
+    # game/script_day3.rpy:7829
     old "Claim you didn't cheat"
     new ""
 
-    # game/script_day3.rpy:8027
+    # game/script_day3.rpy:8029
     old "Run out now"
     new ""
 
-    # game/script_day3.rpy:8732
+    # game/script_day3.rpy:8734
     old "\"Why did you give Karma {i}my{/i} shackle?\""
     new ""
 
-    # game/script_day3.rpy:8732
+    # game/script_day3.rpy:8739
     old "\"Why did you keep my shackle at all?\""
     new ""
 
-    # game/script_day3.rpy:9001
+    # game/script_day3.rpy:9002
     old "Escape the house with the others"
     new ""
 
-    # game/script_day3.rpy:9001
-    old "Stay behind and pass on"
-    new ""
-
-    # game/script_day3.rpy:9035
+    # game/script_day3.rpy:9037
     old "Bark"
     new ""
 
-    # game/script_day3.rpy:9035
+    # game/script_day3.rpy:9042
     old "Don't bark"
+    new ""
+
+    # game/script_day3.rpy:9130
+    old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}"
+    new ""
+
+    # game/script_day3.rpy:9181
+    old "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)"
+    new ""
+
+    # game/script_day3.rpy:9191
+    old "Stay behind and pass on"
     new ""
 

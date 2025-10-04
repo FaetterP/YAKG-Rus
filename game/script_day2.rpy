@@ -1074,7 +1074,7 @@ label d2a1_attic_end:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDespair Ending{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDespair Ending{/font}") with dissolve
     achieve END_DESPAIR
     pause 2.0
     $ _skipping = True
@@ -1551,7 +1551,7 @@ label d2a1_lounge_tragedy:
     KI "[t_ghost]{size=+5}GO BAAAAAAAAAAAAAACK!!!{/size}[t_ghoste]" with shakelong
     play ctc_sfx "<silence 1.0>"
     window auto hide dissolvemed
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}Page 44{/size}\nOpening a Gate to {color=#ff0000}HELL{/color}{/font}" with dissolveslow
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}Page 44{/size}\nOpening a Gate to {color=#ff0000}HELL{/color}{/font}") with dissolveslow
     pause 5.0
     $ ctc_timer = 0
     hide text with dissolveslow
@@ -1559,7 +1559,7 @@ label d2a1_lounge_tragedy:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nJudgement Ending{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nJudgement Ending{/font}") with dissolve
     achieve END_JUDGEMENT
     pause 2.0
     $ _skipping = True
@@ -2225,7 +2225,7 @@ label d2a2_basement_choice:
             pause 2.0
             $ renpy.choice_for_skipping()
             $ _skipping = False
-            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDarkness Ending{/font}" with dissolve
+            show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDarkness Ending{/font}") with dissolve
             achieve END_DARKNESS
             pause 2.0
             $ _skipping = True
@@ -2416,7 +2416,7 @@ label d2a2_basement_choice:
             pause 2.0
             $ renpy.choice_for_skipping()
             $ _skipping = False
-            show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nLight Ending{/font}" with dissolve
+            show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nLight Ending{/font}") with dissolve
             achieve END_LIGHT
             pause 2.0
             $ _skipping = True

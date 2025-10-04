@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 translate russian strings:
 
@@ -94,79 +94,79 @@ translate russian strings:
     old "A webpage has been opened on your browser!"
     new ""
 
-    # game/tutorial.rpy:152
+    # game/tutorial.rpy:177
     old "Select a tutorial!"
     new ""
 
-    # game/tutorial.rpy:181
-    old "Choose Language"
+    # game/tutorial.rpy:213
+    old "Language / {font=tl/japanese/fonts/05HomuraM-SemiBold.otf}言語{/font}"
     new ""
 
-    # game/tutorial.rpy:202
+    # game/tutorial.rpy:236
     old "This game has mild flashing visual effects."
     new ""
 
-    # game/tutorial.rpy:205
+    # game/tutorial.rpy:239
     old "You can reduce their brightness by turning on \"Darken Flashes\"."
     new ""
 
-    # game/tutorial.rpy:212
+    # game/tutorial.rpy:246
     old "Darken Flashes - ON"
     new ""
 
-    # game/tutorial.rpy:216
+    # game/tutorial.rpy:250
     old "Darken Flashes - OFF"
     new ""
 
-    # game/tutorial.rpy:221
+    # game/tutorial.rpy:255
     old "You can change this setting and others at any time in {size=+10}{a=showmenu:preferences}Config{/a}{/size}."
     new ""
 
-    # game/tutorial.rpy:242
+    # game/tutorial.rpy:278
     old "DEMO CLEAR!"
     new ""
 
-    # game/tutorial.rpy:247
+    # game/tutorial.rpy:285
     old "Thank you for playing the demo of\nYet Another Killing Game!"
     new ""
 
-    # game/tutorial.rpy:252
+    # game/tutorial.rpy:290
     old "Any save files created in this demo can be loaded in the full version of the game."
     new ""
 
-    # game/tutorial.rpy:257
+    # game/tutorial.rpy:295
     old "For information on how to play the full version, visit this {a=https://linktr.ee/yakg}{color=#508ef2}{u}webpage{/u}{/color}{/a}."
     new ""
 
-    # game/tutorial.rpy:262
+    # game/tutorial.rpy:300
     old "Please remember to {size=+10}{a=showmenu:save}Save{/a}{/size}\nbefore closing this demo."
     new ""
 
-    # game/tutorial.rpy:272
+    # game/tutorial.rpy:312
     old "Thank you for purchasing the full version of YAKG!"
     new ""
 
-    # game/tutorial.rpy:277
+    # game/tutorial.rpy:317
     old "Are you ready to continue the story?"
     new ""
 
-    # game/tutorial.rpy:287
+    # game/tutorial.rpy:327
     old "LET'S GO!"
     new ""
 
-    # game/tutorial.rpy:298
+    # game/tutorial.rpy:340
     old "WHOOPS!"
     new ""
 
-    # game/tutorial.rpy:303
+    # game/tutorial.rpy:347
     old "You're trying to load a save file from the full version of the game..."
     new ""
 
-    # game/tutorial.rpy:308
+    # game/tutorial.rpy:352
     old "Please exit this demo and load this file with the full version of the game."
     new ""
 
-    # game/tutorial.rpy:318
+    # game/tutorial.rpy:362
     old "MAIN MENU"
     new ""
 
