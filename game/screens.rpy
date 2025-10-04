@@ -347,12 +347,12 @@ screen choice(items):
             spacing 5
             if show_choicekarma:
                 for i in items:
-                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Alkalami-Regular.ttf}"+i.caption+"{/font} >"))] at anim_choice_button:
+                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("{font=fonts/Alkalami-Regular.ttf}< {/font}" + __(i.caption) + "{font=fonts/Alkalami-Regular.ttf} >{/font}"))] at anim_choice_button:
                         idle_background "gui/button/choicekarma_idle_background.png"
                         hover_background "gui/button/choicekarma_hover_background.png"
             else:
                 for i in items:
-                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Alkalami-Regular.ttf}"+i.caption+"{/font} >"))] at anim_choice_button:
+                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("{font=fonts/Alkalami-Regular.ttf}< {/font}" + __(i.caption) + "{font=fonts/Alkalami-Regular.ttf} >{/font}"))] at anim_choice_button:
                         idle_background "gui/button/choicegrand_idle_background.png"
                         hover_background "gui/button/choicegrand_hover_background.png"
                         if not mute_choice:
@@ -375,7 +375,7 @@ screen choice(items):
                     $ caption = i.caption.replace(" (disabled)", "")
                     textbutton caption action None at disabled_choice_button
                 else:
-                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("< {font=fonts/Alkalami-Regular.ttf}"+i.caption+"{/font} >"))]:
+                    textbutton i.caption action [i.action, Function(narrator.add_history, kind="adv", who=__(""), what=__("{font=fonts/Alkalami-Regular.ttf}< {/font}" + __(i.caption) + "{font=fonts/Alkalami-Regular.ttf} >{/font}"))]:
                         if choice_sensitive:
                             at anim_choice_button
                         else:
@@ -647,7 +647,7 @@ screen navigation():
 
         if main_menu:
             if renpy.newest_slot() is not None:
-                textbutton _("Continue") action Confirm(_("{size=+20}WELCOME BACK!{/size}\nReady to [t_clue]CONTINUE[t_cluee] the killing game?"), yes=Continue()):
+                textbutton _("Continue{#menu}") action Confirm(_("{size=+20}WELCOME BACK!{/size}\nReady to [t_clue]CONTINUE[t_cluee] the killing game?"), yes=Continue()):
                     activate_sound "sound/sfx_save.ogg"
                 textbutton _("New Game") action Confirm(_("{size=+10}Begin a [t_clue]NEW[t_cluee] killing game?{/size}\n{color=#ff0000}Your progress in {/color}Continue{color=#ff0000} may be lost.{/color}"), yes=Start()):
                     activate_sound "sound/sfx_save.ogg"
@@ -728,7 +728,7 @@ screen main_menu():
 
 
     add gui.main_menu_background
-
+    add "logo" at titlefloat
 
     frame:
         style "main_menu_frame"
@@ -945,6 +945,8 @@ screen about():
         vbox:
 
             label "[config.name!t]"
+            if _preferences.language == "japanese":
+                null height 24
             text _("Ver. [config.version!t] | [u_copyright] 2025 Jun Kakeru\n")
 
 
@@ -1193,10 +1195,14 @@ screen preferences():
                 vbox:
                     style_prefix "check"
                     label _("Gameplay")
+                    if _preferences.language == "japanese":
+                        null height 12
                     textbutton _("Skip Unseen Text") action Preference("skip", "toggle") tooltip __("{size=+10}Skip Unseen Text{/size}\nAllows \"Skip\" controls to skip through text you have {color=#ff0000}NOT{/color} read yet.")
                     textbutton _("Skip After Choices") action Preference("after choices", "toggle") tooltip __("{size=+10}Skip After Choices{/size}\nAllows \"Skip\" to stay active after selecting choices or clues in Investigations.")
                     textbutton _("Skip Transitions") action InvertSelected(Preference("transitions", "toggle")) tooltip __("{size=+10}Skip Transitions{/size}\nSkips all transitions and most image animations.")
                 vbox:
+                    if _preferences.language == "japanese":
+                        null height 12
                     style_prefix "check"
                     label ""
                     textbutton _("Darken Flashes") action ToggleField(persistent, "darken_flashes") tooltip __("{size=+10}Darken Flashes{/size}\nLowers the brightness of flash transitions and effects.")
@@ -1206,15 +1212,18 @@ screen preferences():
                     vbox:
                         style_prefix "radio"
                         label _("Display")
-                        textbutton _("Window") action Preference("display", "window") selected not preferences.fullscreen
+                        if _preferences.language == "japanese":
+                            null height 12
+                        textbutton _("Window{#preference}") action Preference("display", "window") selected not preferences.fullscreen
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
                 vbox:
                     style_prefix "radio"
                     label _("Language")
-                    textbutton "English" action Language(None)
-                    textbutton "Русский" action Language("russian")
-
-
+                    if _preferences.language == "japanese":
+                        null height 12
+                    textbutton "English" action Confirm(_("{font=fonts/Changa-SemiBold.ttf}Switch the game language to English?{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}言語を英語に変更しますか？{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}古いセーブでは{color=#ff0000}テキストの不具合{/color}が起きる可能性があります。{/font}"), yes=Language(None))
+                    textbutton "{font=tl/japanese/fonts/05HomuraM-SemiBold.otf}日本語{/font}" action Confirm(_("{font=fonts/Changa-SemiBold.ttf}Switch the game language to Japanese?{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}言語を日本語に変更しますか？{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}古いセーブでは{color=#ff0000}テキストの不具合{/color}が起きる可能性があります。{/font}"), yes=Language("japanese"))
+                    textbutton "Русский" action Confirm(_("{font=fonts/Changa-SemiBold.ttf}Изменить язык игры на русский?{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=fonts/Changa-SemiBold.ttf}Это может вызвать {color=#ff0000}проблемы с текстом{/color} в старых сохранениях.{/font}"), yes=Language("russian"))
 
 
 
@@ -1267,7 +1276,8 @@ screen preferences():
 
                         hbox:
                             bar value Preference("music volume")
-
+                    if _preferences.language == "japanese":
+                        null height 24
                     if config.has_sound:
 
                         if _preferences.get_volume('sfx') > 0.0:
@@ -1282,8 +1292,8 @@ screen preferences():
 
 
 
-
-
+                    if _preferences.language == "japanese":
+                        null height 24
                     if config.has_voice:
                         label _("Voice Volume")
 
@@ -1485,6 +1495,7 @@ style history_name is gui_label
 
 style history_name_text:
     font "fonts/Alkalami-Regular.ttf"
+    size 36
 style history_text is gui_text
 
 style history_label is gui_label
@@ -1523,7 +1534,8 @@ style history_label_text:
 style history_choice_text:
     xalign 0.5
     ypos 20
-
+style history_choice_text_text:
+    font "fonts/Alkalami-Regular.ttf"
 
 
 
@@ -1542,7 +1554,10 @@ screen help():
         style_prefix "help"
 
         vbox:
-            spacing 6
+            if _preferences.language == "japanese":
+                spacing 18
+            else:
+                spacing 6
 
             hbox:
 
@@ -1554,7 +1569,8 @@ screen help():
 
                 textbutton _("Keyboard") action SetScreenVariable("device", "keyboard")
                 textbutton _("Mouse") action SetScreenVariable("device", "mouse")
-
+            if _preferences.language == "japanese":
+                null height 10
             if device == "tutorials":
                 use tutorials_help
             elif device == "keyboard":
@@ -1846,11 +1862,20 @@ screen skip_indicator():
         has hbox
         spacing 9
         null width 4
-        text _("SKIPPING")
+        text _("SKIPPING"):
+            if _preferences.language == "japanese":
+                yoffset 4
         null width 4
-        text "▸" at delayed_blink(0.0, 1.0) style "skip_triangle"
-        text "▸" at delayed_blink(0.2, 1.0) style "skip_triangle"
-        text "▸" at delayed_blink(0.4, 1.0) style "skip_triangle"
+
+        text "▸" at delayed_blink(0.0, 1.0) style "skip_triangle":
+            if _preferences.language == "japanese":
+                yoffset -16
+        text "▸" at delayed_blink(0.2, 1.0) style "skip_triangle":
+            if _preferences.language == "japanese":
+                yoffset -16
+        text "▸" at delayed_blink(0.4, 1.0) style "skip_triangle":
+            if _preferences.language == "japanese":
+                yoffset -16
 
 
 transform delayed_blink(delay, cycle):
@@ -1898,9 +1923,14 @@ screen notify_location(message, unlocked=True):
         style_prefix "notify_location"
 
         xalign 0.5
+        if _preferences.language == "japanese":
+            null height 18
         if not unlocked:
-            text _("{color=#cccc00}Новая локация!{/color}") at notify_new_location_transform
-            null height -40
+            text _("{color=#cccc00}Новая локация{/color}") at notify_new_location_transform
+            if _preferences.language == "japanese":
+                null height 8
+            else:
+                null height -40
         else:
             null height 12
         text "{size=+20}[message!tq]{/size}" at notify_location_transform

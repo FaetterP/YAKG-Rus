@@ -79,6 +79,16 @@ style achievement_deletebtn:
     hover_color "#ff2222"
     outlines [(2, "#000000")]
 
+style achievement_progress:
+    font "fonts/Changa-SemiBold.ttf"
+    size 42
+    outlines [(2, "#000000")]
+
+style achievement_delete_message:
+    font "fonts/Changa-SemiBold.ttf"
+    size 32
+    outlines [(2, "#000000")]
+
 
 
 
@@ -114,7 +124,7 @@ screen achievement_box(i, achievement_id):
                         text "#[i] | " + __(BOBCACHIEVEMENTS_MAP[achievement_id][0]) style "achievements_labeltext"
                         text BOBCACHIEVEMENTS_MAP[achievement_id][1]
                     else:
-                        text "#[i] | " + BOBCACHIVEMENTS_HIDDEN_ACHIEVEMENT_TEXT style "achievements_labeltext"
+                        text "#[i] | " + __(BOBCACHIVEMENTS_HIDDEN_ACHIEVEMENT_TEXT) style "achievements_labeltext"
                         if persistent.unlock_gameclear_cgs:
                             text BOBCACHIEVEMENTS_MAP[achievement_id][1]
                         else:
@@ -131,16 +141,10 @@ screen bobcachievements():
                 xalign 0.5
                 if numachievements >= BOBCACHIEVEMENTS_NUMACHIEVEMENTS:
                     text _("Got all {color=#cccc00}{size=+24}{font=DejaVuSans.ttf}\u2605{/font}[BOBCACHIEVEMENTS_NUMACHIEVEMENTS]{/size}{/color} Achievements! Way to go~ [u_music_note]"):
-                        font "fonts/Changa-SemiBold.ttf"
-                        size 42
-                        outlines [(2, "#000000")]
+                        style "achievement_progress"
                 else:
                     text _("Got {color=#cccc00}{size=+24}{font=DejaVuSans.ttf}\u2605{/font}[numachievements]{/size}{/color}/[BOBCACHIEVEMENTS_NUMACHIEVEMENTS] Achievements! [t_clue][BOBCACHIEVEMENTS_NUMACHIEVEMENTS - numachievements][t_cluee] more to go!"):
-                        font "fonts/Changa-SemiBold.ttf"
-                        size 42
-                        outlines [(2, "#000000")]
-                if config.developer:
-                    textbutton "clear achievements" action Function(achievement.clear_all)
+                        style "achievement_progress"
                 null height BOBCACHIVEMENTS_SPACING
             hbox:
                 vbox:
@@ -153,15 +157,13 @@ screen bobcachievements():
                     for i, achievement_id in enumerate(BOBCACHIEVEMENTS_MAP, start = 1):
                         if i % 2 == 0:
                             use achievement_box(i, achievement_id)
-            if numachievements >= BOBCACHIEVEMENTS_NUMACHIEVEMENTS:
-                vbox:
-                    xalign 0.5
-                    null height 24
+            vbox:
+                xalign 0.5
+                null height 24
+                if numachievements >= BOBCACHIEVEMENTS_NUMACHIEVEMENTS or config.developer:
                     text _("Now... Will you DELETE your Achievement data and collect them all again?"):
-                        font "fonts/Changa-SemiBold.ttf"
-                        size 32
-                        outlines [(2, "#000000")]
-                    textbutton _("DELETE ACHIEVEMENT DATA") action Confirm(_("{color=#ff0000}DELETE{/color} your Achievement data?\nThis will not affect your [t_clue]Steam[t_cluee] account."), yes=Function(achievement.clear_all)):
-                        xalign 0.5
-                        text_style "achievement_deletebtn"
+                        style "achievement_delete_message"
+                textbutton _("DELETE ACHIEVEMENT DATA") action Confirm(_("{color=#ff0000}DELETE{/color} your Achievement data?\nWARNING: this will also affect [t_clue]Steam[t_cluee] data!"), yes=Function(achievement.clear_all)):
+                    xalign 0.5
+                    text_style "achievement_deletebtn"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

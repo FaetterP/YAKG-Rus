@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 # game/script_day1_investigations.rpy:83
 translate russian d1a1_kitchen_assistant_f43c018d:
@@ -7354,6 +7354,10 @@ translate russian strings:
     old "Pot"
     new "Кастрюля"
 
+    # game/script_day1_investigations.rpy:24
+    old "Window"
+    new "Окно"
+
     # game/script_day1_investigations.rpy:25
     old "Drawer"
     new "Ящик"
@@ -7402,103 +7406,103 @@ translate russian strings:
     old "Fragments"
     new "Осколки"
 
-    # game/script_day1_investigations.rpy:85
+    # game/script_day1_investigations.rpy:86
     old "[t_clue]End your investigation[t_cluee]"
     new "[t_clue]Завершить расследование[t_cluee]"
 
-    # game/script_day1_investigations.rpy:85
+    # game/script_day1_investigations.rpy:88
     old "\"Any ideas?\""
     new "\"Есть какие-нибудь мысли?\""
 
-    # game/script_day1_investigations.rpy:85
-    old "\"Let's check [t_clue]the other room[t_cluee].\""
-    new "\"Давай проверим [t_clue]другую комнату[t_cluee].\""
-
-    # game/script_day1_investigations.rpy:85
-    old "\"Let's check the [t_clue]Dining Room[t_cluee] again.\""
-    new "\"Давай ещё раз проверим [t_clue]столовую[t_cluee].\""
-
-    # game/script_day1_investigations.rpy:85
-    old "\"Let's go back to the [t_clue]Kitchen[t_cluee].\""
-    new "\"Давай вернёмся на [t_clue]кухню[t_cluee].\""
-
-    # game/script_day1_investigations.rpy:85
-    old "\"Never mind...\""
-    new "\"Неважно...\""
-
-    # game/script_day1_investigations.rpy:114
+    # game/script_day1_investigations.rpy:116
     old "A different sharp instrument"
     new "Другой острый инструмент"
 
-    # game/script_day1_investigations.rpy:114
+    # game/script_day1_investigations.rpy:119
     old "A blunt instrument"
     new "Тупой инструмент"
 
-    # game/script_day1_investigations.rpy:114
+    # game/script_day1_investigations.rpy:122
     old "My bare hands"
     new "Голыми руками"
 
-    # game/script_day1_investigations.rpy:114
+    # game/script_day1_investigations.rpy:125
     old "Nothing"
     new "Ничего"
 
-    # game/script_day1_investigations.rpy:217
+    # game/script_day1_investigations.rpy:143
+    old "\"Let's check [t_clue]the other room[t_cluee].\""
+    new "\"Давай проверим [t_clue]другую комнату[t_cluee].\""
+
+    # game/script_day1_investigations.rpy:166
+    old "\"Let's check the [t_clue]Dining Room[t_cluee] again.\""
+    new "\"Давай ещё раз проверим [t_clue]столовую[t_cluee].\""
+
+    # game/script_day1_investigations.rpy:181
+    old "\"Let's go back to the [t_clue]Kitchen[t_cluee].\""
+    new "\"Давай вернёмся на [t_clue]кухню[t_cluee].\""
+
+    # game/script_day1_investigations.rpy:194
+    old "\"Never mind...\""
+    new "\"Неважно...\""
+
+    # game/script_day1_investigations.rpy:219
     old "Skip this investigation"
     new "Пропустить это расследование"
 
-    # game/script_day1_investigations.rpy:228
+    # game/script_day1_investigations.rpy:230
     old "End your investigation"
     new "Завершить расследование"
 
-    # game/script_day1_investigations.rpy:288
+    # game/script_day1_investigations.rpy:290
     old "\"Yeah, I feel you.\""
     new "\"Да, я понимаю тебя.\""
 
-    # game/script_day1_investigations.rpy:288
+    # game/script_day1_investigations.rpy:295
     old "\"No.\""
     new "\"Нет.\""
 
-    # game/script_day1_investigations.rpy:903
+    # game/script_day1_investigations.rpy:905
     old "Cats"
     new "Кошки"
 
-    # game/script_day1_investigations.rpy:903
+    # game/script_day1_investigations.rpy:913
     old "Dogs"
     new "Собаки"
 
-    # game/script_day1_investigations.rpy:903
+    # game/script_day1_investigations.rpy:921
     old "Neither"
     new "Ни те, ни другие"
 
-    # game/script_day1_investigations.rpy:954
+    # game/script_day1_investigations.rpy:956
     old "\"Yeah, I hate dogs.\""
     new "\"Да, я ненавижу собак.\""
 
-    # game/script_day1_investigations.rpy:954
+    # game/script_day1_investigations.rpy:963
     old "\"No, dogs are fine.\""
     new "\"Нет, собаки классные.\""
 
-    # game/script_day1_investigations.rpy:974
+    # game/script_day1_investigations.rpy:976
     old "\"Yeah, I hate cats.\""
     new "\"Да, я ненавижу кошек.\""
 
-    # game/script_day1_investigations.rpy:974
+    # game/script_day1_investigations.rpy:991
     old "\"No, cats are fine.\""
     new "\"Нет, кошки классные.\""
 
-    # game/script_day1_investigations.rpy:1024
+    # game/script_day1_investigations.rpy:1026
     old "\"Yeah, you're right...\""
     new "\"Да, ты права...\""
 
-    # game/script_day1_investigations.rpy:1024
+    # game/script_day1_investigations.rpy:1029
     old "\"But isn't that strange?\""
     new "\"Но разве это не странно?\""
 
-    # game/script_day1_investigations.rpy:1247
+    # game/script_day1_investigations.rpy:1249
     old "Return to the [t_clue]Kitchen[t_cluee]"
     new "Вернуться на [t_clue]кухню[t_cluee]"
 
-    # game/script_day1_investigations.rpy:1247
+    # game/script_day1_investigations.rpy:1266
     old "Stay here"
     new "Остаться здесь"
 
@@ -7546,39 +7550,39 @@ translate russian strings:
     old "Bath Mat"
     new "Коврик для ванной"
 
-    # game/script_day1_investigations.rpy:1491
+    # game/script_day1_investigations.rpy:1493
     old "Use the toilet"
     new "Воспользоваться туалетом"
 
-    # game/script_day1_investigations.rpy:1491
+    # game/script_day1_investigations.rpy:1499
     old "Don't use the toilet"
     new "Не пользоваться туалетом"
 
-    # game/script_day1_investigations.rpy:1538
+    # game/script_day1_investigations.rpy:1540
     old "Try breaking it"
     new "Попробовать сломать"
 
-    # game/script_day1_investigations.rpy:1538
+    # game/script_day1_investigations.rpy:1564
     old "Leave it be"
     new "Оставить как есть"
 
-    # game/script_day1_investigations.rpy:1576
+    # game/script_day1_investigations.rpy:1602
     old "Just leave it be"
     new "Просто оставить как есть"
 
-    # game/script_day1_investigations.rpy:1633
+    # game/script_day1_investigations.rpy:1635
     old "Test your luck"
     new "Испытать удачу"
 
-    # game/script_day1_investigations.rpy:1633
+    # game/script_day1_investigations.rpy:1638
     old "Never mind"
     new "Неважно"
 
-    # game/script_day1_investigations.rpy:1826
+    # game/script_day1_investigations.rpy:1828
     old "Wash your hands"
     new "Помыть руки"
 
-    # game/script_day1_investigations.rpy:1826
+    # game/script_day1_investigations.rpy:1837
     old "Don't wash your hands"
     new "Не мыть руки"
 
@@ -7654,43 +7658,43 @@ translate russian strings:
     old "Rug"
     new "Коврик"
 
-    # game/script_day1_investigations.rpy:1982
-    old "\"Let's check a [t_clue]different room[t_cluee].\""
-    new "\"Давай проверим [t_clue]другую комнату[t_cluee].\""
-
-    # game/script_day1_investigations.rpy:1982
-    old "\"Let's check the [t_clue]Master Bedroom[t_cluee] again.\""
-    new "\"Давай проверим [t_clue]главную спальню[t_cluee] ещё раз.\""
-
-    # game/script_day1_investigations.rpy:1999
+    # game/script_day1_investigations.rpy:2001
     old "\"I know it.\""
     new "\"Я знаю.\""
 
-    # game/script_day1_investigations.rpy:1999
+    # game/script_day1_investigations.rpy:2004
     old "\"Never heard of it.\""
     new "\"Никогда не слышала.\""
 
-    # game/script_day1_investigations.rpy:2017
+    # game/script_day1_investigations.rpy:2019
     old "Pull the lever"
     new "Потянуть за рычаг"
 
-    # game/script_day1_investigations.rpy:2017
+    # game/script_day1_investigations.rpy:2025
     old "Don't pull the lever"
     new "Не тянуть за рычаг"
 
-    # game/script_day1_investigations.rpy:2017
+    # game/script_day1_investigations.rpy:2031
     old "\"I don't have an answer.\""
     new "\"У меня нет ответа.\""
+
+    # game/script_day1_investigations.rpy:2080
+    old "\"Let's check a [t_clue]different room[t_cluee].\""
+    new "\"Давай проверим [t_clue]другую комнату[t_cluee].\""
+
+    # game/script_day1_investigations.rpy:2114
+    old "\"Let's check the [t_clue]Master Bedroom[t_cluee] again.\""
+    new "\"Давай проверим [t_clue]главную спальню[t_cluee] ещё раз.\""
 
     # game/script_day1_investigations.rpy:2234
     old "2F - The Bedroom"
     new "2 этаж - Спальня"
 
-    # game/script_day1_investigations.rpy:2251
+    # game/script_day1_investigations.rpy:2253
     old "Investigate here"
     new "Исследовать здесь"
 
-    # game/script_day1_investigations.rpy:2251
+    # game/script_day1_investigations.rpy:2265
     old "Believe her and leave"
     new "Поверить ей и уйти"
 
@@ -7698,11 +7702,11 @@ translate russian strings:
     old "2F - The Empty Bedroom"
     new "2 этаж - Пустая спальня"
 
-    # game/script_day1_investigations.rpy:2339
+    # game/script_day1_investigations.rpy:2341
     old "\"Yeah, someone was living here.\""
     new "\"Ага, кто-то здесь жил.\""
 
-    # game/script_day1_investigations.rpy:2339
+    # game/script_day1_investigations.rpy:2350
     old "\"No, there's no way.\""
     new "\"Нет, это невозможно.\""
 
@@ -7710,51 +7714,63 @@ translate russian strings:
     old "2F - The Master Bedroom"
     new "2 этаж - Главная спальня"
 
-    # game/script_day1_investigations.rpy:2448
+    # game/script_day1_investigations.rpy:2450
     old "\"Sure, why not?\""
     new "\"Конечно, почему нет?\""
 
-    # game/script_day1_investigations.rpy:2448
+    # game/script_day1_investigations.rpy:2463
     old "\"Nah, I'm good.\""
     new "\"Не, мне и так нормально.\""
 
-    # game/script_day1_investigations.rpy:2484
+    # game/script_day1_investigations.rpy:2486
     old "Morning"
     new "Утро"
 
-    # game/script_day1_investigations.rpy:2484
+    # game/script_day1_investigations.rpy:2490
     old "Evening"
     new "Вечер"
 
-    # game/script_day1_investigations.rpy:2524
+    # game/script_day1_investigations.rpy:2526
     old "Accept her explanation"
     new "Принять её объяснение"
 
-    # game/script_day1_investigations.rpy:2524
+    # game/script_day1_investigations.rpy:2531
     old "Pressure her for more"
     new "Оказать на неё давление, чтобы узнать больше"
 
-    # game/script_day1_investigations.rpy:2608
+    # game/script_day1_investigations.rpy:2610
     old "Check the flower painting"
     new "Осмотреть картину с цветами"
 
-    # game/script_day1_investigations.rpy:2608
+    # game/script_day1_investigations.rpy:2623
     old "Check the bird painting"
     new "Осмотреть картину с птицей"
 
-    # game/script_day1_investigations.rpy:2799
+    # game/script_day1_investigations.rpy:2801
     old "Agree there's a possibility"
     new "Согласиться, что это возможно"
 
-    # game/script_day1_investigations.rpy:2799
+    # game/script_day1_investigations.rpy:2817
     old "Deny it"
     new "Отрицать это"
 
-    # game/script_day1_investigations.rpy:2848
+    # game/script_day1_investigations.rpy:2850
     old "Jump on it"
     new "Прыгнуть на нее"
 
-    # game/script_day1_investigations.rpy:2848
+    # game/script_day1_investigations.rpy:2897
+    old "[name_player] fell asleep, and soon woke up in the real world.\nThe three of them being trapped in that house was all just a [t_clue]dream[t_cluee]."
+    new "[name_player] засыпает и вскоре просыпается в реальном мире.\nТо, что они втроём оказались заперты в том доме, было всего лишь [t_clue]сном[t_cluee]."
+
+    # game/script_day1_investigations.rpy:2900
+    old "By doing the unthinkable and falling asleep in that horrible situation,\n[name_player] saved everyone, and they all soon returned to their normal lives."
+    new "Совершив немыслимое и заснув в этой ужасной ситуации,\n[name_player] спасла всех, и вскоре все они вернулись к своим обычным жизням."
+
+    # game/script_day1_investigations.rpy:2903
+    old "THE END"
+    new "КОНЕЦ"
+
+    # game/script_day1_investigations.rpy:2922
     old "Don't jump on it"
     new "Не прыгать на нее"
 
@@ -7762,11 +7778,11 @@ translate russian strings:
     old "2F - The Master Bathroom"
     new "2 этаж - Главная ванная"
 
-    # game/script_day1_investigations.rpy:3044
+    # game/script_day1_investigations.rpy:3046
     old "Minimalistic"
     new "Минималистичным"
 
-    # game/script_day1_investigations.rpy:3044
+    # game/script_day1_investigations.rpy:3054
     old "Unnatural"
     new "Неестественным"
 
@@ -7822,15 +7838,15 @@ translate russian strings:
     old "Chair"
     new "Стул"
 
-    # game/script_day1_investigations.rpy:3472
+    # game/script_day1_investigations.rpy:3474
     old "Raccoon"
     new "Енот"
 
-    # game/script_day1_investigations.rpy:3472
+    # game/script_day1_investigations.rpy:3477
     old "Tanuki"
     new "Тануки"
 
-    # game/script_day1_investigations.rpy:3638
+    # game/script_day1_investigations.rpy:3640
     old "Return to the [t_clue]Hallway[t_cluee]"
     new "Вернуться в [t_clue]коридор[t_cluee]"
 

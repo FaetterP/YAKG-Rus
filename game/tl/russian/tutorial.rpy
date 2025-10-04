@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 translate russian strings:
 
@@ -94,79 +94,79 @@ translate russian strings:
     old "A webpage has been opened on your browser!"
     new "В вашем браузере открылась веб-страница!"
 
-    # game/tutorial.rpy:152
+    # game/tutorial.rpy:177
     old "Select a tutorial!"
     new "Выберите обучение!"
 
-    # game/tutorial.rpy:181
-    old "Choose Language"
-    new "Выберите язык"
+    # game/tutorial.rpy:213
+    old "Language / {font=tl/japanese/fonts/05HomuraM-SemiBold.otf}言語{/font}"
+    new "Language / Язык / {font=tl/japanese/fonts/05HomuraM-SemiBold.otf}言語{/font}"
 
-    # game/tutorial.rpy:202
+    # game/tutorial.rpy:236
     old "This game has mild flashing visual effects."
     new "В этой игре есть небольшие мигающие визуальные эффекты."
 
-    # game/tutorial.rpy:205
+    # game/tutorial.rpy:239
     old "You can reduce their brightness by turning on \"Darken Flashes\"."
     new "Вы можете уменьшить их яркость, включив опцию \"Затемнять вспышки\"."
 
-    # game/tutorial.rpy:212
+    # game/tutorial.rpy:246
     old "Darken Flashes - ON"
     new "Затемнять вспышки — ВКЛ."
 
-    # game/tutorial.rpy:216
+    # game/tutorial.rpy:250
     old "Darken Flashes - OFF"
     new "Затемнять вспышки — ВЫКЛ."
 
-    # game/tutorial.rpy:221
+    # game/tutorial.rpy:255
     old "You can change this setting and others at any time in {size=+10}{a=showmenu:preferences}Config{/a}{/size}."
     new "Вы можете изменить эту и другие настройки в любое время в {size=+10}{a=showmenu:preferences}Настройках{/a}{/size}."
 
-    # game/tutorial.rpy:242
+    # game/tutorial.rpy:278
     old "DEMO CLEAR!"
     new "ДЕМО ПРОЙДЕНО!"
 
-    # game/tutorial.rpy:247
+    # game/tutorial.rpy:285
     old "Thank you for playing the demo of\nYet Another Killing Game!"
     new "Спасибо за игру в демо-версию\nYet Another Killing Game!"
 
-    # game/tutorial.rpy:252
+    # game/tutorial.rpy:290
     old "Any save files created in this demo can be loaded in the full version of the game."
     new "Все сохранения, созданные в демо-версии, можно загрузить в полной версии игры."
 
-    # game/tutorial.rpy:257
+    # game/tutorial.rpy:295
     old "For information on how to play the full version, visit this {a=https://linktr.ee/yakg}{color=#508ef2}{u}webpage{/u}{/color}{/a}."
     new "Чтобы узнать, как играть в полную версию, посетите эту {a=https://linktr.ee/yakg}{color=#508ef2}{u}веб-страницу{/u}{/color}{/a}."
 
-    # game/tutorial.rpy:262
+    # game/tutorial.rpy:300
     old "Please remember to {size=+10}{a=showmenu:save}Save{/a}{/size}\nbefore closing this demo."
     new "Пожалуйста, не забудьте {size=+10}{a=showmenu:save}Сохраниться{/a}{/size}\nперед закрытием демо-версии."
 
-    # game/tutorial.rpy:272
+    # game/tutorial.rpy:312
     old "Thank you for purchasing the full version of YAKG!"
     new "Спасибо за покупку полной версии YAKG!"
 
-    # game/tutorial.rpy:277
+    # game/tutorial.rpy:317
     old "Are you ready to continue the story?"
     new "Готовы продолжить историю?"
 
-    # game/tutorial.rpy:287
+    # game/tutorial.rpy:327
     old "LET'S GO!"
     new "ВПЕРЁД!"
 
-    # game/tutorial.rpy:298
+    # game/tutorial.rpy:340
     old "WHOOPS!"
     new "УПС!"
 
-    # game/tutorial.rpy:303
+    # game/tutorial.rpy:347
     old "You're trying to load a save file from the full version of the game..."
     new "Вы пытаетесь загрузить сохранение из полной версии игры..."
 
-    # game/tutorial.rpy:308
+    # game/tutorial.rpy:352
     old "Please exit this demo and load this file with the full version of the game."
     new "Пожалуйста, выйдите из демо-версии и загрузите этот файл в полной версии игры."
 
-    # game/tutorial.rpy:318
+    # game/tutorial.rpy:362
     old "MAIN MENU"
     new "ГЛАВНОЕ МЕНЮ"
 

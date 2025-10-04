@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 # game/script_day3_investigations.rpy:24
 translate russian d3a2_dog_confirm_end_0abee896:
@@ -804,11 +804,11 @@ translate russian strings:
     old "Hood"
     new "Капюшон"
 
-    # game/script_day3_investigations.rpy:227
+    # game/script_day3_investigations.rpy:229
     old "\"I don't know how to unlock it.\""
     new "\"Я не знаю, как его разблокировать.\""
 
-    # game/script_day3_investigations.rpy:227
+    # game/script_day3_investigations.rpy:237
     old "\"I don't know what this is.\""
     new "\"Я не знаю, что это.\""
 

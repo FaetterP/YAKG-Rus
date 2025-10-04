@@ -51,7 +51,10 @@ screen pac_progress_gui(pac_name=""):
         vbox:
             at pac_title_transform
             text _("Ищите {image=gui/pac/pac_hint_embed.png} зацепки!"):
-                size 48
+                if _preferences.language == "japanese":
+                    size 64
+                else:
+                    size 48
     else:
         vbox:
             xalign 0.5
@@ -67,10 +70,10 @@ screen pac_progress_gui(pac_name=""):
                 yoffset 140
 
         if investigation_progress_percent() < 1.0:
-            text _("ПРОГРЕСС РАССЛЕДОВАНИЯ:")+" {size=+15}[round(investigation_progress_percent() * 100)]%{/size}":
+            text __("ПРОГРЕСС РАССЛЕДОВАНИЯ:")+" {size=+15}[round(investigation_progress_percent() * 100)]%{/size}":
                 size 18
         else:
-            text _("ПРОГРЕСС РАССЛЕДОВАНИЯ:")+" {size=+25}{color=#cccc00}100%{/color}{/size}":
+            text __("ПРОГРЕСС РАССЛЕДОВАНИЯ:")+" {size=+25}{color=#cccc00}100%{/color}{/size}":
                 size 18
         bar:
             xmaximum 350
@@ -272,6 +275,7 @@ screen pac_assistant_button(_x, _y, _zoom, label_x, label_y, image_idle, image_h
         xanchor 0.5 yanchor 0.5 alpha 0.5
         xpos _x ypos _y zoom _zoom
     imagebutton:
+        alt prompt
         at pac_sprite_transform, show_hide_dissolve
 
         at transform:
@@ -290,9 +294,11 @@ screen pac_button(_x, _y, clue_bool, call_label, name, special=None):
             if clue_bool == False:
                 idle "pac_kira_idle"
                 hover "pac_hovered"
+                alt "?"
             else:
                 idle "pac_check"
                 hover "pac_hovered_checked"
+                alt name
             xpos _x ypos _y
             action [Hide("pac_label"), SetVariable("pac_clickpos_x", _x), SetVariable("pac_clickpos_y", _y), Call(call_label)]
             if clue_bool == True:
@@ -301,6 +307,7 @@ screen pac_button(_x, _y, clue_bool, call_label, name, special=None):
     else:
         if special=="d1a1_visited_masterbedroom":
             imagebutton:
+                alt name
                 if clue_bool == False:
                     if not d1a1_visited_masterbedroom:
                         idle "pac_kira_idle"
@@ -377,12 +384,8 @@ screen pac_investigation_start(name="New Investigation", desc="New Text"):
             spacing 50
             xalign 0.5 yalign 0.5
             text _("INVESTIGATION"):
+                style "investigation_title_text"
                 xalign 0.5
-                font "fonts/Alkalami-Regular.ttf"
-                color gui.accent_color
-                outlines [(2, "#000000")]
-                size 72
-                yoffset 45
             text name:
                 xalign 0.5
                 outlines [(2, "#000000")]
@@ -401,9 +404,16 @@ screen pac_investigation_start(name="New Investigation", desc="New Text"):
                     style "confirm_button_text"
                 action Return()
 
+style investigation_title_text:
+    font "fonts/Alkalami-Regular.ttf"
+    color gui.accent_color
+    outlines [(2, "#000000")]
+    size 72
+    yoffset 45
 
 screen pac_switch_button(direction, call_label, prompt):
     imagebutton at show_hide_dissolve:
+        alt prompt
         if direction == "left":
             xalign 0.0 yalign 0.5 xoffset 50
             idle "direction_button_left_idle"

@@ -14,7 +14,21 @@ define u_copyright = "{font=DejaVuSans.ttf}\u00A9{/font}"
 image ctc_blink:
     ConditionSwitch("preferences.afm_enable == True", "ctc_auto", "preferences.afm_enable == False", "ctc_normal")
 
-image ctc_normal:
+image ctc_normal = ConditionSwitch(
+    "renpy.is_seen()", "ctc_seen",
+    "not renpy.is_seen()", "ctc_notseen")
+
+image ctc_seen:
+    xsize 60 ysize 60 yanchor 0.15 ypos 0
+    im.Scale("gui/ctc/10.png", 60, 60)
+    matrixcolor SaturationMatrix(0.0) * BrightnessMatrix(0.25)
+    block:
+        linear 0.75 alpha 0.0
+        linear 0.75 alpha 1.0
+        pause 1.5
+        repeat
+
+image ctc_notseen:
     xsize 60 ysize 60 yanchor 0.15 ypos 0
     contains:
         im.Scale("gui/ctc/0.png", 60, 60)
@@ -110,10 +124,20 @@ define V = DynamicCharacter("name_villain", color="#cc00bb", ctc="ctc_blink", ct
 
 
 define X = DynamicCharacter("name_npc", color="#ff3eff", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
-define S = Character(None, color="#ffffff", what_color="#44b817", what_font="fonts/AveriaLibre-Regular.ttf",  ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
-define P = Character(None, color="#d93838", what_color="#ff0000", what_font="fonts/AveriaLibre-Regular.ttf", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
-define KI = Character(None, color="#cccc00", what_color="#cccc00", what_font="fonts/AveriaLibre-Regular.ttf", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+define S = Character(None, color="#ffffff", what_style="s_character_style", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+define P = Character(None, color="#d93838", what_style="p_character_style", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+define KI = Character(None, color="#cccc00", what_style="ki_character_style", ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
 define U = Character(ctc="ctc_blink", ctc_position="nestled-close", callback=ctc_sound)
+
+style s_character_style is say_dialogue:
+    color "#44b817"
+    font "fonts/AveriaLibre-Regular.ttf"
+style p_character_style is say_dialogue:
+    color "#ff0000"
+    font "fonts/AveriaLibre-Regular.ttf"
+style ki_character_style is say_dialogue:
+    color "#cccc00"
+    font "fonts/AveriaLibre-Regular.ttf"
 
 image chaptertitle1_text = Text(_("{size=+30}PART {/size}{size=+50}I{/size}"), style='chaptertitle_text_style')
 image chaptertitle1_subtext = Text(_("wELcOme 2 KILLING GAME"), style='chaptertitle_text_style')
@@ -147,6 +171,7 @@ image ghostmessage_2 = Text(_("{color=#cccc00}[t_ghost]{size=+5}Then this time..
 
 style add_outlines_text_style:
     outlines [ (5, "#000", absolute(0), absolute(0)) ]
+    text_align 0.5
 
 transform chaptertitle_text_transform:
     linear 0.5 xoffset -1 yoffset 1
@@ -218,9 +243,16 @@ transform appearing_shard:
         ease 1.5 yoffset -10
         repeat
 
-image logo:
+image logo = ConditionSwitch(
+    '_preferences.language == "japanese"', "logo_jp",
+    '_preferences.language != "japanese"', "logo_en")
+
+image logo_en:
     "objects/logo.png"
-    zoom 0.75 xalign 0.5 yalign 0.25
+    xalign 0.5 yalign 0.25
+image logo_jp:
+    "objects/logo_jp.png"
+    xalign 0.5 yalign 0.25
 
 transform slideacrossup:
     xalign 1.0
@@ -624,7 +656,10 @@ label start:
 
     play sound sfx_wail
     scene bg black
-    show main_menu_bg at truecenter, titlezoom
+    show main_menu_bg at truecenter:
+        zoom 1.0
+        easeout 7.0 zoom 1.5
+    show logo at truecenter, titlezoom
     with custom_flash()
     $ renpy.pause(3.0, hard=True)
     stop music fadeout 3
@@ -645,6 +680,11 @@ label start:
 
 
 
+label splashscreen:
+    if renpy.newest_slot() is None:
+        call screen new_game_language
+    return
+
 label before_main_menu:
     if config.developer:
         pass
@@ -654,7 +694,7 @@ label before_main_menu:
         show logo at truecenter:
             alpha 0.0 zoom 0.5
             parallel:
-                easein 5.0 zoom 1.2
+                easein 5.0 zoom 1.0
             parallel:
                 linear 1.5 alpha 1.0
         play music bgm_mainmenu fadein 3.0
@@ -667,6 +707,7 @@ label before_main_menu:
         play sound sfx_introambiance_pentagramknife volume 0.5
         scene bg black
         show main_menu_bg at truecenter
+        show logo at truecenter
         with shakeshort
     return
 
@@ -897,7 +938,7 @@ label save_file_name_update(chapter_number, day_act):
     return
 
 label name_entry:
-    $ input_name = _("You")
+    $ input_name = __("You")
     I "What is...my name?"
     scene bg black
     show cg naming player:
@@ -913,10 +954,10 @@ label name_entry:
 
     $ input_name = input_name.strip()
 
-    if input_name == "" or input_name == _("You"):
+    if input_name == "" or input_name == __("You"):
         if input_name == "":
             $ placeholder_name = __("PLAYER")
-        $ input_name = _("You")
+        $ input_name = __("You")
         I "...I'm...having trouble remembering but..."
         I "I think I can at least think of a name to use for now..."
         jump name_entry
@@ -954,7 +995,7 @@ label gameover:
         show shard karma at appearing_shard
     with dissolve
     pause 1.5
-    show text "{font=fonts/Changa-SemiBold.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}":
+    show text _ ("{font=fonts/Changa-SemiBold.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}"):
         xalign 0.1 yalign 0.5
         linear 15.0 xalign 0.2
     with dissolve
@@ -1099,7 +1140,7 @@ label gameover_day2:
         show shard darkness at appearing_shard
     with dissolve
     pause 1.5
-    show text "{font=fonts/Changa-SemiBold.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}":
+    show text _ ("{font=fonts/Changa-SemiBold.ttf}{size=+18}GET{/size}{/font}{image=gui/shard_arrow.png}"):
         xalign 0.1 yalign 0.5
         linear 15.0 xalign 0.2
     with dissolve

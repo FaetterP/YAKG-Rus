@@ -292,7 +292,7 @@ label d1a1:
     $ show_music_info_timer = music_info_pop_out_time()
     $ name_cecilia = _("???")
     $ name_oriana = _("???")
-    $ input_name_dog = _("Dog")
+    $ input_name_dog = __("Dog")
     $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
 
     show text _ ("{image=gui/ctc/10.png}\n{font=fonts/Changa-SemiBold.ttf}{size=+5}Advance dialogue to continue...{/size}\n{size=24}[t_hotkey]Left Click[t_hotkeye] or [t_hotkey]Space[t_hotkeye] or [t_hotkey]Enter[t_hotkeye] or {/size}{color=#888}{font=DejaVuSans.ttf}{size=24}{b}(A/Bottom Button){/b}{/size}{/font}{/color}{/font}"):
@@ -405,8 +405,8 @@ label d1a1:
     Y thinking "Um... What's going on? What is this place?"
     show cecilia at myright
     C "Before we answer that, let's start with some introductions!"
-    $ name_cecilia = _("Cecilia")
-    $ name_oriana = _("Oriana")
+    $ name_cecilia = __("Cecilia")
+    $ name_oriana = __("Oriana")
     C happy "My name's Cecilia! And the beautiful, bespectacled bombshell to my right here is...?"
     O irritated "...Oriana. {size=-10}That lead-in was unnecessary...{/size}"
     C smile "So! What is {i}your{/i} name?"
@@ -419,7 +419,7 @@ label d1a1:
         with dissolve
         call name_entry
 
-    if input_name == "Karma" or input_name == "Carol-Maria" or input_name == "Карма" or input_name == "Карол-Мария":
+    if input_name == __("Karma") or input_name == __("Carol-Maria"):
         Y default "...It's...[name_player]."
         stop music
         show oriana surprised
@@ -442,7 +442,7 @@ label d1a1:
         with soulout
         $ quick_menu = False
         pause 3.0
-        show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}КОНЕЦ{/size}\nСпасибо за игру!{/font}" with dissolve
+        show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}THE END{/size}\nThank you for playing!{/font}") with dissolve
         if not is_demo_version():
             achieve NAME_KARMA
         pause 3.0
@@ -2316,7 +2316,7 @@ label d1a2:
     play ctc_sfx "<silence 1.0>"
     window auto hide None
     scene bg black with custom_flashquickred()
-    show text "{size=+30}{color=#ff0000}20 ЧАСОВ{/color}{/size}"
+    show text _ ("{size=+30}{color=#ff0000}20 HOURS{/color}{/size}")
     pause 2.0
     hide text with dissolveslow
     pause 0.5
@@ -3121,14 +3121,14 @@ label d1a2:
     menu:
         extend ""
         "Cerberus":
-            $ input_name_dog = "Cerberus"
+            $ input_name_dog = __("Cerberus")
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
             show cecilia overjoyed at hop
             C "Aha! \"[name_dog]\" it is!"
             O annoyed "...[name_player]. You have done this dog a great disservice. ...I hope you're ashamed of yourself."
         "Shaggy":
-            $ input_name_dog = "Shaggy"
+            $ input_name_dog = __("Shaggy")
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
             show oriana laughing at hop
@@ -3844,7 +3844,7 @@ label d1a3_karma:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка кармы{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nKarma Ending{/font}") with dissolve
     if not is_demo_version():
         achieve END_KARMA
     pause 2.0
@@ -4155,7 +4155,7 @@ label d1a3_order:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка порядка{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nOrder Ending{/font}") with dissolve
     if not is_demo_version():
         achieve END_ORDER
     pause 2.0
@@ -4713,7 +4713,7 @@ label d1a3_chaos_end:
     pause 2.0
     $ renpy.choice_for_skipping()
     $ _skipping = False
-    show text "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка хаоса{/font}" with dissolve
+    show text _ ("{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nChaos Ending{/font}") with dissolve
     if not is_demo_version():
         achieve END_CHAOS
     pause 2.0
@@ -5152,7 +5152,7 @@ label d1a4_question2A:
         C "Oh, you can call me \"Cece\" by the way, [name_player]!"
         Y surprised "R-right..."
         I "\"Cece\"... \"See see\"... I guess that's a little easier to say..."
-        $ name_cecilia = _("Cece")
+        $ name_cecilia = __("Cece")
     Y sad "Um, so... When Cece...died..."
     $ fadein_sideimage = False
     Y thinking "[name_oriana]... She said something about how Cece is the reason we're trapped here. What does that mean?"
@@ -5335,7 +5335,7 @@ label d1a4_question2AA:
         Y annoyed "Uhh..."
         O blink "It's not even the worst one she came up with."
         O default "But it's fine, I don't mind if you call me that."
-        $ name_oriana = _("Ria")
+        $ name_oriana = __("Ria")
         Y blink "Okay so... When Ria killed Cece..."
         C blush "See? Doesn't that sentence roll off the tongue better than \"Oriana killed Cece\"?"
         I "I think there're bigger problems with this sentence than pronunciation, but..."
@@ -5556,7 +5556,7 @@ label d1a4_question2B:
                     C blink "...Yeah, that's a reasonable conclusion to make."
                     O blink "....."
                     O "...I'm sorry, but..."
-                    if input_name == "Cecilia" or input_name == "Oriana":
+                    if input_name == __("Cecilia") or input_name == __("Oriana"):
                         O default "There is only one person named \"[name_player]\" in the Occult Club."
                     else:
                         O default "There is nobody named \"[name_player]\" in the Occult Club."
@@ -5804,11 +5804,11 @@ label dogname_select:
     menu:
         extend ""
         "Cerberus":
-            $ input_name_dog = "Cerberus"
+            $ input_name_dog = __("Cerberus")
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             jump dogname_confirmed
         "Shaggy":
-            $ input_name_dog = "Shaggy"
+            $ input_name_dog = __("Shaggy")
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             jump dogname_confirmed
         "Make up a new one":
@@ -5834,7 +5834,7 @@ label dogname_entry:
                 jump dogname_entry
             "Go back to the lame names":
                 jump dogname_select
-    elif input_name_dog == "" or input_name_dog == "Dog":
+    elif input_name_dog == "" or input_name_dog == __("Dog"):
         I "...I guess if I can't be original, I should stick with one of the existing options.{nw}"
         menu:
             extend ""
@@ -5864,14 +5864,14 @@ label dogname_confirmed:
     show cecilia at mycenter
     with fade
     Y default "Right, it was \"[name_dog]\"."
-    if name_dog == "{color=#606060}Cerberus{/color}":
+    if input_name_dog == __("Cerberus"):
         play ctc_sfx sfx_emotesigh
         show cecilia sweatdrop at shrink
         C "Eh? Really? Isn't that kind of a cringey name for a dog?"
         I "You were the one who came up with that name..."
         show cecilia at mycenter_to_myright
         show oriana happy at myleft with dissolve
-    elif name_dog == "{color=#606060}Shaggy{/color}":
+    elif input_name_dog == __("Shaggy"):
         play ctc_sfx sfx_whooshlow
         show oriana overjoyed at myleft
         show cecilia surprised at myright
@@ -5900,7 +5900,7 @@ label dogname_confirmed:
         Y surprised "...I mean, I guess if you insist..."
         O "...?"
         Y thinking "Ria, you noticed that [name_dog]'s fur feels cold, right?"
-        $ name_oriana = _("Ria")
+        $ name_oriana = __("Ria")
 
     O surprised "Now that you mention it, I suppose so."
     O sobbing "It's not a bad sensation, though..." with hpunch

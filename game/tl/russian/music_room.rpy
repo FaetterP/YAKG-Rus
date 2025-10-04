@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-08 01:25
+﻿# TODO: Translation updated at 2025-10-04 16:20
 
 translate russian strings:
 
@@ -354,19 +354,19 @@ translate russian strings:
     old "{size=-8}NOW PLAYING{/size}"
     new "{size=-8}СЕЙЧАС ИГРАЕТ{/size}"
 
-    # game/music_room.rpy:408
+    # game/music_room.rpy:410
     old "\""
     new "\""
 
-    # game/music_room.rpy:410
+    # game/music_room.rpy:412
     old "{size=-8}"
     new "{size=-8}"
 
-    # game/music_room.rpy:410
+    # game/music_room.rpy:412
     old "{/size}"
     new "{/size}"
 
-    # game/music_room.rpy:414
+    # game/music_room.rpy:416
     old "NO MUSIC PLAYING"
     new "НИЧЕГО НЕ ИГРАЕТ"
 
