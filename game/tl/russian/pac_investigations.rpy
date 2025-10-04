@@ -4,7 +4,7 @@ translate russian strings:
 
     # game/pac_investigations.rpy:53
     old "Search for {image=gui/pac/pac_hint_embed.png} clues!"
-    new "Ищите {image=gui/pac/pac_hint_embed.png} улики!"
+    new "Ищите {image=gui/pac/pac_hint_embed.png} зацепки!"
 
     # game/pac_investigations.rpy:61
     old "[u_check]{color=#cccc00}INVESTIGATION COMPLETE{/color}"
@@ -12,7 +12,7 @@ translate russian strings:
 
     # game/pac_investigations.rpy:73
     old "INVESTIGATION PROGRESS:"
-    new "ХОД РАССЛЕДОВАНИЯ:"
+    new "ПРОГРЕСС РАССЛЕДОВАНИЯ:"
 
     # game/pac_investigations.rpy:91
     old "END"

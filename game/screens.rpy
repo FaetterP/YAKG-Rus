@@ -1926,7 +1926,7 @@ screen notify_location(message, unlocked=True):
         if _preferences.language == "japanese":
             null height 18
         if not unlocked:
-            text _("{color=#cccc00}Новая локация{/color}") at notify_new_location_transform
+            text _("{color=#cccc00}New Location!{/color}") at notify_new_location_transform
             if _preferences.language == "japanese":
                 null height 8
             else:

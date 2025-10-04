@@ -2231,7 +2231,7 @@ label d1a1_check_second_room:
             xalign 0.5 yalign 0.5 zoom 1.1
             easein 3.0 zoom 1.0
         with dissolvemed
-        show screen notify_location(_("2 этаж - Спальня"), persistent.unlock_bg_bedroom)
+        show screen notify_location(_("2F - The Bedroom"), persistent.unlock_bg_bedroom)
         $ persistent.unlock_bg_bedroom = True
         pause 2.0
         I "Looks like a child's [t_pacclue]bedroom[t_paccluee]..."
@@ -2315,7 +2315,7 @@ label d1a1_check_third_room:
             easein 5.0 zoom 1.0
         with dissolvemed
         pause 2.0
-        show screen notify_location(_("2 этаж - Пустая Спальня"), persistent.unlock_bg_emptybedroom)
+        show screen notify_location(_("2F - The Empty Bedroom"), persistent.unlock_bg_emptybedroom)
         $ persistent.unlock_bg_emptybedroom = True
         pause 2.0
         Y panicked "Wha..."
@@ -2419,7 +2419,7 @@ label d1a1_check_masterbedroom:
             xalign 0.5 yalign 0.5 zoom 1.1
             easein 3.0 zoom 1.0
         with dissolvemed
-        show screen notify_location(_("2 этаж - Главная Спальня"), persistent.unlock_bg_masterbedroom)
+        show screen notify_location(_("2F - The Master Bedroom"), persistent.unlock_bg_masterbedroom)
         $ persistent.unlock_bg_masterbedroom = True
         pause 2.0
         Y surprised "Yep, this is definitely a master bedroom. Really has that \"master\" feeling."
@@ -2954,7 +2954,7 @@ label d1a1_check_masterbathroom:
             easein 5.0 zoom 1.0
         with dissolve
         pause 1.0
-        show screen notify_location(_("2 этаж - Главная Ванная"), persistent.unlock_bg_masterbathroom)
+        show screen notify_location(_("2F - The Master Bathroom"), persistent.unlock_bg_masterbathroom)
         $ persistent.unlock_bg_masterbathroom = True
         pause 2.0
         I "Bingo. It's a bathroom."
