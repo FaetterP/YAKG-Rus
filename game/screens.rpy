@@ -186,7 +186,7 @@ screen say(who, what):
 
 style gamepad_help_ui_text:
     yalign 0.5
-    font "fonts/Changa-Semibold.ttf"
+    font "fonts/Changa-SemiBold.ttf"
     color "#000"
     outlines [(2, "#888")]
     size 24
@@ -1223,6 +1223,7 @@ screen preferences():
                         null height 12
                     textbutton "English" action Confirm(_("{font=fonts/Changa-SemiBold.ttf}Switch the game language to English?{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}言語を英語に変更しますか？{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}古いセーブでは{color=#ff0000}テキストの不具合{/color}が起きる可能性があります。{/font}"), yes=Language(None))
                     textbutton "{font=tl/japanese/fonts/05HomuraM-SemiBold.otf}日本語{/font}" action Confirm(_("{font=fonts/Changa-SemiBold.ttf}Switch the game language to Japanese?{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}言語を日本語に変更しますか？{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=tl/japanese/fonts/Corporate-Logo-Bold-ver3.otf}古いセーブでは{color=#ff0000}テキストの不具合{/color}が起きる可能性があります。{/font}"), yes=Language("japanese"))
+                    textbutton "Русский" action Confirm(_("{font=fonts/Changa-SemiBold.ttf}Изменить язык игры на русский?{/font}\n{font=fonts/Changa-SemiBold.ttf}This might cause {color=#ff0000}text glitches{/color} on old saves.{/font}\n{font=fonts/Changa-SemiBold.ttf}Это может вызвать {color=#ff0000}проблемы с текстом{/color} в старых сохранениях.{/font}"), yes=Language("russian"))
 
 
 
