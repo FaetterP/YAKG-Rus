@@ -1,10 +1,16 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 # game/script_day1_investigations.rpy:83
 translate russian d1a1_kitchen_assistant_f43c018d:
 
     # C happy "Oh? Did you need something from me, [name_player]?{nw}"
     C happy ""
+
+# game/script_day1_investigations.rpy:85
+translate russian d1a1_kitchen_assistant_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/script_day1_investigations.rpy:89
 translate russian d1a1_kitchen_assistant_50687710:
@@ -108,97 +114,97 @@ translate russian d1a1_kitchen_assistant_4636e9c2:
     # C smile "If you don't want to use the [t_clue]knife[t_cluee], what's your preferred murder weapon of choice?{nw}"
     C smile ""
 
-# game/script_day1_investigations.rpy:115
-translate russian d1a1_kitchen_assistant_11fdb519:
+# game/script_day1_investigations.rpy:114
+translate russian d1a1_kitchen_assistant_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:117
+# game/script_day1_investigations.rpy:116
 translate russian d1a1_kitchen_assistant_448a9e70:
 
     # Y thinking "A knife is a little tricky to use... You basically need to use it for stabbing, when sometimes that--"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:120
+# game/script_day1_investigations.rpy:119
 translate russian d1a1_kitchen_assistant_fe1ee1d5:
 
     # Y relaxed "A blunt weapon is a lot easier to handle. There's also less chance of blood getting all ove--"
     Y relaxed ""
 
-# game/script_day1_investigations.rpy:123
+# game/script_day1_investigations.rpy:122
 translate russian d1a1_kitchen_assistant_f653ab5e:
 
     # Y blink "You can't know if you'll have an actual weapon on hand, so it's good to know how to use your own hands to--"
     Y blink ""
 
-# game/script_day1_investigations.rpy:126
+# game/script_day1_investigations.rpy:125
 translate russian d1a1_kitchen_assistant_f4931a8e:
 
     # Y angry "Wh-what are you talking about?! I wouldn't use {i}any{/i} weapon!" with hpunch
     Y angry "" with hpunch
 
-# game/script_day1_investigations.rpy:127
+# game/script_day1_investigations.rpy:126
 translate russian d1a1_kitchen_assistant_166e8f0f:
 
     # C smug "I see~ You prefer an indirect approach, then? Maybe manipulating someone else to--"
     C smug ""
 
-# game/script_day1_investigations.rpy:128
+# game/script_day1_investigations.rpy:127
 translate russian d1a1_kitchen_assistant_854b4565:
 
     # Y panicked "Wait, I was talking about the investigation! Did you have any ideas about THAT?" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day1_investigations.rpy:130
+# game/script_day1_investigations.rpy:129
 translate russian d1a1_kitchen_assistant_d65c8359:
 
     # C default "Oh, nothing related to that. But back to the topic of murder weapons..."
     C default ""
 
-# game/script_day1_investigations.rpy:131
+# game/script_day1_investigations.rpy:130
 translate russian d1a1_kitchen_assistant_fa3b72a7:
 
     # Y worried2 "Never mind, I'll just keep looking by myself..."
     Y worried2 ""
 
-# game/script_day1_investigations.rpy:135
+# game/script_day1_investigations.rpy:134
 translate russian d1a1_kitchen_assistant_7bde322f:
 
     # C smug "If you ask me, I'm surprised you ignored the prominent interactive point on the kitchen island."
     C smug ""
 
-# game/script_day1_investigations.rpy:136
+# game/script_day1_investigations.rpy:135
 translate russian d1a1_kitchen_assistant_75feee0b:
 
     # Y worried "The...\"interactive point\"...?"
     Y worried ""
 
-# game/script_day1_investigations.rpy:137
+# game/script_day1_investigations.rpy:136
 translate russian d1a1_kitchen_assistant_6738f467:
 
     # C sad "I even went through the trouble of standing right next to it when you started your investigation..."
     C sad ""
 
-# game/script_day1_investigations.rpy:138
+# game/script_day1_investigations.rpy:137
 translate russian d1a1_kitchen_assistant_d467e566:
 
     # I "...I guess there's no getting around it, then. Better check that out..."
     I ""
 
-# game/script_day1_investigations.rpy:140
+# game/script_day1_investigations.rpy:139
 translate russian d1a1_kitchen_assistant_e1ebe73f:
 
     # C default "We've only just started to look around, right?"
     C default ""
 
-# game/script_day1_investigations.rpy:141
+# game/script_day1_investigations.rpy:140
 translate russian d1a1_kitchen_assistant_8a4491d2:
 
     # C happy "Try [t_clue]looking REALLY carefully[t_cluee] at certain objects in this room. I'm sure you'll figure it out!"
     C happy ""
 
-# game/script_day1_investigations.rpy:142
+# game/script_day1_investigations.rpy:141
 translate russian d1a1_kitchen_assistant_ef59a816:
 
     # I "\"Look REALLY carefully\", she says... Did she already notice something and just isn't telling me?"
@@ -372,37 +378,37 @@ translate russian d1a1_kitchen_confirm_end_2d2c2292:
     # I "Maybe I can zone out a bit as I go through everything...?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:218
+# game/script_day1_investigations.rpy:217
 translate russian d1a1_kitchen_confirm_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:223
+# game/script_day1_investigations.rpy:222
 translate russian d1a1_kitchen_confirm_end_a35a275b:
 
     # I "...Actually, I should stay alert... Especially while I'm with Cecilia..."
     I ""
 
-# game/script_day1_investigations.rpy:227
+# game/script_day1_investigations.rpy:226
 translate russian d1a1_kitchen_confirm_end_7ce6a80d:
 
     # C "Hmm? What's up, [name_player]? Are we wrapping up?{nw}"
     C ""
 
-# game/script_day1_investigations.rpy:229
+# game/script_day1_investigations.rpy:228
 translate russian d1a1_kitchen_confirm_end_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:231
+# game/script_day1_investigations.rpy:230
 translate russian d1a1_kitchen_confirm_end_b7e7ea13:
 
     # Y blink "Yeah... I think we've found everything remotely useful..."
     Y blink ""
 
-# game/script_day1_investigations.rpy:235
+# game/script_day1_investigations.rpy:234
 translate russian d1a1_kitchen_confirm_end_8a0cfadf:
 
     # Y default "...No, let's look around a bit more."
@@ -534,85 +540,85 @@ translate russian d1a1_check_refrigerator_685ba82d:
     # C "...Don't you kind of get an urge to check it out?{nw}"
     C ""
 
-# game/script_day1_investigations.rpy:289
+# game/script_day1_investigations.rpy:288
 translate russian d1a1_check_refrigerator_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:291
+# game/script_day1_investigations.rpy:290
 translate russian d1a1_check_refrigerator_5e1cb323:
 
     # Y thinking "I...guess I can understand that."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:294
+# game/script_day1_investigations.rpy:293
 translate russian d1a1_check_refrigerator_d8085c30:
 
     # C "See! I knew you would get me, [name_player]!"
     C ""
 
-# game/script_day1_investigations.rpy:296
+# game/script_day1_investigations.rpy:295
 translate russian d1a1_check_refrigerator_22ce553c:
 
     # Y worried "No."
     Y worried ""
 
-# game/script_day1_investigations.rpy:299
+# game/script_day1_investigations.rpy:298
 translate russian d1a1_check_refrigerator_ca47648f:
 
     # C "No hesitation at all? You're a meanie, [name_player]."
     C ""
 
-# game/script_day1_investigations.rpy:300
+# game/script_day1_investigations.rpy:299
 translate russian d1a1_check_refrigerator_428dca7e:
 
     # Y sad "...Anyways, I definitely lost my appetite. Let's just move on."
     Y sad ""
 
-# game/script_day1_investigations.rpy:305
+# game/script_day1_investigations.rpy:304
 translate russian d1a1_check_refrigerator_0c12046c:
 
     # I "I don't think I need to check out this [t_pacclue]refrigerator[t_paccluee] anymore..."
     I ""
 
-# game/script_day1_investigations.rpy:307
+# game/script_day1_investigations.rpy:306
 translate russian d1a1_check_refrigerator_e27476b5:
 
     # C "Hmm? What's up? Are you thinking of taking another whiff?"
     C ""
 
-# game/script_day1_investigations.rpy:309
+# game/script_day1_investigations.rpy:308
 translate russian d1a1_check_refrigerator_9cbda49a:
 
     # Y blink "Absolutely not."
     Y blink ""
 
-# game/script_day1_investigations.rpy:310
+# game/script_day1_investigations.rpy:309
 translate russian d1a1_check_refrigerator_513f4ee7:
 
     # C thinking "Oh."
     C thinking ""
 
-# game/script_day1_investigations.rpy:311
+# game/script_day1_investigations.rpy:310
 translate russian d1a1_check_refrigerator_fbff4fe8:
 
     # C default "....."
     C default ""
 
-# game/script_day1_investigations.rpy:312
+# game/script_day1_investigations.rpy:311
 translate russian d1a1_check_refrigerator_34bfe143:
 
     # C grin "......."
     C grin ""
 
-# game/script_day1_investigations.rpy:313
+# game/script_day1_investigations.rpy:312
 translate russian d1a1_check_refrigerator_86ae86d2:
 
     # Y worried "Please don't open the refrigerator again. The smell might spread."
     Y worried ""
 
-# game/script_day1_investigations.rpy:315
+# game/script_day1_investigations.rpy:314
 translate russian d1a1_check_refrigerator_6e6c4acd:
 
     # C sweatdrop "Fine, fine." with hpunch
@@ -1902,319 +1908,319 @@ translate russian d1a1_check_petbowl_f5010c8d:
     # Y thinking "Well, if I had to choose...{nw}"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:904
+# game/script_day1_investigations.rpy:903
 translate russian d1a1_check_petbowl_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:907
+# game/script_day1_investigations.rpy:906
 translate russian d1a1_check_petbowl_e3350ccf:
 
     # Y default "Definitely a cat person."
     Y default ""
 
-# game/script_day1_investigations.rpy:908
+# game/script_day1_investigations.rpy:907
 translate russian d1a1_check_petbowl_7abc71f2:
 
     # Y blink "I like how they're self-sufficient and keep an air of mystery about them."
     Y blink ""
 
-# game/script_day1_investigations.rpy:909
+# game/script_day1_investigations.rpy:908
 translate russian d1a1_check_petbowl_6cdeae2a:
 
     # Y relaxed "Makes it all the more endearing when they cuddle up to you."
     Y relaxed ""
 
-# game/script_day1_investigations.rpy:911
+# game/script_day1_investigations.rpy:910
 translate russian d1a1_check_petbowl_9acb0f01:
 
     # C surprised "I see... That's quite a thought-out answer..."
     C surprised ""
 
-# game/script_day1_investigations.rpy:912
+# game/script_day1_investigations.rpy:911
 translate russian d1a1_check_petbowl_c204f1dd:
 
     # I "Well, I don't have any memories, so that was pretty much all made-up..."
     I ""
 
-# game/script_day1_investigations.rpy:915
+# game/script_day1_investigations.rpy:914
 translate russian d1a1_check_petbowl_5e09f10b:
 
     # Y default "I guess dogs?"
     Y default ""
 
-# game/script_day1_investigations.rpy:916
+# game/script_day1_investigations.rpy:915
 translate russian d1a1_check_petbowl_e3d562d4:
 
     # Y relaxed "They're always really eager to spend time with you."
     Y relaxed ""
 
-# game/script_day1_investigations.rpy:917
+# game/script_day1_investigations.rpy:916
 translate russian d1a1_check_petbowl_0f97552e:
 
     # Y happy "Plus it's cute how you can always tell how they're feeling for the most part."
     Y happy ""
 
-# game/script_day1_investigations.rpy:919
+# game/script_day1_investigations.rpy:918
 translate russian d1a1_check_petbowl_517024bd:
 
     # C smug "Ohooo~ So that sort of thing is important to you, huh...?"
     C smug ""
 
-# game/script_day1_investigations.rpy:920
+# game/script_day1_investigations.rpy:919
 translate russian d1a1_check_petbowl_e70f1784:
 
     # I "I mean, I wouldn't know. I don't have any of my memories."
     I ""
 
-# game/script_day1_investigations.rpy:923
+# game/script_day1_investigations.rpy:922
 translate russian d1a1_check_petbowl_aff8eb14:
 
     # Y worried "I can't say I lean either way."
     Y worried ""
 
-# game/script_day1_investigations.rpy:925
+# game/script_day1_investigations.rpy:924
 translate russian d1a1_check_petbowl_d7121986:
 
     # I "Mostly because I don't remember anything about myself..."
     I ""
 
-# game/script_day1_investigations.rpy:926
+# game/script_day1_investigations.rpy:925
 translate russian d1a1_check_petbowl_084b32ca:
 
     # C sad "Aw. Lame."
     C sad ""
 
-# game/script_day1_investigations.rpy:927
+# game/script_day1_investigations.rpy:926
 translate russian d1a1_check_petbowl_9387f945:
 
     # Y default "What about you, Cecilia? Cats or dogs?"
     Y default ""
 
-# game/script_day1_investigations.rpy:928
+# game/script_day1_investigations.rpy:927
 translate russian d1a1_check_petbowl_8b9d0980:
 
     # C surprised "Me?"
     C surprised ""
 
-# game/script_day1_investigations.rpy:929
+# game/script_day1_investigations.rpy:928
 translate russian d1a1_check_petbowl_9ead5a45:
 
     # C thinking "Hmm..."
     C thinking ""
 
-# game/script_day1_investigations.rpy:930
+# game/script_day1_investigations.rpy:929
 translate russian d1a1_check_petbowl_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day1_investigations.rpy:931
+# game/script_day1_investigations.rpy:930
 translate russian d1a1_check_petbowl_9bc8bdd1:
 
     # C sweatdrop "...I guess neither. I'm more of a porcupine gal."
     C sweatdrop ""
 
-# game/script_day1_investigations.rpy:932
+# game/script_day1_investigations.rpy:931
 translate russian d1a1_check_petbowl_cc305e2f:
 
     # Y annoyed "....."
     Y annoyed ""
 
-# game/script_day1_investigations.rpy:934
+# game/script_day1_investigations.rpy:933
 translate russian d1a1_check_petbowl_cfc89fdc:
 
     # C "What's that look for? You've never seen a porcupine's nose before, have you?"
     C ""
 
-# game/script_day1_investigations.rpy:935
+# game/script_day1_investigations.rpy:934
 translate russian d1a1_check_petbowl_31311b8e:
 
     # C blink "Plus they're born with quills all over that are soft at first, but as they mature, the quills turn into prickly spikes..."
     C blink ""
 
-# game/script_day1_investigations.rpy:936
+# game/script_day1_investigations.rpy:935
 translate russian d1a1_check_petbowl_47ffa306:
 
     # C smile "Kinda like us humans, right? So soft, then growing up to be so prickly, so guarded...{w=1.0}{nw}"
     C smile ""
 
-# game/script_day1_investigations.rpy:939
+# game/script_day1_investigations.rpy:938
 translate russian d1a1_check_petbowl_bdddff65:
 
     # extend " Ehueheh~ There's nothing cuter~ [u_heart]"
     extend ""
 
-# game/script_day1_investigations.rpy:940
+# game/script_day1_investigations.rpy:939
 translate russian d1a1_check_petbowl_362e068b:
 
     # Y worried "...Okay, good talk. Let's get back to work, porcupine gal."
     Y worried ""
 
-# game/script_day1_investigations.rpy:945
+# game/script_day1_investigations.rpy:944
 translate russian d1a1_check_petbowl_5c11fdbe:
 
     # I "Just a [t_pacclue]pet bowl[t_paccluee] over there. Nothing else."
     I ""
 
-# game/script_day1_investigations.rpy:952
+# game/script_day1_investigations.rpy:951
 translate russian d1a1_check_petbowl_c497a022:
 
     # C "Hey, [name_player]? You said you were a cat person, right?"
     C ""
 
-# game/script_day1_investigations.rpy:953
+# game/script_day1_investigations.rpy:952
 translate russian d1a1_check_petbowl_a67a879c:
 
     # C default "Does that mean you don't like dogs?{nw}"
     C default ""
 
-# game/script_day1_investigations.rpy:955
+# game/script_day1_investigations.rpy:954
 translate russian d1a1_check_petbowl_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:957
+# game/script_day1_investigations.rpy:956
 translate russian d1a1_check_petbowl_ce6ae955:
 
     # Y blink "Yeah, I'm not a fan. They're really high maintenance."
     Y blink ""
 
-# game/script_day1_investigations.rpy:959
+# game/script_day1_investigations.rpy:958
 translate russian d1a1_check_petbowl_0d22a423:
 
     # Y sad "I don't think I have the stamina to play with them all the time."
     Y sad ""
 
-# game/script_day1_investigations.rpy:961
+# game/script_day1_investigations.rpy:960
 translate russian d1a1_check_petbowl_e20d5c04:
 
     # C blink "...You don't, huh...?"
     C blink ""
 
-# game/script_day1_investigations.rpy:962
+# game/script_day1_investigations.rpy:961
 translate russian d1a1_check_petbowl_0cf06034:
 
     # I "...?"
     I ""
 
-# game/script_day1_investigations.rpy:964
+# game/script_day1_investigations.rpy:963
 translate russian d1a1_check_petbowl_341fd91b:
 
     # Y thinking "I wouldn't say that. I just have a preference. One over the other." with shakeonce
     Y thinking "" with shakeonce
 
-# game/script_day1_investigations.rpy:965
+# game/script_day1_investigations.rpy:964
 translate russian d1a1_check_petbowl_d2d20518:
 
     # C blink "Fair enough. I guess I was just curious if you would cringe at adamant dog lovers."
     C blink ""
 
-# game/script_day1_investigations.rpy:966
+# game/script_day1_investigations.rpy:965
 translate russian d1a1_check_petbowl_2e410589:
 
     # Y worried "That's...an odd thing to worry about."
     Y worried ""
 
-# game/script_day1_investigations.rpy:967
+# game/script_day1_investigations.rpy:966
 translate russian d1a1_check_petbowl_6e938727:
 
     # C smile "Eh... You never know~"
     C smile ""
 
-# game/script_day1_investigations.rpy:968
+# game/script_day1_investigations.rpy:967
 translate russian d1a1_check_petbowl_bf87bf92:
 
     # I "Huh?"
     I ""
 
-# game/script_day1_investigations.rpy:972
+# game/script_day1_investigations.rpy:971
 translate russian d1a1_check_petbowl_9d8a638d:
 
     # C "Hey, [name_player]? You said you were a dog person, right?"
     C ""
 
-# game/script_day1_investigations.rpy:973
+# game/script_day1_investigations.rpy:972
 translate russian d1a1_check_petbowl_c12859c9:
 
     # C default "Does that mean you don't like cats?{nw}"
     C default ""
 
-# game/script_day1_investigations.rpy:975
+# game/script_day1_investigations.rpy:974
 translate russian d1a1_check_petbowl_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:977
+# game/script_day1_investigations.rpy:976
 translate russian d1a1_check_petbowl_ba4f0473:
 
     # Y sad "Yeah, not really. They can be really cold and distant."
     Y sad ""
 
-# game/script_day1_investigations.rpy:979
+# game/script_day1_investigations.rpy:978
 translate russian d1a1_check_petbowl_ebb9cb86:
 
     # Y blink "Plus they just sleep on whatever, no matter how inconvenient it may be for their owners."
     Y blink ""
 
-# game/script_day1_investigations.rpy:980
+# game/script_day1_investigations.rpy:979
 translate russian d1a1_check_petbowl_365a847a:
 
     # Y annoyed "Frankly, I don't understand why people tolerate how high and mighty they--"
     Y annoyed ""
 
-# game/script_day1_investigations.rpy:983
+# game/script_day1_investigations.rpy:982
 translate russian d1a1_check_petbowl_6274df32:
 
     # C "Whoa, those are some bold statements! You might want to reel that in a little!"
     C ""
 
-# game/script_day1_investigations.rpy:984
+# game/script_day1_investigations.rpy:983
 translate russian d1a1_check_petbowl_4f53ac41:
 
     # Y surprised "Why? I'm just saying--"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:987
+# game/script_day1_investigations.rpy:986
 translate russian d1a1_check_petbowl_663dd5d5:
 
     # C "Okay okay, I'm sorry I asked. Let's just move on before anyone flames us in the reviews..."
     C ""
 
-# game/script_day1_investigations.rpy:989
+# game/script_day1_investigations.rpy:988
 translate russian d1a1_check_petbowl_295069e0:
 
     # C "Reminder: \"Opinions expressed by the characters of this work are not necessarily shared by the author.\""
     C ""
 
-# game/script_day1_investigations.rpy:990
+# game/script_day1_investigations.rpy:989
 translate russian d1a1_check_petbowl_ac3df700:
 
     # I "...Who is she talking to?"
     I ""
 
-# game/script_day1_investigations.rpy:992
+# game/script_day1_investigations.rpy:991
 translate russian d1a1_check_petbowl_f63adebb:
 
     # Y default "Cats are okay. I just like dogs a little more."
     Y default ""
 
-# game/script_day1_investigations.rpy:993
+# game/script_day1_investigations.rpy:992
 translate russian d1a1_check_petbowl_0aeba120:
 
     # C blink "...I see. {size=-10}...the same...{/size}"
     C blink ""
 
-# game/script_day1_investigations.rpy:994
+# game/script_day1_investigations.rpy:993
 translate russian d1a1_check_petbowl_6f0ab87b:
 
     # Y thinking "Huh? What'd you say?"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:995
+# game/script_day1_investigations.rpy:994
 translate russian d1a1_check_petbowl_966bb5c6:
 
     # C happy "Nothing! Let's keep looking around, [name_player]!"
@@ -2262,127 +2268,127 @@ translate russian d1a1_check_table_11a0a965:
     # C sad "I think I mentioned this before, but there's really not that much to check out here.{nw}"
     C sad ""
 
-# game/script_day1_investigations.rpy:1025
+# game/script_day1_investigations.rpy:1024
 translate russian d1a1_check_table_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1027
+# game/script_day1_investigations.rpy:1026
 translate russian d1a1_check_table_188a2fff:
 
     # Y blink "Yeah, you're right... Guess that's about all we're gonna learn from this."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1028
+# game/script_day1_investigations.rpy:1027
 translate russian d1a1_check_table_47d65cc9:
 
     # C happy "Come on, [name_player], let's check someplace else!"
     C happy ""
 
-# game/script_day1_investigations.rpy:1030
+# game/script_day1_investigations.rpy:1029
 translate russian d1a1_check_table_674a7242:
 
     # Y thinking "But isn't that strange?"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1031
+# game/script_day1_investigations.rpy:1030
 translate russian d1a1_check_table_ae8f1427:
 
     # C surprised "Hmm? What is?"
     C surprised ""
 
-# game/script_day1_investigations.rpy:1032
+# game/script_day1_investigations.rpy:1031
 translate russian d1a1_check_table_61ced55f:
 
     # Y default "I mean...there are plenty of signs that indicate there was a big family living here."
     Y default ""
 
-# game/script_day1_investigations.rpy:1034
+# game/script_day1_investigations.rpy:1033
 translate russian d1a1_check_table_14385e1d:
 
     # Y thinking "But everything here is just...barren."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1035
+# game/script_day1_investigations.rpy:1034
 translate russian d1a1_check_table_7f2d5610:
 
     # Y "Nothing out in the open, and a layer of dust is on the table..."
     Y ""
 
-# game/script_day1_investigations.rpy:1036
+# game/script_day1_investigations.rpy:1035
 translate russian d1a1_check_table_86aa8d78:
 
     # Y blink "It's like [t_clue]no one's lived here for a long time[t_cluee]."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1038
+# game/script_day1_investigations.rpy:1037
 translate russian d1a1_check_table_dbaf2a56:
 
     # C surprised "...Oooooooh."
     C surprised ""
 
-# game/script_day1_investigations.rpy:1041
+# game/script_day1_investigations.rpy:1040
 translate russian d1a1_check_table_4977276f:
 
     # C "Wow, you're a smart cookie, [name_player]!"
     C ""
 
-# game/script_day1_investigations.rpy:1042
+# game/script_day1_investigations.rpy:1041
 translate russian d1a1_check_table_7efb4127:
 
     # Y surprised "...Th-thanks, but that's all you have to say?"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:1043
+# game/script_day1_investigations.rpy:1042
 translate russian d1a1_check_table_254e63db:
 
     # C thinking "I mean, what else do you want me to say?"
     C thinking ""
 
-# game/script_day1_investigations.rpy:1044
+# game/script_day1_investigations.rpy:1043
 translate russian d1a1_check_table_c11afab6:
 
     # C default "If no one's lived here for a long time, that just means we're probably alone in this house with the culprit."
     C default ""
 
-# game/script_day1_investigations.rpy:1045
+# game/script_day1_investigations.rpy:1044
 translate russian d1a1_check_table_4138180a:
 
     # C blink "We can't bank on the family that lived here to come to our rescue. Who knows, they might even be in on it."
     C blink ""
 
-# game/script_day1_investigations.rpy:1046
+# game/script_day1_investigations.rpy:1045
 translate russian d1a1_check_table_b22b5f28:
 
     # C smug "So...that observation you made isn't exactly a shimmering ray of hope, now is it?"
     C smug ""
 
-# game/script_day1_investigations.rpy:1047
+# game/script_day1_investigations.rpy:1046
 translate russian d1a1_check_table_e8a856c4:
 
     # Y worried "...Mrgh..." with shakeonce
     Y worried "" with shakeonce
 
-# game/script_day1_investigations.rpy:1048
+# game/script_day1_investigations.rpy:1047
 translate russian d1a1_check_table_f62be1fd:
 
     # C happy "Don't worry, [name_player], I still think you're a smart cookie!"
     C happy ""
 
-# game/script_day1_investigations.rpy:1049
+# game/script_day1_investigations.rpy:1048
 translate russian d1a1_check_table_79ae5ad3:
 
     # I "Now I'm bummed out... Maybe I should have just stayed quiet..."
     I ""
 
-# game/script_day1_investigations.rpy:1050
+# game/script_day1_investigations.rpy:1049
 translate russian d1a1_check_table_9ba57f3d:
 
     # Y sad "Okay, let's look for clues that might help us get out of here."
     Y sad ""
 
-# game/script_day1_investigations.rpy:1055
+# game/script_day1_investigations.rpy:1054
 translate russian d1a1_check_table_4cd394e4:
 
     # I "It's just a [t_pacclue]table[t_paccluee]. Let's move on."
@@ -2760,37 +2766,37 @@ translate russian d1a1_check_kitchenentrance_3b62f9be:
     # I "Yeah, something tells me there's nothing important left here...{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:1248
+# game/script_day1_investigations.rpy:1247
 translate russian d1a1_check_kitchenentrance_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1251
+# game/script_day1_investigations.rpy:1250
 translate russian d1a1_check_kitchenentrance_9ee0d62c:
 
     # Y default "Let's go back to the kitchen."
     Y default ""
 
-# game/script_day1_investigations.rpy:1253
+# game/script_day1_investigations.rpy:1252
 translate russian d1a1_check_kitchenentrance_6010c744:
 
     # C smile "Good idea! Most of the interesting clues are over there."
     C smile ""
 
-# game/script_day1_investigations.rpy:1256
+# game/script_day1_investigations.rpy:1255
 translate russian d1a1_check_kitchenentrance_e8373369:
 
     # Y blink "Yeah, I think we covered everything important here."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1258
+# game/script_day1_investigations.rpy:1257
 translate russian d1a1_check_kitchenentrance_226955fe:
 
     # C smile "Back to the kitchen, then? Okay dokay~"
     C smile ""
 
-# game/script_day1_investigations.rpy:1267
+# game/script_day1_investigations.rpy:1266
 translate russian d1a1_check_kitchenentrance_810c79ee:
 
     # I "No, let's take another look around here first..."
@@ -2868,67 +2874,67 @@ translate russian d1a1_bathroom_confirm_end_e259f3ec:
     # I "Maybe I should just stop here, save some time?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:1345
+# game/script_day1_investigations.rpy:1344
 translate russian d1a1_bathroom_confirm_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1348
+# game/script_day1_investigations.rpy:1347
 translate russian d1a1_bathroom_confirm_end_05a0e2ce:
 
     # I "...I should turn off the sink before I leave."
     I ""
 
-# game/script_day1_investigations.rpy:1353
+# game/script_day1_investigations.rpy:1352
 translate russian d1a1_bathroom_confirm_end_68aee60a:
 
     # I "...Yeah, something tells me it really won't be worth it to search around here any more..."
     I ""
 
-# game/script_day1_investigations.rpy:1354
+# game/script_day1_investigations.rpy:1353
 translate russian d1a1_bathroom_confirm_end_4ca8c3b3:
 
     # I "I should try checking out another place."
     I ""
 
-# game/script_day1_investigations.rpy:1357
+# game/script_day1_investigations.rpy:1356
 translate russian d1a1_bathroom_confirm_end_7db6a195:
 
     # I "...On second thought, it can't hurt to be thorough..."
     I ""
 
-# game/script_day1_investigations.rpy:1359
+# game/script_day1_investigations.rpy:1358
 translate russian d1a1_bathroom_confirm_end_f0297f7e:
 
     # I "Should I wrap up my investigation here?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:1361
+# game/script_day1_investigations.rpy:1360
 translate russian d1a1_bathroom_confirm_end_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1364
+# game/script_day1_investigations.rpy:1363
 translate russian d1a1_bathroom_confirm_end_05a0e2ce_1:
 
     # I "...I should turn off the sink before I leave."
     I ""
 
-# game/script_day1_investigations.rpy:1369
+# game/script_day1_investigations.rpy:1368
 translate russian d1a1_bathroom_confirm_end_93229a83:
 
     # I "It's a small bathroom so...I guess that's all the clues I'm gonna be getting."
     I ""
 
-# game/script_day1_investigations.rpy:1370
+# game/script_day1_investigations.rpy:1369
 translate russian d1a1_bathroom_confirm_end_9d193c43:
 
     # I "Nothing useful came out of this... Welp, can't say I didn't try."
     I ""
 
-# game/script_day1_investigations.rpy:1373
+# game/script_day1_investigations.rpy:1372
 translate russian d1a1_bathroom_confirm_end_574ba50e:
 
     # I "...No, let's look around a bit more."
@@ -2940,7 +2946,7 @@ translate russian d1a1_check_door_2d220d8b:
     # I "The [t_pacclue]door[t_paccluee] that I came in through. Past it is the foyer.{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:1404
+# game/script_day1_investigations.rpy:1390
 translate russian d1a1_check_door_11fdb519:
 
     # extend "" nointeract
@@ -3114,61 +3120,61 @@ translate russian d1a1_check_toilet_186698ef:
     # Y thinking "...Do I need to go?{nw}"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1492
+# game/script_day1_investigations.rpy:1491
 translate russian d1a1_check_toilet_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1494
+# game/script_day1_investigations.rpy:1493
 translate russian d1a1_check_toilet_91fd7262:
 
     # Y blink "Yeah, let's take a short break..."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1496
+# game/script_day1_investigations.rpy:1495
 translate russian d1a1_check_toilet_bb8e4a83:
 
     # extend panicked " Wait, I don't need to go! What the heck am I doing?!" with shakeshort
     extend panicked "" with shakeshort
 
-# game/script_day1_investigations.rpy:1497
+# game/script_day1_investigations.rpy:1496
 translate russian d1a1_check_toilet_e92ff968:
 
     # I "...That was...a weird impulse I just had."
     I ""
 
-# game/script_day1_investigations.rpy:1498
+# game/script_day1_investigations.rpy:1497
 translate russian d1a1_check_toilet_46f4b5d3:
 
     # I "Is something [t_clue]controlling me[t_cluee]?"
     I ""
 
-# game/script_day1_investigations.rpy:1500
+# game/script_day1_investigations.rpy:1499
 translate russian d1a1_check_toilet_904e630b:
 
     # Y sad "...Let's not."
     Y sad ""
 
-# game/script_day1_investigations.rpy:1501
+# game/script_day1_investigations.rpy:1500
 translate russian d1a1_check_toilet_1ba1075a:
 
     # Y "The thought of doing that right now feels...wrong somehow."
     Y ""
 
-# game/script_day1_investigations.rpy:1507
+# game/script_day1_investigations.rpy:1506
 translate russian d1a1_check_toilet_52f788ba_1:
 
     # Y blink "......."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1509
+# game/script_day1_investigations.rpy:1508
 translate russian d1a1_check_toilet_507b6cdc:
 
     # Y default "Still no problems with the [t_pacclue]toilet[t_paccluee]."
     Y default ""
 
-# game/script_day1_investigations.rpy:1511
+# game/script_day1_investigations.rpy:1510
 translate russian d1a1_check_toilet_01381b11:
 
     # I "It's an oddly satisfying sound..."
@@ -3216,127 +3222,127 @@ translate russian d1a1_check_bathroomwindow_a1e079be:
     # Y surprised "...Unless...{nw}"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:1539
+# game/script_day1_investigations.rpy:1538
 translate russian d1a1_check_bathroomwindow_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1541
+# game/script_day1_investigations.rpy:1540
 translate russian d1a1_check_bathroomwindow_00090f54:
 
     # Y leering "Alright, 3, 2..."
     Y leering ""
 
-# game/script_day1_investigations.rpy:1557
+# game/script_day1_investigations.rpy:1556
 translate russian d1a1_check_bathroomwindow_7fbdea68:
 
     # Y blink "....."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1559
+# game/script_day1_investigations.rpy:1558
 translate russian d1a1_check_bathroomwindow_61b481e9:
 
     # Y pained "...Aggghhh..." with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day1_investigations.rpy:1561
+# game/script_day1_investigations.rpy:1560
 translate russian d1a1_check_bathroomwindow_af6678e4:
 
     # I "Okay... That was a mistake..."
     I ""
 
-# game/script_day1_investigations.rpy:1562
+# game/script_day1_investigations.rpy:1561
 translate russian d1a1_check_bathroomwindow_ecbedcfd:
 
     # I "Oww, my hand..."
     I ""
 
-# game/script_day1_investigations.rpy:1565
+# game/script_day1_investigations.rpy:1564
 translate russian d1a1_check_bathroomwindow_e095e70c:
 
     # Y thinking "...Nah, I doubt that's gonna work."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1571
+# game/script_day1_investigations.rpy:1570
 translate russian d1a1_check_bathroomwindow_c91bfaa6:
 
     # I "The sole [t_pacclue]window[t_paccluee] in this bathroom."
     I ""
 
-# game/script_day1_investigations.rpy:1573
+# game/script_day1_investigations.rpy:1572
 translate russian d1a1_check_bathroomwindow_145a7860:
 
     # Y thinking "....."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1575
+# game/script_day1_investigations.rpy:1574
 translate russian d1a1_check_bathroomwindow_e3a844e7:
 
     # Y "Actually, should I try it...?{nw}"
     Y ""
 
-# game/script_day1_investigations.rpy:1577
+# game/script_day1_investigations.rpy:1576
 translate russian d1a1_check_bathroomwindow_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1579
+# game/script_day1_investigations.rpy:1578
 translate russian d1a1_check_bathroomwindow_00090f54_1:
 
     # Y leering "Alright, 3, 2..."
     Y leering ""
 
-# game/script_day1_investigations.rpy:1595
+# game/script_day1_investigations.rpy:1594
 translate russian d1a1_check_bathroomwindow_7fbdea68_1:
 
     # Y blink "....."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1597
+# game/script_day1_investigations.rpy:1596
 translate russian d1a1_check_bathroomwindow_61b481e9_1:
 
     # Y pained "...Aggghhh..." with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day1_investigations.rpy:1598
+# game/script_day1_investigations.rpy:1597
 translate russian d1a1_check_bathroomwindow_136f828f:
 
     # I "Okay... I was right the first time..."
     I ""
 
-# game/script_day1_investigations.rpy:1599
+# game/script_day1_investigations.rpy:1598
 translate russian d1a1_check_bathroomwindow_ecbedcfd_1:
 
     # I "Oww, my hand..."
     I ""
 
-# game/script_day1_investigations.rpy:1603
+# game/script_day1_investigations.rpy:1602
 translate russian d1a1_check_bathroomwindow_20aa9ad4:
 
     # Y worried "N-no, come on, me, let's just look somewhere else."
     Y worried ""
 
-# game/script_day1_investigations.rpy:1606
+# game/script_day1_investigations.rpy:1605
 translate russian d1a1_check_bathroomwindow_17b8fb81:
 
     # I "I was an idiot to think I could punch through it..."
     I ""
 
-# game/script_day1_investigations.rpy:1608
+# game/script_day1_investigations.rpy:1607
 translate russian d1a1_check_bathroomwindow_fe8bddd3:
 
     # I "Now that I think about it, if Cecilia couldn't break the dining room windows with a chair, how was {i}I{/i} gonna do any better..."
     I ""
 
-# game/script_day1_investigations.rpy:1610
+# game/script_day1_investigations.rpy:1609
 translate russian d1a1_check_bathroomwindow_eaf9de28:
 
     # I "Maybe if I threw something heavy at it...?"
     I ""
 
-# game/script_day1_investigations.rpy:1611
+# game/script_day1_investigations.rpy:1610
 translate russian d1a1_check_bathroomwindow_f448e07c:
 
     # I "...Actually, I should run it by the others first before trying something drastic like that."
@@ -3366,43 +3372,43 @@ translate russian d1a1_check_trashcan_8d6a978f:
     # Y worried "...The lid's stuck... I'll have to just stick my hand in...{nw}"
     Y worried ""
 
-# game/script_day1_investigations.rpy:1634
+# game/script_day1_investigations.rpy:1633
 translate russian d1a1_check_trashcan_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1639
+# game/script_day1_investigations.rpy:1638
 translate russian d1a1_check_trashcan_6ff3f370:
 
     # Y panicked "...Wait, gross, what am I doing?!" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day1_investigations.rpy:1640
+# game/script_day1_investigations.rpy:1639
 translate russian d1a1_check_trashcan_c0e83e98:
 
     # Y annoyed "Who KNOWS what could be in there..."
     Y annoyed ""
 
-# game/script_day1_investigations.rpy:1644
+# game/script_day1_investigations.rpy:1643
 translate russian d1a1_check_trashcan_c66aa9e2:
 
     # Y thinking "There might be more in this [t_pacclue]waste bin[t_paccluee]... Should I try sticking my hand in again...?{nw}"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1647
+# game/script_day1_investigations.rpy:1646
 translate russian d1a1_check_trashcan_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1651
+# game/script_day1_investigations.rpy:1650
 translate russian d1a1_check_trashcan_d3cc1846:
 
     # Y blink "...Nah, maybe the first time was enough."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1652
+# game/script_day1_investigations.rpy:1651
 translate russian d1a1_check_trashcan_bcdc585f:
 
     # Y sad "If anything's in there, it probably isn't worth the grossness."
@@ -3648,31 +3654,31 @@ translate russian d1a1_check_soap_ef16d5f3:
     # Y thinking "Hmm... I wonder if I should wash my hands.{nw}"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:1827
+# game/script_day1_investigations.rpy:1826
 translate russian d1a1_check_soap_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:1830
+# game/script_day1_investigations.rpy:1829
 translate russian d1a1_check_soap_e4a9c697:
 
     # Y default "I should have the sink running first."
     Y default ""
 
-# game/script_day1_investigations.rpy:1832
+# game/script_day1_investigations.rpy:1831
 translate russian d1a1_check_soap_7fbdea68:
 
     # Y blink "....."
     Y blink ""
 
-# game/script_day1_investigations.rpy:1833
+# game/script_day1_investigations.rpy:1832
 translate russian d1a1_check_soap_74430275:
 
     # Y default "......."
     Y default ""
 
-# game/script_day1_investigations.rpy:1834
+# game/script_day1_investigations.rpy:1833
 translate russian d1a1_check_soap_b1a7face:
 
     # Y "Okay, all cleaned up."
@@ -3750,6 +3756,12 @@ translate russian d1a1_upstairs_assistant_84c67ea7:
     # O default "...Yes? What is it, [name_player]?{nw}"
     O default ""
 
+# game/script_day1_investigations.rpy:1982
+translate russian d1a1_upstairs_assistant_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
+
 # game/script_day1_investigations.rpy:1986
 translate russian d1a1_upstairs_assistant_2587b068:
 
@@ -3804,349 +3816,349 @@ translate russian d1a1_upstairs_assistant_a3f9a4ff:
     # I "The trolley problem...{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2000
-translate russian d1a1_upstairs_assistant_11fdb519:
-
-    # extend "" nointeract
-    extend "" nointeract
-
-# game/script_day1_investigations.rpy:2002
-translate russian d1a1_upstairs_assistant_08db5e68:
-
-    # Y default "Yeah, I know it."
-    Y default ""
-
-# game/script_day1_investigations.rpy:2003
-translate russian d1a1_upstairs_assistant_01f1410e:
-
-    # O blink "Then to cut to the chase..."
-    O blink ""
-
-# game/script_day1_investigations.rpy:2005
-translate russian d1a1_upstairs_assistant_c54275b4:
-
-    # Y thinking "No, what's that?"
-    Y thinking ""
-
-# game/script_day1_investigations.rpy:2006
-translate russian d1a1_upstairs_assistant_4534a3a8:
-
-    # O default "The trolley problem is a famous thought experiment in ethics and psychology."
-    O default ""
-
-# game/script_day1_investigations.rpy:2007
-translate russian d1a1_upstairs_assistant_1c0db8f4:
-
-    # O blink "Imagine that you're standing by a train track, and a train is coming at full speed."
-    O blink ""
-
-# game/script_day1_investigations.rpy:2008
-translate russian d1a1_upstairs_assistant_1fb26b72:
-
-    # O "But down the track, you see [t_clue]five people[t_cluee] tied to it. The train will, of course, kill them if it comes and runs over them."
-    O ""
-
-# game/script_day1_investigations.rpy:2009
-translate russian d1a1_upstairs_assistant_1f6adefd:
-
-    # Y panicked "....."
-    Y panicked ""
-
-# game/script_day1_investigations.rpy:2010
-translate russian d1a1_upstairs_assistant_0641cf59:
-
-    # O "You don't have enough time to rescue the five people, but what you CAN do is pull a nearby lever to change the train's track."
-    O ""
-
-# game/script_day1_investigations.rpy:2011
-translate russian d1a1_upstairs_assistant_ec36da2d:
-
-    # Y surprised "Oh, then--"
-    Y surprised ""
-
-# game/script_day1_investigations.rpy:2012
-translate russian d1a1_upstairs_assistant_7213731a:
-
-    # O thinking "HOWEVER. On the other track, there is [t_clue]one person[t_cluee] tied to it." with shakeonce
-    O thinking "" with shakeonce
-
-# game/script_day1_investigations.rpy:2013
-translate russian d1a1_upstairs_assistant_bc61b54b:
-
-    # O default "So if you pull the lever, the train will go down the other track and kill that person instead."
-    O default ""
-
-# game/script_day1_investigations.rpy:2014
-translate russian d1a1_upstairs_assistant_2ae79606:
-
-    # Y sad "O-oh..."
-    Y sad ""
-
-# game/script_day1_investigations.rpy:2015
-translate russian d1a1_upstairs_assistant_8b1a7cf2:
-
-    # O blink "So with all that in mind..."
-    O blink ""
-
-# game/script_day1_investigations.rpy:2016
-translate russian d1a1_upstairs_assistant_fd382a09:
-
-    # O default "Would you pull the lever and kill one person?{w=0.5} Or refrain from pulling it and let the train kill five people?{nw}"
-    O default ""
-
-# game/script_day1_investigations.rpy:2018
+# game/script_day1_investigations.rpy:1999
 translate russian d1a1_upstairs_assistant_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2020
+# game/script_day1_investigations.rpy:2001
+translate russian d1a1_upstairs_assistant_08db5e68:
+
+    # Y default "Yeah, I know it."
+    Y default ""
+
+# game/script_day1_investigations.rpy:2002
+translate russian d1a1_upstairs_assistant_01f1410e:
+
+    # O blink "Then to cut to the chase..."
+    O blink ""
+
+# game/script_day1_investigations.rpy:2004
+translate russian d1a1_upstairs_assistant_c54275b4:
+
+    # Y thinking "No, what's that?"
+    Y thinking ""
+
+# game/script_day1_investigations.rpy:2005
+translate russian d1a1_upstairs_assistant_4534a3a8:
+
+    # O default "The trolley problem is a famous thought experiment in ethics and psychology."
+    O default ""
+
+# game/script_day1_investigations.rpy:2006
+translate russian d1a1_upstairs_assistant_1c0db8f4:
+
+    # O blink "Imagine that you're standing by a train track, and a train is coming at full speed."
+    O blink ""
+
+# game/script_day1_investigations.rpy:2007
+translate russian d1a1_upstairs_assistant_1fb26b72:
+
+    # O "But down the track, you see [t_clue]five people[t_cluee] tied to it. The train will, of course, kill them if it comes and runs over them."
+    O ""
+
+# game/script_day1_investigations.rpy:2008
+translate russian d1a1_upstairs_assistant_1f6adefd:
+
+    # Y panicked "....."
+    Y panicked ""
+
+# game/script_day1_investigations.rpy:2009
+translate russian d1a1_upstairs_assistant_0641cf59:
+
+    # O "You don't have enough time to rescue the five people, but what you CAN do is pull a nearby lever to change the train's track."
+    O ""
+
+# game/script_day1_investigations.rpy:2010
+translate russian d1a1_upstairs_assistant_ec36da2d:
+
+    # Y surprised "Oh, then--"
+    Y surprised ""
+
+# game/script_day1_investigations.rpy:2011
+translate russian d1a1_upstairs_assistant_7213731a:
+
+    # O thinking "HOWEVER. On the other track, there is [t_clue]one person[t_cluee] tied to it." with shakeonce
+    O thinking "" with shakeonce
+
+# game/script_day1_investigations.rpy:2012
+translate russian d1a1_upstairs_assistant_bc61b54b:
+
+    # O default "So if you pull the lever, the train will go down the other track and kill that person instead."
+    O default ""
+
+# game/script_day1_investigations.rpy:2013
+translate russian d1a1_upstairs_assistant_2ae79606:
+
+    # Y sad "O-oh..."
+    Y sad ""
+
+# game/script_day1_investigations.rpy:2014
+translate russian d1a1_upstairs_assistant_8b1a7cf2:
+
+    # O blink "So with all that in mind..."
+    O blink ""
+
+# game/script_day1_investigations.rpy:2015
+translate russian d1a1_upstairs_assistant_fd382a09:
+
+    # O default "Would you pull the lever and kill one person?{w=0.5} Or refrain from pulling it and let the train kill five people?{nw}"
+    O default ""
+
+# game/script_day1_investigations.rpy:2017
+translate russian d1a1_upstairs_assistant_11fdb519_2:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/script_day1_investigations.rpy:2019
 translate russian d1a1_upstairs_assistant_a9af3a20:
 
     # Y sad "...It's a horrible choice to make, but..."
     Y sad ""
 
-# game/script_day1_investigations.rpy:2022
+# game/script_day1_investigations.rpy:2021
 translate russian d1a1_upstairs_assistant_92f9b92f:
 
     # Y blink "It's better to save as many lives as possible, right? Then pulling the lever is the [t_clue]right thing to do[t_cluee]."
     Y blink ""
 
-# game/script_day1_investigations.rpy:2024
+# game/script_day1_investigations.rpy:2023
 translate russian d1a1_upstairs_assistant_fe462a6a:
 
     # O irritated "....."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2026
+# game/script_day1_investigations.rpy:2025
 translate russian d1a1_upstairs_assistant_5335fa54:
 
     # Y blink "...Even if more people will die..."
     Y blink ""
 
-# game/script_day1_investigations.rpy:2028
+# game/script_day1_investigations.rpy:2027
 translate russian d1a1_upstairs_assistant_a49a721c:
 
     # Y leering "I could never make a choice while knowing someone will die from it. I don't have the right to [t_clue]choose who lives or dies[t_cluee]."
     Y leering ""
 
-# game/script_day1_investigations.rpy:2030
+# game/script_day1_investigations.rpy:2029
 translate russian d1a1_upstairs_assistant_1b36819c:
 
     # O surprised "....." with shakeonce
     O surprised "" with shakeonce
 
-# game/script_day1_investigations.rpy:2032
+# game/script_day1_investigations.rpy:2031
 translate russian d1a1_upstairs_assistant_145a7860:
 
     # Y thinking "....."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2034
+# game/script_day1_investigations.rpy:2033
 translate russian d1a1_upstairs_assistant_c4a3ed7a:
 
     # Y "...I don't know. I can't decide."
     Y ""
 
-# game/script_day1_investigations.rpy:2036
+# game/script_day1_investigations.rpy:2035
 translate russian d1a1_upstairs_assistant_df5cea11:
 
     # O leering "This is a situation where you HAVE to decide, [name_player]."
     O leering ""
 
-# game/script_day1_investigations.rpy:2037
+# game/script_day1_investigations.rpy:2036
 translate russian d1a1_upstairs_assistant_22b9c405:
 
     # Y leering "Why would a situation like that ever happen? Who tied up those people and left them on a train track in the first place?"
     Y leering ""
 
-# game/script_day1_investigations.rpy:2038
+# game/script_day1_investigations.rpy:2037
 translate russian d1a1_upstairs_assistant_7906cc1a:
 
     # O confused "....."
     O confused ""
 
-# game/script_day1_investigations.rpy:2039
+# game/script_day1_investigations.rpy:2038
 translate russian d1a1_upstairs_assistant_abcb6c83:
 
     # O "...So what I'm hearing is..."
     O ""
 
-# game/script_day1_investigations.rpy:2040
+# game/script_day1_investigations.rpy:2039
 translate russian d1a1_upstairs_assistant_42437fe8:
 
     # O leering2 "You can't make a decision until you know more about the specific circumstances?"
     O leering2 ""
 
-# game/script_day1_investigations.rpy:2041
+# game/script_day1_investigations.rpy:2040
 translate russian d1a1_upstairs_assistant_c9534999:
 
     # Y blink "...I guess so, yeah."
     Y blink ""
 
-# game/script_day1_investigations.rpy:2042
+# game/script_day1_investigations.rpy:2041
 translate russian d1a1_upstairs_assistant_39a4bdc0:
 
     # O thinking "....."
     O thinking ""
 
-# game/script_day1_investigations.rpy:2043
+# game/script_day1_investigations.rpy:2042
 translate russian d1a1_upstairs_assistant_fc22d33d:
 
     # Y default "...So? What's the correct answer?"
     Y default ""
 
-# game/script_day1_investigations.rpy:2044
+# game/script_day1_investigations.rpy:2043
 translate russian d1a1_upstairs_assistant_9d7f3fe1:
 
     # O thinking "...There isn't one. It's a thought experiment, after all."
     O thinking ""
 
-# game/script_day1_investigations.rpy:2045
+# game/script_day1_investigations.rpy:2044
 translate russian d1a1_upstairs_assistant_6efbfea5:
 
     # Y thinking "Oh. ...Then what's {i}your{/i} answer to it?"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2046
+# game/script_day1_investigations.rpy:2045
 translate russian d1a1_upstairs_assistant_c486f326:
 
     # O blink ".....{w=1.0} ...I'll tell you later."
     O blink ""
 
-# game/script_day1_investigations.rpy:2047
+# game/script_day1_investigations.rpy:2046
 translate russian d1a1_upstairs_assistant_1f6adefd_1:
 
     # Y panicked "....."
     Y panicked ""
 
-# game/script_day1_investigations.rpy:2049
+# game/script_day1_investigations.rpy:2048
 translate russian d1a1_upstairs_assistant_87fb2a9b:
 
     # I "That's...not really fair..." with hpunch
     I "" with hpunch
 
-# game/script_day1_investigations.rpy:2053
+# game/script_day1_investigations.rpy:2052
 translate russian d1a1_upstairs_assistant_589206ba:
 
     # O thinking "We haven't taken a good look through all the rooms yet..."
     O thinking ""
 
-# game/script_day1_investigations.rpy:2055
+# game/script_day1_investigations.rpy:2054
 translate russian d1a1_upstairs_assistant_53bab40e:
 
     # O default "But the master bedroom certainly gave us a lot of food for thought."
     O default ""
 
-# game/script_day1_investigations.rpy:2056
+# game/script_day1_investigations.rpy:2055
 translate russian d1a1_upstairs_assistant_e83c98b9:
 
     # Y thinking "Hmm..."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2057
+# game/script_day1_investigations.rpy:2056
 translate russian d1a1_upstairs_assistant_e7507bea:
 
     # O "Is there something on your mind?"
     O ""
 
-# game/script_day1_investigations.rpy:2058
+# game/script_day1_investigations.rpy:2057
 translate russian d1a1_upstairs_assistant_bc7d6ca5:
 
     # Y "It's just... Considering how it's called a \"master bedroom\", you'd think it would have some more useful clues."
     Y ""
 
-# game/script_day1_investigations.rpy:2059
+# game/script_day1_investigations.rpy:2058
 translate russian d1a1_upstairs_assistant_c757fd34:
 
     # O thinking "Yes, all we could really learn is that there was [t_clue]one man[t_cluee] using it."
     O thinking ""
 
-# game/script_day1_investigations.rpy:2060
+# game/script_day1_investigations.rpy:2059
 translate russian d1a1_upstairs_assistant_142bbe9b:
 
     # Y worried "Didn't really give us a clue on how to FIND him either."
     Y worried ""
 
-# game/script_day1_investigations.rpy:2061
+# game/script_day1_investigations.rpy:2060
 translate russian d1a1_upstairs_assistant_280fb396:
 
     # O irritated "If only it did. I'm sure finding him would give us the answers to all of our questions."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2062
+# game/script_day1_investigations.rpy:2061
 translate russian d1a1_upstairs_assistant_223c6bea:
 
     # I "...But if he's the culprit, would he really just answer our questions without killing us first?"
     I ""
 
-# game/script_day1_investigations.rpy:2065
+# game/script_day1_investigations.rpy:2064
 translate russian d1a1_upstairs_assistant_f88623fa:
 
     # O default "I think there's still some clues left to be found in the [t_pacclue]master bedroom[t_paccluee]."
     O default ""
 
-# game/script_day1_investigations.rpy:2066
+# game/script_day1_investigations.rpy:2065
 translate russian d1a1_upstairs_assistant_0408c91e:
 
     # I "The master bedroom... I wonder who last used it...?"
     I ""
 
-# game/script_day1_investigations.rpy:2068
+# game/script_day1_investigations.rpy:2067
 translate russian d1a1_upstairs_assistant_e30f3584:
 
     # O default "You haven't seen the [t_clue]master bedroom[t_cluee] yet, have you?"
     O default ""
 
-# game/script_day1_investigations.rpy:2069
+# game/script_day1_investigations.rpy:2068
 translate russian d1a1_upstairs_assistant_e05bdc0e:
 
     # I "The master bedroom...? Huh, I guess it's behind one of the doors I haven't checked yet..."
     I ""
 
-# game/script_day1_investigations.rpy:2071
+# game/script_day1_investigations.rpy:2070
 translate russian d1a1_upstairs_assistant_2d9dc1d0:
 
     # O sideeye "...Really? We've barely started, and you're already stuck?"
     O sideeye ""
 
-# game/script_day1_investigations.rpy:2072
+# game/script_day1_investigations.rpy:2071
 translate russian d1a1_upstairs_assistant_009a2073:
 
     # Y sad "I-I mean... You've checked over most of this place already, right?"
     Y sad ""
 
-# game/script_day1_investigations.rpy:2073
+# game/script_day1_investigations.rpy:2072
 translate russian d1a1_upstairs_assistant_4a729072:
 
     # O sideeyeblink "...So what, you only want to check what I haven't already?"
     O sideeyeblink ""
 
-# game/script_day1_investigations.rpy:2074
+# game/script_day1_investigations.rpy:2073
 translate russian d1a1_upstairs_assistant_fc197b7e:
 
     # O annoyed2 "If that's the case, why did you come up here? I would've inspected every part of this floor regardless."
     O annoyed2 ""
 
-# game/script_day1_investigations.rpy:2076
+# game/script_day1_investigations.rpy:2075
 translate russian d1a1_upstairs_assistant_30b986c4:
 
     # I "...Okay, fair point, but like, does she have to be rude about it?" with shakeonce
     I "" with shakeonce
 
-# game/script_day1_investigations.rpy:2077
+# game/script_day1_investigations.rpy:2076
 translate russian d1a1_upstairs_assistant_7f300e28:
 
     # O blink "...There's a lot of rooms, so [t_clue]start with going through any doors[t_cluee] you see."
     O blink ""
 
-# game/script_day1_investigations.rpy:2078
+# game/script_day1_investigations.rpy:2077
 translate russian d1a1_upstairs_assistant_7dec46e7:
 
     # O sideeye "I'm sure {i}something{/i} will catch your interest if you just keep doing that."
     O sideeye ""
 
-# game/script_day1_investigations.rpy:2079
+# game/script_day1_investigations.rpy:2078
 translate russian d1a1_upstairs_assistant_4a7743f1:
 
     # I "Right... I guess I want to check every room here eventually. Let's not overcomplicate this..."
@@ -4338,37 +4350,37 @@ translate russian d1a1_upstairs_confirm_end_2d2c2292:
     # I "Maybe I can zone out a bit as I go through everything...?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2153
+# game/script_day1_investigations.rpy:2152
 translate russian d1a1_upstairs_confirm_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2158
+# game/script_day1_investigations.rpy:2157
 translate russian d1a1_upstairs_confirm_end_b247fda0:
 
     # I "...No, I'm sure Oriana won't let me slack off like that. Better focus..."
     I ""
 
-# game/script_day1_investigations.rpy:2162
+# game/script_day1_investigations.rpy:2161
 translate russian d1a1_upstairs_confirm_end_5d3b1345:
 
     # O "Hmm? Do you think we've checked everything important now, [name_player]?{nw}"
     O ""
 
-# game/script_day1_investigations.rpy:2164
+# game/script_day1_investigations.rpy:2163
 translate russian d1a1_upstairs_confirm_end_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2166
+# game/script_day1_investigations.rpy:2165
 translate russian d1a1_upstairs_confirm_end_946f40cf:
 
     # Y blink "Yeah... I think this is about all we're gonna find..."
     Y blink ""
 
-# game/script_day1_investigations.rpy:2170
+# game/script_day1_investigations.rpy:2169
 translate russian d1a1_upstairs_confirm_end_8a0cfadf:
 
     # Y default "...No, let's look around a bit more."
@@ -4506,43 +4518,43 @@ translate russian d1a1_check_second_room_89100736:
     # I "She's weirdly on edge...{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2252
+# game/script_day1_investigations.rpy:2251
 translate russian d1a1_check_second_room_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2254
+# game/script_day1_investigations.rpy:2253
 translate russian d1a1_check_second_room_74e27440:
 
     # Y default "Okay, I'll take a look around here."
     Y default ""
 
-# game/script_day1_investigations.rpy:2255
+# game/script_day1_investigations.rpy:2254
 translate russian d1a1_check_second_room_fe462a6a:
 
     # O irritated "....."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2256
+# game/script_day1_investigations.rpy:2255
 translate russian d1a1_check_second_room_3754abd6:
 
     # O "...Fine."
     O ""
 
-# game/script_day1_investigations.rpy:2257
+# game/script_day1_investigations.rpy:2256
 translate russian d1a1_check_second_room_c82d490b:
 
     # O annoyed2 "I'll be waiting outside."
     O annoyed2 ""
 
-# game/script_day1_investigations.rpy:2261
+# game/script_day1_investigations.rpy:2260
 translate russian d1a1_check_second_room_a00146ac:
 
     # I "....."
     I ""
 
-# game/script_day1_investigations.rpy:2262
+# game/script_day1_investigations.rpy:2261
 translate russian d1a1_check_second_room_7a918b6f:
 
     # I "I better make this quick..."
@@ -4650,55 +4662,55 @@ translate russian d1a1_check_third_room_e398f908:
     # O default "Do you think anyone was using this room?{nw}"
     O default ""
 
-# game/script_day1_investigations.rpy:2340
+# game/script_day1_investigations.rpy:2339
 translate russian d1a1_check_third_room_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2342
+# game/script_day1_investigations.rpy:2341
 translate russian d1a1_check_third_room_ccf96e7d:
 
     # Y thinking "I mean, there's a bed there, so I'm thinking someone was using this room purely for sleeping."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2343
+# game/script_day1_investigations.rpy:2342
 translate russian d1a1_check_third_room_a6c7f169:
 
     # O leering "On just this? Without any pillow or covers?"
     O leering ""
 
-# game/script_day1_investigations.rpy:2344
+# game/script_day1_investigations.rpy:2343
 translate russian d1a1_check_third_room_4b74b05d:
 
     # Y worried "Maybe...those got moved to another room?"
     Y worried ""
 
-# game/script_day1_investigations.rpy:2345
+# game/script_day1_investigations.rpy:2344
 translate russian d1a1_check_third_room_c0a5e68c:
 
     # O "...Are you just making guesses?"
     O ""
 
-# game/script_day1_investigations.rpy:2346
+# game/script_day1_investigations.rpy:2345
 translate russian d1a1_check_third_room_70af64bc:
 
     # Y leering "Well, what do {i}you{/i} think this room was for?"
     Y leering ""
 
-# game/script_day1_investigations.rpy:2347
+# game/script_day1_investigations.rpy:2346
 translate russian d1a1_check_third_room_4a5b7164:
 
     # O annoyed "....." with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day1_investigations.rpy:2348
+# game/script_day1_investigations.rpy:2347
 translate russian d1a1_check_third_room_4b75dbc3:
 
     # O irritated "...Forget it. Let's just move on."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2349
+# game/script_day1_investigations.rpy:2348
 translate russian d1a1_check_third_room_ff6ff1c3:
 
     # I "...What is her problem?" with shakeonce
@@ -4884,31 +4896,31 @@ translate russian d1a1_check_masterbedroom_7b62c034:
     # I "I don't think there's anything worthwhile left to find, but should I check out the [t_pacclue]master bedroom[t_paccluee] again?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2449
+# game/script_day1_investigations.rpy:2448
 translate russian d1a1_check_masterbedroom_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2451
+# game/script_day1_investigations.rpy:2450
 translate russian d1a1_check_masterbedroom_ed434e48:
 
     # Y default "Let's go to the master bedroom again."
     Y default ""
 
-# game/script_day1_investigations.rpy:2454
+# game/script_day1_investigations.rpy:2453
 translate russian d1a1_check_masterbedroom_560dc3ed:
 
     # O "Is there something you wanted to double-check?"
     O ""
 
-# game/script_day1_investigations.rpy:2455
+# game/script_day1_investigations.rpy:2454
 translate russian d1a1_check_masterbedroom_6772f3dd:
 
     # Y blink "Something like that, yeah."
     Y blink ""
 
-# game/script_day1_investigations.rpy:2464
+# game/script_day1_investigations.rpy:2463
 translate russian d1a1_check_masterbedroom_ebb97e63:
 
     # I "On second thought, maybe it's not worth the trip..."
@@ -4950,43 +4962,43 @@ translate russian d1a1_check_hallwaywindow_d0543113:
     # O default "We heard the 6 o'clock bell earlier, if you recall. But do you think it's morning or evening right now?{nw}"
     O default ""
 
-# game/script_day1_investigations.rpy:2485
+# game/script_day1_investigations.rpy:2484
 translate russian d1a1_check_hallwaywindow_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2487
+# game/script_day1_investigations.rpy:2486
 translate russian d1a1_check_hallwaywindow_f01ac541:
 
     # Y thinking "The fog looks kinda bright, so...maybe it's dawn right now?"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2488
+# game/script_day1_investigations.rpy:2487
 translate russian d1a1_check_hallwaywindow_5d19ccfb:
 
     # O disappointed "....."
     O disappointed ""
 
-# game/script_day1_investigations.rpy:2489
+# game/script_day1_investigations.rpy:2488
 translate russian d1a1_check_hallwaywindow_96f773e6:
 
     # I "What's with that look? Am I wrong?" with shakeonce
     I "" with shakeonce
 
-# game/script_day1_investigations.rpy:2491
+# game/script_day1_investigations.rpy:2490
 translate russian d1a1_check_hallwaywindow_618e2691:
 
     # Y surprised "Considering how dark it is in here, I thought for sure it's evening right now..."
     Y surprised ""
 
-# game/script_day1_investigations.rpy:2492
+# game/script_day1_investigations.rpy:2491
 translate russian d1a1_check_hallwaywindow_8f2b0752:
 
     # O thinking "Well..."
     O thinking ""
 
-# game/script_day1_investigations.rpy:2493
+# game/script_day1_investigations.rpy:2492
 translate russian d1a1_check_hallwaywindow_20d5da93:
 
     # Y thinking "Actually, why do you ask?"
@@ -5088,91 +5100,91 @@ translate russian d1a1_check_hallwaywindow_f427c707:
     # I "I guess she hasn't really lied about anything, but...{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2525
+# game/script_day1_investigations.rpy:2524
 translate russian d1a1_check_hallwaywindow_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2527
+# game/script_day1_investigations.rpy:2526
 translate russian d1a1_check_hallwaywindow_81f10e98:
 
     # Y blink "...All right. Let me know if you remember anything else."
     Y blink ""
 
-# game/script_day1_investigations.rpy:2528
+# game/script_day1_investigations.rpy:2527
 translate russian d1a1_check_hallwaywindow_8eaf19b8:
 
     # O blink "....."
     O blink ""
 
-# game/script_day1_investigations.rpy:2529
+# game/script_day1_investigations.rpy:2528
 translate russian d1a1_check_hallwaywindow_a2232239:
 
     # O default "...Thank you, [name_player]."
     O default ""
 
-# game/script_day1_investigations.rpy:2530
+# game/script_day1_investigations.rpy:2529
 translate russian d1a1_check_hallwaywindow_a00146ac_1:
 
     # I "....."
     I ""
 
-# game/script_day1_investigations.rpy:2532
+# game/script_day1_investigations.rpy:2531
 translate russian d1a1_check_hallwaywindow_c357ae44:
 
     # Y leering "Is that really all you remember? No other details?"
     Y leering ""
 
-# game/script_day1_investigations.rpy:2534
+# game/script_day1_investigations.rpy:2533
 translate russian d1a1_check_hallwaywindow_aeb34cde:
 
     # Y "...You're not...hiding anything from me, right?"
     Y ""
 
-# game/script_day1_investigations.rpy:2536
+# game/script_day1_investigations.rpy:2535
 translate russian d1a1_check_hallwaywindow_d26fe936:
 
     # O panicked "I-I..."
     O panicked ""
 
-# game/script_day1_investigations.rpy:2537
+# game/script_day1_investigations.rpy:2536
 translate russian d1a1_check_hallwaywindow_5d8126af:
 
     # O leering "...N-no, look, that's all I remember, okay?" with shakeonce
     O leering "" with shakeonce
 
-# game/script_day1_investigations.rpy:2538
+# game/script_day1_investigations.rpy:2537
 translate russian d1a1_check_hallwaywindow_b66c07fe:
 
     # O irritated "Besides, does it really matter HOW we ended up here?"
     O irritated ""
 
-# game/script_day1_investigations.rpy:2539
+# game/script_day1_investigations.rpy:2538
 translate russian d1a1_check_hallwaywindow_e7de72be:
 
     # O "Either way, we're dealing with a criminal toying with our lives!"
     O ""
 
-# game/script_day1_investigations.rpy:2540
+# game/script_day1_investigations.rpy:2539
 translate russian d1a1_check_hallwaywindow_a084a2a2:
 
     # O shouting "This is no time to be doubting each other!" with shakeonce
     O shouting "" with shakeonce
 
-# game/script_day1_investigations.rpy:2541
+# game/script_day1_investigations.rpy:2540
 translate russian d1a1_check_hallwaywindow_b8f44e22:
 
     # I "...You're one to talk..."
     I ""
 
-# game/script_day1_investigations.rpy:2543
+# game/script_day1_investigations.rpy:2542
 translate russian d1a1_check_hallwaywindow_949f51f8:
 
     # I "She's definitely [t_clue]hiding something[t_cluee] from me. But what...?" with hpunch
     I "" with hpunch
 
-# game/script_day1_investigations.rpy:2544
+# game/script_day1_investigations.rpy:2543
 translate russian d1a1_check_hallwaywindow_fe462a6a:
 
     # O irritated "....."
@@ -5316,109 +5328,109 @@ translate russian d1a1_check_hallwaypaintingsright_fee03b8f:
     # I "There's a bunch of [t_pacclue]paintings[t_paccluee] along this wall. Which one should I take a closer look at?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2609
+# game/script_day1_investigations.rpy:2608
 translate russian d1a1_check_hallwaypaintingsright_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2611
+# game/script_day1_investigations.rpy:2610
 translate russian d1a1_check_hallwaypaintingsright_89959423:
 
     # I "Hmm... It's not composed of a ton of paint strokes, but that gives it a calming sleekness."
     I ""
 
-# game/script_day1_investigations.rpy:2612
+# game/script_day1_investigations.rpy:2611
 translate russian d1a1_check_hallwaypaintingsright_2472b97c:
 
     # I "The rest of the canvas being bare conveys a feeling of pure, untainted potential."
     I ""
 
-# game/script_day1_investigations.rpy:2614
+# game/script_day1_investigations.rpy:2613
 translate russian d1a1_check_hallwaypaintingsright_b5040b52:
 
     # O "...Did you notice anything, [name_player]?"
     O ""
 
-# game/script_day1_investigations.rpy:2616
+# game/script_day1_investigations.rpy:2615
 translate russian d1a1_check_hallwaypaintingsright_6ec0cfc8:
 
     # Y relaxed "Yeah, just thinking about how I totally get art."
     Y relaxed ""
 
-# game/script_day1_investigations.rpy:2617
+# game/script_day1_investigations.rpy:2616
 translate russian d1a1_check_hallwaypaintingsright_becdd4ba:
 
     # O irritated "...I meant did you notice anything that would be useful to our situation."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2618
+# game/script_day1_investigations.rpy:2617
 translate russian d1a1_check_hallwaypaintingsright_55ace44f:
 
     # Y "....."
     Y ""
 
-# game/script_day1_investigations.rpy:2619
+# game/script_day1_investigations.rpy:2618
 translate russian d1a1_check_hallwaypaintingsright_1e7d9e04:
 
     # Y worried2 "No, I'm sorry."
     Y worried2 ""
 
-# game/script_day1_investigations.rpy:2620
+# game/script_day1_investigations.rpy:2619
 translate russian d1a1_check_hallwaypaintingsright_5d19ccfb:
 
     # O disappointed "....."
     O disappointed ""
 
-# game/script_day1_investigations.rpy:2622
+# game/script_day1_investigations.rpy:2621
 translate russian d1a1_check_hallwaypaintingsright_c698a18d:
 
     # I "Please stop giving me that look..." with hpunch
     I "" with hpunch
 
-# game/script_day1_investigations.rpy:2624
+# game/script_day1_investigations.rpy:2623
 translate russian d1a1_check_hallwaypaintingsright_86f051ba:
 
     # Y surprised "That's...a crane, right?"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:2627
+# game/script_day1_investigations.rpy:2626
 translate russian d1a1_check_hallwaypaintingsright_42d4892e:
 
     # O blink "That's right. Cranes can be found in all parts of the world, so they've been given all kinds of symbolic meanings."
     O blink ""
 
-# game/script_day1_investigations.rpy:2628
+# game/script_day1_investigations.rpy:2627
 translate russian d1a1_check_hallwaypaintingsright_59d4e8f3:
 
     # O default "Longevity, fortune, tranquility, and immortality, to name a few."
     O default ""
 
-# game/script_day1_investigations.rpy:2629
+# game/script_day1_investigations.rpy:2628
 translate russian d1a1_check_hallwaypaintingsright_c739fffa:
 
     # Y thinking "...Immortality, huh...?"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2630
+# game/script_day1_investigations.rpy:2629
 translate russian d1a1_check_hallwaypaintingsright_f566c453:
 
     # Y surprised "Huh, so you've an interest in birds, Oriana?"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:2631
+# game/script_day1_investigations.rpy:2630
 translate russian d1a1_check_hallwaypaintingsright_0da3f551:
 
     # O "....."
     O ""
 
-# game/script_day1_investigations.rpy:2632
+# game/script_day1_investigations.rpy:2631
 translate russian d1a1_check_hallwaypaintingsright_9334b44e:
 
     # O blink "...No. I just happened to learn that somewhere."
     O blink ""
 
-# game/script_day1_investigations.rpy:2633
+# game/script_day1_investigations.rpy:2632
 translate russian d1a1_check_hallwaypaintingsright_b2b30abf:
 
     # O sideeye "There doesn't seem to be more to these paintings. Let's move on, [name_player]."
@@ -5700,127 +5712,127 @@ translate russian d1a1_check_wardrobe_8f5d3b9e:
     # O "...It's not completely out of the question.{nw}"
     O ""
 
-# game/script_day1_investigations.rpy:2800
+# game/script_day1_investigations.rpy:2799
 translate russian d1a1_check_wardrobe_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2802
+# game/script_day1_investigations.rpy:2801
 translate russian d1a1_check_wardrobe_4d2f6ab5:
 
     # Y sad "...I suppose it wouldn't be the strangest thing."
     Y sad ""
 
-# game/script_day1_investigations.rpy:2804
+# game/script_day1_investigations.rpy:2803
 translate russian d1a1_check_wardrobe_6c0c2baf:
 
     # Y default "But considering the three of us were kidnapped and brought here, I doubt a little girl could've done that alone."
     Y default ""
 
-# game/script_day1_investigations.rpy:2807
+# game/script_day1_investigations.rpy:2806
 translate russian d1a1_check_wardrobe_280ca3b8:
 
     # O surprised "...You think there might have been an [t_clue]accomplice[t_cluee]?"
     O surprised ""
 
-# game/script_day1_investigations.rpy:2808
+# game/script_day1_investigations.rpy:2807
 translate russian d1a1_check_wardrobe_bc6cd6e8:
 
     # Y thinking "...Yeah, if there's more than one person involved, a lot of this makes sense."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2810
+# game/script_day1_investigations.rpy:2809
 translate russian d1a1_check_wardrobe_5a67f879:
 
     # Y leering "Why was this ordinary house turned into the setting of some crazy escape game with our lives on the line?"
     Y leering ""
 
-# game/script_day1_investigations.rpy:2812
+# game/script_day1_investigations.rpy:2811
 translate russian d1a1_check_wardrobe_0da3f551:
 
     # O "....."
     O ""
 
-# game/script_day1_investigations.rpy:2813
+# game/script_day1_investigations.rpy:2812
 translate russian d1a1_check_wardrobe_d1644438:
 
     # Y surprised "...Huh? What's wrong?"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:2814
+# game/script_day1_investigations.rpy:2813
 translate russian d1a1_check_wardrobe_7a16998f:
 
     # O thinking "N-nothing. It's just..."
     O thinking ""
 
-# game/script_day1_investigations.rpy:2815
+# game/script_day1_investigations.rpy:2814
 translate russian d1a1_check_wardrobe_268e2bd8:
 
     # O confident "I'm glad you're thinking hard about this, [name_player]."
     O confident ""
 
-# game/script_day1_investigations.rpy:2816
+# game/script_day1_investigations.rpy:2815
 translate russian d1a1_check_wardrobe_20a2b6da:
 
     # I "...Should... Should I be happy to hear that?"
     I ""
 
-# game/script_day1_investigations.rpy:2818
+# game/script_day1_investigations.rpy:2817
 translate russian d1a1_check_wardrobe_b9311497:
 
     # Y thinking "No, come on, that can't be it."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2820
+# game/script_day1_investigations.rpy:2819
 translate russian d1a1_check_wardrobe_0146903d:
 
     # Y "How could a little girl even imagine a twisted situation like this?"
     Y ""
 
-# game/script_day1_investigations.rpy:2822
+# game/script_day1_investigations.rpy:2821
 translate russian d1a1_check_wardrobe_7f6dabb2:
 
     # O leering "...Are you really that narrow-minded?"
     O leering ""
 
-# game/script_day1_investigations.rpy:2823
+# game/script_day1_investigations.rpy:2822
 translate russian d1a1_check_wardrobe_b0410c08:
 
     # Y panicked "Wha-- No, my mind is NORMAL!" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day1_investigations.rpy:2825
+# game/script_day1_investigations.rpy:2824
 translate russian d1a1_check_wardrobe_7a17dc66:
 
     # Y angry "We JUST found evidence that a man was living here, and your first idea is that a little girl must be our kidnapper?!" with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day1_investigations.rpy:2827
+# game/script_day1_investigations.rpy:2826
 translate russian d1a1_check_wardrobe_f05f6303:
 
     # O annoyed "...Tsk." with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day1_investigations.rpy:2828
+# game/script_day1_investigations.rpy:2827
 translate russian d1a1_check_wardrobe_3a1ec54a:
 
     # O leering2 "Forget about it. Start looking somewhere else."
     O leering2 ""
 
-# game/script_day1_investigations.rpy:2829
+# game/script_day1_investigations.rpy:2828
 translate russian d1a1_check_wardrobe_2616de81:
 
     # I "What the hell..."
     I ""
 
-# game/script_day1_investigations.rpy:2834
+# game/script_day1_investigations.rpy:2833
 translate russian d1a1_check_wardrobe_25eb0209:
 
     # I "The [t_pacclue]wardrobe[t_paccluee] is filled with men's clothes..."
     I ""
 
-# game/script_day1_investigations.rpy:2835
+# game/script_day1_investigations.rpy:2834
 translate russian d1a1_check_wardrobe_a16f8522:
 
     # I "Probably won't be of any use to us..."
@@ -5838,157 +5850,157 @@ translate russian d1a1_check_bed_a620e414:
     # I "{cps=6}.......{/cps}{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:2849
+# game/script_day1_investigations.rpy:2848
 translate russian d1a1_check_bed_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:2853
+# game/script_day1_investigations.rpy:2852
 translate russian d1a1_check_bed_3457e2ba:
 
     # I "Woop!"
     I ""
 
-# game/script_day1_investigations.rpy:2856
+# game/script_day1_investigations.rpy:2855
 translate russian d1a1_check_bed_407b196b:
 
     # I "*bounce*" with vpunch
     I "" with vpunch
 
-# game/script_day1_investigations.rpy:2857
+# game/script_day1_investigations.rpy:2856
 translate russian d1a1_check_bed_77dc9aea:
 
     # Y worried "*cough* Okay-- *cough* That...might have been a mistake." with shakeshort
     Y worried "" with shakeshort
 
-# game/script_day1_investigations.rpy:2863
+# game/script_day1_investigations.rpy:2862
 translate russian d1a1_check_bed_d3fd35fa:
 
     # O "Are you a child?! Can't you see all the dust on that bed?!" with shakeshort
     O "" with shakeshort
 
-# game/script_day1_investigations.rpy:2865
+# game/script_day1_investigations.rpy:2864
 translate russian d1a1_check_bed_7f09472b:
 
     # Y sad "Sorry, I, uh...couldn't help it."
     Y sad ""
 
-# game/script_day1_investigations.rpy:2866
+# game/script_day1_investigations.rpy:2865
 translate russian d1a1_check_bed_e74d22c7:
 
     # O irritated "Ugh... I can't believe you can have impulses like that even with our situation being what it is..."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2867
+# game/script_day1_investigations.rpy:2866
 translate russian d1a1_check_bed_b94f2ea4:
 
     # I "Hmm... If I can just air out these sheets, this bed would be perfect."
     I ""
 
-# game/script_day1_investigations.rpy:2868
+# game/script_day1_investigations.rpy:2867
 translate russian d1a1_check_bed_8c2e5d3c:
 
     # I "...But wait, if the windows don't open, how do I air it out?"
     I ""
 
-# game/script_day1_investigations.rpy:2869
+# game/script_day1_investigations.rpy:2868
 translate russian d1a1_check_bed_2076bb55:
 
     # O disappointed "...You're not listening to me, are you?"
     O disappointed ""
 
-# game/script_day1_investigations.rpy:2870
+# game/script_day1_investigations.rpy:2869
 translate russian d1a1_check_bed_db38b079:
 
     # Y thinking "{cps=6}.......{/cps}{nw}"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2873
+# game/script_day1_investigations.rpy:2872
 translate russian d1a1_check_bed_0b9951b5:
 
     # extend surprised " ...Sorry, what?"
     extend surprised ""
 
-# game/script_day1_investigations.rpy:2875
+# game/script_day1_investigations.rpy:2874
 translate russian d1a1_check_bed_933f04e8:
 
     # O annoyed "...Never mind." with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day1_investigations.rpy:2876
+# game/script_day1_investigations.rpy:2875
 translate russian d1a1_check_bed_baece916:
 
     # O irritated "Now come on, get up. We'll talk about the beds later tonight."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2877
+# game/script_day1_investigations.rpy:2876
 translate russian d1a1_check_bed_df26feea:
 
     # O leering2 "...And [t_clue]don't jump on this bed again[t_cluee]."
     O leering2 ""
 
-# game/script_day1_investigations.rpy:2884
+# game/script_day1_investigations.rpy:2883
 translate russian d1a1_check_bed_368c4400:
 
     # O "...A mistake you already made earlier. What did I say about jumping on the bed?"
     O ""
 
-# game/script_day1_investigations.rpy:2885
+# game/script_day1_investigations.rpy:2884
 translate russian d1a1_check_bed_92892a4d:
 
     # Y surprised "Uh... Do it?"
     Y surprised ""
 
-# game/script_day1_investigations.rpy:2887
+# game/script_day1_investigations.rpy:2886
 translate russian d1a1_check_bed_af27b58a:
 
     # O angry "DON'T DO IT." with shakeshort
     O angry "" with shakeshort
 
-# game/script_day1_investigations.rpy:2888
+# game/script_day1_investigations.rpy:2887
 translate russian d1a1_check_bed_4ffae6c4:
 
     # O irritated "Ugh... How did I end up with babysitting duty...?"
     O irritated ""
 
-# game/script_day1_investigations.rpy:2889
+# game/script_day1_investigations.rpy:2888
 translate russian d1a1_check_bed_cd0a0fe4:
 
     # Y thinking "Huh, you know, this bed is already plenty comfortable, even with all the dust."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:2892
+# game/script_day1_investigations.rpy:2891
 translate russian d1a1_check_bed_4c96971f:
 
     # Y relaxed "In fact... {cps=12}I'm already... {size=-10}Falling... .....{/size}{/cps}"
     Y relaxed ""
 
-# game/script_day1_investigations.rpy:2914
+# game/script_day1_investigations.rpy:2913
 translate russian d1a1_check_bed_3a7555d0:
 
     # O "DON'T JUST FALL ASLEEP!" with shakeshort
     O "" with shakeshort
 
-# game/script_day1_investigations.rpy:2916
+# game/script_day1_investigations.rpy:2915
 translate russian d1a1_check_bed_ed6ff92d:
 
     # I "Agh, so close..." with hpunch
     I "" with hpunch
 
-# game/script_day1_investigations.rpy:2917
+# game/script_day1_investigations.rpy:2916
 translate russian d1a1_check_bed_7d89b9e2:
 
     # O irritated "You're not going to accomplish anything by sleeping, [name_player]."
     O irritated ""
 
-# game/script_day1_investigations.rpy:2918
+# game/script_day1_investigations.rpy:2917
 translate russian d1a1_check_bed_52172a45:
 
     # O leering2 "Come on, keep moving."
     O leering2 ""
 
-# game/script_day1_investigations.rpy:2919
+# game/script_day1_investigations.rpy:2918
 translate russian d1a1_check_bed_78e7f513:
 
     # Y worried2 "Mrgh..."
@@ -6222,91 +6234,91 @@ translate russian d1a1_check_masterbathroom_ea1cee29:
     # O blink "If this was truly an ordinary house before it turned into a cage for us, it's... What's the word...?{nw}"
     O blink ""
 
-# game/script_day1_investigations.rpy:3045
+# game/script_day1_investigations.rpy:3044
 translate russian d1a1_check_masterbathroom_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:3047
+# game/script_day1_investigations.rpy:3046
 translate russian d1a1_check_masterbathroom_76a1addb:
 
     # Y default "Minimalistic?"
     Y default ""
 
-# game/script_day1_investigations.rpy:3048
+# game/script_day1_investigations.rpy:3047
 translate russian d1a1_check_masterbathroom_b37f461d:
 
     # O confused "Something like that, yes."
     O confused ""
 
-# game/script_day1_investigations.rpy:3049
+# game/script_day1_investigations.rpy:3048
 translate russian d1a1_check_masterbathroom_36d1bcc9:
 
     # O "It's like whoever was living here was doing the bare minimum to get by."
     O ""
 
-# game/script_day1_investigations.rpy:3050
+# game/script_day1_investigations.rpy:3049
 translate russian d1a1_check_masterbathroom_d69129f2:
 
     # O thinking "They were keeping themselves tidy and hygienic, sure. But, like...they were also avoiding...making memories?"
     O thinking ""
 
-# game/script_day1_investigations.rpy:3051
+# game/script_day1_investigations.rpy:3050
 translate russian d1a1_check_masterbathroom_4e1413e9:
 
     # Y thinking "Memories?"
     Y thinking ""
 
-# game/script_day1_investigations.rpy:3052
+# game/script_day1_investigations.rpy:3051
 translate russian d1a1_check_masterbathroom_b4fe8c78:
 
     # O surprised "No, maybe it's more like they wanted to preserve the original memories of this place..."
     O surprised ""
 
-# game/script_day1_investigations.rpy:3053
+# game/script_day1_investigations.rpy:3052
 translate russian d1a1_check_masterbathroom_21d24b13:
 
     # Y worried "...What?"
     Y worried ""
 
-# game/script_day1_investigations.rpy:3055
+# game/script_day1_investigations.rpy:3054
 translate russian d1a1_check_masterbathroom_27f2bd08:
 
     # Y default "Unnatural?"
     Y default ""
 
-# game/script_day1_investigations.rpy:3056
+# game/script_day1_investigations.rpy:3055
 translate russian d1a1_check_masterbathroom_90ca0c54:
 
     # O confused "I suppose?"
     O confused ""
 
-# game/script_day1_investigations.rpy:3057
+# game/script_day1_investigations.rpy:3056
 translate russian d1a1_check_masterbathroom_ef54d631:
 
     # O blink "It's certainly odd that things are both tidy and dusty..."
     O blink ""
 
-# game/script_day1_investigations.rpy:3058
+# game/script_day1_investigations.rpy:3057
 translate russian d1a1_check_masterbathroom_d7c7bb20:
 
     # O default "But this is most certainly a real home. Or at least...it used to be."
     O default ""
 
-# game/script_day1_investigations.rpy:3059
+# game/script_day1_investigations.rpy:3058
 translate russian d1a1_check_masterbathroom_145a7860_1:
 
     # Y thinking "....."
     Y thinking ""
 
-# game/script_day1_investigations.rpy:3060
+# game/script_day1_investigations.rpy:3059
 translate russian d1a1_check_masterbathroom_1cdc6aba:
 
     # O embarrassed "S-sorry. I normally have my thoughts more sorted out than this..."
     O embarrassed ""
 
-# game/script_day1_investigations.rpy:3061
+# game/script_day1_investigations.rpy:3060
 translate russian d1a1_check_masterbathroom_e3d52cdf:
 
     # O sideeye "Let's just keep looking around."
@@ -7014,55 +7026,55 @@ translate russian d1a1_check_redpanda_902c80a5:
     # I "...Uhh... Hold on, what is this called again...?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:3473
+# game/script_day1_investigations.rpy:3472
 translate russian d1a1_check_redpanda_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:3475
+# game/script_day1_investigations.rpy:3474
 translate russian d1a1_check_redpanda_92769d38:
 
     # I "Right, this is a [t_pacclue]raccoon[t_paccluee]!" with vpunch
     I "" with vpunch
 
-# game/script_day1_investigations.rpy:3476
+# game/script_day1_investigations.rpy:3475
 translate russian d1a1_check_redpanda_b20ebd72:
 
     # I "Aren't these considered pests, though? Weird choice to make into a doll."
     I ""
 
-# game/script_day1_investigations.rpy:3478
+# game/script_day1_investigations.rpy:3477
 translate russian d1a1_check_redpanda_f0f49129:
 
     # I "Oh right, this is a [t_pacclue]tanuki[t_paccluee]!" with vpunch
     I "" with vpunch
 
-# game/script_day1_investigations.rpy:3479
+# game/script_day1_investigations.rpy:3478
 translate russian d1a1_check_redpanda_8a35ea1b:
 
     # I "I guess it makes sense to have a tanuki as a doll. I think they have magical powers...?"
     I ""
 
-# game/script_day1_investigations.rpy:3482
+# game/script_day1_investigations.rpy:3481
 translate russian d1a1_check_redpanda_b37ac6a4:
 
     # I "...Wait.{w=0.5} OH.{w=0.5}{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:3484
+# game/script_day1_investigations.rpy:3483
 translate russian d1a1_check_redpanda_6b54e547:
 
     # extend " Right, this is a [t_pacclue]red panda[t_paccluee]!" with vpunch
     extend "" with vpunch
 
-# game/script_day1_investigations.rpy:3485
+# game/script_day1_investigations.rpy:3484
 translate russian d1a1_check_redpanda_143260bb:
 
     # I "Can't believe it slipped my mind. Glad it... Er..."
     I ""
 
-# game/script_day1_investigations.rpy:3487
+# game/script_day1_investigations.rpy:3486
 translate russian d1a1_check_redpanda_0c3def30:
 
     # I "...Actually, how DID I suddenly remember its name?" with hpunch
@@ -7272,49 +7284,49 @@ translate russian d1a1_bedroom_confirm_return_2b26362b:
     # I "Have I checked this room out enough yet...?{nw}"
     I ""
 
-# game/script_day1_investigations.rpy:3639
+# game/script_day1_investigations.rpy:3638
 translate russian d1a1_bedroom_confirm_return_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1_investigations.rpy:3641
+# game/script_day1_investigations.rpy:3640
 translate russian d1a1_bedroom_confirm_return_ecbfd94e:
 
     # I "...Yeah, that's enough. I shouldn't keep Oriana waiting any longer."
     I ""
 
-# game/script_day1_investigations.rpy:3650
+# game/script_day1_investigations.rpy:3649
 translate russian d1a1_bedroom_confirm_return_0da3f551:
 
     # O "....."
     O ""
 
-# game/script_day1_investigations.rpy:3651
+# game/script_day1_investigations.rpy:3650
 translate russian d1a1_bedroom_confirm_return_c827a1cc:
 
     # O sideeye "Well? Find anything?"
     O sideeye ""
 
-# game/script_day1_investigations.rpy:3652
+# game/script_day1_investigations.rpy:3651
 translate russian d1a1_bedroom_confirm_return_561a2a48:
 
     # Y sad "...No."
     Y sad ""
 
-# game/script_day1_investigations.rpy:3653
+# game/script_day1_investigations.rpy:3652
 translate russian d1a1_bedroom_confirm_return_ec16b81b:
 
     # O sideeyeblink "...Hmph."
     O sideeyeblink ""
 
-# game/script_day1_investigations.rpy:3654
+# game/script_day1_investigations.rpy:3653
 translate russian d1a1_bedroom_confirm_return_7f267f67:
 
     # I "Yeah yeah, act smug if you want. I still think it was worth seeing for myself."
     I ""
 
-# game/script_day1_investigations.rpy:3660
+# game/script_day1_investigations.rpy:3659
 translate russian d1a1_bedroom_confirm_return_cbd9605d:
 
     # I "No, let's look around a bit more."
@@ -7414,19 +7426,19 @@ translate russian strings:
     old "\"Any ideas?\""
     new ""
 
-    # game/script_day1_investigations.rpy:116
+    # game/script_day1_investigations.rpy:115
     old "A different sharp instrument"
     new ""
 
-    # game/script_day1_investigations.rpy:119
+    # game/script_day1_investigations.rpy:118
     old "A blunt instrument"
     new ""
 
-    # game/script_day1_investigations.rpy:122
+    # game/script_day1_investigations.rpy:121
     old "My bare hands"
     new ""
 
-    # game/script_day1_investigations.rpy:125
+    # game/script_day1_investigations.rpy:124
     old "Nothing"
     new ""
 
@@ -7446,63 +7458,63 @@ translate russian strings:
     old "\"Never mind...\""
     new ""
 
-    # game/script_day1_investigations.rpy:219
+    # game/script_day1_investigations.rpy:218
     old "Skip this investigation"
     new ""
 
-    # game/script_day1_investigations.rpy:230
+    # game/script_day1_investigations.rpy:229
     old "End your investigation"
     new ""
 
-    # game/script_day1_investigations.rpy:290
+    # game/script_day1_investigations.rpy:289
     old "\"Yeah, I feel you.\""
     new ""
 
-    # game/script_day1_investigations.rpy:295
+    # game/script_day1_investigations.rpy:294
     old "\"No.\""
     new ""
 
-    # game/script_day1_investigations.rpy:905
+    # game/script_day1_investigations.rpy:904
     old "Cats"
     new ""
 
-    # game/script_day1_investigations.rpy:913
+    # game/script_day1_investigations.rpy:912
     old "Dogs"
     new ""
 
-    # game/script_day1_investigations.rpy:921
+    # game/script_day1_investigations.rpy:920
     old "Neither"
     new ""
 
-    # game/script_day1_investigations.rpy:956
+    # game/script_day1_investigations.rpy:955
     old "\"Yeah, I hate dogs.\""
     new ""
 
-    # game/script_day1_investigations.rpy:963
+    # game/script_day1_investigations.rpy:962
     old "\"No, dogs are fine.\""
     new ""
 
-    # game/script_day1_investigations.rpy:976
+    # game/script_day1_investigations.rpy:975
     old "\"Yeah, I hate cats.\""
     new ""
 
-    # game/script_day1_investigations.rpy:991
+    # game/script_day1_investigations.rpy:990
     old "\"No, cats are fine.\""
     new ""
 
-    # game/script_day1_investigations.rpy:1026
+    # game/script_day1_investigations.rpy:1025
     old "\"Yeah, you're right...\""
     new ""
 
-    # game/script_day1_investigations.rpy:1029
+    # game/script_day1_investigations.rpy:1028
     old "\"But isn't that strange?\""
     new ""
 
-    # game/script_day1_investigations.rpy:1249
+    # game/script_day1_investigations.rpy:1248
     old "Return to the [t_clue]Kitchen[t_cluee]"
     new ""
 
-    # game/script_day1_investigations.rpy:1266
+    # game/script_day1_investigations.rpy:1265
     old "Stay here"
     new ""
 
@@ -7550,39 +7562,39 @@ translate russian strings:
     old "Bath Mat"
     new ""
 
-    # game/script_day1_investigations.rpy:1493
+    # game/script_day1_investigations.rpy:1492
     old "Use the toilet"
     new ""
 
-    # game/script_day1_investigations.rpy:1499
+    # game/script_day1_investigations.rpy:1498
     old "Don't use the toilet"
     new ""
 
-    # game/script_day1_investigations.rpy:1540
+    # game/script_day1_investigations.rpy:1539
     old "Try breaking it"
     new ""
 
-    # game/script_day1_investigations.rpy:1564
+    # game/script_day1_investigations.rpy:1563
     old "Leave it be"
     new ""
 
-    # game/script_day1_investigations.rpy:1602
+    # game/script_day1_investigations.rpy:1601
     old "Just leave it be"
     new ""
 
-    # game/script_day1_investigations.rpy:1635
+    # game/script_day1_investigations.rpy:1634
     old "Test your luck"
     new ""
 
-    # game/script_day1_investigations.rpy:1638
+    # game/script_day1_investigations.rpy:1637
     old "Never mind"
     new ""
 
-    # game/script_day1_investigations.rpy:1828
+    # game/script_day1_investigations.rpy:1827
     old "Wash your hands"
     new ""
 
-    # game/script_day1_investigations.rpy:1837
+    # game/script_day1_investigations.rpy:1836
     old "Don't wash your hands"
     new ""
 
@@ -7658,23 +7670,23 @@ translate russian strings:
     old "Rug"
     new ""
 
-    # game/script_day1_investigations.rpy:2001
+    # game/script_day1_investigations.rpy:2000
     old "\"I know it.\""
     new ""
 
-    # game/script_day1_investigations.rpy:2004
+    # game/script_day1_investigations.rpy:2003
     old "\"Never heard of it.\""
     new ""
 
-    # game/script_day1_investigations.rpy:2019
+    # game/script_day1_investigations.rpy:2018
     old "Pull the lever"
     new ""
 
-    # game/script_day1_investigations.rpy:2025
+    # game/script_day1_investigations.rpy:2024
     old "Don't pull the lever"
     new ""
 
-    # game/script_day1_investigations.rpy:2031
+    # game/script_day1_investigations.rpy:2030
     old "\"I don't have an answer.\""
     new ""
 
@@ -7690,7 +7702,7 @@ translate russian strings:
     old "2F - The Bedroom"
     new ""
 
-    # game/script_day1_investigations.rpy:2253
+    # game/script_day1_investigations.rpy:2252
     old "Investigate here"
     new ""
 
@@ -7702,7 +7714,7 @@ translate russian strings:
     old "2F - The Empty Bedroom"
     new ""
 
-    # game/script_day1_investigations.rpy:2341
+    # game/script_day1_investigations.rpy:2340
     old "\"Yeah, someone was living here.\""
     new ""
 
@@ -7714,59 +7726,59 @@ translate russian strings:
     old "2F - The Master Bedroom"
     new ""
 
-    # game/script_day1_investigations.rpy:2450
+    # game/script_day1_investigations.rpy:2449
     old "\"Sure, why not?\""
     new ""
 
-    # game/script_day1_investigations.rpy:2463
+    # game/script_day1_investigations.rpy:2462
     old "\"Nah, I'm good.\""
     new ""
 
-    # game/script_day1_investigations.rpy:2486
+    # game/script_day1_investigations.rpy:2485
     old "Morning"
     new ""
 
-    # game/script_day1_investigations.rpy:2490
+    # game/script_day1_investigations.rpy:2489
     old "Evening"
     new ""
 
-    # game/script_day1_investigations.rpy:2526
+    # game/script_day1_investigations.rpy:2525
     old "Accept her explanation"
     new ""
 
-    # game/script_day1_investigations.rpy:2531
+    # game/script_day1_investigations.rpy:2530
     old "Pressure her for more"
     new ""
 
-    # game/script_day1_investigations.rpy:2610
+    # game/script_day1_investigations.rpy:2609
     old "Check the flower painting"
     new ""
 
-    # game/script_day1_investigations.rpy:2623
+    # game/script_day1_investigations.rpy:2622
     old "Check the bird painting"
     new ""
 
-    # game/script_day1_investigations.rpy:2801
+    # game/script_day1_investigations.rpy:2800
     old "Agree there's a possibility"
     new ""
 
-    # game/script_day1_investigations.rpy:2817
+    # game/script_day1_investigations.rpy:2816
     old "Deny it"
     new ""
 
-    # game/script_day1_investigations.rpy:2850
+    # game/script_day1_investigations.rpy:2849
     old "Jump on it"
     new ""
 
-    # game/script_day1_investigations.rpy:2897
+    # game/script_day1_investigations.rpy:2896
     old "[name_player] fell asleep, and soon woke up in the real world.\nThe three of them being trapped in that house was all just a [t_clue]dream[t_cluee]."
     new ""
 
-    # game/script_day1_investigations.rpy:2900
+    # game/script_day1_investigations.rpy:2899
     old "By doing the unthinkable and falling asleep in that horrible situation,\n[name_player] saved everyone, and they all soon returned to their normal lives."
     new ""
 
-    # game/script_day1_investigations.rpy:2903
+    # game/script_day1_investigations.rpy:2902
     old "THE END"
     new ""
 
@@ -7778,11 +7790,11 @@ translate russian strings:
     old "2F - The Master Bathroom"
     new ""
 
-    # game/script_day1_investigations.rpy:3046
+    # game/script_day1_investigations.rpy:3045
     old "Minimalistic"
     new ""
 
-    # game/script_day1_investigations.rpy:3054
+    # game/script_day1_investigations.rpy:3053
     old "Unnatural"
     new ""
 
@@ -7838,15 +7850,15 @@ translate russian strings:
     old "Chair"
     new ""
 
-    # game/script_day1_investigations.rpy:3474
+    # game/script_day1_investigations.rpy:3473
     old "Raccoon"
     new ""
 
-    # game/script_day1_investigations.rpy:3477
+    # game/script_day1_investigations.rpy:3476
     old "Tanuki"
     new ""
 
-    # game/script_day1_investigations.rpy:3640
+    # game/script_day1_investigations.rpy:3639
     old "Return to the [t_clue]Hallway[t_cluee]"
     new ""
 

@@ -81,8 +81,8 @@ label d1a1_kitchen_assistant:
         show cecilia at mycenter
         with dissolve
     C happy "Oh? Did you need something from me, [name_player]?{nw}"
-
     menu:
+        extend ""
         "[t_clue]End your investigation[t_cluee]" if investigation_complete:
             call d1a1_kitchen_confirm_end
         "\"Any ideas?\"":
@@ -110,7 +110,6 @@ label d1a1_kitchen_assistant:
                     C blink "I suppose there's one thing I'm curious about."
                     Y surprised "Oh? And what's that?"
                     C smile "If you don't want to use the [t_clue]knife[t_cluee], what's your preferred murder weapon of choice?{nw}"
-
                     menu:
                         extend ""
                         "A different sharp instrument":
@@ -140,6 +139,7 @@ label d1a1_kitchen_assistant:
                 C default "We've only just started to look around, right?"
                 C happy "Try [t_clue]looking REALLY carefully[t_cluee] at certain objects in this room. I'm sure you'll figure it out!"
                 I "\"Look REALLY carefully\", she says... Did she already notice something and just isn't telling me?"
+
         "\"Let's check [t_clue]the other room[t_cluee].\"" if not d1a1_visited_diningroom and investigation_location != "d1a1_diningroom":
             Y default "The other room I passed to get here... The one with the big table..."
             C default "Yeah? The [t_clue]dining room[t_cluee], right?"
@@ -213,7 +213,6 @@ label d1a1_kitchen_confirm_end:
         I "...It's strange but..."
         I "I feel like I [t_clue]already know[t_cluee] what to expect from investigating around here."
         I "Maybe I can zone out a bit as I go through everything...?{nw}"
-
         menu:
             extend ""
             "Skip this investigation":
@@ -234,6 +233,7 @@ label d1a1_kitchen_confirm_end:
             "Cancel":
                 Y default "...No, let's look around a bit more."
     return
+
 label d1a1_check_refrigerator:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -284,7 +284,6 @@ label d1a1_check_refrigerator:
         C "I know! I know, but..."
         C default "If someone tells you that anything is really REALLY bad..."
         C "...Don't you kind of get an urge to check it out?{nw}"
-
         menu:
             extend ""
             "\"Yeah, I feel you.\"":
@@ -316,6 +315,7 @@ label d1a1_check_refrigerator:
         $ fadein_sideimage = True
         $ show_side_cecilia = False
     return
+
 label d1a1_check_pantry:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -899,7 +899,6 @@ label d1a1_check_petbowl:
         Y thinking "Well, if I had to choose...{nw}"
         $ fadein_sideimage = False
         $ preferred_pet = ""
-
         menu:
             extend ""
             "Cats":
@@ -996,6 +995,7 @@ label d1a1_check_petbowl:
                     if not is_demo_version():
                         achieve CATS_DOGS
     return
+
 label d1a1_check_table:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1020,7 +1020,6 @@ label d1a1_check_table:
         with dissolve
         C "...Uh... Something wrong, [name_player]? You're giving a simple table quite the detailed inspection."
         C sad "I think I mentioned this before, but there's really not that much to check out here.{nw}"
-
         menu:
             extend ""
             "\"Yeah, you're right...\"":
@@ -1054,6 +1053,7 @@ label d1a1_check_table:
     else:
         I "It's just a [t_pacclue]table[t_paccluee]. Let's move on."
     return
+
 label d1a1_check_candelabra:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1243,7 +1243,6 @@ label d1a1_check_kitchenentrance:
         I "Mrm... I still feel like there's something left to find here... But maybe the kitchen's more important...?{nw}"
     else:
         I "Yeah, something tells me there's nothing important left here...{nw}"
-
     menu:
         extend ""
         "Return to the [t_clue]Kitchen[t_cluee]":
@@ -1270,6 +1269,7 @@ label d1a1_check_kitchenentrance:
         $ investigation_clues_optional_found += 1
         $ d1a1_diningroom_clue10 = True
     return
+
 label d1a1_check_chairfragments:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1340,7 +1340,6 @@ label d1a1_bathroom_confirm_end:
     if investigated_bathroom and not investigation_complete:
         I "...Why does this room feel familiar? Like, as if I already checked everything here...?"
         I "Maybe I should just stop here, save some time?{nw}"
-
         menu:
             extend ""
             "Skip this investigation":
@@ -1372,6 +1371,7 @@ label d1a1_bathroom_confirm_end:
             "Cancel":
                 I "...No, let's look around a bit more."
     return
+
 label d1a1_check_door:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1386,8 +1386,8 @@ label d1a1_check_door:
             easein 0.5 zoom 1.5
     pause 0.25
     I "The [t_pacclue]door[t_paccluee] that I came in through. Past it is the foyer.{nw}"
-
     menu:
+        extend ""
         "[t_clue]End your investigation[t_cluee]" if investigation_complete:
             call d1a1_bathroom_confirm_end
         "\"Any ideas?\"":
@@ -1401,11 +1401,11 @@ label d1a1_check_door:
                 I "...Yeah, I should wrap this up soon. Is there anywhere else a clue could be hiding...?"
         "\"Never mind...\"":
             pass
-        extend ""
     if not d1a1_bathroom_clue0:
         $ investigation_clues_optional_found += 1
         $ d1a1_bathroom_clue0 = True
     return
+
 label d1a1_check_mirror:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1487,7 +1487,6 @@ label d1a1_check_toilet:
         Y default "No problems with the [t_pacclue]toilet[t_paccluee]."
         Y "....."
         Y thinking "...Do I need to go?{nw}"
-
         menu:
             extend ""
             "Use the toilet":
@@ -1510,6 +1509,7 @@ label d1a1_check_toilet:
         $ fadein_sideimage = True
         I "It's an oddly satisfying sound..."
     return
+
 label d1a1_check_bathroomwindow:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1534,7 +1534,6 @@ label d1a1_check_bathroomwindow:
         Y surprised "...Unless...{nw}"
 
         $ punched_window = False
-
         menu:
             extend ""
             "Try breaking it":
@@ -1610,6 +1609,7 @@ label d1a1_check_bathroomwindow:
                 I "Maybe if I threw something heavy at it...?"
                 I "...Actually, I should run it by the others first before trying something drastic like that."
     return
+
 label d1a1_check_trashcan:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1629,7 +1629,6 @@ label d1a1_check_trashcan:
         Y "There's gotta be a clue in there, right?"
         Y default "....."
         Y worried "...The lid's stuck... I'll have to just stick my hand in...{nw}"
-
         menu:
             extend ""
             "Test your luck":
@@ -1651,6 +1650,7 @@ label d1a1_check_trashcan:
                     Y blink "...Nah, maybe the first time was enough."
                     Y sad "If anything's in there, it probably isn't worth the grossness."
         else:
+
             I "The [t_pacclue]waste bin[t_paccluee]."
             Y annoyed "...That's enough touching trash for one day."
 
@@ -1822,7 +1822,6 @@ label d1a1_check_soap:
     I "A [t_pacclue]soap dispenser[t_paccluee]. No label, but it smells okay enough..."
     Y thinking "Hmm... I wonder if I should wash my hands.{nw}"
     $ fadein_sideimage = False
-
     menu:
         extend ""
         "Wash your hands":
@@ -1841,6 +1840,7 @@ label d1a1_check_soap:
         $ investigation_clues_optional_found += 1
         $ d1a1_bathroom_clue8 = True
     return
+
 label d1a1_check_paperroll:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -1978,8 +1978,8 @@ label d1a1_upstairs_assistant:
         show oriana thinking at mycenter
         with dissolve
     O default "...Yes? What is it, [name_player]?{nw}"
-
     menu:
+        extend ""
         "[t_clue]End your investigation[t_cluee]" if investigation_complete:
             call d1a1_upstairs_confirm_end
         "\"Any ideas?\"":
@@ -1995,7 +1995,6 @@ label d1a1_upstairs_assistant:
                 play ctc_sfx sfx_emotequestion
                 O "Have you ever heard of the [t_clue]trolley problem[t_cluee]?"
                 I "The trolley problem...{nw}"
-
                 menu:
                     extend ""
                     "\"I know it.\"":
@@ -2077,6 +2076,7 @@ label d1a1_upstairs_assistant:
                 O blink "...There's a lot of rooms, so [t_clue]start with going through any doors[t_cluee] you see."
                 O sideeye "I'm sure {i}something{/i} will catch your interest if you just keep doing that."
                 I "Right... I guess I want to check every room here eventually. Let's not overcomplicate this..."
+
         "\"Let's check a [t_clue]different room[t_cluee].\"" if investigation_location == "d1a1_masterbedroom":
             if not d1a1_upstairs_clue4:
                 Y thinking "There's another room I'm curious about..."
@@ -2148,7 +2148,6 @@ label d1a1_upstairs_confirm_end:
         I "...It's strange but..."
         I "I feel like I [t_clue]already know[t_cluee] what to expect from investigating around here."
         I "Maybe I can zone out a bit as I go through everything...?{nw}"
-
         menu:
             extend ""
             "Skip this investigation":
@@ -2169,6 +2168,7 @@ label d1a1_upstairs_confirm_end:
             "Cancel":
                 Y default "...No, let's look around a bit more."
     return
+
 label d1a1_check_first_room:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -2247,7 +2247,6 @@ label d1a1_check_second_room:
         O sideeyeblink "Anyways, I investigated this room thoroughly, and there's nothing out of the ordinary."
         O sideeye "If you don't believe me, you can take a look around by yourself."
         I "She's weirdly on edge...{nw}"
-
         menu:
             extend ""
             "Investigate here":
@@ -2263,6 +2262,7 @@ label d1a1_check_second_room:
                 hide screen notify_location
                 $ investigation_location = "d1a1_bedroom"
             "Believe her and leave":
+
                 Y default "No, I believe you. Let's not waste any time and check the other rooms instead."
                 O default "....."
                 Y surprised "...?"
@@ -2335,7 +2335,6 @@ label d1a1_check_third_room:
         show oriana blink at mycenter with dissolve
         O "..... [name_player]."
         O default "Do you think anyone was using this room?{nw}"
-
         menu:
             extend ""
             "\"Yeah, someone was living here.\"":
@@ -2348,6 +2347,7 @@ label d1a1_check_third_room:
                 O irritated "...Forget it. Let's just move on."
                 I "...What is her problem?" with shakeonce
             "\"No, there's no way.\"":
+
                 Y thinking "The bed is covered in way too much dust. Clearly, [t_clue]no one has slept on it for a long time[t_cluee]."
                 O blink "I agree."
                 Y surprised "But I mean... Even if no one needed this room as a bedroom, you'd think they would do something else with it."
@@ -2444,7 +2444,6 @@ label d1a1_check_masterbedroom:
             $ investigation_location = "d1a1_masterbedroom"
         else:
             I "I don't think there's anything worthwhile left to find, but should I check out the [t_pacclue]master bedroom[t_paccluee] again?{nw}"
-
             menu:
                 extend ""
                 "\"Sure, why not?\"":
@@ -2463,6 +2462,7 @@ label d1a1_check_masterbedroom:
                 "\"Nah, I'm good.\"":
                     I "On second thought, maybe it's not worth the trip..."
     return
+
 label d1a1_check_hallwaywindow:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -2480,7 +2480,6 @@ label d1a1_check_hallwaywindow:
         Y default "Do you think it might clear by tomorrow?"
         O blink "Tomorrow..."
         O default "We heard the 6 o'clock bell earlier, if you recall. But do you think it's morning or evening right now?{nw}"
-
         menu:
             extend ""
             "Morning":
@@ -2491,6 +2490,7 @@ label d1a1_check_hallwaywindow:
                 Y surprised "Considering how dark it is in here, I thought for sure it's evening right now..."
                 O thinking "Well..."
                 Y thinking "Actually, why do you ask?"
+
         O blink "...Sorry, I guess you have no way of knowing this, but..."
         O thinking "I remember that it was [t_clue]early evening[t_cluee] when I was captured."
         O "So it's most likely that we were all thrown into this house immediately, but..."
@@ -2520,7 +2520,6 @@ label d1a1_check_hallwaywindow:
         with dissolvemed
         I "....."
         I "I guess she hasn't really lied about anything, but...{nw}"
-
         menu:
             extend ""
             "Accept her explanation":
@@ -2542,6 +2541,7 @@ label d1a1_check_hallwaywindow:
                 play ctc_sfx sfx_heartbeat_single
                 I "She's definitely [t_clue]hiding something[t_cluee] from me. But what...?" with hpunch
                 O irritated "....."
+
         O blink "...Anyway, circling back..."
         $ renpy.music.set_volume(1.0, 3, channel="music")
         O default "I wanted to say that since it's likely evening right now, we should turn in for the night later."
@@ -2604,7 +2604,6 @@ label d1a1_check_hallwaypaintingsright:
         easein 0.5 zoom 1.5
     pause 0.25
     I "There's a bunch of [t_pacclue]paintings[t_paccluee] along this wall. Which one should I take a closer look at?{nw}"
-
     menu:
         extend ""
         "Check the flower painting":
@@ -2637,6 +2636,7 @@ label d1a1_check_hallwaypaintingsright:
         $ investigation_clues_optional_found += 1
         $ d1a1_upstairs_clue7 = True
     return
+
 label d1a1_check_hallwaylights:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -2795,7 +2795,6 @@ label d1a1_check_wardrobe:
         Y thinking "...Wait, back up. You think our culprit could actually be a little girl?"
         O blink "....."
         O "...It's not completely out of the question.{nw}"
-
         menu:
             extend ""
             "Agree there's a possibility":
@@ -2834,6 +2833,7 @@ label d1a1_check_wardrobe:
         I "The [t_pacclue]wardrobe[t_paccluee] is filled with men's clothes..."
         I "Probably won't be of any use to us..."
     return
+
 label d1a1_check_bed:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -2844,7 +2844,6 @@ label d1a1_check_bed:
     pause 0.25
     I "A large [t_pacclue]bed[t_paccluee]. Looks like it hasn't been used in a while."
     I "{cps=6}.......{/cps}{nw}"
-
     menu:
         extend ""
         "Jump on it":
@@ -2920,6 +2919,7 @@ label d1a1_check_bed:
                 if not is_demo_version():
                     achieve DREAM_END
         "Don't jump on it":
+
             if d1a1_jumped_bed == False:
                 I "This isn't the time for fooling around. Let's look somewhere else." with hpunch
             else:
@@ -3040,7 +3040,6 @@ label d1a1_check_masterbathroom:
         Y surprised "Hmm? Something on your mind?"
         O "It's...unusually clean. Everything we've seen so far."
         O blink "If this was truly an ordinary house before it turned into a cage for us, it's... What's the word...?{nw}"
-
         menu:
             extend ""
             "Minimalistic":
@@ -3060,6 +3059,7 @@ label d1a1_check_masterbathroom:
         O embarrassed "S-sorry. I normally have my thoughts more sorted out than this..."
         O sideeye "Let's just keep looking around."
     return
+
 label d1a1_check_masterpainting:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -3468,7 +3468,6 @@ label d1a1_check_redpanda:
     if d1a1_bedroom_clue8 == False:
         I "A stuffed animal shaped like..."
         I "...Uhh... Hold on, what is this called again...?{nw}"
-
         menu:
             extend ""
             "Raccoon":
@@ -3488,6 +3487,7 @@ label d1a1_check_redpanda:
         if not is_demo_version():
             achieve RED_PANDA
     return
+
 label d1a1_check_cutedresser:
     show pac_explode_star at pac_explode()
     show pac_explode at pac_explode()
@@ -3634,7 +3634,6 @@ label d1a1_check_chair:
 
 label d1a1_bedroom_confirm_return:
     I "Have I checked this room out enough yet...?{nw}"
-
     menu:
         extend ""
         "Return to the [t_clue]Hallway[t_cluee]":

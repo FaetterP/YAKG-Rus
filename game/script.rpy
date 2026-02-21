@@ -966,7 +966,6 @@ label name_entry:
         $ name_player = "{color=#cccc00}"+input_name+"{/color}"
         Y "...[name_player]..."
         I "My name is [name_player]...{w=0.5}right...?{nw}"
-
         menu:
             extend ""
             "\"Yes, it is.\"":
@@ -976,6 +975,7 @@ label name_entry:
                 with fade
                 return
             "\"No, my name is...\"":
+
                 jump name_entry
 
 label gameover:
@@ -1104,7 +1104,6 @@ label gameover:
                 play ctc_sfx "<silence 1.0>"
                 $ show_choicegrand = True
                 $ mute_choice = True
-
                 menu:
                     extend ""
                     "START ANOTHER KILLING GAME":
@@ -1122,6 +1121,7 @@ label gameover:
                         if not is_demo_version():
                             achieve REJECT_END
                         jump d1a1
+
 label gameover_day2:
     if not config.developer:
         $ renpy.block_rollback()
@@ -1277,8 +1277,8 @@ label gameover_day2:
             play ctc_sfx "<silence 1.0>"
             $ show_choicegrand = True
             $ mute_choice = True
-
             menu:
+                extend ""
                 "LET'S PLAY ANOTHER KILLING GAME!" if shard_string == "Despair":
                     pass
                 "ON TO ANOTHER KILLING GAME..." if shard_string == "Judgement":
@@ -1287,7 +1287,6 @@ label gameover_day2:
                     pass
                 "ARE YOU ENJOYING THE KILLING GAME?!" if shard_string == "Light":
                     pass
-                extend ""
             $ show_choicegrand = False
             $ mute_choice = False
             play audio sfx_choicegrand
@@ -1303,6 +1302,7 @@ label gameover_day2:
                 jump d2a2
             else:
                 jump d2a1
+
 label main_menu_credits:
     $ _autosave = False
     $ _skipping = False

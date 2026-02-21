@@ -56,7 +56,6 @@ label d3a1:
     Y blink "Okay. We'd better move."
     C thinking "Ria's still kinda conked out so one of us will have to [t_clue]carry her[t_cluee]."
     C default "You decide, [name_player]. Who should carry Ria?{nw}"
-
     menu:
         extend ""
         "\"I'll do it.\"":
@@ -266,6 +265,7 @@ label d3a1:
     play ctc_sfx "<silence 1.0>"
     Y shadow2 "....." with shakeonce
     I "Yeah, don't break focus... Just one last step..."
+
     scene bg foyer with dissolve
     $ day3_checked_kitchen = False
     $ day3_checked_bathroom = False
@@ -691,7 +691,6 @@ label d3a1_foyer_start:
 
 label d3a1_choosesuspect:
     I "The one who orchestrated this whole killing game is...{nw}"
-
     menu:
         extend ""
         "The monstrous attacker":
@@ -858,6 +857,7 @@ label d3a1_choosesuspect:
             O jacketless irritated "But there are moments where you have no choice but to do so."
             O "Even if all the facts haven't been laid out yet, you can still pick a direction and have faith it will lead you to the [t_clue]truth[t_cluee]."
             jump d3a1_choosesuspect_end
+
 label d3a1_choosesuspect2:
     O jacketless blink "....."
     O "...And which of us do you suspect could be the [t_clue]mastermind[t_cluee]?"
@@ -1046,7 +1046,6 @@ label d3a1_choosesuspect_end:
     Y shadow "{cps=6}.....{/cps}"
     $ fadein_sideimage = False
     Y "...Ria. I think...{nw}"
-
     menu:
         extend ""
         "\"It'll be fine now.\"":
@@ -1065,6 +1064,7 @@ label d3a1_choosesuspect_end:
             O jacketless leering "So you mean...the \"[name_player]\" in front of me right now didn't travel back in time at all?"
             Y sad "Exactly... That's why I think..."
             $ fadein_sideimage = False
+
     play ctc_sfx sfx_heartbeat_single
     Y leering "...This should be the {color=#ff0000}final killing game{/color}." with shakeonce
     $ fadein_sideimage = True
@@ -1144,7 +1144,6 @@ label d3a1_masterbedroom_ria_hearttoheart:
     O jacketless thinking "...Someone you've never met."
     if d1a4_third_member_mentioned:
         O jacketless default "Do you remember back in the dining room...when we talked about the third member in the Occult Club?{nw}"
-
         menu:
             extend ""
             "\"I remember.\"":
@@ -1412,6 +1411,7 @@ label d3a1_masterbedroom_ria_hearttoheart:
             scene cg ria hearttoheart2:
                 xalign 0.5 yalign 1.0 zoom 1.7 blur 20
                 linear 5.0 blur 0
+
             with dissolve
             I "{cps=6}.....{/cps} ...I've been talking quite a bit. Getting kinda embarrassed..." with hpunch
             Y worried2 "O-or you know, maybe I'm misreading all this! After all, I've never met Carol-Ma...{cps=1} {/cps}{nw}" with hpunch
@@ -1683,7 +1683,6 @@ label d3a2:
 
 label d3a2_escape_choice:
     I "...We can escape by...{nw}" with shakeonce
-
     menu:
         extend ""
         "Digging through the underground passage":
@@ -1707,6 +1706,7 @@ label d3a2_escape_choice:
             jump d3a2_escape_choice
         "Killing the zombie":
             stop music fadeout 3.0
+
     Y thinking "...Wait. You said a \"human\" needs to die in order for that door to open..."
     $ fadein_sideimage = False
     Y "What if we just find and kill that zombie?"
@@ -1717,7 +1717,6 @@ label d3a2_escape_choice:
     Y leering "Let's find and kill that human being that's pretending to be a zombie."
     $ fadein_sideimage = True
     C surprised "Huh?{w=0.5} You think that killer zombie attack was all an act?{nw}" with hpunch
-
     menu:
         extend ""
         "\"Yes, I'm sure.\"":
@@ -1804,6 +1803,7 @@ label d3a2_escape_choice:
             I "I can probably do this [t_clue]quickly[t_cluee]..."
             $ show_side_cecilia = False
             $ show_side_oriana = False
+
             $ d3a2_dog_clue1 = False
             $ d3a2_dog_clue2 = False
             $ d3a2_dog_clue3 = False
@@ -1940,7 +1940,6 @@ label d3a2_start_investigation:
             C smile "Let's take a [t_clue]stealthy approach[t_cluee] and ambush him."
             scene bg foyer with dissolve
             I "Okay, opening the door to the dining room...{nw}"
-
             menu:
                 extend ""
                 "Open the door quickly":
@@ -1968,6 +1967,7 @@ label d3a2_start_investigation:
                     Y wince "Nrgh... S-sorry, I'm kind of on edge..." with hpunch
                     show cecilia thinking
                 "Open the door carefully":
+
                     scene bg black with dissolvemed
                     pause 0.5
                     with shakeonce
@@ -2042,7 +2042,6 @@ label d3a2_start_investigation:
             C blink knife "I'll have my knife at the ready." with hpunch
             scene bg foyer with dissolve
             I "Okay, let's open the bathroom door...{nw}"
-
             menu:
                 extend ""
                 "Open the door quickly":
@@ -2061,6 +2060,7 @@ label d3a2_start_investigation:
                     C sad "Darn. Looks like he's not in here."
                     Y wince "Dammit, where {i}is{/i} he...?" with hpunch
                 "Open the door carefully":
+
                     scene bg black with dissolvemed
                     pause 0.5
                     with shakeonce
@@ -2166,7 +2166,6 @@ label d3a2_start_investigation:
             C blink knife "I'll leave opening the door to you. I'll just be ready for anything." with hpunch
             scene bg foyer with dissolve
             I "Okay, let's open the door to the lounge...{nw}"
-
             menu:
                 extend ""
                 "Open the door quickly":
@@ -2185,6 +2184,7 @@ label d3a2_start_investigation:
                     play ctc_sfx sfx_knifeequip
                     C sad "I guess he's not in the lounge, [name_player]."
                 "Open the door carefully":
+
                     scene bg black with dissolvemed
                     pause 0.5
                     with shakeonce
@@ -2256,7 +2256,6 @@ label d3a2_start_investigation:
             C sad "He's...not there. Not in the library either."
             Y wince "I see..." with hpunch
             C thinking "Do you want to check it out for yourself?{nw}"
-
             menu:
                 extend ""
                 "\"Yeah, I will.\"":
@@ -2342,6 +2341,7 @@ label d3a2_start_investigation:
                     scene bg black with dissolveslow
                     pause 5.0
                 "\"No, there's no need.\"":
+
                     Y blink "No, I believe you. Let's not waste any more time."
                     C blink "Right. Let's pick up the pace."
                     C smile "Back to the foyer, we go~"
@@ -2658,7 +2658,6 @@ label d3a3_corpse_end:
     O depressed "....." with shakeonce
     C sad "Hmm. I guess Ria's still in shock."
     C smile "Okay, what do {i}you{/i} think, [name_player]?{w=1.0} Why is the door still closed despite the man upstairs being dead?{nw}"
-
     menu:
         extend ""
         "We're still missing something":
@@ -2681,6 +2680,7 @@ label d3a3_corpse_end:
             C thinking "You said you would always hear the front door opening [t_clue]immediately after[t_cluee] someone would die in front of you."
             Y troubled "Th-that could just be because... H-he knew, somehow! Maybe by using some occult magic!" with shakeonce
             C sad "C'mon, [name_player], it's really much more simple than that."
+
     C blink "We checked every room. The mastermind's pockets were empty. From this, we can draw only one conclusion."
     C grin "This house has a will of its own.{w=1.0} It [t_clue]operates on its own rules[t_cluee].{nw}"
     play ctc_sfx "<silence 1.0>"
@@ -2777,7 +2777,6 @@ label d3a3_corpse_end:
     play ctc_sfx "<silence 1.0>"
     I "Considering the circumstances, all the [t_clue]clues[t_cluee] I found...{w=1.0} Who could have possibly killed the mastermind?{nw}" with shakeonce
 
-
     menu:
         extend ""
         "Oriana":
@@ -2855,6 +2854,7 @@ label d3a3_corpse_end:
             C serious "There's no point trying to avoid it.{w=1.0} You know that [t_clue]it could have only been Ria[t_cluee]."
             play ctc_sfx "<silence 1.0>"
             I "{cps=6}.....{/cps}"
+
     O horrified "W-wait! What in the world are you talking about?!" with shakeshort
     C thinking "We know that the mastermind killed [name_dog] and left his body in the hallway. Which means he was still alive at that point."
     C default "After which, [name_player] and I went looking for the zombie in the lower floors."
@@ -3057,7 +3057,6 @@ label d3a3_corpse_end:
     I "It's time, [name_player_true].{w=1.0} Once you advance, there's no {color=#cccc00}turning back time{/color}. And no more [t_clue]pausing[t_cluee] to think."
     extend " {cps=6}.....{/cps} Am I ready...?{w=0.5}{nw}"
     $ mute_choice = True
-
     menu:
         extend ""
         "Proceed":
@@ -3085,6 +3084,7 @@ label d3a3_corpse_end:
     $ finalchoice_doubt = False
     $ finalchoice_chose_cece = False
     $ finalchoice_chose_ria = False
+
 label d3a3_finalchoice:
     $ renpy.block_rollback()
     play ctc_sfx sfx_introambiance_pentagramknife
@@ -3995,7 +3995,6 @@ label d3a4:
     $ name_karma = "{color=#cccc00}"+input_name+"?{/color}"
     K "......."
     K tiredblink "...[name_player]...{w=0.5}was {i}your{/i} name, right?{nw}"
-
     menu:
         extend ""
         "\"Who are you?\"":
@@ -4022,6 +4021,7 @@ label d3a4:
     play ctc_sfx "<silence 1.0>"
     YV shadow "{cps=6}.....{/cps} ...A...spirit..." with shakeonce
     play ctc_sfx "<silence 1.0>"
+
     scene bg black with custom_flashbulblong()
     I "...At that moment, it all started to make sense..."
     play ctc_sfx "<silence 1.0>"
@@ -4979,7 +4979,6 @@ label d3a5:
     $ fadein_sideimage = False
     O leering2 "...What's going on? Are you trying to get us to spare you or something?"
     YV "Just hear me out. It's strange that you all think that killing me will let you escape.{w=1.0} After all...{nw}"
-
     menu:
         extend ""
         "\"I'm already dead.\"":
@@ -4995,6 +4994,7 @@ label d3a5:
         "\"The Professor's death didn't open it.\"":
             pass
         "\"The door won't open without me.\"":
+
             YV default "Whenever the front door opened, it was always while I was still alive."
             YV "So...maybe it's connected to me somehow. Like, maybe it's only when I find someone's dead body does it--"
             O disappointed "[name_player]. You've said before that you would sometimes find the front door open BEFORE finding someone's corpse."
@@ -5013,7 +5013,6 @@ label d3a5:
     C smile "But I mean, he was the [t_clue]mastermind[t_cluee], right? Maybe he was an exception to the rule."
     YV "...No. There's more to it."
     YV "The reason why the Professor's death didn't open the front door is simple.{w=1.0} It was because...{nw}"
-
     menu:
         extend ""
         "\"He was dead from the start.\"":
@@ -5057,6 +5056,7 @@ label d3a5:
             jump d3a5_gameover
         "\"He didn't actually die.\"":
             pass
+
     YV "...He's not dead. That's the only explanation."
     C sweatdrop "{cps=9}He's...{/cps}NOT dead.{w=0.5} Wow. Um...{w=0.5}{nw}"
     play ctc_sfx "<silence 1.0>"
@@ -5071,7 +5071,6 @@ label d3a5:
     C sad "Ooookay?{w=1.0} Then explain the corpse."
     C thinking "Remember, we found a knife stuck into it earlier."
     YV shadow "This body I'm currently in...{nw}"
-
     menu:
         extend ""
         "\"It's someone else's corpse.\"":
@@ -5127,6 +5126,7 @@ label d3a5:
             O shouting "You're not making ANY sense! And even if you were, WHAT are you asking us to do?!" with shakeshort
             I "Nrgh...! N-no, this...{w=1.0} I know I'm [t_clue]getting closer to the answer[t_cluee], so what am I doing wrong...?!" with shakeonce
             jump d3a5_gameover
+
     YV default "...It is indeed the Professor's body, but without his [t_clue]soul[t_cluee]."
     $ fadein_sideimage = True
     K panicked "His...\"soul\"...?" with shakeonce
@@ -5138,7 +5138,6 @@ label d3a5:
     play ctc_sfx "<silence 1.0>"
     O annoyed "Tsk...{w=0.5} ...Fine. Then riddle me this." with shakeonce
     O leering2 "How does a soul [t_clue]move around freely[t_cluee] while still being \"alive\"?{nw}"
-
     menu:
         extend ""
         "\"By floating around.\"":
@@ -5194,6 +5193,7 @@ label d3a5:
             jump d3a5_gameover
         "\"By inhabiting a host.\"":
             pass
+
     YV "...He's in a host. Someone or something is [t_clue]carrying his soul around[t_cluee]."
     C sweatdrop "A host...? You sure you're not just making this up?" with hpunch
     YV "Have you forgotten already? How am I currently possessing this body right now?"
@@ -5211,17 +5211,16 @@ label d3a5:
     $ fadein_sideimage = False
     YV "But just now...{w=1.0}I realized something.{nw}"
     $ show_side_karma = True
-
     menu:
         extend ""
         "\"There are multiple wrist shackles.\"":
             pass
         "\"There are two souls in this wrist shackle.\"":
+
             YV "This doesn't contain just {i}my{/i} soul.{w=0.5} [t_clue]Someone else[t_cluee] is in here too."
             O afraid "...What...?" with shakeonce
             C determined "Who else is in there, [name_player]?!" with shakeshort
             YV shadow "{cps=6}.....{/cps} ...The other soul in this shackle with me is...{w=0.5}{nw}"
-
             menu:
                 extend ""
                 "The Professor":
@@ -5322,6 +5321,7 @@ label d3a5:
             show karma tiredblink at mycenter_fadein
             with dissolve
             jump d3a5_gameover
+
     scene bg black
     show shackle_purple at trueleft
     show shackle_green at trueright
@@ -5396,7 +5396,6 @@ label d3a5:
     O horrified "There was nothing! No collar, and no wrist shackle!" with shakeshort
     $ fadein_sideimage = False
     YV shadow "{cps=12}...Exactly.{/cps}{w=0.5} And there's only one explanation for that.{nw}"
-
     menu:
         extend ""
         "\"It moved to find a new host.\"":
@@ -5446,6 +5445,7 @@ label d3a5:
             show karma tiredblink at mycenter_fadein
             with dissolve
             jump d3a5_gameover
+
     scene bg black with dissolveslow
     pause 1.0
     scene bg basement stairway
@@ -5599,7 +5599,6 @@ label d3a5_gameover:
 label d3a6:
     YV "The reason you took the wrist shackle is...{nw}"
     $ fadein_sideimage = False
-
     menu:
         extend ""
         "\"You love occult stuff.\"":
@@ -5624,6 +5623,7 @@ label d3a6:
             play ctc_sfx sfx_heartbeat_single
             extend " \"[t_clue]Professor[t_cluee]\"?" with shakeshort
             $ fadein_sideimage = True
+
     C sad "...No, seriously. I have no idea what you're talking about."
     $ show_side_karma = True
     $ show_side_oriana = True
@@ -6825,7 +6825,6 @@ label d3a6_chase_pt1:
     $ renpy.music.set_volume(0.5, 3, channel="music")
     pause 3.0
     O thinking "...I think now's our chance.{w=0.5} Are you ready?{nw}"
-
     menu:
         extend ""
         "Go out now":
@@ -6896,6 +6895,7 @@ label d3a6_chase_pt1:
             stop music
             $ renpy.music.set_volume(1.0, 0, channel="music")
             I "Now!" with shakeshort
+
     window auto hide None
     play music bgm_chase
     play ctc_sfx sfx_dooropenloud
@@ -6908,7 +6908,6 @@ label d3a6_chase_pt1:
     show bg foyer at wobble, blurring
     Y shouting "{cps=24}RAAAAAGGHHH!!{/cps}{nw}" with shakeshort
     $ fadein_sideimage = False
-
     menu:
         extend ""
         "Grab the wrist shackle":
@@ -6934,6 +6933,7 @@ label d3a6_chase_pt1:
             I "...!! She...caught my fist..." with hpunch
             play ctc_sfx sfx_knifebrandish
             C possessed grin knife "I see... You're just handing your wrist over to me, is that it?" with hpunch
+
     window auto hide None
     play ctc_sfx sfx_whooshlow
     scene bg black with custom_flashquick()
@@ -6985,7 +6985,6 @@ label d3a6_chase_pt2:
         xalign 1.0 yalign 0.8 zoom 1.5
     show cecilia possessed grin knife at mycenter_closeup
     I "Ngh! She's fast...{nw}" with shakeonce
-
     menu:
         extend ""
         "Headbutt her":
@@ -7063,6 +7062,7 @@ label d3a6_chase_pt2:
             jump d3a6_chase_pt2
         "Turn back":
             pass
+
     C "Oh? Are you going to--{w=0.5}{nw}"
     play ctc_sfx sfx_whooshlow
     $ show_side_cecilia = True
@@ -7198,7 +7198,6 @@ label d3a6_chase_pt2:
     Y wince "....." with shakeonce
     Y thinking "...True... So how about this?"
     Y blink "If I can fend off your attacks for [t_clue]one minute[t_cluee], OR [t_clue]knock away your knife[t_cluee] from your hands...{w=1.0} You must...{nw}"
-
     menu:
         extend ""
         "Sacrifice yourself as well":
@@ -7277,6 +7276,7 @@ label d3a6_chase_pt2:
             C "You truly are a spirit from {color=#ff0000}Hell{/color}. Letting innocent people perish for your own revival..."
             Y wince "....."
             C "...But I suppose I am no different."
+
     C "Very well. I accept your conditions."
     $ fadein_sideimage = False
     Y leering "All right.{w=1.0} Count to 10, then meet me in the kitchen."
@@ -7364,7 +7364,6 @@ label d3a6_chase_duel:
     play ctc_sfx "<silence 1.0>"
     play sound sfx_knifebrandish
     C possessed grin knife "I will allow you the first move.{w=0.5} Come at me.{nw}"
-
 
     menu:
         extend ""
@@ -7510,10 +7509,10 @@ label d3a6_chase_duel:
             if d3a6_duel_hp <= 0:
                 jump d3a6_chase_duel_lose
 
+
     show cecilia possessed grin knife at mycenter_zoomstill
     Y afraid "A-agh!!{nw}" with shakeshort
     $ fadein_sideimage = False
-
     menu:
         extend ""
         "PANIC":
@@ -7573,6 +7572,7 @@ label d3a6_chase_duel:
             C possessed thinking "Should you really be freezing up at a time like this?"
             if d3a6_duel_hp <= 0:
                 jump d3a6_chase_duel_lose
+
     I "I'm...somehow getting through this..." with shakeonce
     KI "This is working! Just a little more!" with vpunch
     C possessed blink "{cps=6}.....{/cps} ...I believe...{w=0.5}it is time to bring this farce to an end."
@@ -7580,7 +7580,6 @@ label d3a6_chase_duel:
     Y shocked "{cps=6}.....{/cps} ...Something's coming...{nw}" with shakeonce
     $ fadein_sideimage = False
     $ mute_choice = True
-
     menu:
         extend ""
         "Block left":
@@ -7672,6 +7671,7 @@ label d3a6_chase_duel:
             play sound sfx_knifeclash
             window auto show None
             I "AGH?!" with shakeshort
+
     window auto hide None
     show cecilia possessed grin knife at mycenter_closeup with shakeshort
     menu:
@@ -7812,7 +7812,6 @@ label d3a6_chase_duel:
     C "No, if anything...{w=1.0}you have forfeited this duel."
     Y troubled "....." with shakeonce
     C possessed "Now, as the winner by default, I demand my prize.{w=1.0} You will now give me your wrist shackle without any more resistance.{nw}"
-
     menu:
         extend ""
         "Stay silent":
@@ -7834,6 +7833,7 @@ label d3a6_chase_duel:
             $ fadein_sideimage = True
             play ctc_sfx sfx_emotesigh
             KI "Why are you acting like a kid in a playground...?" with hpunch
+
     stop music fadeout 3.0
     C "{cps=6}..........{/cps}"
     C "...So it's true. For whatever reason, you're stalling for time."
@@ -8023,7 +8023,6 @@ label d3a6_chase_finale:
     show karma leering at myright_trial with move
     K "I just have one more question for you, Professor."
     C possessed "And what might that be...?{nw}"
-
     menu:
         extend ""
         "Run out now":
@@ -8063,6 +8062,7 @@ label d3a6_chase_finale:
             jump d3a6_chase_finale
         "Wait a little longer":
             I "Not yet..." with hpunch
+
     K thinking "Let's say you keep your promise and let Cece's body go. How do you plan on moving around in the living world?"
     C possessed blink "Naturally, I intend to return to my own body. I've been keeping it well maintained for that purpose."
     $ show_side_oriana = True
@@ -8071,7 +8071,6 @@ label d3a6_chase_finale:
     play ctc_sfx "<silence 1.0>"
     $ show_side_oriana = False
     I "Ria...{w=0.5} She's starting to move...{nw}"
-
     menu:
         extend ""
         "Run out now":
@@ -8111,6 +8110,7 @@ label d3a6_chase_finale:
             jump d3a6_chase_finale
         "Wait a little longer":
             I "Not yet..." with hpunch
+
     K leering "You consider {i}that{/i}...well-maintained? Your head's wrapped in bandages, and the skin underneath's all rotting and gross."
     play ctc_sfx "<silence 1.0>"
     C "{cps=6}.....{/cps} ...You're not [name_player], are you?"
@@ -8140,7 +8140,6 @@ label d3a6_chase_finale:
     show cecilia possessed surprised
     O injured "Hnnghh!!" with shakelong
     C "Mrgh...!{w=0.5} Hmph, so you still have some strength left in you, eh...?{nw}"
-
     menu:
         extend ""
         "Run out now":
@@ -8202,6 +8201,7 @@ label d3a6_chase_finale:
             jump d3a6_chase_finale
         "Wait a little longer":
             I "Ngh... N-not yet..." with hpunch
+
     play ctc_sfx sfx_restrain
     show oriana injured at mycenter
     show cecilia possessed surprised at myright
@@ -8235,7 +8235,6 @@ label d3a6_chase_finale:
     I "She...grabbed her waist and [t_clue]one of her legs[t_cluee]?!" with shakeonce
     play ctc_sfx sfx_restrain
     C "Ngh... This is less than ideal...{nw}" with shakeshort
-
     menu:
         extend ""
         "Run out now":
@@ -8292,6 +8291,7 @@ label d3a6_chase_finale:
             jump d3a6_chase_finale
         "Wait a little longer":
             I "Not yet... NOT YET...!" with shakeshort
+
     play ctc_sfx sfx_knifebrandish
     C possessed grin knife "But you realize that I can still stab you{cps=5}... ...{/cps}{nw}" with hpunch
     play ctc_sfx sfx_knifeswing
@@ -8329,7 +8329,6 @@ label d3a6_chase_finale:
     K pained2 "Krgh!! ...Your [t_clue]left hook[t_cluee]...doesn't hurt at all!!" with shakeshort
     play ctc_sfx sfx_strikeperson
     O "[name_player]!!!{w=0.5}{nw}" with shakelong
-
     menu:
         extend ""
         "Run out now":
@@ -8445,6 +8444,7 @@ label d3a6_chase_finale:
             scene bg black with soulin
             pause 1.0
             jump d3a6_chase_finale
+
 label d3a7:
     call save_file_name_update (3, "d3a7")
     scene bg black
@@ -8728,7 +8728,6 @@ label d3a7:
     V "Hmm? ...You're [name_player], aren't you?"
     Y "I just have one question for you."
     V "Hm. By all means, let's hear it.{nw}"
-
     menu:
         extend ""
         "\"Why did you give Karma {i}my{/i} shackle?\"":
@@ -8885,6 +8884,7 @@ label d3a7:
     scene bg black with dissolveslow
     stop loop_sfx fadeout 5.0
     pause 5.0
+
 label d3a8:
     call save_file_name_update (3, "d3a8")
     scene bg black
@@ -9031,7 +9031,6 @@ label d3a8:
             O confident "And then once you feel satisfied, you can rest wherever you want."
             YD "....."
             O panicked "...D-does that sound acceptable to you?{nw}" with shakeonce
-
             menu:
                 extend ""
                 "Bark":
@@ -9179,7 +9178,8 @@ label d3a8:
             pause 15.0
             hide text with dissolvemed
             show text _ ("Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)") with dissolvemed
-            pause 15.0
+            $ renpy.pause(3.0, hard=True)
+            pause 12.0
             hide text with dissolvemed
             pause 3.0
             $ quick_menu = True
@@ -9189,6 +9189,7 @@ label d3a8:
             $ persistent.unlock_gameclear_cgs = True
             return
         "Stay behind and pass on":
+
             with custom_flashbulb()
             pause 0.5
             show bg foyer with dissolve
@@ -9393,7 +9394,8 @@ label d3a8:
             pause 15.0
             hide text with dissolvemed
             show text _ ("Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)") with dissolvemed
-            pause 15.0
+            $ renpy.pause(3.0, hard=True)
+            pause 12.0
             $ persistent.unlock_gameclear_cgs = True
             if not chose_suspect:
                 hide text with dissolvemed

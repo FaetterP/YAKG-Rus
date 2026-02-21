@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 translate russian strings:
 
@@ -19,7 +19,7 @@ translate russian strings:
     new ""
 
     # game/sbobcachievements.rpy:164
-    old "Now... Will you DELETE your Achievement data and collect them all again?"
+    old "Now... Will you [t_clue]DELETE[t_cluee] your Achievement data and collect them all again?"
     new ""
 
     # game/sbobcachievements.rpy:166

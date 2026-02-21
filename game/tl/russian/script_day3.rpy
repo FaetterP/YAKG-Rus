@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 # game/script_day3.rpy:9
 translate russian d3a1_a00146ac:
@@ -186,511 +186,511 @@ translate russian d3a1_30ac839e:
     # C default "You decide, [name_player]. Who should carry Ria?{nw}"
     C default ""
 
-# game/script_day3.rpy:61
+# game/script_day3.rpy:60
 translate russian d3a1_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:63
+# game/script_day3.rpy:62
 translate russian d3a1_955f6186:
 
     # Y leering "We need you ready with your knife. The zombie could ambush us at any point on our way up."
     Y leering ""
 
-# game/script_day3.rpy:64
+# game/script_day3.rpy:63
 translate russian d3a1_3a9530c2:
 
     # C smile "Sounds good. I won't let him get close to either of you."
     C smile ""
 
-# game/script_day3.rpy:66
+# game/script_day3.rpy:65
 translate russian d3a1_e7faf9ae:
 
     # Y blink "I'll go up front and keep an eye out. I can always turn back time if things get bad, after all."
     Y blink ""
 
-# game/script_day3.rpy:67
+# game/script_day3.rpy:66
 translate russian d3a1_a8beae0a:
 
     # C blink "Good point. Okay, you can leave Ria to me."
     C blink ""
 
-# game/script_day3.rpy:70
+# game/script_day3.rpy:69
 translate russian d3a1_6d467233:
 
     # I "Okay... First step is to move this dresser out of the way."
     I ""
 
-# game/script_day3.rpy:74
+# game/script_day3.rpy:73
 translate russian d3a1_87d37ab6:
 
     # I "Nrgh... Does this have to make so much noise...?" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:76
+# game/script_day3.rpy:75
 translate russian d3a1_f5ae70ab:
 
     # C determined "Are you ready for this, [name_player]?"
     C determined ""
 
-# game/script_day3.rpy:78
+# game/script_day3.rpy:77
 translate russian d3a1_0764c356:
 
     # Y wince "As ready as I'll ever be..."
     Y wince ""
 
-# game/script_day3.rpy:80
+# game/script_day3.rpy:79
 translate russian d3a1_69f5f5b4:
 
     # I "...Okay. Let's [t_clue]open the door[t_cluee]...{nw}"
     I ""
 
-# game/script_day3.rpy:82
+# game/script_day3.rpy:81
 translate russian d3a1_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:84
+# game/script_day3.rpy:83
 translate russian d3a1_e575c0b7:
 
     # I "No time to waste. Let's move out." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:86
+# game/script_day3.rpy:85
 translate russian d3a1_3b21aa31:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:87
+# game/script_day3.rpy:86
 translate russian d3a1_c3af9a91:
 
     # C determined "{cps=6}.....{/cps}"
     C determined ""
 
-# game/script_day3.rpy:88
+# game/script_day3.rpy:87
 translate russian d3a1_3b21aa31_1:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:89
+# game/script_day3.rpy:88
 translate russian d3a1_892dbaa3:
 
     # I "Okay, I still don't hear anything. Let's try opening it now..."
     I ""
 
-# game/script_day3.rpy:101
+# game/script_day3.rpy:100
 translate russian d3a1_3b21aa31_2:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:103
+# game/script_day3.rpy:102
 translate russian d3a1_3a72c3f3:
 
     # Y surprised "...I don't see the zombie anywhere..."
     Y surprised ""
 
-# game/script_day3.rpy:107
+# game/script_day3.rpy:106
 translate russian d3a1_0f45c557:
 
     # C "The chair's empty too... Guess that's not like his charging station or something..."
     C ""
 
-# game/script_day3.rpy:108
+# game/script_day3.rpy:107
 translate russian d3a1_84e38997:
 
     # Y thinking "Okay, let's take a look at the stairs."
     Y thinking ""
 
-# game/script_day3.rpy:110
+# game/script_day3.rpy:109
 translate russian d3a1_90cda63f:
 
     # I "Carefully now..."
     I ""
 
-# game/script_day3.rpy:120
+# game/script_day3.rpy:119
 translate russian d3a1_4bb3ccba:
 
     # I "The door to the lounge is upstairs..."
     I ""
 
-# game/script_day3.rpy:121
+# game/script_day3.rpy:120
 translate russian d3a1_c829d9a5:
 
     # I "Er, wait, did we close the door behind us when we came down here? I can't even remember anymore..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:123
+# game/script_day3.rpy:122
 translate russian d3a1_22abfd92:
 
     # C thinking "[name_player]. I don't hear any footsteps up there. It's possible he's in another room."
     C thinking ""
 
-# game/script_day3.rpy:125
+# game/script_day3.rpy:124
 translate russian d3a1_c4907544:
 
     # C determined "We should [t_clue]move quickly[t_cluee] while we can. If he comes back now, then our only way up will be blocked off."
     C determined ""
 
-# game/script_day3.rpy:128
+# game/script_day3.rpy:127
 translate russian d3a1_d41f1136:
 
     # I "She has a point... But I'm still nervous...{nw}"
     I ""
 
-# game/script_day3.rpy:130
+# game/script_day3.rpy:129
 translate russian d3a1_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:132
+# game/script_day3.rpy:131
 translate russian d3a1_2b32ef3d:
 
     # Y leering "Yeah, we can't afford to get stalled here. Let's pick up the pace." with hpunch
     Y leering "" with hpunch
 
-# game/script_day3.rpy:144
+# game/script_day3.rpy:143
 translate russian d3a1_a0c923ad:
 
     # Y blink "No, we can't risk making any noise. Let's climb up these steps carefully."
     Y blink ""
 
-# game/script_day3.rpy:159
+# game/script_day3.rpy:158
 translate russian d3a1_3b21aa31_3:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:160
+# game/script_day3.rpy:159
 translate russian d3a1_81c0805e:
 
     # Y blink "Looks like the coast is clear..."
     Y blink ""
 
-# game/script_day3.rpy:165
+# game/script_day3.rpy:164
 translate russian d3a1_de77d2bd:
 
     # C "Hmm... All these [t_clue]tears in the wallpaper[t_cluee]..."
     C ""
 
-# game/script_day3.rpy:166
+# game/script_day3.rpy:165
 translate russian d3a1_2fed94a9:
 
     # C grin "I wonder if that zombie is the culprit behind them. Probably thrashed around, chasing and clawing at its prey..."
     C grin ""
 
-# game/script_day3.rpy:167
+# game/script_day3.rpy:166
 translate russian d3a1_145a7860:
 
     # Y thinking "....."
     Y thinking ""
 
-# game/script_day3.rpy:168
+# game/script_day3.rpy:167
 translate russian d3a1_5ddb9154:
 
     # C surprised "Huh? Where's your retort, [name_player]?"
     C surprised ""
 
-# game/script_day3.rpy:169
+# game/script_day3.rpy:168
 translate russian d3a1_5546ecfc:
 
     # Y "It's just...if that's true..."
     Y ""
 
-# game/script_day3.rpy:172
+# game/script_day3.rpy:171
 translate russian d3a1_a64415d9:
 
     # Y "I wonder why the zombie would suddenly [t_clue]start using a knife[t_cluee]? These tears are clearly made by some other thing."
     Y ""
 
-# game/script_day3.rpy:174
+# game/script_day3.rpy:173
 translate russian d3a1_30a3b3aa:
 
     # C sad "It wasn't a serious theory, [name_player]..."
     C sad ""
 
-# game/script_day3.rpy:175
+# game/script_day3.rpy:174
 translate russian d3a1_aa297050:
 
     # C thinking "Hmm... But if I can board this train of thought anyway, maybe...the zombie learned how to use tools?"
     C thinking ""
 
-# game/script_day3.rpy:176
+# game/script_day3.rpy:175
 translate russian d3a1_f8d5d8e4:
 
     # Y blink "No... I think there's more to that \"zombie\"..."
     Y blink ""
 
-# game/script_day3.rpy:178
+# game/script_day3.rpy:177
 translate russian d3a1_32960bb7:
 
     # C surprised "Ah...!" with shakeonce
     C surprised "" with shakeonce
 
-# game/script_day3.rpy:180
+# game/script_day3.rpy:179
 translate russian d3a1_a82b698f:
 
     # Y afraid "...!! I-is it behind me...?!" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day3.rpy:187
+# game/script_day3.rpy:186
 translate russian d3a1_fae3d645:
 
     # Y shocked "...Oh. It's just [name_dog]..."
     Y shocked ""
 
-# game/script_day3.rpy:188
+# game/script_day3.rpy:187
 translate russian d3a1_f127fa9d:
 
     # I "That scared the crap outta me..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:189
+# game/script_day3.rpy:188
 translate russian d3a1_81cbe8e8:
 
     # D "....."
     D ""
 
-# game/script_day3.rpy:191
+# game/script_day3.rpy:190
 translate russian d3a1_f68dfd43:
 
     # C thinking "...Huh?"
     C thinking ""
 
-# game/script_day3.rpy:193
+# game/script_day3.rpy:192
 translate russian d3a1_8c176f46:
 
     # C determined "[name_player]. Maybe you should take a step back from him."
     C determined ""
 
-# game/script_day3.rpy:194
+# game/script_day3.rpy:193
 translate russian d3a1_bac93c63:
 
     # Y worried "What? Why? We already know he's friendly."
     Y worried ""
 
-# game/script_day3.rpy:195
+# game/script_day3.rpy:194
 translate russian d3a1_62d77a4f:
 
     # C sad "I-I dunno, I can't explain it, but..."
     C sad ""
 
-# game/script_day3.rpy:197
+# game/script_day3.rpy:196
 translate russian d3a1_5dca08fd:
 
     # C injured "I'm just...getting a [t_clue]really bad feeling[t_cluee] from him..." with shakeonce
     C injured "" with shakeonce
 
-# game/script_day3.rpy:199
+# game/script_day3.rpy:198
 translate russian d3a1_108a9b87:
 
     # Y shocked "....."
     Y shocked ""
 
-# game/script_day3.rpy:202
+# game/script_day3.rpy:201
 translate russian d3a1_c78862e0:
 
     # I "...Wait a minute. What's this dog been up to this whole time anyway?"
     I ""
 
-# game/script_day3.rpy:203
+# game/script_day3.rpy:202
 translate russian d3a1_5a49b1e1:
 
     # I "The last I saw him, he was hanging around in this lounge..."
     I ""
 
-# game/script_day3.rpy:208
+# game/script_day3.rpy:207
 translate russian d3a1_7806686c:
 
     # Y afraid2 "AHH!! W-wha...?!" with shakeshort
     Y afraid2 "" with shakeshort
 
-# game/script_day3.rpy:209
+# game/script_day3.rpy:208
 translate russian d3a1_fdb4a35e:
 
     # I "He ran off..."
     I ""
 
-# game/script_day3.rpy:217
+# game/script_day3.rpy:216
 translate russian d3a1_9a1ea5ed:
 
     # C "{cps=6}.....{/cps}"
     C ""
 
-# game/script_day3.rpy:218
+# game/script_day3.rpy:217
 translate russian d3a1_b90639b2:
 
     # Y panicked "C-Cece, why are you...?" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day3.rpy:220
+# game/script_day3.rpy:219
 translate russian d3a1_6dcc18aa:
 
     # C "{cps=6}.......{/cps}"
     C ""
 
-# game/script_day3.rpy:222
+# game/script_day3.rpy:221
 translate russian d3a1_dbe30cc6:
 
     # C sad "...I just DON'T get it... What is this...?" with hpunch
     C sad "" with hpunch
 
-# game/script_day3.rpy:224
+# game/script_day3.rpy:223
 translate russian d3a1_8b09821e:
 
     # C thinking "Maybe...a [t_clue]memory[t_cluee]...?"
     C thinking ""
 
-# game/script_day3.rpy:225
+# game/script_day3.rpy:224
 translate russian d3a1_eabef174:
 
     # Y shocked "...Cece?"
     Y shocked ""
 
-# game/script_day3.rpy:226
+# game/script_day3.rpy:225
 translate russian d3a1_55798851:
 
     # C surprised "Oh! I-it's nothing, [name_player]!" with hpunch
     C surprised "" with hpunch
 
-# game/script_day3.rpy:227
+# game/script_day3.rpy:226
 translate russian d3a1_cd632b38:
 
     # C determined "Let's get to the foyer. If the zombie comes back now, we'd have to backtrack into the basement."
     C determined ""
 
-# game/script_day3.rpy:228
+# game/script_day3.rpy:227
 translate russian d3a1_f302cf7c:
 
     # Y surprised "....."
     Y surprised ""
 
-# game/script_day3.rpy:229
+# game/script_day3.rpy:228
 translate russian d3a1_cca24a5b:
 
     # C pout "[name_player]! Come on!" with shakeonce
     C pout "" with shakeonce
 
-# game/script_day3.rpy:230
+# game/script_day3.rpy:229
 translate russian d3a1_4ee87dd0:
 
     # Y sad "Y-yeah, let's move."
     Y sad ""
 
-# game/script_day3.rpy:232
+# game/script_day3.rpy:231
 translate russian d3a1_3b21aa31_4:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:233
+# game/script_day3.rpy:232
 translate russian d3a1_a364bd4b:
 
     # I "The door is already slightly open. And I don't hear any sounds coming from the foyer."
     I ""
 
-# game/script_day3.rpy:234
+# game/script_day3.rpy:233
 translate russian d3a1_14359f4c:
 
     # I "We need to [t_clue]open this door[t_cluee]...{nw}"
     I ""
 
-# game/script_day3.rpy:236
+# game/script_day3.rpy:235
 translate russian d3a1_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:238
+# game/script_day3.rpy:237
 translate russian d3a1_77f0783d:
 
     # I "Wait, once we're in the foyer, we have some room to run around."
     I ""
 
-# game/script_day3.rpy:239
+# game/script_day3.rpy:238
 translate russian d3a1_7bec1c38:
 
     # I "As long as we're ready for an ambush, we should be fine..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:241
+# game/script_day3.rpy:240
 translate russian d3a1_3b21aa31_5:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:243
+# game/script_day3.rpy:242
 translate russian d3a1_eaf71d58:
 
     # C sad "{cps=6}.....{/cps}"
     C sad ""
 
-# game/script_day3.rpy:245
+# game/script_day3.rpy:244
 translate russian d3a1_3b21aa31_6:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:246
+# game/script_day3.rpy:245
 translate russian d3a1_abb843ed:
 
     # I "Okay, I still don't hear anything. Guess the zombie isn't in the foyer..."
     I ""
 
-# game/script_day3.rpy:247
+# game/script_day3.rpy:246
 translate russian d3a1_0bceab21:
 
     # Y leering "Okay, Cece, I'm pushing open the door."
     Y leering ""
 
-# game/script_day3.rpy:257
+# game/script_day3.rpy:256
 translate russian d3a1_3b21aa31_7:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:259
+# game/script_day3.rpy:258
 translate russian d3a1_a5ff4dbe:
 
     # I "Okay, we're almost there..."
     I ""
 
-# game/script_day3.rpy:262
+# game/script_day3.rpy:261
 translate russian d3a1_59625111:
 
     # C "How're you holding up, [name_player]? I say this with love, but you don't exactly have the sturdiest heart for this sorta thing."
     C ""
 
-# game/script_day3.rpy:263
+# game/script_day3.rpy:262
 translate russian d3a1_9a88e3f6:
 
     # Y wince "I'm fine... We're almost to our goal anyway." with hpunch
     Y wince "" with hpunch
 
-# game/script_day3.rpy:264
+# game/script_day3.rpy:263
 translate russian d3a1_ebd33943:
 
     # C thinking "Hmm... If you say so, then."
     C thinking ""
 
-# game/script_day3.rpy:265
+# game/script_day3.rpy:264
 translate russian d3a1_8df58049:
 
     # C determined "Just don't let your guard down. Mistakes tend to happen the moment you get [t_clue]overconfident[t_cluee]."
     C determined ""
 
-# game/script_day3.rpy:267
+# game/script_day3.rpy:266
 translate russian d3a1_b6feac82:
 
     # Y shadow2 "....." with shakeonce
     Y shadow2 "" with shakeonce
 
-# game/script_day3.rpy:268
+# game/script_day3.rpy:267
 translate russian d3a1_30d2201b:
 
     # I "Yeah, don't break focus... Just one last step..."
@@ -1776,511 +1776,511 @@ translate russian d3a1_choosesuspect_82d4532e:
     # I "The one who orchestrated this whole killing game is...{nw}"
     I ""
 
-# game/script_day3.rpy:696
+# game/script_day3.rpy:695
 translate russian d3a1_choosesuspect_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:698
+# game/script_day3.rpy:697
 translate russian d3a1_choosesuspect_1197a8e6:
 
     # Y shadow "...It has to be that zombie. ...No, the...\"monstrous attacker\"."
     Y shadow ""
 
-# game/script_day3.rpy:699
+# game/script_day3.rpy:698
 translate russian d3a1_choosesuspect_1d8c91cd:
 
     # O jacketless default "....."
     O jacketless default ""
 
-# game/script_day3.rpy:700
+# game/script_day3.rpy:699
 translate russian d3a1_choosesuspect_cd29b18b:
 
     # Y thinking "If he really {i}is{/i} a mindless zombie, then why did he wait so long before killing you in the lounge?"
     Y thinking ""
 
-# game/script_day3.rpy:702
+# game/script_day3.rpy:701
 translate russian d3a1_choosesuspect_59f8217c:
 
     # Y "Why did he play dead before trying to attack us while our backs were turned?"
     Y ""
 
-# game/script_day3.rpy:703
+# game/script_day3.rpy:702
 translate russian d3a1_choosesuspect_ffce8ea3:
 
     # Y leering "But most importantly... Where did he disappear to?" with shakeonce
     Y leering "" with shakeonce
 
-# game/script_day3.rpy:704
+# game/script_day3.rpy:703
 translate russian d3a1_choosesuspect_ff35db74:
 
     # Y "He has to be hiding somewhere again, waiting for another chance to kill us."
     Y ""
 
-# game/script_day3.rpy:706
+# game/script_day3.rpy:705
 translate russian d3a1_choosesuspect_649374ff:
 
     # O jacketless thinking "....."
     O jacketless thinking ""
 
-# game/script_day3.rpy:707
+# game/script_day3.rpy:706
 translate russian d3a1_choosesuspect_129a41f3:
 
     # Y surprised "...Huh? What is it?"
     Y surprised ""
 
-# game/script_day3.rpy:708
+# game/script_day3.rpy:707
 translate russian d3a1_choosesuspect_e9bbb715:
 
     # O "It's just... Don't you remember what Cecilia said when she checked the corpse in the basement?"
     O ""
 
-# game/script_day3.rpy:715
+# game/script_day3.rpy:714
 translate russian d3a1_choosesuspect_8a545ea0:
 
     # Y afraid "Wh-what is..." with shakeonce
     Y afraid "" with shakeonce
 
-# game/script_day3.rpy:718
+# game/script_day3.rpy:717
 translate russian d3a1_choosesuspect_41248aee:
 
     # C surprised "Looks like a dead man sitting. Wait, hang on..."
     C surprised ""
 
-# game/script_day3.rpy:719
+# game/script_day3.rpy:718
 translate russian d3a1_choosesuspect_f30a81a7:
 
     # C thinking "...Yep. [t_clue]No pulse[t_cluee]. Definitely dead."
     C thinking ""
 
-# game/script_day3.rpy:720
+# game/script_day3.rpy:719
 translate russian d3a1_choosesuspect_3a9a6a67:
 
     # Y depressed "He's...dead...? Then... Is the culprit...?" with shakeonce
     Y depressed "" with shakeonce
 
-# game/script_day3.rpy:728
+# game/script_day3.rpy:727
 translate russian d3a1_choosesuspect_31c82198:
 
     # I "...That's right..."
     I ""
 
-# game/script_day3.rpy:729
+# game/script_day3.rpy:728
 translate russian d3a1_choosesuspect_53f094ea:
 
     # Y troubled "He...didn't have a pulse..." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3.rpy:730
+# game/script_day3.rpy:729
 translate russian d3a1_choosesuspect_2ef10c19:
 
     # O jacketless blink "...Admittedly, only Cecilia touched his body directly."
     O jacketless blink ""
 
-# game/script_day3.rpy:731
+# game/script_day3.rpy:730
 translate russian d3a1_choosesuspect_d47a2afa:
 
     # O jacketless thinking "But considering how she protected us from him later, it wouldn't make sense if she lied about that."
     O jacketless thinking ""
 
-# game/script_day3.rpy:732
+# game/script_day3.rpy:731
 translate russian d3a1_choosesuspect_468b81d5:
 
     # O jacketless leering "And then both of us saw him move and attack us. That is a fact." with shakeonce
     O jacketless leering "" with shakeonce
 
-# game/script_day3.rpy:733
+# game/script_day3.rpy:732
 translate russian d3a1_choosesuspect_030806d4:
 
     # Y thinking "Then... He must have been able to move despite not having a pulse...?"
     Y thinking ""
 
-# game/script_day3.rpy:734
+# game/script_day3.rpy:733
 translate russian d3a1_choosesuspect_2aa343a3:
 
     # O jacketless blink "...Normally I would say that's preposterous, but..."
     O jacketless blink ""
 
-# game/script_day3.rpy:735
+# game/script_day3.rpy:734
 translate russian d3a1_choosesuspect_27315978:
 
     # O "...I suppose if time travel is possible, then reanimated corpses shouldn't come as a surprise."
     O ""
 
-# game/script_day3.rpy:736
+# game/script_day3.rpy:735
 translate russian d3a1_choosesuspect_a00146ac:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:737
+# game/script_day3.rpy:736
 translate russian d3a1_choosesuspect_86f4aa2c:
 
     # O jacketless thinking "That said, though... If he really is the mastermind, then his actions don't fully make sense."
     O jacketless thinking ""
 
-# game/script_day3.rpy:738
+# game/script_day3.rpy:737
 translate russian d3a1_choosesuspect_8bf7db42:
 
     # O "For instance, if he wanted us to kill each other in the killing game, why would he suddenly try to attack us now?"
     O ""
 
-# game/script_day3.rpy:739
+# game/script_day3.rpy:738
 translate russian d3a1_choosesuspect_aaaebfbb:
 
     # O "And now, he's gone missing... Why did he stop pursuing us?"
     O ""
 
-# game/script_day3.rpy:742
+# game/script_day3.rpy:741
 translate russian d3a1_choosesuspect_05f18e11:
 
     # Y wince "...Could it be... [name_dog]?" with hpunch
     Y wince "" with hpunch
 
-# game/script_day3.rpy:743
+# game/script_day3.rpy:742
 translate russian d3a1_choosesuspect_1d8c91cd_1:
 
     # O jacketless default "....."
     O jacketless default ""
 
-# game/script_day3.rpy:744
+# game/script_day3.rpy:743
 translate russian d3a1_choosesuspect_cb8889c3:
 
     # O jacketless blink "...We can't really rule that out, I suppose."
     O jacketless blink ""
 
-# game/script_day3.rpy:745
+# game/script_day3.rpy:744
 translate russian d3a1_choosesuspect_7a96229d:
 
     # Y panicked "H-huh? I was kinda expecting you to deny it..." with hpunch
     Y panicked "" with hpunch
 
-# game/script_day3.rpy:746
+# game/script_day3.rpy:745
 translate russian d3a1_choosesuspect_05eac782:
 
     # O jacketless thinking "As much as it would pain me if that were the case, considering what's happened so far, it wouldn't be the strangest thing."
     O jacketless thinking ""
 
-# game/script_day3.rpy:747
+# game/script_day3.rpy:746
 translate russian d3a1_choosesuspect_3d583f9b:
 
     # O jacketless irritated "[name_dog]'s appearances have been rare and sudden, to say the least."
     O jacketless irritated ""
 
-# game/script_day3.rpy:748
+# game/script_day3.rpy:747
 translate russian d3a1_choosesuspect_43bcd4b9:
 
     # Y thinking "Yeah, even in my own memories, I can count the number of times I've ever seen [name_dog] on one hand..."
     Y thinking ""
 
-# game/script_day3.rpy:765
+# game/script_day3.rpy:764
 translate russian d3a1_choosesuspect_dfcfc1c8:
 
     # I "And all he ever does is watch us for a while, then run away..."
     I ""
 
-# game/script_day3.rpy:767
+# game/script_day3.rpy:766
 translate russian d3a1_choosesuspect_5cc692bf:
 
     # O jacketless thinking "There's just one issue with that possibility, [name_player]."
     O jacketless thinking ""
 
-# game/script_day3.rpy:769
+# game/script_day3.rpy:768
 translate russian d3a1_choosesuspect_c221b1cd:
 
     # O jacketless default "There's no way [name_dog] could have written the [t_clue]message on the front door[t_cluee]."
     O jacketless default ""
 
-# game/script_day3.rpy:770
+# game/script_day3.rpy:769
 translate russian d3a1_choosesuspect_6b2711e7:
 
     # Y surprised "The front door..."
     Y surprised ""
 
-# game/script_day3.rpy:781
+# game/script_day3.rpy:780
 translate russian d3a1_choosesuspect_2554d420:
 
     # I "...Yeah, she's right..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:782
+# game/script_day3.rpy:781
 translate russian d3a1_choosesuspect_20b1a924:
 
     # I "It's written too high up and too well for a dog to have done it..."
     I ""
 
-# game/script_day3.rpy:789
+# game/script_day3.rpy:788
 translate russian d3a1_choosesuspect_444c4411:
 
     # O "That message is the {color=#ff0000}sole reason{/color} this entire killing game began."
     O ""
 
-# game/script_day3.rpy:790
+# game/script_day3.rpy:789
 translate russian d3a1_choosesuspect_118f76e9:
 
     # O "I suppose [name_dog] could've had a human accomplice, but then we're back to suspecting everyone else again."
     O ""
 
-# game/script_day3.rpy:793
+# game/script_day3.rpy:792
 translate russian d3a1_choosesuspect_21791070:
 
     # Y shadow2 "....."
     Y shadow2 ""
 
-# game/script_day3.rpy:795
+# game/script_day3.rpy:794
 translate russian d3a1_choosesuspect_3214a4da:
 
     # Y "...It can only be one of us, right?"
     Y ""
 
-# game/script_day3.rpy:799
+# game/script_day3.rpy:798
 translate russian d3a1_choosesuspect_d9557cda:
 
     # Y blink "...It has to be someone [t_clue]outside the house[t_cluee]."
     Y blink ""
 
-# game/script_day3.rpy:800
+# game/script_day3.rpy:799
 translate russian d3a1_choosesuspect_1d8c91cd_2:
 
     # O jacketless default "....."
     O jacketless default ""
 
-# game/script_day3.rpy:801
+# game/script_day3.rpy:800
 translate russian d3a1_choosesuspect_6ba63e38:
 
     # Y wince "No matter what angle I think from, it can't possibly be anyone {i}inside{/i} the house." with shakeonce
     Y wince "" with shakeonce
 
-# game/script_day3.rpy:803
+# game/script_day3.rpy:802
 translate russian d3a1_choosesuspect_7cc73600:
 
     # Y thinking "The zombie's actions don't make sense for the killing game, we're the \"players\", and [name_dog] is...well, a DOG."
     Y thinking ""
 
-# game/script_day3.rpy:804
+# game/script_day3.rpy:803
 translate russian d3a1_choosesuspect_afb74623:
 
     # Y surprised "And the front door... It always opens really loudly the MOMENT one of us dies."
     Y surprised ""
 
-# game/script_day3.rpy:805
+# game/script_day3.rpy:804
 translate russian d3a1_choosesuspect_7b663d59:
 
     # Y leering "That means...someone has to be watching this entire \"game\" as it unfolds. Hearing [t_clue]every word we speak[t_cluee], even now." with shakeonce
     Y leering "" with shakeonce
 
-# game/script_day3.rpy:807
+# game/script_day3.rpy:806
 translate russian d3a1_choosesuspect_2aef84cf:
 
     # O jacketless blink "[name_player]. I see where you're going with this."
     O jacketless blink ""
 
-# game/script_day3.rpy:808
+# game/script_day3.rpy:807
 translate russian d3a1_choosesuspect_ae06074c:
 
     # Y angry "...Yeah. We're in some [t_clue]maniac's crazy game[t_cluee]." with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day3.rpy:810
+# game/script_day3.rpy:809
 translate russian d3a1_choosesuspect_469f1610:
 
     # Y pained "It's probably whoever was experimenting with the occult materials in the attic and the basement." with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day3.rpy:811
+# game/script_day3.rpy:810
 translate russian d3a1_choosesuspect_e7755293:
 
     # Y pained2 "Or...some [t_clue]demon[t_cluee] they summoned through those experiments." with shakeonce
     Y pained2 "" with shakeonce
 
-# game/script_day3.rpy:814
+# game/script_day3.rpy:813
 translate russian d3a1_choosesuspect_fa201632:
 
     # Y depressed "...Wait. Is this not the real world? Are we not in our real bodies right now?" with shakeonce
     Y depressed "" with shakeonce
 
-# game/script_day3.rpy:816
+# game/script_day3.rpy:815
 translate russian d3a1_choosesuspect_f658488a:
 
     # O jacketless leering "[name_player]. You're going too far with your theorizing."
     O jacketless leering ""
 
-# game/script_day3.rpy:818
+# game/script_day3.rpy:817
 translate russian d3a1_choosesuspect_245e3742:
 
     # Y troubled "....." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3.rpy:819
+# game/script_day3.rpy:818
 translate russian d3a1_choosesuspect_f28b5683:
 
     # O jacketless irritated "...I won't deny the occult aspect of this situation. As loath as I am to accept."
     O jacketless irritated ""
 
-# game/script_day3.rpy:821
+# game/script_day3.rpy:820
 translate russian d3a1_choosesuspect_4d2aa9ce:
 
     # O jacketless leering "But keep in mind that you have your time travel power. A power that is [t_clue]exclusively yours[t_cluee]."
     O jacketless leering ""
 
-# game/script_day3.rpy:822
+# game/script_day3.rpy:821
 translate russian d3a1_choosesuspect_ffdc2568:
 
     # Y thinking "Huh? What does that have to do with anything...?"
     Y thinking ""
 
-# game/script_day3.rpy:823
+# game/script_day3.rpy:822
 translate russian d3a1_choosesuspect_5b913941:
 
     # O jacketless irritated "Let's suppose for a moment that this whole house...this \"killing game\" is a fabrication designed to torture us."
     O jacketless irritated ""
 
-# game/script_day3.rpy:824
+# game/script_day3.rpy:823
 translate russian d3a1_choosesuspect_cf495fac:
 
     # O jacketless leering "Do you think whatever monster responsible for this would've given you the power to constantly undo any of our deaths?"
     O jacketless leering ""
 
-# game/script_day3.rpy:825
+# game/script_day3.rpy:824
 translate russian d3a1_choosesuspect_6b4eeb04:
 
     # Y pained "But I can't even control it... I must've gotten it so that I would endlessly go through--" with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day3.rpy:827
+# game/script_day3.rpy:826
 translate russian d3a1_choosesuspect_fe4ba275:
 
     # O "Then why don't Cecilia and I have the same power?" with shakeshort
     O "" with shakeshort
 
-# game/script_day3.rpy:828
+# game/script_day3.rpy:827
 translate russian d3a1_choosesuspect_529f1571:
 
     # Y shocked "Th-that's..." with shakeonce
     Y shocked "" with shakeonce
 
-# game/script_day3.rpy:829
+# game/script_day3.rpy:828
 translate russian d3a1_choosesuspect_cadc39eb:
 
     # O jacketless thinking "It's true that I'm starting to remember faint details now, but..."
     O jacketless thinking ""
 
-# game/script_day3.rpy:830
+# game/script_day3.rpy:829
 translate russian d3a1_choosesuspect_65275ddc:
 
     # O jacketless default "Whenever you would tell us about the future events you've experienced, Cecilia and I were genuinely surprised by them."
     O jacketless default ""
 
-# game/script_day3.rpy:831
+# game/script_day3.rpy:830
 translate russian d3a1_choosesuspect_e351293d:
 
     # O jacketless blink "From our point of view, we're in a \"normal\" killing game, as oxymoronic as that sounds."
     O jacketless blink ""
 
-# game/script_day3.rpy:832
+# game/script_day3.rpy:831
 translate russian d3a1_choosesuspect_9a0bca01:
 
     # O "In other words, your time travel power has to be an unexpected variable. Something the culprit [t_clue]didn't anticipate[t_cluee]."
     O ""
 
-# game/script_day3.rpy:834
+# game/script_day3.rpy:833
 translate russian d3a1_choosesuspect_a00146ac_1:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:835
+# game/script_day3.rpy:834
 translate russian d3a1_choosesuspect_9ece0f1c:
 
     # O "...There's still hope, [name_player]. There's a way out of this."
     O ""
 
-# game/script_day3.rpy:837
+# game/script_day3.rpy:836
 translate russian d3a1_choosesuspect_d0013953:
 
     # O jacketless leering "This place... It's NOT {color=#ff0000}Hell{/color}."
     O jacketless leering ""
 
-# game/script_day3.rpy:839
+# game/script_day3.rpy:838
 translate russian d3a1_choosesuspect_fc2242ca:
 
     # Y depressed "....."
     Y depressed ""
 
-# game/script_day3.rpy:841
+# game/script_day3.rpy:840
 translate russian d3a1_choosesuspect_220905df:
 
     # Y sad "....." with shakeonce
     Y sad "" with shakeonce
 
-# game/script_day3.rpy:843
+# game/script_day3.rpy:842
 translate russian d3a1_choosesuspect_9af20b8e:
 
     # Y blink "...You're right. Sorry." with hpunch
     Y blink "" with hpunch
 
-# game/script_day3.rpy:845
+# game/script_day3.rpy:844
 translate russian d3a1_choosesuspect_f6a45bb2:
 
     # O jacketless blink "....."
     O jacketless blink ""
 
-# game/script_day3.rpy:846
+# game/script_day3.rpy:845
 translate russian d3a1_choosesuspect_aec1107d:
 
     # O jacketless thinking "But getting back on track..."
     O jacketless thinking ""
 
-# game/script_day3.rpy:847
+# game/script_day3.rpy:846
 translate russian d3a1_choosesuspect_bce0ec01:
 
     # O jacketless default "...We're not dealing with some omniscient being. The culprit is a being with limits, like any of us."
     O jacketless default ""
 
-# game/script_day3.rpy:848
+# game/script_day3.rpy:847
 translate russian d3a1_choosesuspect_c509aac6:
 
     # O "So I don't think they could be outside of the house. There's no surveillance cameras anywhere, and the windows are fogged up."
     O ""
 
-# game/script_day3.rpy:851
+# game/script_day3.rpy:850
 translate russian d3a1_choosesuspect_a1d095a6:
 
     # Y sad "{cps=6}.....{/cps} ...I don't know."
     Y sad ""
 
-# game/script_day3.rpy:853
+# game/script_day3.rpy:852
 translate russian d3a1_choosesuspect_b39a76ae:
 
     # Y wince "I feel like I don't have enough information to even make a guess." with hpunch
     Y wince "" with hpunch
 
-# game/script_day3.rpy:855
+# game/script_day3.rpy:854
 translate russian d3a1_choosesuspect_1d8c91cd_3:
 
     # O jacketless default "....."
     O jacketless default ""
 
-# game/script_day3.rpy:856
+# game/script_day3.rpy:855
 translate russian d3a1_choosesuspect_86343db9:
 
     # O jacketless thinking "...I suppose I can't blame you for hesitating. It's generally unwise to base your theories on conjecture."
     O jacketless thinking ""
 
-# game/script_day3.rpy:857
+# game/script_day3.rpy:856
 translate russian d3a1_choosesuspect_a00146ac_2:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:858
+# game/script_day3.rpy:857
 translate russian d3a1_choosesuspect_650f8fdb:
 
     # O jacketless irritated "But there are moments where you have no choice but to do so."
     O jacketless irritated ""
 
-# game/script_day3.rpy:859
+# game/script_day3.rpy:858
 translate russian d3a1_choosesuspect_7f3f12be:
 
     # O "Even if all the facts haven't been laid out yet, you can still pick a direction and have faith it will lead you to the [t_clue]truth[t_cluee]."
@@ -2784,67 +2784,67 @@ translate russian d3a1_choosesuspect_end_59e9f6bb:
     # Y "...Ria. I think...{nw}"
     Y ""
 
-# game/script_day3.rpy:1051
+# game/script_day3.rpy:1050
 translate russian d3a1_choosesuspect_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1053
+# game/script_day3.rpy:1052
 translate russian d3a1_choosesuspect_end_b61a17eb:
 
     # Y leering "...We're nearly at the end of all this. Everything will be all right." with shakeonce
     Y leering "" with shakeonce
 
-# game/script_day3.rpy:1055
+# game/script_day3.rpy:1054
 translate russian d3a1_choosesuspect_end_59f6c1b7:
 
     # O jacketless leering "...What makes you so sure?"
     O jacketless leering ""
 
-# game/script_day3.rpy:1056
+# game/script_day3.rpy:1055
 translate russian d3a1_choosesuspect_end_7b86467d:
 
     # Y blink "I even tried concentrating, but I couldn't see any more unusual memories."
     Y blink ""
 
-# game/script_day3.rpy:1058
+# game/script_day3.rpy:1057
 translate russian d3a1_choosesuspect_end_6653ad00:
 
     # Y "I don't know what the future looks like going forward from here. In other words..."
     Y ""
 
-# game/script_day3.rpy:1060
+# game/script_day3.rpy:1059
 translate russian d3a1_choosesuspect_end_9c10fa28:
 
     # Y wince "...We'll need to be extra careful going forward." with shakeonce
     Y wince "" with shakeonce
 
-# game/script_day3.rpy:1061
+# game/script_day3.rpy:1060
 translate russian d3a1_choosesuspect_end_a01160fd:
 
     # Y sad "I... I don't think time will rewind anymore. I don't know what's in the future this time."
     Y sad ""
 
-# game/script_day3.rpy:1063
+# game/script_day3.rpy:1062
 translate russian d3a1_choosesuspect_end_e043cfcf:
 
     # O jacketless surprised "...! A-are you sure?" with shakeonce
     O jacketless surprised "" with shakeonce
 
-# game/script_day3.rpy:1064
+# game/script_day3.rpy:1063
 translate russian d3a1_choosesuspect_end_a2fbcb3c:
 
     # Y wince "Yeah... I was trying to focus earlier, and no new memories come to mind."
     Y wince ""
 
-# game/script_day3.rpy:1065
+# game/script_day3.rpy:1064
 translate russian d3a1_choosesuspect_end_582acada:
 
     # O jacketless leering "So you mean...the \"[name_player]\" in front of me right now didn't travel back in time at all?"
     O jacketless leering ""
 
-# game/script_day3.rpy:1066
+# game/script_day3.rpy:1065
 translate russian d3a1_choosesuspect_end_f6de790b:
 
     # Y sad "Exactly... That's why I think..."
@@ -3102,925 +3102,925 @@ translate russian d3a1_masterbedroom_ria_hearttoheart_8e13c827:
     # O jacketless default "Do you remember back in the dining room...when we talked about the third member in the Occult Club?{nw}"
     O jacketless default ""
 
-# game/script_day3.rpy:1149
+# game/script_day3.rpy:1148
 translate russian d3a1_masterbedroom_ria_hearttoheart_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1151
+# game/script_day3.rpy:1150
 translate russian d3a1_masterbedroom_ria_hearttoheart_28f1150d:
 
     # Y thinking "Right... It didn't seem like you wanted to talk about that, though."
     Y thinking ""
 
-# game/script_day3.rpy:1152
+# game/script_day3.rpy:1151
 translate russian d3a1_masterbedroom_ria_hearttoheart_ca640640:
 
     # O jacketless blink "...It's fine now. I think... No, you definitely deserve to know."
     O jacketless blink ""
 
-# game/script_day3.rpy:1154
+# game/script_day3.rpy:1153
 translate russian d3a1_masterbedroom_ria_hearttoheart_bfc82fd8:
 
     # Y worried "Uh... Sorry, I don't remember." with hpunch
     Y worried "" with hpunch
 
-# game/script_day3.rpy:1155
+# game/script_day3.rpy:1154
 translate russian d3a1_masterbedroom_ria_hearttoheart_644b6c4c:
 
     # O jacketless thinking "That's fine. We barely talked about it, after all."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1157
+# game/script_day3.rpy:1156
 translate russian d3a1_masterbedroom_ria_hearttoheart_df117f36:
 
     # Y thinking "...?"
     Y thinking ""
 
-# game/script_day3.rpy:1158
+# game/script_day3.rpy:1157
 translate russian d3a1_masterbedroom_ria_hearttoheart_32139841:
 
     # O jacketless blink "As of this year, the Occult Club currently consists of three members."
     O jacketless blink ""
 
-# game/script_day3.rpy:1159
+# game/script_day3.rpy:1158
 translate russian d3a1_masterbedroom_ria_hearttoheart_4e7f4fee:
 
     # O "There's Cecilia, the president. Then there's me. And finally, the third member."
     O ""
 
-# game/script_day3.rpy:1161
+# game/script_day3.rpy:1160
 translate russian d3a1_masterbedroom_ria_hearttoheart_9930e86f:
 
     # O jacketless thinking "Her name is... {w=1.0}[t_clue]Carol-Maria[t_cluee]."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1162
+# game/script_day3.rpy:1161
 translate russian d3a1_masterbedroom_ria_hearttoheart_dabd2e78:
 
     # Y surprised "Carol...and Maria...?"
     Y surprised ""
 
-# game/script_day3.rpy:1163
+# game/script_day3.rpy:1162
 translate russian d3a1_masterbedroom_ria_hearttoheart_f0c909ca:
 
     # O jacketless blink "It's both of those names put together. Her parents were whimsical. Not important right now."
     O jacketless blink ""
 
-# game/script_day3.rpy:1164
+# game/script_day3.rpy:1163
 translate russian d3a1_masterbedroom_ria_hearttoheart_ddf41a3e:
 
     # O jacketless default "Anyway, Carol-Maria and I were acquainted long before we joined the Occult Club. We met in our first semester of high school."
     O jacketless default ""
 
-# game/script_day3.rpy:1165
+# game/script_day3.rpy:1164
 translate russian d3a1_masterbedroom_ria_hearttoheart_e5045697:
 
     # O jacketless thinking "She and I have...opposite personalities. And back in the day, we were like oil and water."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1166
+# game/script_day3.rpy:1165
 translate russian d3a1_masterbedroom_ria_hearttoheart_4cda81ee:
 
     # Y thinking "Huh? Oil and...?"
     Y thinking ""
 
-# game/script_day3.rpy:1167
+# game/script_day3.rpy:1166
 translate russian d3a1_masterbedroom_ria_hearttoheart_c1a24558:
 
     # O jacketless blink "As in, we didn't get along. In fact, our very first conversation began with me yelling at her."
     O jacketless blink ""
 
-# game/script_day3.rpy:1173
+# game/script_day3.rpy:1172
 translate russian d3a1_masterbedroom_ria_hearttoheart_78dc2b87:
 
     # O "What... What in the world are you...{size=-10}all doing...?{/size}"
     O ""
 
-# game/script_day3.rpy:1175
+# game/script_day3.rpy:1174
 translate russian d3a1_masterbedroom_ria_hearttoheart_c1b51aca:
 
     # X "Huh? Who's this tiny little kid?"
     X ""
 
-# game/script_day3.rpy:1177
+# game/script_day3.rpy:1176
 translate russian d3a1_masterbedroom_ria_hearttoheart_d40eb0d4:
 
     # X "I guess she's a first-year? Do you know this girl, Carol?"
     X ""
 
-# game/script_day3.rpy:1179
+# game/script_day3.rpy:1178
 translate russian d3a1_masterbedroom_ria_hearttoheart_07b44903:
 
     # K "Nope, first time seeing her."
     K ""
 
-# game/script_day3.rpy:1180
+# game/script_day3.rpy:1179
 translate russian d3a1_masterbedroom_ria_hearttoheart_62028a84:
 
     # O "Um... F-first period is already under way, and...and you're all here with...{w=0.5}{nw}"
     O ""
 
-# game/script_day3.rpy:1182
+# game/script_day3.rpy:1181
 translate russian d3a1_masterbedroom_ria_hearttoheart_c65fe56f:
 
     # extend " Wait, is that...?!" with shakeonce
     extend "" with shakeonce
 
-# game/script_day3.rpy:1184
+# game/script_day3.rpy:1183
 translate russian d3a1_masterbedroom_ria_hearttoheart_3f45b848:
 
     # X "Oh, lighten up, four-eyes. Come on, you can try one if you want~"
     X ""
 
-# game/script_day3.rpy:1189
+# game/script_day3.rpy:1188
 translate russian d3a1_masterbedroom_ria_hearttoheart_07b67268:
 
     # O "You... Y-you shouldn't...{size=-10}be doing this...{/size}" with shakeonce
     O "" with shakeonce
 
-# game/script_day3.rpy:1191
+# game/script_day3.rpy:1190
 translate russian d3a1_masterbedroom_ria_hearttoheart_00414a75:
 
     # X "Ha! Check it out, the kid's trying to tell us what we can and can't do!" with vpunch
     X "" with vpunch
 
-# game/script_day3.rpy:1192
+# game/script_day3.rpy:1191
 translate russian d3a1_masterbedroom_ria_hearttoheart_4ab6ff31:
 
     # K "Hey, keep your voice down! What if a teacher shows up?" with hpunch
     K "" with hpunch
 
-# game/script_day3.rpy:1193
+# game/script_day3.rpy:1192
 translate russian d3a1_masterbedroom_ria_hearttoheart_f95572d6:
 
     # O "Th-this isn't about me... It's about...{size=-10}being proper members of society...{/size}"
     O ""
 
-# game/script_day3.rpy:1195
+# game/script_day3.rpy:1194
 translate russian d3a1_masterbedroom_ria_hearttoheart_a8df03c6:
 
     # X "Huh? What did you say? What's wrong with you; why do you keep mumbling like that?"
     X ""
 
-# game/script_day3.rpy:1197
+# game/script_day3.rpy:1196
 translate russian d3a1_masterbedroom_ria_hearttoheart_739be73e:
 
     # X "She said something about \"society\". Ha, we got a little Lady Justice here!"
     X ""
 
-# game/script_day3.rpy:1198
+# game/script_day3.rpy:1197
 translate russian d3a1_masterbedroom_ria_hearttoheart_e5ed154b:
 
     # O "I'm... I-I'm not--" with shakeonce
     O "" with shakeonce
 
-# game/script_day3.rpy:1200
+# game/script_day3.rpy:1199
 translate russian d3a1_masterbedroom_ria_hearttoheart_32598e8c:
 
     # X "Aren't you a first-year? You've only been in high school for like what, a week?"
     X ""
 
-# game/script_day3.rpy:1202
+# game/script_day3.rpy:1201
 translate russian d3a1_masterbedroom_ria_hearttoheart_3ec173e9:
 
     # X "Move along, kid. It's clearly too soon for you to join our fun."
     X ""
 
-# game/script_day3.rpy:1203
+# game/script_day3.rpy:1202
 translate russian d3a1_masterbedroom_ria_hearttoheart_64961adc:
 
     # O "..... {size=-10}*sniff*{/size}"
     O ""
 
-# game/script_day3.rpy:1205
+# game/script_day3.rpy:1204
 translate russian d3a1_masterbedroom_ria_hearttoheart_00867ef8:
 
     # X "Wha-- DUDE, you made her cry! You're so baaaad~" with shakeshort
     X "" with shakeshort
 
-# game/script_day3.rpy:1211
+# game/script_day3.rpy:1210
 translate russian d3a1_masterbedroom_ria_hearttoheart_c7eb826a:
 
     # X "Awww, I didn't mean to do that... Okay, come over here, kid, let me--{w=1.0}{nw}"
     X ""
 
-# game/script_day3.rpy:1214
+# game/script_day3.rpy:1213
 translate russian d3a1_masterbedroom_ria_hearttoheart_61ef8509:
 
     # extend " OUCH!!" with shakeshort
     extend "" with shakeshort
 
-# game/script_day3.rpy:1215
+# game/script_day3.rpy:1214
 translate russian d3a1_masterbedroom_ria_hearttoheart_f7ae0243:
 
     # X "Wh-wha... Carol?!" with shakeonce
     X "" with shakeonce
 
-# game/script_day3.rpy:1216
+# game/script_day3.rpy:1215
 translate russian d3a1_masterbedroom_ria_hearttoheart_dcbc5441:
 
     # K "...You already crossed a line, and were about to cross another one."
     K ""
 
-# game/script_day3.rpy:1217
+# game/script_day3.rpy:1216
 translate russian d3a1_masterbedroom_ria_hearttoheart_8f9aa84a:
 
     # K "It's been fun, I guess, but we're done here.{w=0.5}{nw}"
     K ""
 
-# game/script_day3.rpy:1219
+# game/script_day3.rpy:1218
 translate russian d3a1_masterbedroom_ria_hearttoheart_b8136876:
 
     # extend " Never talk to me again." with shakeonce
     extend "" with shakeonce
 
-# game/script_day3.rpy:1220
+# game/script_day3.rpy:1219
 translate russian d3a1_masterbedroom_ria_hearttoheart_d42b124e:
 
     # X "Carol... You--" with shakeshort
     X "" with shakeshort
 
-# game/script_day3.rpy:1223
+# game/script_day3.rpy:1222
 translate russian d3a1_masterbedroom_ria_hearttoheart_e3076a92:
 
     # X "Hey, four-eyes is running! Crap, we gotta clean this up before a teacher comes!" with shakeshort
     X "" with shakeshort
 
-# game/script_day3.rpy:1227
+# game/script_day3.rpy:1226
 translate russian d3a1_masterbedroom_ria_hearttoheart_9f78ad8f:
 
     # O "*pant* *gasp* *wheeze*" with shakeshort
     O "" with shakeshort
 
-# game/script_day3.rpy:1229
+# game/script_day3.rpy:1228
 translate russian d3a1_masterbedroom_ria_hearttoheart_7e5da601:
 
     # K "H-hey! Fellow first-year girl! Slow down!" with shakeshort
     K "" with shakeshort
 
-# game/script_day3.rpy:1237
+# game/script_day3.rpy:1236
 translate russian d3a1_masterbedroom_ria_hearttoheart_d1b04dad:
 
     # O "*pant* ...Y-you're..." with shakeonce
     O "" with shakeonce
 
-# game/script_day3.rpy:1238
+# game/script_day3.rpy:1237
 translate russian d3a1_masterbedroom_ria_hearttoheart_50e925fc:
 
     # K "Whew! You run fast, um... Sorry, what was your name again? Mine's, uh...Carol-Maria." with vpunch
     K "" with vpunch
 
-# game/script_day3.rpy:1240
+# game/script_day3.rpy:1239
 translate russian d3a1_masterbedroom_ria_hearttoheart_5b1c2b4f:
 
     # O "Carol... *pant* ...Maria..."
     O ""
 
-# game/script_day3.rpy:1241
+# game/script_day3.rpy:1240
 translate russian d3a1_masterbedroom_ria_hearttoheart_45bc48c0:
 
     # K "Eh... It's actually the names \"Carol\" and \"Maria\" stuck together with a hyphen. I know it's weird, but--"
     K ""
 
-# game/script_day3.rpy:1243
+# game/script_day3.rpy:1242
 translate russian d3a1_masterbedroom_ria_hearttoheart_ed31aebc:
 
     # O "SCREW YOU! AND SCREW THOSE GUYS!" with shakelong
     O "" with shakelong
 
-# game/script_day3.rpy:1244
+# game/script_day3.rpy:1243
 translate russian d3a1_masterbedroom_ria_hearttoheart_2785e9f7:
 
     # K "ACK! Wh-whoa, so you CAN speak louder..." with hpunch
     K "" with hpunch
 
-# game/script_day3.rpy:1245
+# game/script_day3.rpy:1244
 translate russian d3a1_masterbedroom_ria_hearttoheart_5f5366a5:
 
     # O "You're the same age as me, right?! You've only been here for a week too, RIGHT?!" with shakeonce
     O "" with shakeonce
 
-# game/script_day3.rpy:1247
+# game/script_day3.rpy:1246
 translate russian d3a1_masterbedroom_ria_hearttoheart_e83ffdf3:
 
     # K "Y-yes, that's correct..." with hpunch
     K "" with hpunch
 
-# game/script_day3.rpy:1250
+# game/script_day3.rpy:1249
 translate russian d3a1_masterbedroom_ria_hearttoheart_1b83b8e7:
 
     # O "WHAT WERE YOU THINKING?! Those guys were... They were--" with shakelong
     O "" with shakelong
 
-# game/script_day3.rpy:1252
+# game/script_day3.rpy:1251
 translate russian d3a1_masterbedroom_ria_hearttoheart_84a0ec9b:
 
     # K "AHHHH, you don't have to say it! Look, yes, they were doing...something bad, but like... They're not..." with shakeonce
     K "" with shakeonce
 
-# game/script_day3.rpy:1253
+# game/script_day3.rpy:1252
 translate russian d3a1_masterbedroom_ria_hearttoheart_19094a41:
 
     # O "{cps=6}.....{/cps} ...They're not...?"
     O ""
 
-# game/script_day3.rpy:1254
+# game/script_day3.rpy:1253
 translate russian d3a1_masterbedroom_ria_hearttoheart_fae4e416:
 
     # K "{cps=6}.....{/cps}{w=0.5} {nw}"
     K ""
 
-# game/script_day3.rpy:1256
+# game/script_day3.rpy:1255
 translate russian d3a1_masterbedroom_ria_hearttoheart_ada28647:
 
     # extend "*sigh* No, you're right. I guess I could hang out with better people. I just kinda went with the flow, you see." with hpunch
     extend "" with hpunch
 
-# game/script_day3.rpy:1257
+# game/script_day3.rpy:1256
 translate russian d3a1_masterbedroom_ria_hearttoheart_1596a70d:
 
     # O "The \"flow\"? The \"flow\" led you to commit a cri--"
     O ""
 
-# game/script_day3.rpy:1258
+# game/script_day3.rpy:1257
 translate russian d3a1_masterbedroom_ria_hearttoheart_f02bf538:
 
     # K "I didn't try any of those, I swear! I was just hanging with them!" with shakeonce
     K "" with shakeonce
 
-# game/script_day3.rpy:1259
+# game/script_day3.rpy:1258
 translate russian d3a1_masterbedroom_ria_hearttoheart_5b4e1ca8:
 
     # K "I mean, you know what it's like, right? First few days of high school, you wanna make friends right away so you can..."
     K ""
 
-# game/script_day3.rpy:1261
+# game/script_day3.rpy:1260
 translate russian d3a1_masterbedroom_ria_hearttoheart_ab029ca5:
 
     # O "{cps=6}.....{/cps}"
     O ""
 
-# game/script_day3.rpy:1262
+# game/script_day3.rpy:1261
 translate russian d3a1_masterbedroom_ria_hearttoheart_916fb412:
 
     # K "Uh... You, uh... H-have friends, right?"
     K ""
 
-# game/script_day3.rpy:1264
+# game/script_day3.rpy:1263
 translate russian d3a1_masterbedroom_ria_hearttoheart_f2069583:
 
     # O "{cps=6}.....{/cps}{w=1.0} {size=-10}No.{/size}"
     O ""
 
-# game/script_day3.rpy:1265
+# game/script_day3.rpy:1264
 translate russian d3a1_masterbedroom_ria_hearttoheart_0c7b4974:
 
     # K "...You know what? Tell me your name. Come on, quickly."
     K ""
 
-# game/script_day3.rpy:1266
+# game/script_day3.rpy:1265
 translate russian d3a1_masterbedroom_ria_hearttoheart_42c52190:
 
     # O "...Oriana."
     O ""
 
-# game/script_day3.rpy:1268
+# game/script_day3.rpy:1267
 translate russian d3a1_masterbedroom_ria_hearttoheart_2409a328:
 
     # K "Oriana! From this day onwards, we're friends!" with vpunch
     K "" with vpunch
 
-# game/script_day3.rpy:1269
+# game/script_day3.rpy:1268
 translate russian d3a1_masterbedroom_ria_hearttoheart_1a83a6ab:
 
     # O "Huh? No thanks."
     O ""
 
-# game/script_day3.rpy:1271
+# game/script_day3.rpy:1270
 translate russian d3a1_masterbedroom_ria_hearttoheart_19c0bedd:
 
     # K "Pft! AHAHA!! I got rejected instantly! You're actually pretty funny, huh, Oriana?" with shakeshort
     K "" with shakeshort
 
-# game/script_day3.rpy:1272
+# game/script_day3.rpy:1271
 translate russian d3a1_masterbedroom_ria_hearttoheart_0da3f551_1:
 
     # O "....."
     O ""
 
-# game/script_day3.rpy:1273
+# game/script_day3.rpy:1272
 translate russian d3a1_masterbedroom_ria_hearttoheart_7965ee4f:
 
     # K "...Wait, you weren't joking?"
     K ""
 
-# game/script_day3.rpy:1274
+# game/script_day3.rpy:1273
 translate russian d3a1_masterbedroom_ria_hearttoheart_6699cedb:
 
     # O "I have no interest in befriending someone who is predisposed to physical violence."
     O ""
 
-# game/script_day3.rpy:1276
+# game/script_day3.rpy:1275
 translate russian d3a1_masterbedroom_ria_hearttoheart_86f7b2b1:
 
     # K "Physical vio-- Y-you mean that slap earlier?! That was because--" with shakeshort
     K "" with shakeshort
 
-# game/script_day3.rpy:1279
+# game/script_day3.rpy:1278
 translate russian d3a1_masterbedroom_ria_hearttoheart_af44e487:
 
     # X "HEY! What are you two doing in the hallway?! You should be in class right now!" with shakeshort
     X "" with shakeshort
 
-# game/script_day3.rpy:1280
+# game/script_day3.rpy:1279
 translate russian d3a1_masterbedroom_ria_hearttoheart_2f0b9b5b:
 
     # K "Oh crap! Oriana, let's talk again at lunch, okay?!" with shakeonce
     K "" with shakeonce
 
-# game/script_day3.rpy:1291
+# game/script_day3.rpy:1290
 translate russian d3a1_masterbedroom_ria_hearttoheart_f302cf7c:
 
     # Y surprised "....."
     Y surprised ""
 
-# game/script_day3.rpy:1293
+# game/script_day3.rpy:1292
 translate russian d3a1_masterbedroom_ria_hearttoheart_f6c78d7b:
 
     # Y "That was...quite the story..."
     Y ""
 
-# game/script_day3.rpy:1295
+# game/script_day3.rpy:1294
 translate russian d3a1_masterbedroom_ria_hearttoheart_17cafa81:
 
     # O jacketless thinking "I remember the details vividly. It was an important day for me, after all."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1297
+# game/script_day3.rpy:1296
 translate russian d3a1_masterbedroom_ria_hearttoheart_8113e1b1:
 
     # I "Yeah, it almost felt like I was there myself..."
     I ""
 
-# game/script_day3.rpy:1298
+# game/script_day3.rpy:1297
 translate russian d3a1_masterbedroom_ria_hearttoheart_4c869e24:
 
     # O jacketless blink "Looking back on it now, becoming friends with Carol-Maria shaped us both into better, stronger people."
     O jacketless blink ""
 
-# game/script_day3.rpy:1300
+# game/script_day3.rpy:1299
 translate russian d3a1_masterbedroom_ria_hearttoheart_9f9b49c1:
 
     # O jacketless thinking "She taught me how to assert myself more, and I taught her how to make better decisions in life."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1303
+# game/script_day3.rpy:1302
 translate russian d3a1_masterbedroom_ria_hearttoheart_855a08b3:
 
     # I "That's...certainly a way to phrase it..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:1304
+# game/script_day3.rpy:1303
 translate russian d3a1_masterbedroom_ria_hearttoheart_8c5647a4:
 
     # Y blink "It sounds like even back in the day, you had a strong moral compass."
     Y blink ""
 
-# game/script_day3.rpy:1306
+# game/script_day3.rpy:1305
 translate russian d3a1_masterbedroom_ria_hearttoheart_fb483f3b:
 
     # Y default "Strong enough to push you into confronting a group of delinquents all by yourself."
     Y default ""
 
-# game/script_day3.rpy:1307
+# game/script_day3.rpy:1306
 translate russian d3a1_masterbedroom_ria_hearttoheart_ca9cc92d:
 
     # O "I suppose so, yes. I was certainly aware of how small and timid I was, and yet, I still charged ahead reflexively."
     O ""
 
-# game/script_day3.rpy:1313
+# game/script_day3.rpy:1312
 translate russian d3a1_masterbedroom_ria_hearttoheart_f275ff62:
 
     # Y relaxed "And look at you now. You're definitely not small anymore.{w=1.0}{nw}"
     Y relaxed ""
 
-# game/script_day3.rpy:1319
+# game/script_day3.rpy:1318
 translate russian d3a1_masterbedroom_ria_hearttoheart_d6f40e61:
 
     # extend panicked " ...Er, sorry, what I meant was--" with shakeonce
     extend panicked "" with shakeonce
 
-# game/script_day3.rpy:1320
+# game/script_day3.rpy:1319
 translate russian d3a1_masterbedroom_ria_hearttoheart_c1417477:
 
     # O jacketless irritated "It's fine. I know what you mean."
     O jacketless irritated ""
 
-# game/script_day3.rpy:1326
+# game/script_day3.rpy:1325
 translate russian d3a1_masterbedroom_ria_hearttoheart_08fef2b3:
 
     # O jacketless think "To this day, Carol-Maria likes to tease at how much I grew over the years."
     O jacketless think ""
 
-# game/script_day3.rpy:1328
+# game/script_day3.rpy:1327
 translate russian d3a1_masterbedroom_ria_hearttoheart_eaa696e3:
 
     # Y surprised "And what about her? Did Carol-Maria grow a lot too?"
     Y surprised ""
 
-# game/script_day3.rpy:1329
+# game/script_day3.rpy:1328
 translate russian d3a1_masterbedroom_ria_hearttoheart_1b9f53fc:
 
     # O jacketless default "Not much physically, but a lot mentally. When we first met, she didn't have the best grades."
     O jacketless default ""
 
-# game/script_day3.rpy:1330
+# game/script_day3.rpy:1329
 translate russian d3a1_masterbedroom_ria_hearttoheart_f257863c:
 
     # O jacketless thinking "But once it became nearly time for us to graduate high school, she was suddenly enthusiastic about studying."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1331
+# game/script_day3.rpy:1330
 translate russian d3a1_masterbedroom_ria_hearttoheart_8951c066:
 
     # O jacketless blink "...I...found out that it was because she was keen to go to the same college I planned on enrolling in."
     O jacketless blink ""
 
-# game/script_day3.rpy:1333
+# game/script_day3.rpy:1332
 translate russian d3a1_masterbedroom_ria_hearttoheart_a00146ac:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:1334
+# game/script_day3.rpy:1333
 translate russian d3a1_masterbedroom_ria_hearttoheart_034ffde7:
 
     # O jacketless thinking "I told her she shouldn't aim for something so impossible for such a silly reason but..."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1336
+# game/script_day3.rpy:1335
 translate russian d3a1_masterbedroom_ria_hearttoheart_cd508b3f:
 
     # O jacketless blink "...She refused to give up. She pushed herself through countless all-nighters."
     O jacketless blink ""
 
-# game/script_day3.rpy:1337
+# game/script_day3.rpy:1336
 translate russian d3a1_masterbedroom_ria_hearttoheart_ac974737:
 
     # O "Not just studying, but working in order to afford tutoring."
     O ""
 
-# game/script_day3.rpy:1338
+# game/script_day3.rpy:1337
 translate russian d3a1_masterbedroom_ria_hearttoheart_85d1d165:
 
     # O jacketless irritated "She became a shell of herself, so I eventually begged her to slow down. Get some proper rest." with hpunch
     O jacketless irritated "" with hpunch
 
-# game/script_day3.rpy:1339
+# game/script_day3.rpy:1338
 translate russian d3a1_masterbedroom_ria_hearttoheart_8090284e:
 
     # O "I even offered to go to a different college with lighter entry requirements."
     O ""
 
-# game/script_day3.rpy:1340
+# game/script_day3.rpy:1339
 translate russian d3a1_masterbedroom_ria_hearttoheart_9b2f341a:
 
     # O "It didn't matter to me where I went for my education."
     O ""
 
-# game/script_day3.rpy:1341
+# game/script_day3.rpy:1340
 translate russian d3a1_masterbedroom_ria_hearttoheart_8e58b5c5:
 
     # O jacketless thinking "But that made her get upset with me. She said she would never forgive herself if..."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1343
+# game/script_day3.rpy:1342
 translate russian d3a1_masterbedroom_ria_hearttoheart_0dec4f08:
 
     # O "{cps=6}If...{/cps}her [t_clue]best friend[t_cluee] got pulled down by her own failure."
     O ""
 
-# game/script_day3.rpy:1345
+# game/script_day3.rpy:1344
 translate russian d3a1_masterbedroom_ria_hearttoheart_8a7fdd75:
 
     # Y surprised "....." with shakeonce
     Y surprised "" with shakeonce
 
-# game/script_day3.rpy:1346
+# game/script_day3.rpy:1345
 translate russian d3a1_masterbedroom_ria_hearttoheart_d96d2570:
 
     # O jacketless relaxed "...So idiotic, right?"
     O jacketless relaxed ""
 
-# game/script_day3.rpy:1347
+# game/script_day3.rpy:1346
 translate russian d3a1_masterbedroom_ria_hearttoheart_b013da74:
 
     # Y sad "N-no, I don't think she was wrong to try so hard..."
     Y sad ""
 
-# game/script_day3.rpy:1351
+# game/script_day3.rpy:1350
 translate russian d3a1_masterbedroom_ria_hearttoheart_28fbea05:
 
     # O jacketless shadow "I'm talking about myself."
     O jacketless shadow ""
 
-# game/script_day3.rpy:1352
+# game/script_day3.rpy:1351
 translate russian d3a1_masterbedroom_ria_hearttoheart_5ff9ba1b:
 
     # Y shocked "Wh-what?" with shakeonce
     Y shocked "" with shakeonce
 
-# game/script_day3.rpy:1353
+# game/script_day3.rpy:1352
 translate russian d3a1_masterbedroom_ria_hearttoheart_45ad051a:
 
     # O "I know Carol-Maria very well."
     O ""
 
-# game/script_day3.rpy:1354
+# game/script_day3.rpy:1353
 translate russian d3a1_masterbedroom_ria_hearttoheart_547dab32:
 
     # O "She's the type to [t_clue]never, EVER give up[t_cluee], no matter how hard things get."
     O ""
 
-# game/script_day3.rpy:1355
+# game/script_day3.rpy:1354
 translate russian d3a1_masterbedroom_ria_hearttoheart_668cfb80:
 
     # O jacketless dejected "That's why...I shouldn't have denied her efforts. I should have helped her the moment I learned what her goal was."
     O jacketless dejected ""
 
-# game/script_day3.rpy:1356
+# game/script_day3.rpy:1355
 translate russian d3a1_masterbedroom_ria_hearttoheart_c776af2f:
 
     # O "It was the least I could do...after everything she had done for me..."
     O ""
 
-# game/script_day3.rpy:1357
+# game/script_day3.rpy:1356
 translate russian d3a1_masterbedroom_ria_hearttoheart_4a7bc7de:
 
     # Y sad "....."
     Y sad ""
 
-# game/script_day3.rpy:1359
+# game/script_day3.rpy:1358
 translate russian d3a1_masterbedroom_ria_hearttoheart_12e9fb30:
 
     # I "{cps=6}.....{/cps} ...Hm?{w=0.5} She's doing it again..."
     I ""
 
-# game/script_day3.rpy:1360
+# game/script_day3.rpy:1359
 translate russian d3a1_masterbedroom_ria_hearttoheart_70d4c58a:
 
     # Y surprised "That ring hanging on your neck... I noticed you keep fiddling with it?"
     Y surprised ""
 
-# game/script_day3.rpy:1362
+# game/script_day3.rpy:1361
 translate russian d3a1_masterbedroom_ria_hearttoheart_bd8f6c81:
 
     # O jacketless thinking "....." with shakeonce
     O jacketless thinking "" with shakeonce
 
-# game/script_day3.rpy:1363
+# game/script_day3.rpy:1362
 translate russian d3a1_masterbedroom_ria_hearttoheart_e889064a:
 
     # O jacketless blink "...Yes. It's actually an earring, but I was too... ...I didn't want to get my ear pierced."
     O jacketless blink ""
 
-# game/script_day3.rpy:1364
+# game/script_day3.rpy:1363
 translate russian d3a1_masterbedroom_ria_hearttoheart_adffe346:
 
     # O "It was a gift from Carol-Maria the day we both got successfully admitted to my first choice college."
     O ""
 
-# game/script_day3.rpy:1365
+# game/script_day3.rpy:1364
 translate russian d3a1_masterbedroom_ria_hearttoheart_ebed7af4:
 
     # Y panicked "...! S-so... Carol-Maria... Her studies paid off?" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day3.rpy:1366
+# game/script_day3.rpy:1365
 translate russian d3a1_masterbedroom_ria_hearttoheart_eac60875:
 
     # O jacketless relaxed "Through some miracle, yes. The day we learned the news, she was so thrilled."
     O jacketless relaxed ""
 
-# game/script_day3.rpy:1367
+# game/script_day3.rpy:1366
 translate russian d3a1_masterbedroom_ria_hearttoheart_92da890d:
 
     # O "All her vigour came back at once, and she tackled me, causing us both to fall to the floor."
     O ""
 
-# game/script_day3.rpy:1369
+# game/script_day3.rpy:1368
 translate russian d3a1_masterbedroom_ria_hearttoheart_cdde21cd:
 
     # O "And she gave me the biggest, shiniest smile I have ever seen in my whole life." with vpunch
     O "" with vpunch
 
-# game/script_day3.rpy:1371
+# game/script_day3.rpy:1370
 translate russian d3a1_masterbedroom_ria_hearttoheart_a00146ac_1:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:1372
+# game/script_day3.rpy:1371
 translate russian d3a1_masterbedroom_ria_hearttoheart_d880b148:
 
     # I "...I've never seen Ria glow like this before..."
     I ""
 
-# game/script_day3.rpy:1373
+# game/script_day3.rpy:1372
 translate russian d3a1_masterbedroom_ria_hearttoheart_2c9bde2d:
 
     # Y happy "That must be a good memory for you."
     Y happy ""
 
-# game/script_day3.rpy:1375
+# game/script_day3.rpy:1374
 translate russian d3a1_masterbedroom_ria_hearttoheart_456fc841:
 
     # O "It is..."
     O ""
 
-# game/script_day3.rpy:1376
+# game/script_day3.rpy:1375
 translate russian d3a1_masterbedroom_ria_hearttoheart_22a063e5:
 
     # O jacketless default "From a young age, I knew what I wanted to do. What kind of person I wanted to be."
     O jacketless default ""
 
-# game/script_day3.rpy:1377
+# game/script_day3.rpy:1376
 translate russian d3a1_masterbedroom_ria_hearttoheart_fd85971b:
 
     # O jacketless thinking "But I was small. Weak. Unable to even speak my mind. And the thought of that being my identity forever haunted me."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1378
+# game/script_day3.rpy:1377
 translate russian d3a1_masterbedroom_ria_hearttoheart_d2f2cd43:
 
     # O jacketless blink "But then...Carol-Maria proved to me that people can grow and change."
     O jacketless blink ""
 
-# game/script_day3.rpy:1379
+# game/script_day3.rpy:1378
 translate russian d3a1_masterbedroom_ria_hearttoheart_624ff234:
 
     # O "That even the lowest of people can do great things if they try."
     O ""
 
-# game/script_day3.rpy:1380
+# game/script_day3.rpy:1379
 translate russian d3a1_masterbedroom_ria_hearttoheart_626da267:
 
     # O jacketless thinking "I knew my path would be mired in darkness and uncertainty, but...{w=1.0} She became my [t_clue]light[t_cluee]."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1381
+# game/script_day3.rpy:1380
 translate russian d3a1_masterbedroom_ria_hearttoheart_62384e5f:
 
     # O jacketless blink "Without her, I wouldn't be even half the person I am today. ...Maybe even physically."
     O jacketless blink ""
 
-# game/script_day3.rpy:1382
+# game/script_day3.rpy:1381
 translate russian d3a1_masterbedroom_ria_hearttoheart_022dc88a:
 
     # Y default "{cps=6}.....{/cps} Ria...{w=0.5}{nw}"
     Y default ""
 
-# game/script_day3.rpy:1384
+# game/script_day3.rpy:1383
 translate russian d3a1_masterbedroom_ria_hearttoheart_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1386
+# game/script_day3.rpy:1385
 translate russian d3a1_masterbedroom_ria_hearttoheart_e48d3ac0:
 
     # Y sad "I don't think you give yourself enough credit."
     Y sad ""
 
-# game/script_day3.rpy:1387
+# game/script_day3.rpy:1386
 translate russian d3a1_masterbedroom_ria_hearttoheart_44e50e2f:
 
     # O jacketless surprised "What do you mean? All I'm saying is it's thanks to Carol-Maria that I've grown out of being that timid little girl." with hpunch
     O jacketless surprised "" with hpunch
 
-# game/script_day3.rpy:1388
+# game/script_day3.rpy:1387
 translate russian d3a1_masterbedroom_ria_hearttoheart_6d0fcaa3:
 
     # Y blink "Sure, but if I understand your story correctly, it went both ways."
     Y blink ""
 
-# game/script_day3.rpy:1389
+# game/script_day3.rpy:1388
 translate russian d3a1_masterbedroom_ria_hearttoheart_3b5410cb:
 
     # Y "Carol-Maria was a kid hanging out with a bad crowd, not knowing any better."
     Y ""
 
-# game/script_day3.rpy:1390
+# game/script_day3.rpy:1389
 translate russian d3a1_masterbedroom_ria_hearttoheart_44aa7a1d:
 
     # Y default "Then you show up, and show her a better, brighter path to take by being {i}your{/i} friend instead."
     Y default ""
 
-# game/script_day3.rpy:1391
+# game/script_day3.rpy:1390
 translate russian d3a1_masterbedroom_ria_hearttoheart_2d0c61ab:
 
     # Y blink "And this isn't even the current-day Ria oozing with confidence and strength. The Ria that Carol-Maria went to chase after..."
     Y blink ""
 
-# game/script_day3.rpy:1393
+# game/script_day3.rpy:1392
 translate russian d3a1_masterbedroom_ria_hearttoheart_89994413:
 
     # Y relaxed "...was the Ria who was [t_clue]small and quiet[t_cluee], yet stood up to a group of delinquents all the same."
     Y relaxed ""
 
-# game/script_day3.rpy:1394
+# game/script_day3.rpy:1393
 translate russian d3a1_masterbedroom_ria_hearttoheart_82993cfd:
 
     # O jacketless panicked "...!" with shakeonce
     O jacketless panicked "" with shakeonce
 
-# game/script_day3.rpy:1395
+# game/script_day3.rpy:1394
 translate russian d3a1_masterbedroom_ria_hearttoheart_a519cc6c:
 
     # Y happy "You get what I'm saying, right?"
     Y happy ""
 
-# game/script_day3.rpy:1396
+# game/script_day3.rpy:1395
 translate russian d3a1_masterbedroom_ria_hearttoheart_2eadede9:
 
     # O jacketless surprised "...I... I never thought about it that way..."
     O jacketless surprised ""
 
-# game/script_day3.rpy:1397
+# game/script_day3.rpy:1396
 translate russian d3a1_masterbedroom_ria_hearttoheart_649374ff:
 
     # O jacketless thinking "....."
     O jacketless thinking ""
 
-# game/script_day3.rpy:1399
+# game/script_day3.rpy:1398
 translate russian d3a1_masterbedroom_ria_hearttoheart_678a8877:
 
     # O jacketless irritated "......." with shakeonce
     O jacketless irritated "" with shakeonce
 
-# game/script_day3.rpy:1400
+# game/script_day3.rpy:1399
 translate russian d3a1_masterbedroom_ria_hearttoheart_6982c973:
 
     # Y surprised "...Ria...?"
     Y surprised ""
 
-# game/script_day3.rpy:1401
+# game/script_day3.rpy:1400
 translate russian d3a1_masterbedroom_ria_hearttoheart_feebef8e:
 
     # O jacketless shadow "Do you think... If Carol-Maria didn't chase after me that day..."
     O jacketless shadow ""
 
-# game/script_day3.rpy:1402
+# game/script_day3.rpy:1401
 translate russian d3a1_masterbedroom_ria_hearttoheart_b2b4f956:
 
     # O "Would I...still have grown? Would I still have become the person I always wanted to be?"
     O ""
 
-# game/script_day3.rpy:1403
+# game/script_day3.rpy:1402
 translate russian d3a1_masterbedroom_ria_hearttoheart_61c2b847:
 
     # Y blink "...It's hard to say."
     Y blink ""
 
-# game/script_day3.rpy:1404
+# game/script_day3.rpy:1403
 translate russian d3a1_masterbedroom_ria_hearttoheart_c7291e22:
 
     # O jacketless dejected "Right..."
     O jacketless dejected ""
 
-# game/script_day3.rpy:1405
+# game/script_day3.rpy:1404
 translate russian d3a1_masterbedroom_ria_hearttoheart_09480e06:
 
     # Y leering "But there's no point in wondering about what-ifs like that." with shakeonce
     Y leering "" with shakeonce
 
-# game/script_day3.rpy:1406
+# game/script_day3.rpy:1405
 translate russian d3a1_masterbedroom_ria_hearttoheart_78aa24b6:
 
     # Y thinking "Maybe Carol-Maria was the key to your growth. Or maybe she wasn't."
     Y thinking ""
 
-# game/script_day3.rpy:1407
+# game/script_day3.rpy:1406
 translate russian d3a1_masterbedroom_ria_hearttoheart_7ae4e488:
 
     # Y blink "Either way, {i}you{/i} were the one who pulled her into your life."
     Y blink ""
 
-# game/script_day3.rpy:1408
+# game/script_day3.rpy:1407
 translate russian d3a1_masterbedroom_ria_hearttoheart_ddc9cb34:
 
     # Y default "The tiny little Oriana of the past had guts. And through those guts, she obtained other things essential to her growth."
     Y default ""
 
-# game/script_day3.rpy:1409
+# game/script_day3.rpy:1408
 translate russian d3a1_masterbedroom_ria_hearttoheart_9795208c:
 
     # Y relaxed "And now, thanks to her, we're here. {i}You're{/i} here. I think that's worth easing up on her a bit, don't you?"
     Y relaxed ""
 
-# game/script_day3.rpy:1410
+# game/script_day3.rpy:1409
 translate russian d3a1_masterbedroom_ria_hearttoheart_5f43a1b4:
 
     # O jacketless shadow "....."
@@ -4716,73 +4716,73 @@ translate russian d3a2_escape_choice_3ffbd735:
     # I "...We can escape by...{nw}" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:1688
+# game/script_day3.rpy:1687
 translate russian d3a2_escape_choice_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1690
+# game/script_day3.rpy:1689
 translate russian d3a2_escape_choice_bdebad52:
 
     # Y wince "The hatch in the basement leads to an underground passage that stops short, right?"
     Y wince ""
 
-# game/script_day3.rpy:1692
+# game/script_day3.rpy:1691
 translate russian d3a2_escape_choice_45303ff1:
 
     # Y leering "If we can find a shovel or something similar, than we can--" with hpunch
     Y leering "" with hpunch
 
-# game/script_day3.rpy:1694
+# game/script_day3.rpy:1693
 translate russian d3a2_escape_choice_cd906c5c:
 
     # C sad "Didn't someone mention before that that passage gets [t_clue]engulfed in flames[t_cluee] when {i}you{/i} enter it, [name_player]...?"
     C sad ""
 
-# game/script_day3.rpy:1695
+# game/script_day3.rpy:1694
 translate russian d3a2_escape_choice_a94935ea:
 
     # Y wince "Ah... Crap, that's right..." with hpunch
     Y wince "" with hpunch
 
-# game/script_day3.rpy:1696
+# game/script_day3.rpy:1695
 translate russian d3a2_escape_choice_940ea8e3:
 
     # C thinking "We won't get a lot of digging done if we're being burned alive while doing it. Any other ideas?"
     C thinking ""
 
-# game/script_day3.rpy:1699
+# game/script_day3.rpy:1698
 translate russian d3a2_escape_choice_60321228:
 
     # Y leering "...You said you were going to the attic to read that book about the Gate to {color=#ff0000}Hell{/color}, right?"
     Y leering ""
 
-# game/script_day3.rpy:1701
+# game/script_day3.rpy:1700
 translate russian d3a2_escape_choice_dfdff5b1:
 
     # Y "Did you find anything that can help us escape?"
     Y ""
 
-# game/script_day3.rpy:1703
+# game/script_day3.rpy:1702
 translate russian d3a2_escape_choice_e4a33b54:
 
     # C surprised "Oh yeah, that! Uh..." with shakeonce
     C surprised "" with shakeonce
 
-# game/script_day3.rpy:1704
+# game/script_day3.rpy:1703
 translate russian d3a2_escape_choice_9b39e72f:
 
     # C sad "No, it turns out I was wrong. That book only explains how to open and close a Gate to Hell."
     C sad ""
 
-# game/script_day3.rpy:1705
+# game/script_day3.rpy:1704
 translate russian d3a2_escape_choice_4004ca50:
 
     # C thinking "This house...isn't exactly one of those."
     C thinking ""
 
-# game/script_day3.rpy:1706
+# game/script_day3.rpy:1705
 translate russian d3a2_escape_choice_dd35d680:
 
     # Y wince "Darn... Okay, different plan..." with hpunch
@@ -4824,295 +4824,295 @@ translate russian d3a2_escape_choice_1e2c699f:
     # C surprised "Huh?{w=0.5} You think that killer zombie attack was all an act?{nw}" with hpunch
     C surprised "" with hpunch
 
-# game/script_day3.rpy:1722
+# game/script_day3.rpy:1721
 translate russian d3a2_escape_choice_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1724
+# game/script_day3.rpy:1723
 translate russian d3a2_escape_choice_a47f1865:
 
     # Y blink "I'm positive he was faking it."
     Y blink ""
 
-# game/script_day3.rpy:1725
+# game/script_day3.rpy:1724
 translate russian d3a2_escape_choice_f1ba7ced:
 
     # C determined "And what makes you so sure?"
     C determined ""
 
-# game/script_day3.rpy:1726
+# game/script_day3.rpy:1725
 translate russian d3a2_escape_choice_e81115a6:
 
     # Y leering "Because of [name_dog]."
     Y leering ""
 
-# game/script_day3.rpy:1727
+# game/script_day3.rpy:1726
 translate russian d3a2_escape_choice_8d953995:
 
     # C thinking "Huh? You mean this dead dog here?"
     C thinking ""
 
-# game/script_day3.rpy:1728
+# game/script_day3.rpy:1727
 translate russian d3a2_escape_choice_dbd46281:
 
     # Y thinking "It's like you said, if the dog was killed somewhere else and left here as a warning..."
     Y thinking ""
 
-# game/script_day3.rpy:1731
+# game/script_day3.rpy:1730
 translate russian d3a2_escape_choice_38a5bf92:
 
     # Y leering "...who could have possibly done something like that?" with hpunch
     Y leering "" with hpunch
 
-# game/script_day3.rpy:1733
+# game/script_day3.rpy:1732
 translate russian d3a2_escape_choice_810274f2:
 
     # C surprised "Ah!" with shakeonce
     C surprised "" with shakeonce
 
-# game/script_day3.rpy:1735
+# game/script_day3.rpy:1734
 translate russian d3a2_escape_choice_a69d3fa5:
 
     # Y pained "I don't know, but we don't have any other choice!" with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day3.rpy:1737
+# game/script_day3.rpy:1736
 translate russian d3a2_escape_choice_fe6d0deb:
 
     # Y pained2 "If that man isn't the mastermind, and is really just a walking corpse, then we're all good as dead!" with hpunch
     Y pained2 "" with hpunch
 
-# game/script_day3.rpy:1738
+# game/script_day3.rpy:1737
 translate russian d3a2_escape_choice_61b971df:
 
     # Y angry "We have to [t_clue]believe[t_cluee] that killing him will let us escape!" with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day3.rpy:1740
+# game/script_day3.rpy:1739
 translate russian d3a2_escape_choice_0ba244fc:
 
     # C thinking "{cps=6}.....{/cps} \"Believe\", huh...?"
     C thinking ""
 
-# game/script_day3.rpy:1741
+# game/script_day3.rpy:1740
 translate russian d3a2_escape_choice_7108457d:
 
     # C blink "{cps=6}.....{/cps} ...Hmm! I guess that makes sense."
     C blink ""
 
-# game/script_day3.rpy:1742
+# game/script_day3.rpy:1741
 translate russian d3a2_escape_choice_bca7a5bf:
 
     # C smile "Alright, I guess it's not like things will get any worse for us if it turns out killing that guy doesn't open the door."
     C smile ""
 
-# game/script_day3.rpy:1743
+# game/script_day3.rpy:1742
 translate russian d3a2_escape_choice_ccc07fd3:
 
     # C thinking "Well... Other than a man's blood staining our hands for all eternity."
     C thinking ""
 
-# game/script_day3.rpy:1744
+# game/script_day3.rpy:1743
 translate russian d3a2_escape_choice_9829bd5f:
 
     # Y blink "...I'm ready to bear that sin."
     Y blink ""
 
-# game/script_day3.rpy:1745
+# game/script_day3.rpy:1744
 translate russian d3a2_escape_choice_f9604ea3:
 
     # C sad "Maybe {i}you{/i} are, but what about the rest of us?"
     C sad ""
 
-# game/script_day3.rpy:1746
+# game/script_day3.rpy:1745
 translate russian d3a2_escape_choice_53e7b687:
 
     # C "You realize I'm the only one strong enough to take that man on in a fight?"
     C ""
 
-# game/script_day3.rpy:1747
+# game/script_day3.rpy:1746
 translate russian d3a2_escape_choice_dd777f27:
 
     # C smug "What if he isn't the mastermind? An innocent man's blood will stain these maidenly hands of mine."
     C smug ""
 
-# game/script_day3.rpy:1748
+# game/script_day3.rpy:1747
 translate russian d3a2_escape_choice_0ff97a3f:
 
     # Y leering "Don't worry about that. I... I'll take responsibility for it."
     Y leering ""
 
-# game/script_day3.rpy:1749
+# game/script_day3.rpy:1748
 translate russian d3a2_escape_choice_f368d682:
 
     # I "I'm already dead, after all... What's another sin or two to stain {i}my{/i} hands?"
     I ""
 
-# game/script_day3.rpy:1751
+# game/script_day3.rpy:1750
 translate russian d3a2_escape_choice_64539e2e:
 
     # C happy "Ahaha~ That was quite a line you just used, [name_player]!" with vpunch
     C happy "" with vpunch
 
-# game/script_day3.rpy:1754
+# game/script_day3.rpy:1753
 translate russian d3a2_escape_choice_c8e32950:
 
     # C smile "Okay. Let's go find that zombie! I actually already checked [t_clue]all the rooms on the second floor[t_cluee] and didn't see him." with shakeonce
     C smile "" with shakeonce
 
-# game/script_day3.rpy:1755
+# game/script_day3.rpy:1754
 translate russian d3a2_escape_choice_33afbdb5:
 
     # C blink "He's probably somewhere in the lower floors. Wanna head down now?"
     C blink ""
 
-# game/script_day3.rpy:1756
+# game/script_day3.rpy:1755
 translate russian d3a2_escape_choice_0455ef2f:
 
     # Y leering "Yeah. We need to put an end to this."
     Y leering ""
 
-# game/script_day3.rpy:1758
+# game/script_day3.rpy:1757
 translate russian d3a2_escape_choice_0285541f:
 
     # I "This might even be how the killing game finally comes to an end..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:1760
+# game/script_day3.rpy:1759
 translate russian d3a2_escape_choice_505b9e10:
 
     # O hidden "[name_player]...?"
     O hidden ""
 
-# game/script_day3.rpy:1769
+# game/script_day3.rpy:1768
 translate russian d3a2_escape_choice_cae0a15d:
 
     # O surprised "What's...going on...?"
     O surprised ""
 
-# game/script_day3.rpy:1770
+# game/script_day3.rpy:1769
 translate russian d3a2_escape_choice_3b576570:
 
     # Y panicked "Ah! R-Ria?! Y-you're okay to move?" with shakeshort
     Y panicked "" with shakeshort
 
-# game/script_day3.rpy:1772
+# game/script_day3.rpy:1771
 translate russian d3a2_escape_choice_9f7b4013:
 
     # I "Oh crap, she's gonna see--" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:1774
+# game/script_day3.rpy:1773
 translate russian d3a2_escape_choice_98182c77:
 
     # O depressed "{cps=6}.....{/cps} [name_dog]? ...What happened to [name_dog]?"
     O depressed ""
 
-# game/script_day3.rpy:1776
+# game/script_day3.rpy:1775
 translate russian d3a2_escape_choice_46c63d36:
 
     # Y troubled "....." with hpunch
     Y troubled "" with hpunch
 
-# game/script_day3.rpy:1778
+# game/script_day3.rpy:1777
 translate russian d3a2_escape_choice_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:1779
+# game/script_day3.rpy:1778
 translate russian d3a2_escape_choice_395dd3ad:
 
     # O "Hey... Why won't you answer me...?" with shakeonce
     O "" with shakeonce
 
-# game/script_day3.rpy:1780
+# game/script_day3.rpy:1779
 translate russian d3a2_escape_choice_1d85b899:
 
     # C thinking "Look, we don't have a lot of time left, [name_player]. Let's get moving."
     C thinking ""
 
-# game/script_day3.rpy:1781
+# game/script_day3.rpy:1780
 translate russian d3a2_escape_choice_495368f0:
 
     # I "...Yeah, she's right. Except..."
     I ""
 
-# game/script_day3.rpy:1784
+# game/script_day3.rpy:1783
 translate russian d3a2_escape_choice_f843afb4:
 
     # I "Looking at [name_dog] again, this scene looks...unnatural..."
     I ""
 
-# game/script_day3.rpy:1786
+# game/script_day3.rpy:1785
 translate russian d3a2_escape_choice_dea0b456:
 
     # I "Maybe I should actually take a closer look before moving on?{nw}"
     I ""
 
-# game/script_day3.rpy:1788
+# game/script_day3.rpy:1787
 translate russian d3a2_escape_choice_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1792
+# game/script_day3.rpy:1791
 translate russian d3a2_escape_choice_d855eb54:
 
     # Y sad "Sorry, Cece, could you give me a moment to inspect [name_dog]'s body really quick?" with hpunch
     Y sad "" with hpunch
 
-# game/script_day3.rpy:1794
+# game/script_day3.rpy:1793
 translate russian d3a2_escape_choice_09396a38:
 
     # C surprised "Wh-what? Why?" with shakeonce
     C surprised "" with shakeonce
 
-# game/script_day3.rpy:1795
+# game/script_day3.rpy:1794
 translate russian d3a2_escape_choice_4daa3f81:
 
     # Y blink "There's just something bothering me about this scene..."
     Y blink ""
 
-# game/script_day3.rpy:1796
+# game/script_day3.rpy:1795
 translate russian d3a2_escape_choice_d54393e5:
 
     # C thinking "....."
     C thinking ""
 
-# game/script_day3.rpy:1797
+# game/script_day3.rpy:1796
 translate russian d3a2_escape_choice_5363b868:
 
     # C blink "...Okay, I guess that zombie isn't going anywhere."
     C blink ""
 
-# game/script_day3.rpy:1798
+# game/script_day3.rpy:1797
 translate russian d3a2_escape_choice_e06f279e:
 
     # C smile "Go ahead and take your time."
     C smile ""
 
-# game/script_day3.rpy:1799
+# game/script_day3.rpy:1798
 translate russian d3a2_escape_choice_989b235c:
 
     # Y default "Thanks, Cece."
     Y default ""
 
-# game/script_day3.rpy:1801
+# game/script_day3.rpy:1800
 translate russian d3a2_escape_choice_1f05547d:
 
     # O dejected "....."
     O dejected ""
 
-# game/script_day3.rpy:1803
+# game/script_day3.rpy:1802
 translate russian d3a2_escape_choice_12b4f1ef:
 
     # I "The main thing bothering me is that it's not really clear [t_clue]{i}how{/i} he died[t_cluee]..."
     I ""
 
-# game/script_day3.rpy:1804
+# game/script_day3.rpy:1803
 translate russian d3a2_escape_choice_4cbd22d6:
 
     # I "I can probably do this [t_clue]quickly[t_cluee]..."
@@ -5364,43 +5364,43 @@ translate russian d3a2_start_investigation_59d5c2a7:
     # I "Okay, opening the door to the dining room...{nw}"
     I ""
 
-# game/script_day3.rpy:1945
+# game/script_day3.rpy:1944
 translate russian d3a2_start_investigation_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:1951
+# game/script_day3.rpy:1950
 translate russian d3a2_start_investigation_0e6c03f2:
 
     # Y shouting "GOTCHA!!" with shakelong
     Y shouting "" with shakelong
 
-# game/script_day3.rpy:1954
+# game/script_day3.rpy:1953
 translate russian d3a2_start_investigation_e5030d3d:
 
     # C surprised "Wha-- [name_player]?!" with shakeonce
     C surprised "" with shakeonce
 
-# game/script_day3.rpy:1963
+# game/script_day3.rpy:1962
 translate russian d3a2_start_investigation_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:1965
+# game/script_day3.rpy:1964
 translate russian d3a2_start_investigation_585ffb50:
 
     # C sad "Whew... Guess we're in the clear."
     C sad ""
 
-# game/script_day3.rpy:1967
+# game/script_day3.rpy:1966
 translate russian d3a2_start_investigation_9e509950:
 
     # C pout "[name_player]! I told you we should take a stealthy approach!" with shakeshort
     C pout "" with shakeshort
 
-# game/script_day3.rpy:1968
+# game/script_day3.rpy:1967
 translate russian d3a2_start_investigation_6f699426:
 
     # Y wince "Nrgh... S-sorry, I'm kind of on edge..." with hpunch
@@ -5574,49 +5574,49 @@ translate russian d3a2_start_investigation_a59cc4d9:
     # I "Okay, let's open the bathroom door...{nw}"
     I ""
 
-# game/script_day3.rpy:2047
+# game/script_day3.rpy:2046
 translate russian d3a2_start_investigation_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:2053
+# game/script_day3.rpy:2052
 translate russian d3a2_start_investigation_4e94942d:
 
     # Y shouting "GO, CECE!!" with shakelong
     Y shouting "" with shakelong
 
-# game/script_day3.rpy:2056
+# game/script_day3.rpy:2055
 translate russian d3a2_start_investigation_35ca2cc2:
 
     # C "ATTAAAACK!!" with shakelong
     C "" with shakelong
 
-# game/script_day3.rpy:2057
+# game/script_day3.rpy:2056
 translate russian d3a2_start_investigation_0ef9151a:
 
     # C determined knife "....."
     C determined knife ""
 
-# game/script_day3.rpy:2058
+# game/script_day3.rpy:2057
 translate russian d3a2_start_investigation_a00146ac_2:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:2059
+# game/script_day3.rpy:2058
 translate russian d3a2_start_investigation_928023ab_1:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:2061
+# game/script_day3.rpy:2060
 translate russian d3a2_start_investigation_8a8b6a3c:
 
     # C sad "Darn. Looks like he's not in here."
     C sad ""
 
-# game/script_day3.rpy:2062
+# game/script_day3.rpy:2061
 translate russian d3a2_start_investigation_ed78f424:
 
     # Y wince "Dammit, where {i}is{/i} he...?" with hpunch
@@ -5892,43 +5892,43 @@ translate russian d3a2_start_investigation_c69f5ef2:
     # I "Okay, let's open the door to the lounge...{nw}"
     I ""
 
-# game/script_day3.rpy:2171
+# game/script_day3.rpy:2170
 translate russian d3a2_start_investigation_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:2177
+# game/script_day3.rpy:2176
 translate russian d3a2_start_investigation_3f13fe62:
 
     # Y angry "NOW!!" with shakeshort
     Y angry "" with shakeshort
 
-# game/script_day3.rpy:2181
+# game/script_day3.rpy:2180
 translate russian d3a2_start_investigation_a8cd8f3a:
 
     # C "...!!" with hpunch
     C "" with hpunch
 
-# game/script_day3.rpy:2182
+# game/script_day3.rpy:2181
 translate russian d3a2_start_investigation_928023ab_3:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:2183
+# game/script_day3.rpy:2182
 translate russian d3a2_start_investigation_de5430fb:
 
     # Y leering "....." with hpunch
     Y leering "" with hpunch
 
-# game/script_day3.rpy:2184
+# game/script_day3.rpy:2183
 translate russian d3a2_start_investigation_928023ab_4:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:2186
+# game/script_day3.rpy:2185
 translate russian d3a2_start_investigation_3232b073:
 
     # C sad "I guess he's not in the lounge, [name_player]."
@@ -6078,181 +6078,181 @@ translate russian d3a2_start_investigation_6f5b0e13:
     # C thinking "Do you want to check it out for yourself?{nw}"
     C thinking ""
 
-# game/script_day3.rpy:2261
+# game/script_day3.rpy:2260
 translate russian d3a2_start_investigation_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:2263
+# game/script_day3.rpy:2262
 translate russian d3a2_start_investigation_ff5620a1:
 
     # Y leering "Yeah, just to be sure."
     Y leering ""
 
-# game/script_day3.rpy:2265
+# game/script_day3.rpy:2264
 translate russian d3a2_start_investigation_83590c61:
 
     # C blink knife "Okay, I'll be right [t_clue]behind[t_cluee] you with my knife at the ready."
     C blink knife ""
 
-# game/script_day3.rpy:2267
+# game/script_day3.rpy:2266
 translate russian d3a2_start_investigation_709d090e:
 
     # Y depressed "...!" with shakeonce
     Y depressed "" with shakeonce
 
-# game/script_day3.rpy:2269
+# game/script_day3.rpy:2268
 translate russian d3a2_start_investigation_051831a6:
 
     # I "Wait... I..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:2270
+# game/script_day3.rpy:2269
 translate russian d3a2_start_investigation_c74a1b37:
 
     # C surprised "Huh? Why'd you freeze up? Did you change your mind?"
     C surprised ""
 
-# game/script_day3.rpy:2271
+# game/script_day3.rpy:2270
 translate russian d3a2_start_investigation_a015c49b:
 
     # Y troubled "N-no, I'm...okay..." with hpunch
     Y troubled "" with hpunch
 
-# game/script_day3.rpy:2273
+# game/script_day3.rpy:2272
 translate russian d3a2_start_investigation_3322b241:
 
     # I "{cps=6}..........{/cps}"
     I ""
 
-# game/script_day3.rpy:2274
+# game/script_day3.rpy:2273
 translate russian d3a2_start_investigation_101cd0c5:
 
     # C determined knife "C'mon, stay focused! Even with the lights on, it's still pretty dark down there."
     C determined knife ""
 
-# game/script_day3.rpy:2275
+# game/script_day3.rpy:2274
 translate russian d3a2_start_investigation_2f2df39f:
 
     # I "I guess there's no [t_clue]backing[t_cluee] out of this..."
     I ""
 
-# game/script_day3.rpy:2279
+# game/script_day3.rpy:2278
 translate russian d3a2_start_investigation_3b21aa31_1:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:2281
+# game/script_day3.rpy:2280
 translate russian d3a2_start_investigation_b047f6eb:
 
     # I "{cps=6}.......{/cps}"
     I ""
 
-# game/script_day3.rpy:2290
+# game/script_day3.rpy:2289
 translate russian d3a2_start_investigation_a00146ac_8:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:2291
+# game/script_day3.rpy:2290
 translate russian d3a2_start_investigation_71cb6fdd_1:
 
     # I "No sign of him..."
     I ""
 
-# game/script_day3.rpy:2296
+# game/script_day3.rpy:2295
 translate russian d3a2_start_investigation_286d89b4:
 
     # C "See? I told ya, not a single sign of life. Or reanimated life."
     C ""
 
-# game/script_day3.rpy:2297
+# game/script_day3.rpy:2296
 translate russian d3a2_start_investigation_0f4d64ae:
 
     # C thinking "Look, check the library."
     C thinking ""
 
-# game/script_day3.rpy:2308
+# game/script_day3.rpy:2307
 translate russian d3a2_start_investigation_eba67997:
 
     # Y wince "....." with hpunch
     Y wince "" with hpunch
 
-# game/script_day3.rpy:2313
+# game/script_day3.rpy:2312
 translate russian d3a2_start_investigation_106807f8:
 
     # I "It's definitely her... The daughter...from the lounge photos..."
     I ""
 
-# game/script_day3.rpy:2314
+# game/script_day3.rpy:2313
 translate russian d3a2_start_investigation_efb3c647:
 
     # I "Why is her body here? Why wasn't it buried properly...?"
     I ""
 
-# game/script_day3.rpy:2321
+# game/script_day3.rpy:2320
 translate russian d3a2_start_investigation_5ee53460:
 
     # Y thinking "The mother mentions the addressee--most likely the father--was beating his son."
     Y thinking ""
 
-# game/script_day3.rpy:2323
+# game/script_day3.rpy:2322
 translate russian d3a2_start_investigation_4fb90199:
 
     # Y "And the result of that is the son urging for the mother to leave the house..."
     Y ""
 
-# game/script_day3.rpy:2324
+# game/script_day3.rpy:2323
 translate russian d3a2_start_investigation_c27691e8:
 
     # Y leering "But there's [t_clue]no mention of the daughter[t_cluee] at all."
     Y leering ""
 
-# game/script_day3.rpy:2325
+# game/script_day3.rpy:2324
 translate russian d3a2_start_investigation_8eca5824:
 
     # Y sad "Nothing that suggests the mother took the daughter with her, or that the son rescued his sister himself..."
     Y sad ""
 
-# game/script_day3.rpy:2327
+# game/script_day3.rpy:2326
 translate russian d3a2_start_investigation_ea3d2f51:
 
     # O irritated "....." with shakeonce
     O irritated "" with shakeonce
 
-# game/script_day3.rpy:2328
+# game/script_day3.rpy:2327
 translate russian d3a2_start_investigation_2228cb6b:
 
     # O thinking "...Yes."
     O thinking ""
 
-# game/script_day3.rpy:2329
+# game/script_day3.rpy:2328
 translate russian d3a2_start_investigation_5ef564b3:
 
     # O "Through some unknown means, the daughter must have died first. That has to be the tragedy that tore their family apart."
     O ""
 
-# game/script_day3.rpy:2334
+# game/script_day3.rpy:2333
 translate russian d3a2_start_investigation_3b21aa31_2:
 
     # I "{cps=6}.....{/cps}"
     I ""
 
-# game/script_day3.rpy:2336
+# game/script_day3.rpy:2335
 translate russian d3a2_start_investigation_2ae0544e:
 
     # C pout "[name_player], we don't have time to investigate! Let's get back to looking for the zombie!" with shakeonce
     C pout "" with shakeonce
 
-# game/script_day3.rpy:2338
+# game/script_day3.rpy:2337
 translate russian d3a2_start_investigation_b3cad0c2:
 
     # Y sad "...Right..." with hpunch
     Y sad "" with hpunch
 
-# game/script_day3.rpy:2340
+# game/script_day3.rpy:2339
 translate russian d3a2_start_investigation_9f6bcc0f:
 
     # I "Back to the foyer..."
@@ -6936,79 +6936,79 @@ translate russian d3a3_corpse_end_0a40801a:
     # C smile "Okay, what do {i}you{/i} think, [name_player]?{w=1.0} Why is the door still closed despite the man upstairs being dead?{nw}"
     C smile ""
 
-# game/script_day3.rpy:2663
+# game/script_day3.rpy:2662
 translate russian d3a3_corpse_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:2665
+# game/script_day3.rpy:2664
 translate russian d3a3_corpse_end_685518e7:
 
     # Y afraid2 "Th-there has to be something else we need to do! Maybe if we examine the body again--" with shakeshort
     Y afraid2 "" with shakeshort
 
-# game/script_day3.rpy:2666
+# game/script_day3.rpy:2665
 translate russian d3a3_corpse_end_a875f30f:
 
     # C sad "[name_player]. I said let's face reality. You were the one who checked that body thoroughly."
     C sad ""
 
-# game/script_day3.rpy:2668
+# game/script_day3.rpy:2667
 translate russian d3a3_corpse_end_1c4a1a04:
 
     # Y pained "Ngh..." with shakeshort
     Y pained "" with shakeshort
 
-# game/script_day3.rpy:2670
+# game/script_day3.rpy:2669
 translate russian d3a3_corpse_end_2aaf0a2b:
 
     # Y troubled "For some reason... The mastermind's death didn't trigger the door to open..." with hpunch
     Y troubled "" with hpunch
 
-# game/script_day3.rpy:2672
+# game/script_day3.rpy:2671
 translate russian d3a3_corpse_end_9a33cbde:
 
     # Y "Maybe...he really {i}was{/i} an undead zombie...? Or the door requires someone younger to die?"
     Y ""
 
-# game/script_day3.rpy:2674
+# game/script_day3.rpy:2673
 translate russian d3a3_corpse_end_2c8dd50b:
 
     # C thinking "...Who knows? Either way, this can mean only one thing."
     C thinking ""
 
-# game/script_day3.rpy:2676
+# game/script_day3.rpy:2675
 translate russian d3a3_corpse_end_b8faf4e0:
 
     # Y shocked "Because...only the culprit knows how to open it."
     Y shocked ""
 
-# game/script_day3.rpy:2678
+# game/script_day3.rpy:2677
 translate russian d3a3_corpse_end_a7d478ea:
 
     # Y "He'd always watch us until one of us died, and then opened the door afterwards. But now..."
     Y ""
 
-# game/script_day3.rpy:2680
+# game/script_day3.rpy:2679
 translate russian d3a3_corpse_end_dec8a28e:
 
     # C sad "Hmm... Does that really make sense considering your memories, [name_player]?"
     C sad ""
 
-# game/script_day3.rpy:2681
+# game/script_day3.rpy:2680
 translate russian d3a3_corpse_end_3a60fd5f:
 
     # C thinking "You said you would always hear the front door opening [t_clue]immediately after[t_cluee] someone would die in front of you."
     C thinking ""
 
-# game/script_day3.rpy:2682
+# game/script_day3.rpy:2681
 translate russian d3a3_corpse_end_e0c13818:
 
     # Y troubled "Th-that could just be because... H-he knew, somehow! Maybe by using some occult magic!" with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3.rpy:2683
+# game/script_day3.rpy:2682
 translate russian d3a3_corpse_end_29acb233:
 
     # C sad "C'mon, [name_player], it's really much more simple than that."
@@ -7212,139 +7212,139 @@ translate russian d3a3_corpse_end_57465bd1:
     # I "Considering the circumstances, all the [t_clue]clues[t_cluee] I found...{w=1.0} Who could have possibly killed the mastermind?{nw}" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:2782
+# game/script_day3.rpy:2781
 translate russian d3a3_corpse_end_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:2794
+# game/script_day3.rpy:2793
 translate russian d3a3_corpse_end_dccf0971:
 
     # Y depressed "...It...could have only been Ria..."
     Y depressed ""
 
-# game/script_day3.rpy:2795
+# game/script_day3.rpy:2794
 translate russian d3a3_corpse_end_8acfe507:
 
     # O depressed "...!!" with shakeonce
     O depressed "" with shakeonce
 
-# game/script_day3.rpy:2796
+# game/script_day3.rpy:2795
 translate russian d3a3_corpse_end_e760c483:
 
     # O afraid "[name_player]...?"
     O afraid ""
 
-# game/script_day3.rpy:2797
+# game/script_day3.rpy:2796
 translate russian d3a3_corpse_end_859a838c:
 
     # C smile "...I think you may be right."
     C smile ""
 
-# game/script_day3.rpy:2809
+# game/script_day3.rpy:2808
 translate russian d3a3_corpse_end_a1e2a562:
 
     # Y shadow "...Cece. It could only have been you."
     Y shadow ""
 
-# game/script_day3.rpy:2811
+# game/script_day3.rpy:2810
 translate russian d3a3_corpse_end_c6669189:
 
     # Y angry "We all know you're the only one who stands a chance at fighting him." with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day3.rpy:2814
+# game/script_day3.rpy:2813
 translate russian d3a3_corpse_end_b008fa7f:
 
     # C thinking "That's a fair point, [name_player], but keep in mind that I have an [t_clue]alibi[t_cluee]."
     C thinking ""
 
-# game/script_day3.rpy:2815
+# game/script_day3.rpy:2814
 translate russian d3a3_corpse_end_9627ecc9:
 
     # C "In fact, {i}you're{/i} the one who can confirm it. I was with you the whole time, remember?"
     C ""
 
-# game/script_day3.rpy:2817
+# game/script_day3.rpy:2816
 translate russian d3a3_corpse_end_f3f0a241:
 
     # Y depressed "...!!{cps=1} {/cps}Then that means..." with shakeonce
     Y depressed "" with shakeonce
 
-# game/script_day3.rpy:2818
+# game/script_day3.rpy:2817
 translate russian d3a3_corpse_end_640b58ac:
 
     # C smile "Yep. The same can't be said for Ria..."
     C smile ""
 
-# game/script_day3.rpy:2819
+# game/script_day3.rpy:2818
 translate russian d3a3_corpse_end_ab42fc48:
 
     # O afraid "Wh-what?!" with shakeshort
     O afraid "" with shakeshort
 
-# game/script_day3.rpy:2831
+# game/script_day3.rpy:2830
 translate russian d3a3_corpse_end_1a32f6ca:
 
     # Y troubled "...{i}I{/i} could have done it...right?"
     Y troubled ""
 
-# game/script_day3.rpy:2833
+# game/script_day3.rpy:2832
 translate russian d3a3_corpse_end_37b6fbc9:
 
     # C surprised "Huh? DID you do it?"
     C surprised ""
 
-# game/script_day3.rpy:2834
+# game/script_day3.rpy:2833
 translate russian d3a3_corpse_end_7cdca93c:
 
     # Y wince "N-no, but..." with hpunch
     Y wince "" with hpunch
 
-# game/script_day3.rpy:2835
+# game/script_day3.rpy:2834
 translate russian d3a3_corpse_end_f3182d6c:
 
     # C sad "Is this really the time for jokes, [name_player]? Besides, you have me to confirm your [t_clue]alibi[t_cluee] during his murder."
     C sad ""
 
-# game/script_day3.rpy:2836
+# game/script_day3.rpy:2835
 translate russian d3a3_corpse_end_264e4844:
 
     # C smile "However, the same can't be said for Ria..."
     C smile ""
 
-# game/script_day3.rpy:2837
+# game/script_day3.rpy:2836
 translate russian d3a3_corpse_end_ab42fc48_1:
 
     # O afraid "Wh-what?!" with shakeshort
     O afraid "" with shakeshort
 
-# game/script_day3.rpy:2849
+# game/script_day3.rpy:2848
 translate russian d3a3_corpse_end_d34149d0:
 
     # Y afraid "...It could have been a suicide. Maybe he felt really guilty about all of this and--" with hpunch
     Y afraid "" with hpunch
 
-# game/script_day3.rpy:2850
+# game/script_day3.rpy:2849
 translate russian d3a3_corpse_end_87f27a4b:
 
     # C sad "[name_player]. You saw the state his body was in. Did that really look like anything but a homicide?"
     C sad ""
 
-# game/script_day3.rpy:2851
+# game/script_day3.rpy:2850
 translate russian d3a3_corpse_end_f1c6d4a6:
 
     # Y pained "Nrgh..." with hpunch
     Y pained "" with hpunch
 
-# game/script_day3.rpy:2855
+# game/script_day3.rpy:2854
 translate russian d3a3_corpse_end_3435d23c:
 
     # C serious "There's no point trying to avoid it.{w=1.0} You know that [t_clue]it could have only been Ria[t_cluee]."
     C serious ""
 
-# game/script_day3.rpy:2857
+# game/script_day3.rpy:2856
 translate russian d3a3_corpse_end_3b21aa31_1:
 
     # I "{cps=6}.....{/cps}"
@@ -7884,37 +7884,37 @@ translate russian d3a3_corpse_end_bde3dfd3:
     # extend " {cps=6}.....{/cps} Am I ready...?{w=0.5}{nw}"
     extend ""
 
-# game/script_day3.rpy:3062
+# game/script_day3.rpy:3061
 translate russian d3a3_corpse_end_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:3073
+# game/script_day3.rpy:3072
 translate russian d3a3_corpse_end_f572d509:
 
     # "{cps=16}...This is it.{/cps}{w=2.0}{nw}"
     ""
 
-# game/script_day3.rpy:3075
+# game/script_day3.rpy:3074
 translate russian d3a3_corpse_end_bbf7b8df:
 
     # "{cps=16}...After all that's happened...{/cps}{w=2.0}{nw}"
     ""
 
-# game/script_day3.rpy:3076
+# game/script_day3.rpy:3075
 translate russian d3a3_corpse_end_584fef84:
 
     # "{cps=16}It comes down to this after all...{/cps}{w=2.0}{nw}" with shakeonce
     "" with shakeonce
 
-# game/script_day3.rpy:3083
+# game/script_day3.rpy:3082
 translate russian d3a3_corpse_end_c388db0a:
 
     # "{cps=16}All I have to do...{/cps}{w=3.0}{nw}"
     ""
 
-# game/script_day3.rpy:3084
+# game/script_day3.rpy:3083
 translate russian d3a3_corpse_end_b9f677e7:
 
     # "{cps=16}...is make one {color=#ff0000}final choice{/color}.{/cps}{w=3.0}{nw}"
@@ -9426,91 +9426,91 @@ translate russian d3a4_4173bae5:
     # K tiredblink "...[name_player]...{w=0.5}was {i}your{/i} name, right?{nw}"
     K tiredblink ""
 
-# game/script_day3.rpy:4000
+# game/script_day3.rpy:3999
 translate russian d3a4_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:4002
+# game/script_day3.rpy:4001
 translate russian d3a4_dc25cbc4:
 
     # YV "...Wh-who... Who are you...?" with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:4003
+# game/script_day3.rpy:4002
 translate russian d3a4_ca19e4ba:
 
     # K "....."
     K ""
 
-# game/script_day3.rpy:4005
+# game/script_day3.rpy:4004
 translate russian d3a4_cf088588:
 
     # YV "...You...must be..." with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:4006
+# game/script_day3.rpy:4005
 translate russian d3a4_d193f55c:
 
     # K "{cps=6}.....{/cps}{w=0.5} ...Yes."
     K ""
 
-# game/script_day3.rpy:4007
+# game/script_day3.rpy:4006
 translate russian d3a4_408b6c7b:
 
     # K tired "My name is [t_clue]Carol-Maria[t_cluee].{w=1.0}{nw}"
     K tired ""
 
-# game/script_day3.rpy:4009
+# game/script_day3.rpy:4008
 translate russian d3a4_c13b7da4:
 
     # extend panicked " Ah, b-but you can call me \"Karma\" for short." with hpunch
     extend panicked "" with hpunch
 
-# game/script_day3.rpy:4011
+# game/script_day3.rpy:4010
 translate russian d3a4_6109118c:
 
     # YV "Ka... Karma...?"
     YV ""
 
-# game/script_day3.rpy:4012
+# game/script_day3.rpy:4011
 translate russian d3a4_cdb035f3:
 
     # K sweatdrop "Yeah, it's a nickname Cece came up with. Cool, right? Ahaha..."
     K sweatdrop ""
 
-# game/script_day3.rpy:4013
+# game/script_day3.rpy:4012
 translate russian d3a4_46e4e3d8:
 
     # YV "But...you're... I-I mean, I was..." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:4015
+# game/script_day3.rpy:4014
 translate russian d3a4_53e4eb8e:
 
     # K tired "You lost all your memories, so [t_clue]you thought you were me[t_cluee], right?"
     K tired ""
 
-# game/script_day3.rpy:4017
+# game/script_day3.rpy:4016
 translate russian d3a4_973c2c47:
 
     # YV "....."
     YV ""
 
-# game/script_day3.rpy:4019
+# game/script_day3.rpy:4018
 translate russian d3a4_9198cb9e:
 
     # K tiredblink "{cps=16}But the truth is...{/cps}{w=0.5}{nw}"
     K tiredblink ""
 
-# game/script_day3.rpy:4021
+# game/script_day3.rpy:4020
 translate russian d3a4_8ffcef7b:
 
     # extend tired "you're a [t_clue]spirit[t_cluee] that was possessing my body this entire time." with shakeonce
     extend tired "" with shakeonce
 
-# game/script_day3.rpy:4023
+# game/script_day3.rpy:4022
 translate russian d3a4_bd20d10f:
 
     # YV shadow "{cps=6}.....{/cps} ...A...spirit..." with shakeonce
@@ -11520,49 +11520,49 @@ translate russian d3a5_ef6f5ca5:
     # YV "Just hear me out. It's strange that you all think that killing me will let you escape.{w=1.0} After all...{nw}"
     YV ""
 
-# game/script_day3.rpy:4984
+# game/script_day3.rpy:4983
 translate russian d3a5_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:4986
+# game/script_day3.rpy:4985
 translate russian d3a5_724d8d1e:
 
     # YV default "I'm already dead. Casting me into the Gate is simply returning me to where I belong."
     YV default ""
 
-# game/script_day3.rpy:4987
+# game/script_day3.rpy:4986
 translate russian d3a5_3c68f729:
 
     # YV "There's no guarantee that that truly counts as a \"death\" that will open the door. That's only Cece's theory."
     YV ""
 
-# game/script_day3.rpy:4988
+# game/script_day3.rpy:4987
 translate russian d3a5_736fdfa8:
 
     # C sad "...[name_player]. Is that really what you wanted to say?"
     C sad ""
 
-# game/script_day3.rpy:4990
+# game/script_day3.rpy:4989
 translate russian d3a5_62caf2b0:
 
     # YV "Huh?" with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:4991
+# game/script_day3.rpy:4990
 translate russian d3a5_dc69daad:
 
     # C thinking "Even if you're right, it's not like we have any other options. It's at least worth trying."
     C thinking ""
 
-# game/script_day3.rpy:4992
+# game/script_day3.rpy:4991
 translate russian d3a5_6c2e9ae6:
 
     # C smile "Unless...you're just saying this to weasel yourself out of getting sent back to Hell?"
     C smile ""
 
-# game/script_day3.rpy:4993
+# game/script_day3.rpy:4992
 translate russian d3a5_3470c3bf:
 
     # YV "Th-that's not..." with shakeshort
@@ -11652,157 +11652,157 @@ translate russian d3a5_04f4907b:
     # YV "The reason why the Professor's death didn't open the front door is simple.{w=1.0} It was because...{nw}"
     YV ""
 
-# game/script_day3.rpy:5018
+# game/script_day3.rpy:5017
 translate russian d3a5_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5020
+# game/script_day3.rpy:5019
 translate russian d3a5_0234c065:
 
     # YV "...He was already dead from the start. Remember when we found this body in the basement?"
     YV ""
 
-# game/script_day3.rpy:5021
+# game/script_day3.rpy:5020
 translate russian d3a5_4ff5a074:
 
     # YV "Cece checked for a pulse, and got nothing. In other words, the Professor is [t_clue]already dead[t_cluee]."
     YV ""
 
-# game/script_day3.rpy:5022
+# game/script_day3.rpy:5021
 translate russian d3a5_9053954f:
 
     # YV "That's why he can't \"die\" like the front door requires."
     YV ""
 
-# game/script_day3.rpy:5024
+# game/script_day3.rpy:5023
 translate russian d3a5_020703a7:
 
     # K worried "....." with hpunch
     K worried "" with hpunch
 
-# game/script_day3.rpy:5025
+# game/script_day3.rpy:5024
 translate russian d3a5_c8fe8561:
 
     # YV shadow "And that's why...as someone who's also dead...{cps=2} {/cps}I also can't \"die\" in a way that will open the door{cps=4}...?{/cps}"
     YV shadow ""
 
-# game/script_day3.rpy:5027
+# game/script_day3.rpy:5026
 translate russian d3a5_5641abbe:
 
     # O disappointed "...You realized midway that your argument doesn't help us at all, didn't you."
     O disappointed ""
 
-# game/script_day3.rpy:5028
+# game/script_day3.rpy:5027
 translate russian d3a5_14f57195:
 
     # C sad "Also, did you forget what I'd JUST explained earlier? If we throw your shackle into the Gate to Hell, THAT will open the door."
     C sad ""
 
-# game/script_day3.rpy:5030
+# game/script_day3.rpy:5029
 translate russian d3a5_b685ce2f:
 
     # I "Crap, that could've gone better..." with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:5033
+# game/script_day3.rpy:5032
 translate russian d3a5_fa1bae7a:
 
     # YV "From what I remember from Karma's story, it sounded like he [t_clue]lives here[t_cluee]. He referred to you all as \"guests\", didn't he?"
     YV ""
 
-# game/script_day3.rpy:5035
+# game/script_day3.rpy:5034
 translate russian d3a5_16f009b7:
 
     # K panicked "Y-yeah, he did!" with shakeonce
     K panicked "" with shakeonce
 
-# game/script_day3.rpy:5036
+# game/script_day3.rpy:5035
 translate russian d3a5_9cc49785:
 
     # YV "Then I was right... The Professor has to be the [t_clue]father of the house[t_cluee]. The one in the lounge photos..."
     YV ""
 
-# game/script_day3.rpy:5039
+# game/script_day3.rpy:5038
 translate russian d3a5_52ca018d:
 
     # YV "And that must be why his death didn't open the door. Because he set it up to react to only {i}our{/i} deaths."
     YV ""
 
-# game/script_day3.rpy:5041
+# game/script_day3.rpy:5040
 translate russian d3a5_fade9706:
 
     # K shadow "That...makes sense..." with shakeonce
     K shadow "" with shakeonce
 
-# game/script_day3.rpy:5042
+# game/script_day3.rpy:5041
 translate russian d3a5_a239965b:
 
     # O irritated "...[name_player]. Your utter lack of evidence for any of your claims aside..." with shakeonce
     O irritated "" with shakeonce
 
-# game/script_day3.rpy:5044
+# game/script_day3.rpy:5043
 translate russian d3a5_4a3ed4ed:
 
     # O confused "Over the course of several killing games, you've personally investigated this whole house from top to bottom."
     O confused ""
 
-# game/script_day3.rpy:5045
+# game/script_day3.rpy:5044
 translate russian d3a5_38f1d3ee:
 
     # O leering2 "You should know better than any of us that [t_clue]no one has lived here for a long time[t_cluee]."
     O leering2 ""
 
-# game/script_day3.rpy:5047
+# game/script_day3.rpy:5046
 translate russian d3a5_1e6c9dc8:
 
     # YV "Nrgh... B-but..." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5048
+# game/script_day3.rpy:5047
 translate russian d3a5_19f3fae9:
 
     # YV "But we also know that this corpse has been dead for a long time too."
     YV ""
 
-# game/script_day3.rpy:5049
+# game/script_day3.rpy:5048
 translate russian d3a5_dfb37988:
 
     # YV "That means the Professor... Somehow, he became an [t_clue]immortal being[t_cluee], and lived here in this house for several years." with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5050
+# game/script_day3.rpy:5049
 translate russian d3a5_40f3a237:
 
     # C sad "...Uh... [name_player]?"
     C sad ""
 
-# game/script_day3.rpy:5051
+# game/script_day3.rpy:5050
 translate russian d3a5_ac8530fd:
 
     # C thinking "You just said he's dead. How can he {i}also{/i} be immortal?"
     C thinking ""
 
-# game/script_day3.rpy:5052
+# game/script_day3.rpy:5051
 translate russian d3a5_c2980177:
 
     # YV "Th-that's because, um..." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5053
+# game/script_day3.rpy:5052
 translate russian d3a5_f4b4b9e5:
 
     # O irritated "Furthermore, {i}you{/i} were the one who checked his dead body in the bedroom."
     O irritated ""
 
-# game/script_day3.rpy:5054
+# game/script_day3.rpy:5053
 translate russian d3a5_fc7559fe:
 
     # O annoyed2 "If he really was immortal, why didn't you notice any signs of life from him? Or did you simply choose not to tell us you did?" with shakeonce
     O annoyed2 "" with shakeonce
 
-# game/script_day3.rpy:5056
+# game/script_day3.rpy:5055
 translate russian d3a5_f97a5909:
 
     # I "Crap... I think I'm [t_clue]on the right track[t_cluee] with this idea, but I should've come at it from another angle..." with shakeonce
@@ -11868,217 +11868,217 @@ translate russian d3a5_fe45e045:
     # YV shadow "This body I'm currently in...{nw}"
     YV shadow ""
 
-# game/script_day3.rpy:5076
+# game/script_day3.rpy:5075
 translate russian d3a5_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5078
+# game/script_day3.rpy:5077
 translate russian d3a5_6b093d15:
 
     # YV default "...It doesn't belong to the Professor.{w=0.5}. This is a [t_clue]different man's body[t_cluee]."
     YV default ""
 
-# game/script_day3.rpy:5079
+# game/script_day3.rpy:5078
 translate russian d3a5_763146d2:
 
     # YV "After all, the way we found this body in the basement... And how it matches up with the man from the lounge photos..."
     YV ""
 
-# game/script_day3.rpy:5081
+# game/script_day3.rpy:5080
 translate russian d3a5_8efefdc1:
 
     # YV "This body has to be that of the [t_clue]father of the house[t_cluee]." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5083
+# game/script_day3.rpy:5082
 translate russian d3a5_49e108bb:
 
     # K tired "....."
     K tired ""
 
-# game/script_day3.rpy:5084
+# game/script_day3.rpy:5083
 translate russian d3a5_d906c329:
 
     # C sad "...And your point iiiiis...?"
     C sad ""
 
-# game/script_day3.rpy:5086
+# game/script_day3.rpy:5085
 translate russian d3a5_08afcf88:
 
     # YV "I'm saying the Professor and the father of the house are [t_clue]two different people[t_cluee]."
     YV ""
 
-# game/script_day3.rpy:5087
+# game/script_day3.rpy:5086
 translate russian d3a5_47b1f664:
 
     # YV "In other words, we should be searching for the Professor right now! The mastermind behind this killing game!" with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5088
+# game/script_day3.rpy:5087
 translate russian d3a5_263c16f8:
 
     # O irritated "...[name_player]. All three of us can attest to your body being the Professor's."
     O irritated ""
 
-# game/script_day3.rpy:5089
+# game/script_day3.rpy:5088
 translate russian d3a5_6103c001:
 
     # O "We all watched as he appeared in person to give Karma the shackle containing your soul."
     O ""
 
-# game/script_day3.rpy:5090
+# game/script_day3.rpy:5089
 translate russian d3a5_be60ba1f:
 
     # YV "...Oh.{w=0.5} Okay, I didn't know that.{w=0.5} Let me try another angle. How about--"
     YV ""
 
-# game/script_day3.rpy:5093
+# game/script_day3.rpy:5092
 translate russian d3a5_8b67a758:
 
     # YV default "It's a life-sized mobile doll designed to look like a rotting corpse."
     YV default ""
 
-# game/script_day3.rpy:5094
+# game/script_day3.rpy:5093
 translate russian d3a5_df968380:
 
     # YV "In other words, this is a decoy planted by the Professor to--" with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5095
+# game/script_day3.rpy:5094
 translate russian d3a5_fa644754:
 
     # C sweatdrop "[name_player], you've officially lost us." with hpunch
     C sweatdrop "" with hpunch
 
-# game/script_day3.rpy:5096
+# game/script_day3.rpy:5095
 translate russian d3a5_21806d1b:
 
     # C thinking "There's no mistake that your current body is the very one that approached us at the beginning of the killing game."
     C thinking ""
 
-# game/script_day3.rpy:5097
+# game/script_day3.rpy:5096
 translate russian d3a5_ae0ab2ce:
 
     # C smug "And he was definitely capable of regular human speech."
     C smug ""
 
-# game/script_day3.rpy:5098
+# game/script_day3.rpy:5097
 translate russian d3a5_8dd9f40f:
 
     # C grin "But if you're still not convinced, I could stick my knife into your chest and try pulling out some organs...?"
     C grin ""
 
-# game/script_day3.rpy:5100
+# game/script_day3.rpy:5099
 translate russian d3a5_d699fb08:
 
     # YV "N-no, that won't be necessary." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5101
+# game/script_day3.rpy:5100
 translate russian d3a5_389fd764:
 
     # O disappointed "Furthermore, do you believe you could be talking to us right now if your body was indeed an inanimate object?"
     O disappointed ""
 
-# game/script_day3.rpy:5102
+# game/script_day3.rpy:5101
 translate russian d3a5_41de3521:
 
     # O confused "I've heard of ghosts inhabiting objects, but never of them being able to speak aloud while doing so..."
     O confused ""
 
-# game/script_day3.rpy:5105
+# game/script_day3.rpy:5104
 translate russian d3a5_63104434:
 
     # I "I thought she was supposed to be an occult skeptic..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:5106
+# game/script_day3.rpy:5105
 translate russian d3a5_4db71d5c:
 
     # YV "Okay, maybe this isn't a doll, but--" with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5111
+# game/script_day3.rpy:5110
 translate russian d3a5_d3f4d940:
 
     # YV default "It's a puppet body that the Professor can control at will."
     YV default ""
 
-# game/script_day3.rpy:5112
+# game/script_day3.rpy:5111
 translate russian d3a5_59e317c8:
 
     # O irritated "Now's not the time for fantasies, [name_player]..."
     O irritated ""
 
-# game/script_day3.rpy:5113
+# game/script_day3.rpy:5112
 translate russian d3a5_0ce2f2e2:
 
     # YV "No, remember the legend of the Black Magic Mansion? How people came to be [t_clue]controlled like puppets[t_cluee]?"
     YV ""
 
-# game/script_day3.rpy:5114
+# game/script_day3.rpy:5113
 translate russian d3a5_0a415b93:
 
     # O annoyed "I repeat: now's not the time for FANTASIES, [name_player]..." with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day3.rpy:5115
+# game/script_day3.rpy:5114
 translate russian d3a5_151f506c:
 
     # YV "Cece, what do you think? Couldn't this be the body of a victim of that legend?"
     YV ""
 
-# game/script_day3.rpy:5116
+# game/script_day3.rpy:5115
 translate russian d3a5_71c74e62:
 
     # C sad "Hmmmmm..." with hpunch
     C sad "" with hpunch
 
-# game/script_day3.rpy:5118
+# game/script_day3.rpy:5117
 translate russian d3a5_666c29cc:
 
     # K surprised "...Cece...?"
     K surprised ""
 
-# game/script_day3.rpy:5119
+# game/script_day3.rpy:5118
 translate russian d3a5_7c43268a:
 
     # C thinking "I guess it's {i}possible{/i}... Maybe with voodoo magic of some kind..."
     C thinking ""
 
-# game/script_day3.rpy:5122
+# game/script_day3.rpy:5121
 translate russian d3a5_548d52b3:
 
     # C serious "But what's your point with this line of reasoning?{w=0.5} Are you saying {i}you're{/i} the Professor controlling the puppet right now?"
     C serious ""
 
-# game/script_day3.rpy:5123
+# game/script_day3.rpy:5122
 translate russian d3a5_f06d63a0:
 
     # YV "N-no, of course not! I'm just saying that the Professor was never actually in this body, and that's how he survived!" with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5124
+# game/script_day3.rpy:5123
 translate russian d3a5_89b72eb3:
 
     # O irritated "...Then [t_clue]where is he right now[t_cluee], [name_player]?"
     O irritated ""
 
-# game/script_day3.rpy:5125
+# game/script_day3.rpy:5124
 translate russian d3a5_32ddc666:
 
     # YV "I-I... I don't know, probably outside of the house where we can't find him...?" with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5127
+# game/script_day3.rpy:5126
 translate russian d3a5_927b0dfe:
 
     # O shouting "You're not making ANY sense! And even if you were, WHAT are you asking us to do?!" with shakeshort
     O shouting "" with shakeshort
 
-# game/script_day3.rpy:5128
+# game/script_day3.rpy:5127
 translate russian d3a5_9b4c2ead:
 
     # I "Nrgh...! N-no, this...{w=1.0} I know I'm [t_clue]getting closer to the answer[t_cluee], so what am I doing wrong...?!" with shakeonce
@@ -12132,217 +12132,217 @@ translate russian d3a5_06b4cba6:
     # O leering2 "How does a soul [t_clue]move around freely[t_cluee] while still being \"alive\"?{nw}"
     O leering2 ""
 
-# game/script_day3.rpy:5143
+# game/script_day3.rpy:5142
 translate russian d3a5_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5145
+# game/script_day3.rpy:5144
 translate russian d3a5_0af7ad49:
 
     # YV "Just like any other spirit, he moves [t_clue]through the air[t_cluee], invisible to the naked eye."
     YV ""
 
-# game/script_day3.rpy:5147
+# game/script_day3.rpy:5146
 translate russian d3a5_0569cbc8:
 
     # C sad "....."
     C sad ""
 
-# game/script_day3.rpy:5149
+# game/script_day3.rpy:5148
 translate russian d3a5_fe462a6a:
 
     # O irritated "....."
     O irritated ""
 
-# game/script_day3.rpy:5152
+# game/script_day3.rpy:5151
 translate russian d3a5_ba708ada:
 
     # K worried "....."
     K worried ""
 
-# game/script_day3.rpy:5153
+# game/script_day3.rpy:5152
 translate russian d3a5_2947cc50:
 
     # YV "...Uh, guys?"
     YV ""
 
-# game/script_day3.rpy:5155
+# game/script_day3.rpy:5154
 translate russian d3a5_7360019a:
 
     # O leering "...Is this some kind of joke to you? How does that explain ANYTHING?" with shakeonce
     O leering "" with shakeonce
 
-# game/script_day3.rpy:5156
+# game/script_day3.rpy:5155
 translate russian d3a5_d6dbfeae:
 
     # YV "W-well, if he's floating around right now, maybe he's waiting for his chance to possess one of us and--" with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5159
+# game/script_day3.rpy:5158
 translate russian d3a5_0fba05c3:
 
     # YV "Obviously, by spirit channeling. The practice of [t_clue]summoning spirits[t_cluee] to possess one's body."
     YV ""
 
-# game/script_day3.rpy:5160
+# game/script_day3.rpy:5159
 translate russian d3a5_abde322e:
 
     # O confused "...Where did you learn this?"
     O confused ""
 
-# game/script_day3.rpy:5161
+# game/script_day3.rpy:5160
 translate russian d3a5_3e3f6758:
 
     # YV "From the attic. I remember reading about people with immense spiritual power capable of calling spirits from the other side."
     YV ""
 
-# game/script_day3.rpy:5162
+# game/script_day3.rpy:5161
 translate russian d3a5_c5eadcf2:
 
     # YV "Spirit channeling is a technique that allows spirits to temporarily take control of a spirit medium's body."
     YV ""
 
-# game/script_day3.rpy:5163
+# game/script_day3.rpy:5162
 translate russian d3a5_dc902fc3:
 
     # YV "Which must mean...this body is actually a spirit medium who stopped channeling the Professor, and is now channeling me."
     YV ""
 
-# game/script_day3.rpy:5164
+# game/script_day3.rpy:5163
 translate russian d3a5_50405ef9:
 
     # YV "Or maybe...! The Professor is the spirit medium, and--" with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5165
+# game/script_day3.rpy:5164
 translate russian d3a5_5d4ca2d8:
 
     # O disappointed "[name_player]."
     O disappointed ""
 
-# game/script_day3.rpy:5166
+# game/script_day3.rpy:5165
 translate russian d3a5_59e2fbda:
 
     # O "You already declared you're currently inhabiting a soulless shell. Do you want to take that back?"
     O ""
 
-# game/script_day3.rpy:5168
+# game/script_day3.rpy:5167
 translate russian d3a5_87c4d2e0:
 
     # I "...Ah."
     I ""
 
-# game/script_day3.rpy:5169
+# game/script_day3.rpy:5168
 translate russian d3a5_dc240282:
 
     # C thinking "The Professor's a spirit medium...? Oooh, so THAT'S why the door didn't open when he got stabbed a bajillion times."
     C thinking ""
 
-# game/script_day3.rpy:5171
+# game/script_day3.rpy:5170
 translate russian d3a5_fb63776d:
 
     # YV "Urgh... S-sorry, let me redo my arguments from the start. So first of all--" with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5174
+# game/script_day3.rpy:5173
 translate russian d3a5_c4784dc8:
 
     # YV shadow "{cps=6}.....{/cps} It must be through the killing game..."
     YV shadow ""
 
-# game/script_day3.rpy:5175
+# game/script_day3.rpy:5174
 translate russian d3a5_f945cc7c:
 
     # O surprised "...What?" with shakeonce
     O surprised "" with shakeonce
 
-# game/script_day3.rpy:5176
+# game/script_day3.rpy:5175
 translate russian d3a5_289256f3:
 
     # YV default "Think about it. A large man like the Professor was killed with hardly any signs of struggle in the bedroom."
     YV default ""
 
-# game/script_day3.rpy:5177
+# game/script_day3.rpy:5176
 translate russian d3a5_56e762da:
 
     # YV "He must've let himself get killed on purpose.{w=0.5} That...must be how he moves around..."
     YV ""
 
-# game/script_day3.rpy:5178
+# game/script_day3.rpy:5177
 translate russian d3a5_36964eaa:
 
     # YV "The purpose of the killing game is to drive people like us to kill him, and then..." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5179
+# game/script_day3.rpy:5178
 translate russian d3a5_e400e9f0:
 
     # YV shadow "He...takes over the body of his murderer..."
     YV shadow ""
 
-# game/script_day3.rpy:5182
+# game/script_day3.rpy:5181
 translate russian d3a5_36825833:
 
     # K depressed "....." with shakeonce
     K depressed "" with shakeonce
 
-# game/script_day3.rpy:5183
+# game/script_day3.rpy:5182
 translate russian d3a5_cb5424fb:
 
     # O irritated "...[name_player]. You're trying to get us to suspect each other right now, aren't you...?"
     O irritated ""
 
-# game/script_day3.rpy:5185
+# game/script_day3.rpy:5184
 translate russian d3a5_e969f443:
 
     # YV "But...that's the only way he could still be alive after his body was killed..."
     YV ""
 
-# game/script_day3.rpy:5186
+# game/script_day3.rpy:5185
 translate russian d3a5_c7d01226:
 
     # C sad "It's certainly a chilling possibility, [name_player], but I don't think that's it."
     C sad ""
 
-# game/script_day3.rpy:5187
+# game/script_day3.rpy:5186
 translate russian d3a5_1029f961:
 
     # C thinking "Remember how there were many instances where the Professor--in your current body--definitely KILLED one of us?"
     C thinking ""
 
-# game/script_day3.rpy:5188
+# game/script_day3.rpy:5187
 translate russian d3a5_59ac415d:
 
     # C "Why would he do that if his soul can only move when someone else kills {i}him{/i}?"
     C ""
 
-# game/script_day3.rpy:5189
+# game/script_day3.rpy:5188
 translate russian d3a5_4c4f8c11:
 
     # YV default "That's... ...It must work either way, then.{w=0.5} He can also move if he kills someone himself..." with hpunch
     YV default "" with hpunch
 
-# game/script_day3.rpy:5190
+# game/script_day3.rpy:5189
 translate russian d3a5_5d22d0a6:
 
     # C sad "Then why wouldn't he {i}just{/i} do that? Why bother setting up a killing game when killing us himself works fine?"
     C sad ""
 
-# game/script_day3.rpy:5191
+# game/script_day3.rpy:5190
 translate russian d3a5_b913bc5f:
 
     # YV "I-I..." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5192
+# game/script_day3.rpy:5191
 translate russian d3a5_19ce04f8:
 
     # O leering "I knew it... You're trying to trick us right now, aren't you...?"
     O leering ""
 
-# game/script_day3.rpy:5193
+# game/script_day3.rpy:5192
 translate russian d3a5_5bedc9c3:
 
     # YV "Wha-- N-NO, I--" with shakeshort
@@ -12390,7 +12390,7 @@ translate russian d3a5_a7a9234e:
     # YV "But just now...{w=1.0}I realized something.{nw}"
     YV ""
 
-# game/script_day3.rpy:5216
+# game/script_day3.rpy:5215
 translate russian d3a5_11fdb519_4:
 
     # extend "" nointeract
@@ -12420,391 +12420,391 @@ translate russian d3a5_e8efda6d:
     # YV shadow "{cps=6}.....{/cps} ...The other soul in this shackle with me is...{w=0.5}{nw}"
     YV shadow ""
 
-# game/script_day3.rpy:5226
+# game/script_day3.rpy:5225
 translate russian d3a5_11fdb519_5:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5228
+# game/script_day3.rpy:5227
 translate russian d3a5_00e58793:
 
     # YV "...The Professor... He's in here..."
     YV ""
 
-# game/script_day3.rpy:5229
+# game/script_day3.rpy:5228
 translate russian d3a5_2990e7a8:
 
     # C serious "....."
     C serious ""
 
-# game/script_day3.rpy:5230
+# game/script_day3.rpy:5229
 translate russian d3a5_6df5eba5:
 
     # O irritated "...[name_player]."
     O irritated ""
 
-# game/script_day3.rpy:5231
+# game/script_day3.rpy:5230
 translate russian d3a5_190bf99c:
 
     # O annoyed "If you're serious, then isn't that all the more reason we should be throwing that shackle into the Gate?" with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day3.rpy:5232
+# game/script_day3.rpy:5231
 translate russian d3a5_77c6e4bc:
 
     # YV default "Wh-why? He's not...going anywhere with me in here too, tying him down..." with hpunch
     YV default "" with hpunch
 
-# game/script_day3.rpy:5234
+# game/script_day3.rpy:5233
 translate russian d3a5_44f55a64:
 
     # YV "The daughter of the house... The one that passed away..."
     YV ""
 
-# game/script_day3.rpy:5236
+# game/script_day3.rpy:5235
 translate russian d3a5_6825bcfc:
 
     # C injured "...That's..." with shakeonce
     C injured "" with shakeonce
 
-# game/script_day3.rpy:5237
+# game/script_day3.rpy:5236
 translate russian d3a5_895761ba:
 
     # O shadow "[name_player]... That's low, even for a being from Hell like yourself..." with shakeonce
     O shadow "" with shakeonce
 
-# game/script_day3.rpy:5238
+# game/script_day3.rpy:5237
 translate russian d3a5_cd44ed4b:
 
     # O annoyed "Are you seriously using the tragedy of the daughter's death to lie yourself out of going back?!" with shakeshort
     O annoyed "" with shakeshort
 
-# game/script_day3.rpy:5239
+# game/script_day3.rpy:5238
 translate russian d3a5_f1cbe3d0:
 
     # YV default "N-no, I... I just feel like she could be...in here..." with hpunch
     YV default "" with hpunch
 
-# game/script_day3.rpy:5241
+# game/script_day3.rpy:5240
 translate russian d3a5_e29e2498:
 
     # YV "It's...a stranger. Someone none of us know..."
     YV ""
 
-# game/script_day3.rpy:5242
+# game/script_day3.rpy:5241
 translate russian d3a5_38083982:
 
     # C surprised "....."
     C surprised ""
 
-# game/script_day3.rpy:5243
+# game/script_day3.rpy:5242
 translate russian d3a5_8ef6a8ed:
 
     # O irritated "...So what are you saying, [name_player]? Are you holding that other soul hostage so that we don't send you back to Hell?"
     O irritated ""
 
-# game/script_day3.rpy:5244
+# game/script_day3.rpy:5243
 translate russian d3a5_1bbc653f:
 
     # YV default "N-no, that's not what I'm doing! I just... I dunno, I feel like there's someone else in here with me..." with hpunch
     YV default "" with hpunch
 
-# game/script_day3.rpy:5246
+# game/script_day3.rpy:5245
 translate russian d3a5_766e17bf:
 
     # YV "It's...Karma."
     YV ""
 
-# game/script_day3.rpy:5247
+# game/script_day3.rpy:5246
 translate russian d3a5_0569cbc8_1:
 
     # C sad "....."
     C sad ""
 
-# game/script_day3.rpy:5248
+# game/script_day3.rpy:5247
 translate russian d3a5_ba708ada_1:
 
     # K worried "....."
     K worried ""
 
-# game/script_day3.rpy:5249
+# game/script_day3.rpy:5248
 translate russian d3a5_fe462a6a_1:
 
     # O irritated "....."
     O irritated ""
 
-# game/script_day3.rpy:5250
+# game/script_day3.rpy:5249
 translate russian d3a5_609e5437:
 
     # K "Um... I'm right here, y'know..."
     K ""
 
-# game/script_day3.rpy:5252
+# game/script_day3.rpy:5251
 translate russian d3a5_331aa1a9:
 
     # O shouting "Are you SERIOUSLY joking around at a time like this?!" with shakelong
     O shouting "" with shakelong
 
-# game/script_day3.rpy:5254
+# game/script_day3.rpy:5253
 translate russian d3a5_6774c439:
 
     # I "...What the hell am I saying...?! I'm not in Karma's body anymore; how could I possibly be hearing other voices...?!" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:5260
+# game/script_day3.rpy:5259
 translate russian d3a5_f9e8458d:
 
     # YV "This shackle isn't the only object that can host souls."
     YV ""
 
-# game/script_day3.rpy:5261
+# game/script_day3.rpy:5260
 translate russian d3a5_15df71cb:
 
     # O surprised "You're saying...there's another?"
     O surprised ""
 
-# game/script_day3.rpy:5262
+# game/script_day3.rpy:5261
 translate russian d3a5_e7822cf4:
 
     # YV "Yes...{w=0.5} The other artifact is...{nw}"
     YV ""
 
-# game/script_day3.rpy:5264
+# game/script_day3.rpy:5263
 translate russian d3a5_11fdb519_6:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5266
+# game/script_day3.rpy:5265
 translate russian d3a5_9ebb4ea2:
 
     # YV "Cece's knife. She's been basically attached to it this whole time."
     YV ""
 
-# game/script_day3.rpy:5267
+# game/script_day3.rpy:5266
 translate russian d3a5_2291c936:
 
     # YV "It's no stretch to say it's been magnifying her...{w=0.5}violent urges."
     YV ""
 
-# game/script_day3.rpy:5268
+# game/script_day3.rpy:5267
 translate russian d3a5_ea3d2f51:
 
     # O irritated "....." with shakeonce
     O irritated "" with shakeonce
 
-# game/script_day3.rpy:5269
+# game/script_day3.rpy:5268
 translate russian d3a5_be0ec5eb:
 
     # C sweatdrop "{cps=6}.....{/cps} ...[name_player], this is kinda weird for me to say, but..."
     C sweatdrop ""
 
-# game/script_day3.rpy:5270
+# game/script_day3.rpy:5269
 translate russian d3a5_1af639d3:
 
     # C sad "This is just my normal personality. The others can confirm it."
     C sad ""
 
-# game/script_day3.rpy:5271
+# game/script_day3.rpy:5270
 translate russian d3a5_13ff3bf5:
 
     # YV "They can?"
     YV ""
 
-# game/script_day3.rpy:5272
+# game/script_day3.rpy:5271
 translate russian d3a5_eb48b42c:
 
     # K worried "Yes."
     K worried ""
 
-# game/script_day3.rpy:5273
+# game/script_day3.rpy:5272
 translate russian d3a5_73494ef1:
 
     # O annoyed2 "Yes, she's always like this." with shakeonce
     O annoyed2 "" with shakeonce
 
-# game/script_day3.rpy:5275
+# game/script_day3.rpy:5274
 translate russian d3a5_7f8dbb91:
 
     # I "Okay, I guess that was a bit of a wild guess..."
     I ""
 
-# game/script_day3.rpy:5277
+# game/script_day3.rpy:5276
 translate russian d3a5_b61e9971:
 
     # YV "Ria's choker. You've been fiddling with it this whole time."
     YV ""
 
-# game/script_day3.rpy:5278
+# game/script_day3.rpy:5277
 translate russian d3a5_500daa23:
 
     # O surprised "Th-that's..." with shakeonce
     O surprised "" with shakeonce
 
-# game/script_day3.rpy:5279
+# game/script_day3.rpy:5278
 translate russian d3a5_30d1d609:
 
     # K surprised "....."
     K surprised ""
 
-# game/script_day3.rpy:5281
+# game/script_day3.rpy:5280
 translate russian d3a5_b67fd714:
 
     # O embarrassed "Y-you can confirm with either of the others that I've always worn this, even when we first arrived here!" with shakeshort
     O embarrassed "" with shakeshort
 
-# game/script_day3.rpy:5282
+# game/script_day3.rpy:5281
 translate russian d3a5_9f8fa373:
 
     # C blink "....."
     C blink ""
 
-# game/script_day3.rpy:5284
+# game/script_day3.rpy:5283
 translate russian d3a5_0f81cc73:
 
     # K sweatdrop "She, uh...definitely wears it daily, [name_player]. I doubt it got cursed at any point." with hpunch
     K sweatdrop "" with hpunch
 
-# game/script_day3.rpy:5285
+# game/script_day3.rpy:5284
 translate russian d3a5_99fce1ea:
 
     # O leering2 "But also... Are you implying that I'm currently being possessed by the Professor?" with shakeonce
     O leering2 "" with shakeonce
 
-# game/script_day3.rpy:5286
+# game/script_day3.rpy:5285
 translate russian d3a5_971ab551:
 
     # YV "O-oh, that's right, the Professor... Uh..." with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5289
+# game/script_day3.rpy:5288
 translate russian d3a5_9ce46a55:
 
     # YV "Karma's earring. It must contain a soul inside. Why else would you only have one?"
     YV ""
 
-# game/script_day3.rpy:5290
+# game/script_day3.rpy:5289
 translate russian d3a5_eb75e5ff:
 
     # K panicked "....."
     K panicked ""
 
-# game/script_day3.rpy:5291
+# game/script_day3.rpy:5290
 translate russian d3a5_3d7b3358:
 
     # O disappointed "...[name_player]. It's not unusual for people to wear a single earring."
     O disappointed ""
 
-# game/script_day3.rpy:5292
+# game/script_day3.rpy:5291
 translate russian d3a5_c908ae61:
 
     # YV "But let's say it {i}did{/i} contain a soul. That would explain why she's now in control of her body instead of me." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5293
+# game/script_day3.rpy:5292
 translate russian d3a5_7f6cbc92:
 
     # C sweatdrop "Uh, [name_player], you checked the mirror when you were in her body, right?"
     C sweatdrop ""
 
-# game/script_day3.rpy:5294
+# game/script_day3.rpy:5293
 translate russian d3a5_6c4cd251:
 
     # C thinking "That earring has always been there. Are you saying you sensed her presence?"
     C thinking ""
 
-# game/script_day3.rpy:5295
+# game/script_day3.rpy:5294
 translate russian d3a5_b2e2820e:
 
     # YV "...Well, not all the time, but... Um..." with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5297
+# game/script_day3.rpy:5296
 translate russian d3a5_b920f89a:
 
     # I "Wait, this is just confusing me. I've definitely gone off-track..."
     I ""
 
-# game/script_day3.rpy:5298
+# game/script_day3.rpy:5297
 translate russian d3a5_7308def3:
 
     # O irritated "I also don't appreciate the implication that Karma's already dead, and is being controlled by her own spirit..." with shakeonce
     O irritated "" with shakeonce
 
-# game/script_day3.rpy:5299
+# game/script_day3.rpy:5298
 translate russian d3a5_c6c5eef7:
 
     # I "...What am I doing? I should already know the answer; why am I making guesses like this...?" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:5306
+# game/script_day3.rpy:5305
 translate russian d3a5_d06856b2:
 
     # YV shadow "{cps=6}.....{/cps} ...I must be the Professor..."
     YV shadow ""
 
-# game/script_day3.rpy:5308
+# game/script_day3.rpy:5307
 translate russian d3a5_d25f28a2:
 
     # K depressed "...What?" with shakeonce
     K depressed "" with shakeonce
 
-# game/script_day3.rpy:5309
+# game/script_day3.rpy:5308
 translate russian d3a5_bcdc0a07:
 
     # YV "It makes sense... The way {i}my{/i} soul moves around... It's exactly how the Professor could've avoided detection, avoided death..."
     YV ""
 
-# game/script_day3.rpy:5310
+# game/script_day3.rpy:5309
 translate russian d3a5_17a7cdfb:
 
     # YV default "I mean, look at me! I still have an open stab wound on my chest! That means I could easily pretend to be..." with shakeonce
     YV default "" with shakeonce
 
-# game/script_day3.rpy:5311
+# game/script_day3.rpy:5310
 translate russian d3a5_9379a4a5:
 
     # O irritated2 "[name_player]. That doesn't make ANY sense."
     O irritated2 ""
 
-# game/script_day3.rpy:5312
+# game/script_day3.rpy:5311
 translate russian d3a5_d1764aff:
 
     # O leering "You were possessing Karma this whole time, remember? Including [t_clue]when the zombie attacked us[t_cluee]."
     O leering ""
 
-# game/script_day3.rpy:5314
+# game/script_day3.rpy:5313
 translate russian d3a5_14191c92:
 
     # YV "...! Oh..." with shakeonce
     YV "" with shakeonce
 
-# game/script_day3.rpy:5316
+# game/script_day3.rpy:5315
 translate russian d3a5_1924eebe:
 
     # O irritated "If you're actually the Professor, then we'd need a new explanation for that zombie."
     O irritated ""
 
-# game/script_day3.rpy:5317
+# game/script_day3.rpy:5316
 translate russian d3a5_8b0445f5:
 
     # YV "Y-you're right... Then I guess he has to be somewhere else..." with hpunch
     YV "" with hpunch
 
-# game/script_day3.rpy:5318
+# game/script_day3.rpy:5317
 translate russian d3a5_7146f3b9:
 
     # O leering2 "...No.{w=0.5} I don't buy your act, [name_player]."
     O leering2 ""
 
-# game/script_day3.rpy:5319
+# game/script_day3.rpy:5318
 translate russian d3a5_6b7bc506:
 
     # O "You clearly don't know what you're talking about, and you're just trying to derail us from sacrificing you."
     O ""
 
-# game/script_day3.rpy:5320
+# game/script_day3.rpy:5319
 translate russian d3a5_e4ad4e0a:
 
     # YV "Th-that's...! I'm not...!" with shakeshort
@@ -12972,157 +12972,157 @@ translate russian d3a5_4d70a955:
     # YV shadow "{cps=12}...Exactly.{/cps}{w=0.5} And there's only one explanation for that.{nw}"
     YV shadow ""
 
-# game/script_day3.rpy:5401
+# game/script_day3.rpy:5400
 translate russian d3a5_11fdb519_7:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5403
+# game/script_day3.rpy:5402
 translate russian d3a5_e68b4d24:
 
     # YV default "After each one died, the wrist shackle pulled itself free to go search for a new host."
     YV default ""
 
-# game/script_day3.rpy:5404
+# game/script_day3.rpy:5403
 translate russian d3a5_7bf52ce0:
 
     # YV "That's why we don't know where it is. And thus, we don't know where the Professor is..."
     YV ""
 
-# game/script_day3.rpy:5406
+# game/script_day3.rpy:5405
 translate russian d3a5_99f22b0d:
 
     # K pained2 "No..." with shakeonce
     K pained2 "" with shakeonce
 
-# game/script_day3.rpy:5408
+# game/script_day3.rpy:5407
 translate russian d3a5_87e5f00f:
 
     # O depressed "{cps=6}.....{/cps}"
     O depressed ""
 
-# game/script_day3.rpy:5409
+# game/script_day3.rpy:5408
 translate russian d3a5_210255bb:
 
     # C sad "I hate to interrupt a moment of collective terror, but..."
     C sad ""
 
-# game/script_day3.rpy:5411
+# game/script_day3.rpy:5410
 translate russian d3a5_97cdfd16:
 
     # C thinking "Ria, when you found the Professor's body in the bedroom, did you have to [t_clue]open the door[t_cluee] to see inside?"
     C thinking ""
 
-# game/script_day3.rpy:5413
+# game/script_day3.rpy:5412
 translate russian d3a5_89dfc22f:
 
     # O panicked "...!!{w=0.5} Y-yes, I did...!" with shakeonce
     O panicked "" with shakeonce
 
-# game/script_day3.rpy:5415
+# game/script_day3.rpy:5414
 translate russian d3a5_5725405f:
 
     # I "WHAT?!" with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:5416
+# game/script_day3.rpy:5415
 translate russian d3a5_c37b1fb8:
 
     # C smug "Just like I thought."
     C smug ""
 
-# game/script_day3.rpy:5418
+# game/script_day3.rpy:5417
 translate russian d3a5_d7b5f146:
 
     # C blink "[name_player], let's say your wild theory about an animated wrist shackle is true."
     C blink ""
 
-# game/script_day3.rpy:5419
+# game/script_day3.rpy:5418
 translate russian d3a5_94a542ad:
 
     # C "How do you propose it managed to open and close a door without being discovered?"
     C ""
 
-# game/script_day3.rpy:5420
+# game/script_day3.rpy:5419
 translate russian d3a5_b307631d:
 
     # YV shadow "....." with hpunch
     YV shadow "" with hpunch
 
-# game/script_day3.rpy:5421
+# game/script_day3.rpy:5420
 translate russian d3a5_067ca29a:
 
     # K panicked "Y-you're right! That doesn't make any sense!" with shakeonce
     K panicked "" with shakeonce
 
-# game/script_day3.rpy:5422
+# game/script_day3.rpy:5421
 translate russian d3a5_ac424e34:
 
     # C smile "Also... You're in a shackle too, right? Give your idea a try!"
     C smile ""
 
-# game/script_day3.rpy:5423
+# game/script_day3.rpy:5422
 translate russian d3a5_626e94aa:
 
     # C grin "Pull yourself off the corpse and try to jump onto one of us. C'mon, don't be shy~"
     C grin ""
 
-# game/script_day3.rpy:5426
+# game/script_day3.rpy:5425
 translate russian d3a5_c4c73e88:
 
     # I "AAAARGHHH!! I... I was so close...!" with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:5434
+# game/script_day3.rpy:5433
 translate russian d3a5_c6da4373:
 
     # YV "It must have dissolved away after its host died..."
     YV ""
 
-# game/script_day3.rpy:5435
+# game/script_day3.rpy:5434
 translate russian d3a5_fe754dee:
 
     # YV "That means... The Professor is gone now..."
     YV ""
 
-# game/script_day3.rpy:5436
+# game/script_day3.rpy:5435
 translate russian d3a5_c2d9eda6:
 
     # K panicked "Wh-wha...?! Then...it's over?!" with shakeshort
     K panicked "" with shakeshort
 
-# game/script_day3.rpy:5437
+# game/script_day3.rpy:5436
 translate russian d3a5_dc1a77c0:
 
     # O confused "...[name_player]. That can't be how it works."
     O confused ""
 
-# game/script_day3.rpy:5438
+# game/script_day3.rpy:5437
 translate russian d3a5_091c0497:
 
     # O irritated "We found [name_dog]'s dead body first, then the Professor's body shortly after."
     O irritated ""
 
-# game/script_day3.rpy:5439
+# game/script_day3.rpy:5438
 translate russian d3a5_b0d68550:
 
     # O leering2 "If it dissolves after its host dies, then how was the Professor [t_clue]able to move[t_cluee] after we found [name_dog]'s body?" with shakeonce
     O leering2 "" with shakeonce
 
-# game/script_day3.rpy:5440
+# game/script_day3.rpy:5439
 translate russian d3a5_971cf5be:
 
     # YV default "Th-that's... I-I..." with shakeonce
     YV default "" with shakeonce
 
-# game/script_day3.rpy:5441
+# game/script_day3.rpy:5440
 translate russian d3a5_52904a9e:
 
     # C sad "Come on, [name_player]... You almost had something there..."
     C sad ""
 
-# game/script_day3.rpy:5444
+# game/script_day3.rpy:5443
 translate russian d3a5_930c598d:
 
     # I "No... I was so close...!{w=0.5} The answer should be SO obvious now...!" with shakeshort
@@ -13362,67 +13362,67 @@ translate russian d3a6_de09c0c8:
     # YV "The reason you took the wrist shackle is...{nw}"
     YV ""
 
-# game/script_day3.rpy:5604
+# game/script_day3.rpy:5603
 translate russian d3a6_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:5606
+# game/script_day3.rpy:5605
 translate russian d3a6_a0bc9388:
 
     # YV "...You love the occult. Obviously, you wanted it as a..."
     YV ""
 
-# game/script_day3.rpy:5608
+# game/script_day3.rpy:5607
 translate russian d3a6_202a02fc:
 
     # I "Wait, that's stupid. Come on, don't joke around now!" with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:5609
+# game/script_day3.rpy:5608
 translate russian d3a6_bd8cf9ed:
 
     # YV "...No, the REAL reason..."
     YV ""
 
-# game/script_day3.rpy:5613
+# game/script_day3.rpy:5612
 translate russian d3a6_35ede9a1:
 
     # YV "...You found it on the floor, and..."
     YV ""
 
-# game/script_day3.rpy:5615
+# game/script_day3.rpy:5614
 translate russian d3a6_1993944c:
 
     # I "...Wait, why would she do that? She was there when Karma took my shackle. She would've known what would happen..."
     I ""
 
-# game/script_day3.rpy:5616
+# game/script_day3.rpy:5615
 translate russian d3a6_e0c4769d:
 
     # I "Then...that means..." with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:5617
+# game/script_day3.rpy:5616
 translate russian d3a6_bd8cf9ed_1:
 
     # YV "...No, the REAL reason..."
     YV ""
 
-# game/script_day3.rpy:5621
+# game/script_day3.rpy:5620
 translate russian d3a6_d95ef3c5:
 
     # YV "...You didn't want to take it. It was forced onto you."
     YV ""
 
-# game/script_day3.rpy:5623
+# game/script_day3.rpy:5622
 translate russian d3a6_02933fff:
 
     # YV "...Isn't that right...{w=1.0}{nw}"
     YV ""
 
-# game/script_day3.rpy:5625
+# game/script_day3.rpy:5624
 translate russian d3a6_7cbca404:
 
     # extend " \"[t_clue]Professor[t_cluee]\"?" with shakeshort
@@ -16260,91 +16260,91 @@ translate russian d3a6_chase_pt1_9db117be:
     # O thinking "...I think now's our chance.{w=0.5} Are you ready?{nw}"
     O thinking ""
 
-# game/script_day3.rpy:6830
+# game/script_day3.rpy:6829
 translate russian d3a6_chase_pt1_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:6832
+# game/script_day3.rpy:6831
 translate russian d3a6_chase_pt1_57c798e9:
 
     # Y thinking "Yeah, while he's away for a moment..."
     Y thinking ""
 
-# game/script_day3.rpy:6835
+# game/script_day3.rpy:6834
 translate russian d3a6_chase_pt1_4d81de34:
 
     # Y blink "{cps=12}Okay, quietly...open...{/cps}"
     Y blink ""
 
-# game/script_day3.rpy:6850
+# game/script_day3.rpy:6849
 translate russian d3a6_chase_pt1_c8b49316:
 
     # C "You fell for it."
     C ""
 
-# game/script_day3.rpy:6852
+# game/script_day3.rpy:6851
 translate russian d3a6_chase_pt1_b5a54b4a:
 
     # Y afraid "AUUUGHHH!!" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day3.rpy:6854
+# game/script_day3.rpy:6853
 translate russian d3a6_chase_pt1_1ddc8bc8:
 
     # KI "GO BACK, GO BACK!!" with shakeshort
     KI "" with shakeshort
 
-# game/script_day3.rpy:6874
+# game/script_day3.rpy:6873
 translate russian d3a6_chase_pt1_78f2c250:
 
     # I "...Ugh... I'm starting to get dizzy..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:6877
+# game/script_day3.rpy:6876
 translate russian d3a6_chase_pt1_71ffa4d9:
 
     # Y angry "No, let's wait a little bit. Just in case." with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day3.rpy:6879
+# game/script_day3.rpy:6878
 translate russian d3a6_chase_pt1_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:6881
+# game/script_day3.rpy:6880
 translate russian d3a6_chase_pt1_fe462a6a:
 
     # O irritated "....."
     O irritated ""
 
-# game/script_day3.rpy:6883
+# game/script_day3.rpy:6882
 translate russian d3a6_chase_pt1_ffedfe27:
 
     # C "{cps=6}.....{/cps} ...Hm, you [t_clue]didn't fall for that[t_cluee]... I suppose that would have been too easy..."
     C ""
 
-# game/script_day3.rpy:6886
+# game/script_day3.rpy:6885
 translate russian d3a6_chase_pt1_d8c3dc12:
 
     # C "Very well, the axe it is!" with vpunch
     C "" with vpunch
 
-# game/script_day3.rpy:6893
+# game/script_day3.rpy:6892
 translate russian d3a6_chase_pt1_b4dcbf5d:
 
     # O leering "....."
     O leering ""
 
-# game/script_day3.rpy:6895
+# game/script_day3.rpy:6894
 translate russian d3a6_chase_pt1_93c7d3ef:
 
     # Y blink "{cps=6}.....{/cps} *deep inhale*"
     Y blink ""
 
-# game/script_day3.rpy:6898
+# game/script_day3.rpy:6897
 translate russian d3a6_chase_pt1_8ff81149:
 
     # I "Now!" with shakeshort
@@ -16362,49 +16362,49 @@ translate russian d3a6_chase_pt1_9772a8b0:
     # Y shouting "{cps=24}RAAAAAGGHHH!!{/cps}{nw}" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day3.rpy:6913
+# game/script_day3.rpy:6912
 translate russian d3a6_chase_pt1_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:6916
+# game/script_day3.rpy:6915
 translate russian d3a6_chase_pt1_bb01027a:
 
     # Y pained "Grgh!" with shakeshort
     Y pained "" with shakeshort
 
-# game/script_day3.rpy:6921
+# game/script_day3.rpy:6920
 translate russian d3a6_chase_pt1_03c6d267:
 
     # C "Hmph!{w=0.5} ...I see, so {i}that's{/i} your plan..."
     C ""
 
-# game/script_day3.rpy:6922
+# game/script_day3.rpy:6921
 translate russian d3a6_chase_pt1_6e36c717:
 
     # I "No... I couldn't grab it..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:6928
+# game/script_day3.rpy:6927
 translate russian d3a6_chase_pt1_34cb2bf5:
 
     # Y "TAKE THIS!!" with shakeshort
     Y "" with shakeshort
 
-# game/script_day3.rpy:6933
+# game/script_day3.rpy:6932
 translate russian d3a6_chase_pt1_b669e29e:
 
     # C "....." with shakeshort
     C "" with shakeshort
 
-# game/script_day3.rpy:6934
+# game/script_day3.rpy:6933
 translate russian d3a6_chase_pt1_78cff5e9:
 
     # I "...!! She...caught my fist..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:6936
+# game/script_day3.rpy:6935
 translate russian d3a6_chase_pt1_127be96d:
 
     # C possessed grin knife "I see... You're just handing your wrist over to me, is that it?" with hpunch
@@ -16458,97 +16458,97 @@ translate russian d3a6_chase_pt2_9989290b:
     # I "Ngh! She's fast...{nw}" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:6990
+# game/script_day3.rpy:6989
 translate russian d3a6_chase_pt2_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:6992
+# game/script_day3.rpy:6991
 translate russian d3a6_chase_pt2_87a07d2b:
 
     # Y shouting "Take...{cps=3} {/cps}{nw}"
     Y shouting ""
 
-# game/script_day3.rpy:6999
+# game/script_day3.rpy:6998
 translate russian d3a6_chase_pt2_e3168f99:
 
     # extend pained2 "THIS!!" with shakelong
     extend pained2 "" with shakelong
 
-# game/script_day3.rpy:7001
+# game/script_day3.rpy:7000
 translate russian d3a6_chase_pt2_ac8168f0:
 
     # C "NGH!! Tch..." with shakeshort
     C "" with shakeshort
 
-# game/script_day3.rpy:7003
+# game/script_day3.rpy:7002
 translate russian d3a6_chase_pt2_c1e14452:
 
     # I "Ow... My head..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:7006
+# game/script_day3.rpy:7005
 translate russian d3a6_chase_pt2_f8b181f4:
 
     # Y afraid "Uwah!" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day3.rpy:7013
+# game/script_day3.rpy:7012
 translate russian d3a6_chase_pt2_870c7df8:
 
     # C possessed blink "Were you trying to knock me unconscious with that?! Did you forget I am a spirit controlling this girl like a puppet?" with hpunch
     C possessed blink "" with hpunch
 
-# game/script_day3.rpy:7015
+# game/script_day3.rpy:7014
 translate russian d3a6_chase_pt2_5b9d33d0:
 
     # C possessed grin "Oh, I suppose you're in the same boat. Not for long, though--{w=1.0}{nw}" with shakeonce
     C possessed grin "" with shakeonce
 
-# game/script_day3.rpy:7020
+# game/script_day3.rpy:7019
 translate russian d3a6_chase_pt2_68d93163:
 
     # KI "GO BACK!! BAAAACK!!" with shakeshort
     KI "" with shakeshort
 
-# game/script_day3.rpy:7033
+# game/script_day3.rpy:7032
 translate russian d3a6_chase_pt2_48cdc167:
 
     # I "3... 2..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:7035
+# game/script_day3.rpy:7034
 translate russian d3a6_chase_pt2_87547dc2:
 
     # C "...Heh."
     C ""
 
-# game/script_day3.rpy:7036
+# game/script_day3.rpy:7035
 translate russian d3a6_chase_pt2_f8b181f4_1:
 
     # Y afraid "Uwah!" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day3.rpy:7043
+# game/script_day3.rpy:7042
 translate russian d3a6_chase_pt2_4ef0acd7:
 
     # Y pained "NRGH!!" with shakelong
     Y pained "" with shakelong
 
-# game/script_day3.rpy:7046
+# game/script_day3.rpy:7045
 translate russian d3a6_chase_pt2_780905dc:
 
     # C possessed grin "You don't think I'm on to your schemes?"
     C possessed grin ""
 
-# game/script_day3.rpy:7047
+# game/script_day3.rpy:7046
 translate russian d3a6_chase_pt2_f776b41e:
 
     # C possessed blink "Now, I'll be taking that sha--{w=1.0}{nw}" with shakeonce
     C possessed blink "" with shakeonce
 
-# game/script_day3.rpy:7052
+# game/script_day3.rpy:7051
 translate russian d3a6_chase_pt2_68d93163_1:
 
     # KI "GO BACK!! BAAAACK!!" with shakeshort
@@ -16902,241 +16902,241 @@ translate russian d3a6_chase_pt2_af488862:
     # Y blink "If I can fend off your attacks for [t_clue]one minute[t_cluee], OR [t_clue]knock away your knife[t_cluee] from your hands...{w=1.0} You must...{nw}"
     Y blink ""
 
-# game/script_day3.rpy:7203
+# game/script_day3.rpy:7202
 translate russian d3a6_chase_pt2_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7206
+# game/script_day3.rpy:7205
 translate russian d3a6_chase_pt2_340e2d37:
 
     # KI "Wha-- {color=#fff}[input_name]{/color}! But h-he's done so much, killed SO many people, all to escape this place!" with shakeshort
     KI "" with shakeshort
 
-# game/script_day3.rpy:7207
+# game/script_day3.rpy:7206
 translate russian d3a6_chase_pt2_088256e3:
 
     # KI "He'd never--" with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7210
+# game/script_day3.rpy:7209
 translate russian d3a6_chase_pt2_3a37c48b:
 
     # Y shadow2 "...You must {color=#ff0000}go to Hell{/color} with me."
     Y shadow2 ""
 
-# game/script_day3.rpy:7213
+# game/script_day3.rpy:7212
 translate russian d3a6_chase_pt2_9a1ea5ed:
 
     # C "{cps=6}.....{/cps}"
     C ""
 
-# game/script_day3.rpy:7215
+# game/script_day3.rpy:7214
 translate russian d3a6_chase_pt2_71378e65:
 
     # Y "{cps=6}.....{/cps} ...Neither of us have the right to return to the world of the living. Especially at the cost of other people's lives."
     Y ""
 
-# game/script_day3.rpy:7217
+# game/script_day3.rpy:7216
 translate russian d3a6_chase_pt2_01c249c3:
 
     # Y "You and I both...{w=1.0}{nw}"
     Y ""
 
-# game/script_day3.rpy:7219
+# game/script_day3.rpy:7218
 translate russian d3a6_chase_pt2_594751b5:
 
     # extend "need to move on." with shakeonce
     extend "" with shakeonce
 
-# game/script_day3.rpy:7221
+# game/script_day3.rpy:7220
 translate russian d3a6_chase_pt2_6dcc18aa:
 
     # C "{cps=6}.......{/cps}"
     C ""
 
-# game/script_day3.rpy:7223
+# game/script_day3.rpy:7222
 translate russian d3a6_chase_pt2_ad78059f:
 
     # KI "...{color=#fff}[input_name]{/color}..."
     KI ""
 
-# game/script_day3.rpy:7225
+# game/script_day3.rpy:7224
 translate russian d3a6_chase_pt2_4c63eac4:
 
     # C "{cps=6}.....{/cps} ...Yes.{cps=1} {/cps}I suppose no matter how much I may wish for my family to be whole again..."
     C ""
 
-# game/script_day3.rpy:7227
+# game/script_day3.rpy:7226
 translate russian d3a6_chase_pt2_2f517fda:
 
     # C "...It is far too late now. Even with a new life, nothing will ever be the same as those days..."
     C ""
 
-# game/script_day3.rpy:7230
+# game/script_day3.rpy:7229
 translate russian d3a6_chase_pt2_ddddbc73:
 
     # O shadow "{cps=6}.....{/cps}"
     O shadow ""
 
-# game/script_day3.rpy:7234
+# game/script_day3.rpy:7233
 translate russian d3a6_chase_pt2_fffcab32:
 
     # KI "Wait, {color=#fff}[input_name]{/color}! He'd never agree to that!" with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7236
+# game/script_day3.rpy:7235
 translate russian d3a6_chase_pt2_7407b067:
 
     # Y angry "...You must throw yourself into the Gate instead."
     Y angry ""
 
-# game/script_day3.rpy:7238
+# game/script_day3.rpy:7237
 translate russian d3a6_chase_pt2_adbd03a4:
 
     # C "{cps=6}.....{/cps} ...That may sound like a fair wager, but to reiterate, I have one knife over you already."
     C ""
 
-# game/script_day3.rpy:7239
+# game/script_day3.rpy:7238
 translate russian d3a6_chase_pt2_02db7d4d:
 
     # C "Why would I agree to bet my life in addition to allowing you a weapon and easier victory conditions?"
     C ""
 
-# game/script_day3.rpy:7241
+# game/script_day3.rpy:7240
 translate russian d3a6_chase_pt2_674a863d:
 
     # KI "Exactly..." with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7242
+# game/script_day3.rpy:7241
 translate russian d3a6_chase_pt2_be727dd3:
 
     # Y blink "Because there's no way you'll lose."
     Y blink ""
 
-# game/script_day3.rpy:7244
+# game/script_day3.rpy:7243
 translate russian d3a6_chase_pt2_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:7245
+# game/script_day3.rpy:7244
 translate russian d3a6_chase_pt2_240b8557:
 
     # Y thinking "It's not like I have any chance of knocking away your knife. And one minute is a very long time for a duel."
     Y thinking ""
 
-# game/script_day3.rpy:7246
+# game/script_day3.rpy:7245
 translate russian d3a6_chase_pt2_5df644d0:
 
     # Y relaxed "Or what, are you too scared for your life to give me one last, futile chance to protect myself?"
     Y relaxed ""
 
-# game/script_day3.rpy:7247
+# game/script_day3.rpy:7246
 translate russian d3a6_chase_pt2_abf5d82d:
 
     # C "...Hmph. Is that your idea of a taunt? Do you consider me a prideful man?"
     C ""
 
-# game/script_day3.rpy:7249
+# game/script_day3.rpy:7248
 translate russian d3a6_chase_pt2_78f38f44:
 
     # C "I care for nothing but achieving my objectives. I will endure any shame, disgrace, or atrocious acts to that end." with shakeonce
     C "" with shakeonce
 
-# game/script_day3.rpy:7251
+# game/script_day3.rpy:7250
 translate russian d3a6_chase_pt2_245e3742:
 
     # Y troubled "....." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3.rpy:7252
+# game/script_day3.rpy:7251
 translate russian d3a6_chase_pt2_9bfb1804:
 
     # C "But I sense there is another purpose for this...duel."
     C ""
 
-# game/script_day3.rpy:7253
+# game/script_day3.rpy:7252
 translate russian d3a6_chase_pt2_b552b4a9:
 
     # C "Perhaps I will humour you for a moment, if only to satisfy my curiosity at your sudden bravado."
     C ""
 
-# game/script_day3.rpy:7255
+# game/script_day3.rpy:7254
 translate russian d3a6_chase_pt2_7eeb5177:
 
     # KI "I-It worked...?!" with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7258
+# game/script_day3.rpy:7257
 translate russian d3a6_chase_pt2_1458a280:
 
     # Y blink "...You must promise to wait for the next person to enter this space, and sacrifice them instead."
     Y blink ""
 
-# game/script_day3.rpy:7261
+# game/script_day3.rpy:7260
 translate russian d3a6_chase_pt2_6c0da339:
 
     # KI "...{color=#fff}[input_name]{/color}... You can't be serious, right...?" with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7264
+# game/script_day3.rpy:7263
 translate russian d3a6_chase_pt2_c4861352:
 
     # I "{cps=6}.....{/cps} ...I am."
     I ""
 
-# game/script_day3.rpy:7265
+# game/script_day3.rpy:7264
 translate russian d3a6_chase_pt2_29ef1f36:
 
     # I "There's still something I need to do. I can't just let myself die here..."
     I ""
 
-# game/script_day3.rpy:7267
+# game/script_day3.rpy:7266
 translate russian d3a6_chase_pt2_b465d354:
 
     # I "Of course I'm not."
     I ""
 
-# game/script_day3.rpy:7268
+# game/script_day3.rpy:7267
 translate russian d3a6_chase_pt2_8cbe7dc0:
 
     # I "It's not like I really want to live again, but...I need him to think I'm serious about this..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:7271
+# game/script_day3.rpy:7270
 translate russian d3a6_chase_pt2_16383e7d:
 
     # O irritated "{cps=6}.....{/cps}"
     O irritated ""
 
-# game/script_day3.rpy:7274
+# game/script_day3.rpy:7273
 translate russian d3a6_chase_pt2_940f6b4d:
 
     # C "...Heh.{cps=1} {/cps}{nw}"
     C ""
 
-# game/script_day3.rpy:7276
+# game/script_day3.rpy:7275
 translate russian d3a6_chase_pt2_1c57ae21:
 
     # extend "AHAHAHAHAHAHAAA!!" with shakeshort
     extend "" with shakeshort
 
-# game/script_day3.rpy:7277
+# game/script_day3.rpy:7276
 translate russian d3a6_chase_pt2_add4acb1:
 
     # C "You truly are a spirit from {color=#ff0000}Hell{/color}. Letting innocent people perish for your own revival..."
     C ""
 
-# game/script_day3.rpy:7278
+# game/script_day3.rpy:7277
 translate russian d3a6_chase_pt2_f21d0fae:
 
     # Y wince "....."
     Y wince ""
 
-# game/script_day3.rpy:7279
+# game/script_day3.rpy:7278
 translate russian d3a6_chase_pt2_3f7fc860:
 
     # C "...But I suppose I am no different."
@@ -17256,223 +17256,223 @@ translate russian d3a6_chase_duel_12a1e804:
     # C possessed grin knife "I will allow you the first move.{w=0.5} Come at me.{nw}"
     C possessed grin knife ""
 
-# game/script_day3.rpy:7370
+# game/script_day3.rpy:7369
 translate russian d3a6_chase_duel_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7375
+# game/script_day3.rpy:7374
 translate russian d3a6_chase_duel_d7b36b09:
 
     # Y shouting "HA!" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day3.rpy:7380
+# game/script_day3.rpy:7379
 translate russian d3a6_chase_duel_72b7b85d:
 
     # C "Weak." with hpunch
     C "" with hpunch
 
-# game/script_day3.rpy:7388
+# game/script_day3.rpy:7387
 translate russian d3a6_chase_duel_f88ec479:
 
     # Y pained "KURGHHH!!" with shakelong
     Y pained "" with shakelong
 
-# game/script_day3.rpy:7389
+# game/script_day3.rpy:7388
 translate russian d3a6_chase_duel_38a37efd:
 
     # I "Urgh... Right in the gut..." with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:7392
+# game/script_day3.rpy:7391
 translate russian d3a6_chase_duel_0580a923:
 
     # Y leering "....."
     Y leering ""
 
-# game/script_day3.rpy:7393
+# game/script_day3.rpy:7392
 translate russian d3a6_chase_duel_20c590c4:
 
     # C possessed "....."
     C possessed ""
 
-# game/script_day3.rpy:7394
+# game/script_day3.rpy:7393
 translate russian d3a6_chase_duel_7ac9b823:
 
     # C possessed blink "...You are right to be cautious. Very well, I rescind my generosity."
     C possessed blink ""
 
-# game/script_day3.rpy:7397
+# game/script_day3.rpy:7396
 translate russian d3a6_chase_duel_574b4648:
 
     # C "Now...{w=0.5} I will make {i}my{/i} move...{nw}"
     C ""
 
-# game/script_day3.rpy:7400
+# game/script_day3.rpy:7399
 translate russian d3a6_chase_duel_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7402
+# game/script_day3.rpy:7401
 translate russian d3a6_chase_duel_e8d9e369:
 
     # Y angry "No you do--" with shakeshort
     Y angry "" with shakeshort
 
-# game/script_day3.rpy:7413
+# game/script_day3.rpy:7412
 translate russian d3a6_chase_duel_869b74b1:
 
     # Y pained2 "AAAUGHHH!!" with shakeshort
     Y pained2 "" with shakeshort
 
-# game/script_day3.rpy:7415
+# game/script_day3.rpy:7414
 translate russian d3a6_chase_duel_3a24503f:
 
     # I "He cut...my leg..."
     I ""
 
-# game/script_day3.rpy:7417
+# game/script_day3.rpy:7416
 translate russian d3a6_chase_duel_202ca4fd:
 
     # Y angry "No you don't!" with shakeshort
     Y angry "" with shakeshort
 
-# game/script_day3.rpy:7425
+# game/script_day3.rpy:7424
 translate russian d3a6_chase_duel_822207bb:
 
     # C "...Good read."
     C ""
 
-# game/script_day3.rpy:7427
+# game/script_day3.rpy:7426
 translate russian d3a6_chase_duel_0580a923_1:
 
     # Y leering "....."
     Y leering ""
 
-# game/script_day3.rpy:7431
+# game/script_day3.rpy:7430
 translate russian d3a6_chase_duel_0d1a683b:
 
     # C "Next...{nw}"
     C ""
 
-# game/script_day3.rpy:7434
+# game/script_day3.rpy:7433
 translate russian d3a6_chase_duel_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7439
+# game/script_day3.rpy:7438
 translate russian d3a6_chase_duel_f8905562:
 
     # Y shouting "TAKE THIS!!" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day3.rpy:7442
+# game/script_day3.rpy:7441
 translate russian d3a6_chase_duel_ff427528:
 
     # C "HMPH!!" with hpunch
     C "" with hpunch
 
-# game/script_day3.rpy:7443
+# game/script_day3.rpy:7442
 translate russian d3a6_chase_duel_10b1531b:
 
     # C possessed thinking "I wasn't expecting that..."
     C possessed thinking ""
 
-# game/script_day3.rpy:7444
+# game/script_day3.rpy:7443
 translate russian d3a6_chase_duel_93fc30f7:
 
     # Y angry "What, are you SCARED?!" with shakeshort
     Y angry "" with shakeshort
 
-# game/script_day3.rpy:7445
+# game/script_day3.rpy:7444
 translate russian d3a6_chase_duel_bd24d0d6:
 
     # C possessed grin "Heheh... You're an amusing one..."
     C possessed grin ""
 
-# game/script_day3.rpy:7447
+# game/script_day3.rpy:7446
 translate russian d3a6_chase_duel_981bf391:
 
     # I "I need some distance...!" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:7456
+# game/script_day3.rpy:7455
 translate russian d3a6_chase_duel_ff1c3f93:
 
     # Y scream "GAAAAAAGHHH!!" with shakeshort
     Y scream "" with shakeshort
 
-# game/script_day3.rpy:7458
+# game/script_day3.rpy:7457
 translate russian d3a6_chase_duel_6b8ee74d:
 
     # C "You are far, {i}far{/i} too slow..."
     C ""
 
-# game/script_day3.rpy:7464
+# game/script_day3.rpy:7463
 translate russian d3a6_chase_duel_149e5591:
 
     # C "Now then...{nw}"
     C ""
 
-# game/script_day3.rpy:7467
+# game/script_day3.rpy:7466
 translate russian d3a6_chase_duel_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7473
+# game/script_day3.rpy:7472
 translate russian d3a6_chase_duel_779ab156:
 
     # Y shouting "HYA!" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day3.rpy:7482
+# game/script_day3.rpy:7481
 translate russian d3a6_chase_duel_8521a25f:
 
     # Y shocked "Urgh...!" with shakeonce
     Y shocked "" with shakeonce
 
-# game/script_day3.rpy:7484
+# game/script_day3.rpy:7483
 translate russian d3a6_chase_duel_fb738ac9:
 
     # C "You're panicking. You may want to calm your mind first."
     C ""
 
-# game/script_day3.rpy:7491
+# game/script_day3.rpy:7490
 translate russian d3a6_chase_duel_61e50c0a:
 
     # Y pained "Hnggghh...!!" with shakelong
     Y pained "" with shakelong
 
-# game/script_day3.rpy:7493
+# game/script_day3.rpy:7492
 translate russian d3a6_chase_duel_24689b74:
 
     # C "Interesting... You saw through that...?"
     C ""
 
-# game/script_day3.rpy:7494
+# game/script_day3.rpy:7493
 translate russian d3a6_chase_duel_3298d9d2:
 
     # I "I can do this! I just have to keep--" with vpunch
     I "" with vpunch
 
-# game/script_day3.rpy:7498
+# game/script_day3.rpy:7497
 translate russian d3a6_chase_duel_12f88c28:
 
     # Y leering "...!!" with hpunch
     Y leering "" with hpunch
 
-# game/script_day3.rpy:7507
+# game/script_day3.rpy:7506
 translate russian d3a6_chase_duel_19d9ea16:
 
     # Y shocked "KUGH...!" with shakeshort
     Y shocked "" with shakeshort
 
-# game/script_day3.rpy:7509
+# game/script_day3.rpy:7508
 translate russian d3a6_chase_duel_1f8a38fa:
 
     # C "You are too relaxed. Keep your guard up."
@@ -17484,79 +17484,79 @@ translate russian d3a6_chase_duel_a68648fa:
     # Y afraid "A-agh!!{nw}" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day3.rpy:7518
+# game/script_day3.rpy:7517
 translate russian d3a6_chase_duel_11fdb519_4:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7520
+# game/script_day3.rpy:7519
 translate russian d3a6_chase_duel_26cf9e59:
 
     # Y afraid2 "GET AWAY!!" with shakeshort
     Y afraid2 "" with shakeshort
 
-# game/script_day3.rpy:7529
+# game/script_day3.rpy:7528
 translate russian d3a6_chase_duel_1baf6bc6:
 
     # Y scream "AAAUGHHH!!" with shakelong
     Y scream "" with shakelong
 
-# game/script_day3.rpy:7531
+# game/script_day3.rpy:7530
 translate russian d3a6_chase_duel_79524c4f:
 
     # C possessed thinking "Where did your courage from earlier go?"
     C possessed thinking ""
 
-# game/script_day3.rpy:7537
+# game/script_day3.rpy:7536
 translate russian d3a6_chase_duel_f46644a7:
 
     # Y scream "HYAAAA!!" with shakeshort
     Y scream "" with shakeshort
 
-# game/script_day3.rpy:7547
+# game/script_day3.rpy:7546
 translate russian d3a6_chase_duel_90c8c4a0:
 
     # Y pained "...NRGH!!" with shakeshort
     Y pained "" with shakeshort
 
-# game/script_day3.rpy:7548
+# game/script_day3.rpy:7547
 translate russian d3a6_chase_duel_b2f6446e:
 
     # C "Hmph, my wrist is... So you managed to land a hit after all..."
     C ""
 
-# game/script_day3.rpy:7552
+# game/script_day3.rpy:7551
 translate russian d3a6_chase_duel_96674256:
 
     # Y pained "Nrghhh!!" with shakeshort
     Y pained "" with shakeshort
 
-# game/script_day3.rpy:7558
+# game/script_day3.rpy:7557
 translate russian d3a6_chase_duel_7a9bac28:
 
     # C "...Impressive."
     C ""
 
-# game/script_day3.rpy:7560
+# game/script_day3.rpy:7559
 translate russian d3a6_chase_duel_68f8c069:
 
     # Y troubled "...*pant*..." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3.rpy:7562
+# game/script_day3.rpy:7561
 translate russian d3a6_chase_duel_0f08a809:
 
     # Y angry "....." with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day3.rpy:7571
+# game/script_day3.rpy:7570
 translate russian d3a6_chase_duel_3199a1da:
 
     # Y scream "AAARRRGHHH!!" with shakelong
     Y scream "" with shakelong
 
-# game/script_day3.rpy:7573
+# game/script_day3.rpy:7572
 translate russian d3a6_chase_duel_cca19609:
 
     # C possessed thinking "Should you really be freezing up at a time like this?"
@@ -17586,61 +17586,61 @@ translate russian d3a6_chase_duel_6fd60347:
     # Y shocked "{cps=6}.....{/cps} ...Something's coming...{nw}" with shakeonce
     Y shocked "" with shakeonce
 
-# game/script_day3.rpy:7585
+# game/script_day3.rpy:7584
 translate russian d3a6_chase_duel_11fdb519_5:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7596
+# game/script_day3.rpy:7595
 translate russian d3a6_chase_duel_5b239dd7:
 
     # I "NGH!! Th-there?!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7602
+# game/script_day3.rpy:7601
 translate russian d3a6_chase_duel_0c5bc9f7:
 
     # I "NGH!! So fast...!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7613
+# game/script_day3.rpy:7612
 translate russian d3a6_chase_duel_e98276d3:
 
     # I "NGH!! How did...?!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7624
+# game/script_day3.rpy:7623
 translate russian d3a6_chase_duel_3d9fd65b:
 
     # I "NGH!! I can't..." with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7639
+# game/script_day3.rpy:7638
 translate russian d3a6_chase_duel_06fe58b4:
 
     # I "WHAT?!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7649
+# game/script_day3.rpy:7648
 translate russian d3a6_chase_duel_9a1db715:
 
     # I "STOP!!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7659
+# game/script_day3.rpy:7658
 translate russian d3a6_chase_duel_5113e60d:
 
     # I "NO!!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7669
+# game/script_day3.rpy:7668
 translate russian d3a6_chase_duel_fe3503d6:
 
     # I "H-HOW!!" with shakelong
     I "" with shakelong
 
-# game/script_day3.rpy:7674
+# game/script_day3.rpy:7673
 translate russian d3a6_chase_duel_bf6203e9:
 
     # I "AGH?!" with shakeshort
@@ -17820,73 +17820,73 @@ translate russian d3a6_chase_duel_cfa76b74:
     # C possessed "Now, as the winner by default, I demand my prize.{w=1.0} You will now give me your wrist shackle without any more resistance.{nw}"
     C possessed ""
 
-# game/script_day3.rpy:7817
+# game/script_day3.rpy:7816
 translate russian d3a6_chase_duel_11fdb519_6:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:7819
+# game/script_day3.rpy:7818
 translate russian d3a6_chase_duel_bba20e99:
 
     # Y shadow2 "{cps=6}.....{/cps}"
     Y shadow2 ""
 
-# game/script_day3.rpy:7820
+# game/script_day3.rpy:7819
 translate russian d3a6_chase_duel_9a1ea5ed:
 
     # C "{cps=6}.....{/cps}"
     C ""
 
-# game/script_day3.rpy:7821
+# game/script_day3.rpy:7820
 translate russian d3a6_chase_duel_a8e9b49c:
 
     # KI "{color=#fff}[input_name]{/color}, wh-wha... What do we do now...?" with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7823
+# game/script_day3.rpy:7822
 translate russian d3a6_chase_duel_91d87ab2:
 
     # Y sad "...All right, I--"
     Y sad ""
 
-# game/script_day3.rpy:7824
+# game/script_day3.rpy:7823
 translate russian d3a6_chase_duel_622c6fc1:
 
     # KI "{color=#fff}[input_name]{/color}! What are you doing?!" with shakeonce
     KI "" with shakeonce
 
-# game/script_day3.rpy:7825
+# game/script_day3.rpy:7824
 translate russian d3a6_chase_duel_58e0b52e:
 
     # I "What? We cheated, so we have to--"
     I ""
 
-# game/script_day3.rpy:7827
+# game/script_day3.rpy:7826
 translate russian d3a6_chase_duel_1de5fb60:
 
     # KI "THIS ISN'T THE TIME FOR FAIR PLAY! YOU COULD DIE HERE!!" with shakeshort
     KI "" with shakeshort
 
-# game/script_day3.rpy:7828
+# game/script_day3.rpy:7827
 translate russian d3a6_chase_duel_94cee053:
 
     # Y panicked "W-wait, I...don't think it's been a minute yet after all! We need to keep dueling!" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day3.rpy:7830
+# game/script_day3.rpy:7829
 translate russian d3a6_chase_duel_5ec55cfa:
 
     # Y angry "Wh-what are you talking about? I fended off your attacks fair and square!" with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day3.rpy:7833
+# game/script_day3.rpy:7832
 translate russian d3a6_chase_duel_caa9b0d5:
 
     # Y "You're just mad that you lost, and you're calling me a cheater to get your way!" with shakeshort
     Y "" with shakeshort
 
-# game/script_day3.rpy:7836
+# game/script_day3.rpy:7835
 translate russian d3a6_chase_duel_44639329:
 
     # KI "Why are you acting like a kid in a playground...?" with hpunch
@@ -18276,55 +18276,55 @@ translate russian d3a6_chase_finale_49f4b33b:
     # C possessed "And what might that be...?{nw}"
     C possessed ""
 
-# game/script_day3.rpy:8028
+# game/script_day3.rpy:8027
 translate russian d3a6_chase_finale_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:8035
+# game/script_day3.rpy:8034
 translate russian d3a6_chase_finale_0ac7a77f:
 
     # YD "RUFF!!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8039
+# game/script_day3.rpy:8038
 translate russian d3a6_chase_finale_f18e8a55:
 
     # O panicked "Wha-- [name_player], WAIT!!" with shakeshort
     O panicked "" with shakeshort
 
-# game/script_day3.rpy:8045
+# game/script_day3.rpy:8044
 translate russian d3a6_chase_finale_b1bd80c2:
 
     # YD "...?!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8046
+# game/script_day3.rpy:8045
 translate russian d3a6_chase_finale_8a540519:
 
     # I "C-crap, he grabbed me!!"
     I ""
 
-# game/script_day3.rpy:8048
+# game/script_day3.rpy:8047
 translate russian d3a6_chase_finale_c05799cf:
 
     # C "I see... So this was your [t_clue]last gambit[t_cluee]..." with hpunch
     C "" with hpunch
 
-# game/script_day3.rpy:8049
+# game/script_day3.rpy:8048
 translate russian d3a6_chase_finale_6d97b21e:
 
     # C "It is a good plan. It may have even worked if you bided your time just a little--"
     C ""
 
-# game/script_day3.rpy:8052
+# game/script_day3.rpy:8051
 translate russian d3a6_chase_finale_d867fadc:
 
     # K scream "GO BAAAACK!!" with shakelong
     K scream "" with shakelong
 
-# game/script_day3.rpy:8065
+# game/script_day3.rpy:8064
 translate russian d3a6_chase_finale_f56a71dc:
 
     # I "Not yet..." with hpunch
@@ -18354,55 +18354,55 @@ translate russian d3a6_chase_finale_78608bfd:
     # I "Ria...{w=0.5} She's starting to move...{nw}"
     I ""
 
-# game/script_day3.rpy:8076
+# game/script_day3.rpy:8075
 translate russian d3a6_chase_finale_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:8083
+# game/script_day3.rpy:8082
 translate russian d3a6_chase_finale_0ac7a77f_1:
 
     # YD "RUFF!!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8087
+# game/script_day3.rpy:8086
 translate russian d3a6_chase_finale_4c0bfe1a:
 
     # K afraid "[name_player], NO, you have to wait till...!!" with shakeshort
     K afraid "" with shakeshort
 
-# game/script_day3.rpy:8093
+# game/script_day3.rpy:8092
 translate russian d3a6_chase_finale_b1bd80c2_1:
 
     # YD "...?!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8094
+# game/script_day3.rpy:8093
 translate russian d3a6_chase_finale_8a540519_1:
 
     # I "C-crap, he grabbed me!!"
     I ""
 
-# game/script_day3.rpy:8096
+# game/script_day3.rpy:8095
 translate russian d3a6_chase_finale_c05799cf_1:
 
     # C "I see... So this was your [t_clue]last gambit[t_cluee]..." with hpunch
     C "" with hpunch
 
-# game/script_day3.rpy:8097
+# game/script_day3.rpy:8096
 translate russian d3a6_chase_finale_6d97b21e_1:
 
     # C "It is a good plan. It may have even worked if you bided your time just a little--"
     C ""
 
-# game/script_day3.rpy:8100
+# game/script_day3.rpy:8099
 translate russian d3a6_chase_finale_d867fadc_1:
 
     # K scream "GO BAAAACK!!" with shakelong
     K scream "" with shakelong
 
-# game/script_day3.rpy:8113
+# game/script_day3.rpy:8112
 translate russian d3a6_chase_finale_f56a71dc_1:
 
     # I "Not yet..." with hpunch
@@ -18468,85 +18468,85 @@ translate russian d3a6_chase_finale_5963ec36:
     # C "Mrgh...!{w=0.5} Hmph, so you still have some strength left in you, eh...?{nw}"
     C ""
 
-# game/script_day3.rpy:8145
+# game/script_day3.rpy:8144
 translate russian d3a6_chase_finale_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:8150
+# game/script_day3.rpy:8149
 translate russian d3a6_chase_finale_0ac7a77f_2:
 
     # YD "RUFF!!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8151
+# game/script_day3.rpy:8150
 translate russian d3a6_chase_finale_7ad3cdeb:
 
     # O horrified "Ah-- [name_player] wait--{w=0.5}{nw}" with shakeonce
     O horrified "" with shakeonce
 
-# game/script_day3.rpy:8160
+# game/script_day3.rpy:8159
 translate russian d3a6_chase_finale_aaf0a662:
 
     # extend " KURRGGHHH!" with shakelong
     extend "" with shakelong
 
-# game/script_day3.rpy:8162
+# game/script_day3.rpy:8161
 translate russian d3a6_chase_finale_01429eb5:
 
     # K afraid "RIA!!" with shakeshort
     K afraid "" with shakeshort
 
-# game/script_day3.rpy:8166
+# game/script_day3.rpy:8165
 translate russian d3a6_chase_finale_bf8191bf:
 
     # C "Hmm?"
     C ""
 
-# game/script_day3.rpy:8170
+# game/script_day3.rpy:8169
 translate russian d3a6_chase_finale_af2159d4:
 
     # YD "...!!" with shakeonce
     YD "" with shakeonce
 
-# game/script_day3.rpy:8176
+# game/script_day3.rpy:8175
 translate russian d3a6_chase_finale_8caaf9f6:
 
     # YD "*whine*" with shakelong
     YD "" with shakelong
 
-# game/script_day3.rpy:8183
+# game/script_day3.rpy:8182
 translate russian d3a6_chase_finale_1be729c5:
 
     # I "Ugh... He...kicked me... I can't..." with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:8184
+# game/script_day3.rpy:8183
 translate russian d3a6_chase_finale_dc90dd3c:
 
     # K depressed "No... [name_player]..." with shakeonce
     K depressed "" with shakeonce
 
-# game/script_day3.rpy:8187
+# game/script_day3.rpy:8186
 translate russian d3a6_chase_finale_e7cf2c4a:
 
     # C possessed grin "So {i}that{/i} was your plan, hmm?"
     C possessed grin ""
 
-# game/script_day3.rpy:8188
+# game/script_day3.rpy:8187
 translate russian d3a6_chase_finale_3d769e9c:
 
     # C "You almost had me there! If only you had someone without an injured arm to grab--" with vpunch
     C "" with vpunch
 
-# game/script_day3.rpy:8191
+# game/script_day3.rpy:8190
 translate russian d3a6_chase_finale_89315d5a:
 
     # K scream "GO BAAAAAAAAACK!!" with shakelong
     K scream "" with shakelong
 
-# game/script_day3.rpy:8204
+# game/script_day3.rpy:8203
 translate russian d3a6_chase_finale_9cf507be:
 
     # I "Ngh... N-not yet..." with hpunch
@@ -18606,61 +18606,61 @@ translate russian d3a6_chase_finale_a7d664c0:
     # C "Ngh... This is less than ideal...{nw}" with shakeshort
     C "" with shakeshort
 
-# game/script_day3.rpy:8240
+# game/script_day3.rpy:8239
 translate russian d3a6_chase_finale_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:8245
+# game/script_day3.rpy:8244
 translate russian d3a6_chase_finale_0ac7a77f_3:
 
     # YD "RUFF!!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8248
+# game/script_day3.rpy:8247
 translate russian d3a6_chase_finale_054a05ef:
 
     # K afraid "[name_player]! WAIT!! DON'T--{w=1.0}{nw}" with shakeshort
     K afraid "" with shakeshort
 
-# game/script_day3.rpy:8260
+# game/script_day3.rpy:8259
 translate russian d3a6_chase_finale_aa1d1b50:
 
     # YD hidden "...!!! *whine*" with shakelong
     YD hidden "" with shakelong
 
-# game/script_day3.rpy:8270
+# game/script_day3.rpy:8269
 translate russian d3a6_chase_finale_ca81cb8a:
 
     # I "{cps=12}...I...messed up...{/cps}"
     I ""
 
-# game/script_day3.rpy:8272
+# game/script_day3.rpy:8271
 translate russian d3a6_chase_finale_3da232e4:
 
     # O horrified "NOOOOOO!!!" with shakeshort
     O horrified "" with shakeshort
 
-# game/script_day3.rpy:8276
+# game/script_day3.rpy:8275
 translate russian d3a6_chase_finale_40c26adb:
 
     # C possessed grin "So {i}that{/i} was your plan, hmm? [name_player] is possessing the dog?"
     C possessed grin ""
 
-# game/script_day3.rpy:8277
+# game/script_day3.rpy:8276
 translate russian d3a6_chase_finale_43942b7a:
 
     # C "How FOOLISH of you to charge at me when my knife arm is still free--" with vpunch
     C "" with vpunch
 
-# game/script_day3.rpy:8281
+# game/script_day3.rpy:8280
 translate russian d3a6_chase_finale_89315d5a_1:
 
     # K scream "GO BAAAAAAAAACK!!" with shakelong
     K scream "" with shakelong
 
-# game/script_day3.rpy:8294
+# game/script_day3.rpy:8293
 translate russian d3a6_chase_finale_46486d20:
 
     # I "Not yet... NOT YET...!" with shakeshort
@@ -18738,79 +18738,79 @@ translate russian d3a6_chase_finale_2f5eef60:
     # O "[name_player]!!!{w=0.5}{nw}" with shakelong
     O "" with shakelong
 
-# game/script_day3.rpy:8334
+# game/script_day3.rpy:8333
 translate russian d3a6_chase_finale_11fdb519_4:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:8341
+# game/script_day3.rpy:8340
 translate russian d3a6_chase_finale_0ac7a77f_4:
 
     # YD "RUFF!!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:8342
+# game/script_day3.rpy:8341
 translate russian d3a6_chase_finale_b7e1ce98:
 
     # C "Wha-- YOU?!" with shakeshort
     C "" with shakeshort
 
-# game/script_day3.rpy:8350
+# game/script_day3.rpy:8349
 translate russian d3a6_chase_finale_acbd1eae:
 
     # K scream "[name_player], now!" with shakeshort
     K scream "" with shakeshort
 
-# game/script_day3.rpy:8353
+# game/script_day3.rpy:8352
 translate russian d3a6_chase_finale_3bd82950:
 
     # O shouting "IT'S OVER!!" with shakeshort
     O shouting "" with shakeshort
 
-# game/script_day3.rpy:8360
+# game/script_day3.rpy:8359
 translate russian d3a6_chase_finale_05cc049c:
 
     # I "THE KILLING GAME {color=#ff0000}ENDS HERE!!{/color}" with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:8362
+# game/script_day3.rpy:8361
 translate russian d3a6_chase_finale_6994d23d:
 
     # C "{cps=9}...No...{/cps}{w=0.5} {cps=9}...I was...{/cps}{w=1.0}{nw}"
     C ""
 
-# game/script_day3.rpy:8367
+# game/script_day3.rpy:8366
 translate russian d3a6_chase_finale_53c56a17:
 
     # C "{cps=18}{size=+10}NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!{/size}{/cps}" with shakelong
     C "" with shakelong
 
-# game/script_day3.rpy:8384
+# game/script_day3.rpy:8383
 translate russian d3a6_chase_finale_cc94d596:
 
     # I "Not yet... NOT--{w=1.5}{nw}" with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:8415
+# game/script_day3.rpy:8414
 translate russian d3a6_chase_finale_40eb2de5:
 
     # C "[u_music_note]~" with shakelong
     C "" with shakelong
 
-# game/script_day3.rpy:8428
+# game/script_day3.rpy:8427
 translate russian d3a6_chase_finale_fefd9ce6:
 
     # I "{cps=6}.......... ...No...{/cps}"
     I ""
 
-# game/script_day3.rpy:8431
+# game/script_day3.rpy:8430
 translate russian d3a6_chase_finale_9106b6fb:
 
     # C "Now I am left wondering... For what purpose were they trying to [t_clue]hold me down[t_cluee] for...?"
     C ""
 
-# game/script_day3.rpy:8435
+# game/script_day3.rpy:8434
 translate russian d3a6_chase_finale_b9c3e9a6:
 
     # K depressed stabbed "{cps=9}...Go...ba...ack...{/cps}"
@@ -19530,469 +19530,469 @@ translate russian d3a7_3f38bb45:
     # V "Hm. By all means, let's hear it.{nw}"
     V ""
 
-# game/script_day3.rpy:8733
+# game/script_day3.rpy:8732
 translate russian d3a7_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:8735
+# game/script_day3.rpy:8734
 translate russian d3a7_ea43f87a:
 
     # Y thinking "Why did you give me... Give Karma my shackle?"
     Y thinking ""
 
-# game/script_day3.rpy:8736
+# game/script_day3.rpy:8735
 translate russian d3a7_2ed209f5:
 
     # V "I believe I have already explained that. It was an attempt to curb her time travel pow--"
     V ""
 
-# game/script_day3.rpy:8738
+# game/script_day3.rpy:8737
 translate russian d3a7_bac251f4:
 
     # Y leering "No, I mean... Why {i}me{/i}?{cps=2} {/cps}Why didn't you simply [t_clue]use your own shackle[t_cluee] to take control of her?"
     Y leering ""
 
-# game/script_day3.rpy:8740
+# game/script_day3.rpy:8739
 translate russian d3a7_38a2d38c:
 
     # Y thinking "You said that you only needed one more soul to feed the Gate before you could escape this house..."
     Y thinking ""
 
-# game/script_day3.rpy:8743
+# game/script_day3.rpy:8742
 translate russian d3a7_18113628:
 
     # Y default "But then... Why didn't you just throw me into the Gate [t_clue]from the start[t_cluee]? Why did you wait until the Occult Club showed up?"
     Y default ""
 
-# game/script_day3.rpy:8745
+# game/script_day3.rpy:8744
 translate russian d3a7_a8aae5c9:
 
     # V "...!" with shakeonce
     V "" with shakeonce
 
-# game/script_day3.rpy:8746
+# game/script_day3.rpy:8745
 translate russian d3a7_78ce5b6c:
 
     # Y blink "You...{cps=2} {/cps}You could've prevented all of this from happening.{cps=2} {/cps}Escaped the house so much sooner."
     Y blink ""
 
-# game/script_day3.rpy:8748
+# game/script_day3.rpy:8747
 translate russian d3a7_f2284b84:
 
     # Y sad "And when you gave my shackle to Karma, you could've predicted things would turn out this way.{w=1.0} So why take that risk?"
     Y sad ""
 
-# game/script_day3.rpy:8751
+# game/script_day3.rpy:8750
 translate russian d3a7_cbd5b5d3:
 
     # V "{cps=6}.....{/cps}" with shakeonce
     V "" with shakeonce
 
-# game/script_day3.rpy:8752
+# game/script_day3.rpy:8751
 translate russian d3a7_45f6fc7e:
 
     # V "...Yes... Why indeed...?"
     V ""
 
-# game/script_day3.rpy:8753
+# game/script_day3.rpy:8752
 translate russian d3a7_ba74dbf9:
 
     # Y surprised "...?"
     Y surprised ""
 
-# game/script_day3.rpy:8754
+# game/script_day3.rpy:8753
 translate russian d3a7_8b55db12:
 
     # V "Forgive me, but let me ask you something first."
     V ""
 
-# game/script_day3.rpy:8755
+# game/script_day3.rpy:8754
 translate russian d3a7_070a0939:
 
     # V "{cps=6}.....{/cps} ...Is your name truly \"[name_player]\"?"
     V ""
 
-# game/script_day3.rpy:8756
+# game/script_day3.rpy:8755
 translate russian d3a7_32abac57:
 
     # I "My name..."
     I ""
 
-# game/script_day3.rpy:8758
+# game/script_day3.rpy:8757
 translate russian d3a7_7670bb76:
 
     # Y default "Yes. [name_player_true] is in fact my real name."
     Y default ""
 
-# game/script_day3.rpy:8760
+# game/script_day3.rpy:8759
 translate russian d3a7_2c878715:
 
     # Y default "No. My real name is...{cps=1} {/cps}[name_player_true]."
     Y default ""
 
-# game/script_day3.rpy:8761
+# game/script_day3.rpy:8760
 translate russian d3a7_478f644a:
 
     # V "[name_player_true]..."
     V ""
 
-# game/script_day3.rpy:8762
+# game/script_day3.rpy:8761
 translate russian d3a7_f14afcdc_2:
 
     # V "....."
     V ""
 
-# game/script_day3.rpy:8763
+# game/script_day3.rpy:8762
 translate russian d3a7_f4ba850c:
 
     # Y surprised "Professor...?"
     Y surprised ""
 
-# game/script_day3.rpy:8764
+# game/script_day3.rpy:8763
 translate russian d3a7_1a18c8b6:
 
     # V "...Heh. I suppose the chances were practically non-existent."
     V ""
 
-# game/script_day3.rpy:8765
+# game/script_day3.rpy:8764
 translate russian d3a7_2efe6dd5:
 
     # V "You had lost all memories of your life. Including the memory of your own name. So I thought..."
     V ""
 
-# game/script_day3.rpy:8766
+# game/script_day3.rpy:8765
 translate russian d3a7_98f25423:
 
     # V "Maybe if you were in a healthy girl's body...{w=1.0} Maybe if you wandered this house on your own two feet, you would remem..."
     V ""
 
-# game/script_day3.rpy:8768
+# game/script_day3.rpy:8767
 translate russian d3a7_92428629_1:
 
     # V "{cps=6}.....{/cps}"
     V ""
 
-# game/script_day3.rpy:8770
+# game/script_day3.rpy:8769
 translate russian d3a7_a738ff91:
 
     # O depressed "{cps=6}.......{/cps} ...You thought..."
     O depressed ""
 
-# game/script_day3.rpy:8772
+# game/script_day3.rpy:8771
 translate russian d3a7_7291af30:
 
     # I "{cps=6}.....{/cps}{w=0.5}{nw}"
     I ""
 
-# game/script_day3.rpy:8774
+# game/script_day3.rpy:8773
 translate russian d3a7_6a7c4b3f:
 
     # extend " ...!!!" with shakeshort
     extend "" with shakeshort
 
-# game/script_day3.rpy:8776
+# game/script_day3.rpy:8775
 translate russian d3a7_b0e8f188:
 
     # V "{cps=6}.....{/cps} ...I suppose it no longer matters. And now, it never will..."
     V ""
 
-# game/script_day3.rpy:8778
+# game/script_day3.rpy:8777
 translate russian d3a7_1c6bc47f:
 
     # Y depressed "{cps=6}...You...{/cps}" with shakeonce
     Y depressed "" with shakeonce
 
-# game/script_day3.rpy:8779
+# game/script_day3.rpy:8778
 translate russian d3a7_f3b9e354:
 
     # V "To answer your question..."
     V ""
 
-# game/script_day3.rpy:8780
+# game/script_day3.rpy:8779
 translate russian d3a7_2cc7e16a:
 
     # V "I suppose...deep down, I wished to be stopped."
     V ""
 
-# game/script_day3.rpy:8781
+# game/script_day3.rpy:8780
 translate russian d3a7_031877bc:
 
     # V "There were still so many more theories I could test... And without a human lifespan to limit me, I could test every last one..."
     V ""
 
-# game/script_day3.rpy:8782
+# game/script_day3.rpy:8781
 translate russian d3a7_8bea7d63:
 
     # V "But...{w=0.5}the [t_clue]possibility of failure[t_cluee] haunted me. The possibility that I embarked on this hellish, unending path for naught..."
     V ""
 
-# game/script_day3.rpy:8784
+# game/script_day3.rpy:8783
 translate russian d3a7_94148bfd:
 
     # V "And now, I shall never know...{w=0.5} What a blessing this truly is..."
     V ""
 
-# game/script_day3.rpy:8786
+# game/script_day3.rpy:8785
 translate russian d3a7_9f76fef3:
 
     # Y troubled "{cps=6}.....{/cps}" with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3.rpy:8789
+# game/script_day3.rpy:8788
 translate russian d3a7_2bb6abb3:
 
     # O crying2 "{cps=6}.......{/cps}" with shakeonce
     O crying2 "" with shakeonce
 
-# game/script_day3.rpy:8791
+# game/script_day3.rpy:8790
 translate russian d3a7_57fcc0f8:
 
     # V "If that is all, then let this be where I bid you all farewell."
     V ""
 
-# game/script_day3.rpy:8792
+# game/script_day3.rpy:8791
 translate russian d3a7_7378d7ab:
 
     # V "I...am very tired."
     V ""
 
-# game/script_day3.rpy:8793
+# game/script_day3.rpy:8792
 translate russian d3a7_14737ff6:
 
     # V "Let the flames of {color=#ff0000}Hell{/color} consume me so that it may finally all end."
     V ""
 
-# game/script_day3.rpy:8795
+# game/script_day3.rpy:8794
 translate russian d3a7_2b87c1fa_1:
 
     # I "{cps=6}..........{/cps}" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:8801
+# game/script_day3.rpy:8800
 translate russian d3a7_00b4305d:
 
     # I "...He's...really going in voluntarily..."
     I ""
 
-# game/script_day3.rpy:8802
+# game/script_day3.rpy:8801
 translate russian d3a7_356441d4:
 
     # I "I suppose...it's so his body can finally rest too..."
     I ""
 
-# game/script_day3.rpy:8807
+# game/script_day3.rpy:8806
 translate russian d3a7_6e48dbcc:
 
     # V "...Hmm...{w=0.5} I just realized...I have some final words to say..."
     V ""
 
-# game/script_day3.rpy:8809
+# game/script_day3.rpy:8808
 translate russian d3a7_7bec31a2:
 
     # V "...To Oriana."
     V ""
 
-# game/script_day3.rpy:8810
+# game/script_day3.rpy:8809
 translate russian d3a7_1f05547d:
 
     # O dejected "....."
     O dejected ""
 
-# game/script_day3.rpy:8811
+# game/script_day3.rpy:8810
 translate russian d3a7_c147b482:
 
     # V "...You appear lost in thought. Very well, I shall speak without requiring you to listen."
     V ""
 
-# game/script_day3.rpy:8812
+# game/script_day3.rpy:8811
 translate russian d3a7_6d9060bc:
 
     # V "When you protected [name_player], and forced me to confront the very nature of my own insanity..."
     V ""
 
-# game/script_day3.rpy:8813
+# game/script_day3.rpy:8812
 translate russian d3a7_eccb7263:
 
     # V "I felt...as though I was [t_clue]saved[t_cluee] by your words."
     V ""
 
-# game/script_day3.rpy:8814
+# game/script_day3.rpy:8813
 translate russian d3a7_2410ef39:
 
     # O shadow "....." with shakeonce
     O shadow "" with shakeonce
 
-# game/script_day3.rpy:8815
+# game/script_day3.rpy:8814
 translate russian d3a7_a56b737b:
 
     # V "I am now moments away from a second, truer death... And yet, I do not tremble."
     V ""
 
-# game/script_day3.rpy:8816
+# game/script_day3.rpy:8815
 translate russian d3a7_fd875a42:
 
     # V "You have given me new power... The strength to end my own curse... My own endless torment..."
     V ""
 
-# game/script_day3.rpy:8817
+# game/script_day3.rpy:8816
 translate russian d3a7_db72e2f2:
 
     # V "I fear no amount of words will be sufficient to express my gratitude...{w=1.0} I...wonder if this is what [t_clue]salvation[t_cluee] feels like...?"
     V ""
 
-# game/script_day3.rpy:8819
+# game/script_day3.rpy:8818
 translate russian d3a7_9e21a6b7:
 
     # O troubled "...!!!" with shakelong
     O troubled "" with shakelong
 
-# game/script_day3.rpy:8821
+# game/script_day3.rpy:8820
 translate russian d3a7_cb0c5734:
 
     # O "...Professor. You're..." with shakeonce
     O "" with shakeonce
 
-# game/script_day3.rpy:8822
+# game/script_day3.rpy:8821
 translate russian d3a7_e784baef:
 
     # O injured "...You're...a hopeless, complete and utter [t_clue]FOOL[t_cluee]."
     O injured ""
 
-# game/script_day3.rpy:8824
+# game/script_day3.rpy:8823
 translate russian d3a7_b3b40964:
 
     # V "...Hm?"
     V ""
 
-# game/script_day3.rpy:8825
+# game/script_day3.rpy:8824
 translate russian d3a7_1e81abf3:
 
     # O irritated2 "If your daughter truly was the precious little [t_clue]angel[t_cluee] as you wrote in your journal..." with shakeonce
     O irritated2 "" with shakeonce
 
-# game/script_day3.rpy:8828
+# game/script_day3.rpy:8827
 translate russian d3a7_3b328ad8:
 
     # O troubled "Then why... WHY would you search for her by making a gate to HELL?!" with shakeshort
     O troubled "" with shakeshort
 
-# game/script_day3.rpy:8830
+# game/script_day3.rpy:8829
 translate russian d3a7_1c400847:
 
     # O crying "...Don't you think...she would have gone to [t_clue]Heaven[t_cluee]?!" with shakeshort
     O crying "" with shakeshort
 
-# game/script_day3.rpy:8835
+# game/script_day3.rpy:8834
 translate russian d3a7_c42e6815:
 
     # V "...!!!" with shakelong
     V "" with shakelong
 
-# game/script_day3.rpy:8837
+# game/script_day3.rpy:8836
 translate russian d3a7_92428629_2:
 
     # V "{cps=6}.....{/cps}"
     V ""
 
-# game/script_day3.rpy:8839
+# game/script_day3.rpy:8838
 translate russian d3a7_189ab973:
 
     # V "{cps=6}.......{/cps}"
     V ""
 
-# game/script_day3.rpy:8841
+# game/script_day3.rpy:8840
 translate russian d3a7_60174ced:
 
     # V "{cps=6}..........{/cps}{nw}"
     V ""
 
-# game/script_day3.rpy:8843
+# game/script_day3.rpy:8842
 translate russian d3a7_72c2274b:
 
     # extend smile " ...Heh." with shakeonce
     extend smile "" with shakeonce
 
-# game/script_day3.rpy:8845
+# game/script_day3.rpy:8844
 translate russian d3a7_fd93c537:
 
     # V "Hehehe... Heh HEH..." with shakeshort
     V "" with shakeshort
 
-# game/script_day3.rpy:8850
+# game/script_day3.rpy:8849
 translate russian d3a7_acc1b223:
 
     # V laugh "{size=+10}BWAHAHAHAHAHAHAHAHAHAHAAAAA!!{/size}{w=0.5}{nw}" with shakelong
     V laugh "" with shakelong
 
-# game/script_day3.rpy:8853
+# game/script_day3.rpy:8852
 translate russian d3a7_335fa9ba:
 
     # extend "" with shakelong
     extend "" with shakelong
 
-# game/script_day3.rpy:8854
+# game/script_day3.rpy:8853
 translate russian d3a7_d00be039:
 
     # C surprised "ACK!! That was...loud..." with hpunch
     C surprised "" with hpunch
 
-# game/script_day3.rpy:8856
+# game/script_day3.rpy:8855
 translate russian d3a7_3fac82e4:
 
     # O crying2 "*sniff* ....." with shakeonce
     O crying2 "" with shakeonce
 
-# game/script_day3.rpy:8858
+# game/script_day3.rpy:8857
 translate russian d3a7_192a1f60:
 
     # KI "Ria..."
     KI ""
 
-# game/script_day3.rpy:8860
+# game/script_day3.rpy:8859
 translate russian d3a7_c2482f45:
 
     # V smile "You truly are brilliant. I would have loved to have you as one of my students." with vpunch
     V smile "" with vpunch
 
-# game/script_day3.rpy:8861
+# game/script_day3.rpy:8860
 translate russian d3a7_9e474f5e:
 
     # V "A remarkably intelligent young woman with the mightiest convictions I've ever witnessed..."
     V ""
 
-# game/script_day3.rpy:8862
+# game/script_day3.rpy:8861
 translate russian d3a7_772a7ee2:
 
     # V "...is now offering solaces to a villain that recently tried to murder her.{w=1.0} You are astounding, young Oriana."
     V ""
 
-# game/script_day3.rpy:8863
+# game/script_day3.rpy:8862
 translate russian d3a7_8c9d3eb5:
 
     # O crying "{cps=3}.......{/cps}" with shakeonce
     O crying "" with shakeonce
 
-# game/script_day3.rpy:8864
+# game/script_day3.rpy:8863
 translate russian d3a7_04a5624c:
 
     # V "\"Heaven\"...{w=1.0} Yes...{w=1.0} Yes, I suppose that must be where she has been all this time..."
     V ""
 
-# game/script_day3.rpy:8866
+# game/script_day3.rpy:8865
 translate russian d3a7_c452ae38:
 
     # V "{cps=9}I...hope she is well...{/cps}"
     V ""
 
-# game/script_day3.rpy:8877
+# game/script_day3.rpy:8876
 translate russian d3a7_3322b241_1:
 
     # I "{cps=6}..........{/cps}"
     I ""
 
-# game/script_day3.rpy:8879
+# game/script_day3.rpy:8878
 translate russian d3a7_f65eaf35:
 
     # I "{cps=9}...Goodbye... Professor...{/cps}" with shakeonce
@@ -20514,1183 +20514,1183 @@ translate russian d3a8_80d8c8e3:
     # O panicked "...D-does that sound acceptable to you?{nw}" with shakeonce
     O panicked "" with shakeonce
 
-# game/script_day3.rpy:9036
+# game/script_day3.rpy:9035
 translate russian d3a8_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3.rpy:9038
+# game/script_day3.rpy:9037
 translate russian d3a8_b68edc65_1:
 
     # YD "Ruff."
     YD ""
 
-# game/script_day3.rpy:9039
+# game/script_day3.rpy:9038
 translate russian d3a8_1a0a22a5:
 
     # O surprised "....."
     O surprised ""
 
-# game/script_day3.rpy:9040
+# game/script_day3.rpy:9039
 translate russian d3a8_ecff82b9:
 
     # O "Uh... K-Karma, I-is that a \"yes\"?"
     O ""
 
-# game/script_day3.rpy:9041
+# game/script_day3.rpy:9040
 translate russian d3a8_555ddadd:
 
     # K happy "Tee hee. Who knows~"
     K happy ""
 
-# game/script_day3.rpy:9043
+# game/script_day3.rpy:9042
 translate russian d3a8_b95d2f80_2:
 
     # YD "....."
     YD ""
 
-# game/script_day3.rpy:9044
+# game/script_day3.rpy:9043
 translate russian d3a8_9385151f:
 
     # O surprised "...D-do you not want to do that...?"
     O surprised ""
 
-# game/script_day3.rpy:9046
+# game/script_day3.rpy:9045
 translate russian d3a8_f53e1063:
 
     # O sobbing2 "Karma... Wh-why did [name_player] go all quiet...?" with hpunch
     O sobbing2 "" with hpunch
 
-# game/script_day3.rpy:9047
+# game/script_day3.rpy:9046
 translate russian d3a8_eef2f683:
 
     # K happy "There's a lot going through [name_player]'s mind right now. I think that's a great plan, Ria."
     K happy ""
 
-# game/script_day3.rpy:9048
+# game/script_day3.rpy:9047
 translate russian d3a8_da4b9613:
 
     # C pout "Okay, enough humming and hawing! Let's goo~" with shakeonce
     C pout "" with shakeonce
 
-# game/script_day3.rpy:9055
+# game/script_day3.rpy:9054
 translate russian d3a8_493687d3:
 
     # I "Uwah!" with shakeshort
     I "" with shakeshort
 
-# game/script_day3.rpy:9062
+# game/script_day3.rpy:9061
 translate russian d3a8_150f2b8c:
 
     # O "Wha-- HEY!!{w=1.0}{nw}" with shakelong
     O "" with shakelong
 
-# game/script_day3.rpy:9070
+# game/script_day3.rpy:9069
 translate russian d3a8_5e4d63d4:
 
     # I "She really just...picked me up and threw me..."
     I ""
 
-# game/script_day3.rpy:9071
+# game/script_day3.rpy:9070
 translate russian d3a8_14b138f1:
 
     # I "...Wait, where am I?"
     I ""
 
-# game/script_day3.rpy:9079
+# game/script_day3.rpy:9078
 translate russian d3a8_b1bd80c2:
 
     # YD "...?!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:9080
+# game/script_day3.rpy:9079
 translate russian d3a8_8b5a705b:
 
     # I "Something soft...pressing on my head..." with vpunch
     I "" with vpunch
 
-# game/script_day3.rpy:9081
+# game/script_day3.rpy:9080
 translate russian d3a8_12b222b0:
 
     # O panicked "Wh-wha..."
     O panicked ""
 
-# game/script_day3.rpy:9086
+# game/script_day3.rpy:9085
 translate russian d3a8_ec6cdb3f:
 
     # C wink "Oh come on, don't pretend you didn't want to pick up and hold [name_player]'s fuzzy doggy body."
     C wink ""
 
-# game/script_day3.rpy:9087
+# game/script_day3.rpy:9086
 translate russian d3a8_dc6ee12a:
 
     # O shouting "That's..."
     O shouting ""
 
-# game/script_day3.rpy:9088
+# game/script_day3.rpy:9087
 translate russian d3a8_d999ae39:
 
     # O embarrassed "That's...not true at all..." with hpunch
     O embarrassed "" with hpunch
 
-# game/script_day3.rpy:9089
+# game/script_day3.rpy:9088
 translate russian d3a8_53c8ef0e:
 
     # K default "Ria, you're grinning."
     K default ""
 
-# game/script_day3.rpy:9091
+# game/script_day3.rpy:9090
 translate russian d3a8_61db45a6:
 
     # O panicked "Ah! Er, w-well..." with hpunch
     O panicked "" with hpunch
 
-# game/script_day3.rpy:9093
+# game/script_day3.rpy:9092
 translate russian d3a8_2cae6785:
 
     # I "I can hear her heart pounding..." with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:9098
+# game/script_day3.rpy:9097
 translate russian d3a8_3f9941d4:
 
     # C happy "Ah~ What a fun club outing that was! We got to see ghosts, zombies, a bit of blood..."
     C happy ""
 
-# game/script_day3.rpy:9099
+# game/script_day3.rpy:9098
 translate russian d3a8_ad9c8bed:
 
     # K worried "Maybe YOU only saw a bit of blood, but me and [name_player]..."
     K worried ""
 
-# game/script_day3.rpy:9100
+# game/script_day3.rpy:9099
 translate russian d3a8_38e98a92:
 
     # C smile "If you're already able to joke about it, then you really are a tough cookie, Karma."
     C smile ""
 
-# game/script_day3.rpy:9101
+# game/script_day3.rpy:9100
 translate russian d3a8_98103d54:
 
     # K blink "I'm just so relieved it's finally over..."
     K blink ""
 
-# game/script_day3.rpy:9106
+# game/script_day3.rpy:9105
 translate russian d3a8_4f7e8972:
 
     # O embarrassed "[name_player]... C-can I nuzzle you?"
     O embarrassed ""
 
-# game/script_day3.rpy:9108
+# game/script_day3.rpy:9107
 translate russian d3a8_8d4a7937:
 
     # YD "Ruff?!" with shakeshort
     YD "" with shakeshort
 
-# game/script_day3.rpy:9109
+# game/script_day3.rpy:9108
 translate russian d3a8_34074abd:
 
     # C happy "Come on, let's go home already!"
     C happy ""
 
-# game/script_day3.rpy:9110
+# game/script_day3.rpy:9109
 translate russian d3a8_05192ba5:
 
     # K blink "...Yeah..."
     K blink ""
 
-# game/script_day3.rpy:9112
+# game/script_day3.rpy:9111
 translate russian d3a8_a2b016a5:
 
     # K overjoyed "Yeah! Let's go {color=#cccc00}home{/color}!" with vpunch
     K overjoyed "" with vpunch
 
-# game/script_day3.rpy:9196
+# game/script_day3.rpy:9197
 translate russian d3a8_059d8b89:
 
     # I "...I'm going to stay."
     I ""
 
-# game/script_day3.rpy:9197
+# game/script_day3.rpy:9198
 translate russian d3a8_fb69c98a_1:
 
     # K blink "{cps=6}.....{/cps} ...Mm. Okay."
     K blink ""
 
-# game/script_day3.rpy:9198
+# game/script_day3.rpy:9199
 translate russian d3a8_3ad5d979_1:
 
     # C surprised "What did [name_player] say?"
     C surprised ""
 
-# game/script_day3.rpy:9199
+# game/script_day3.rpy:9200
 translate russian d3a8_70b8f969:
 
     # K "[name_player]...will be staying here."
     K ""
 
-# game/script_day3.rpy:9200
+# game/script_day3.rpy:9201
 translate russian d3a8_7733e32d:
 
     # O surprised "Wha-- [name_player], don't tell me..."
     O surprised ""
 
-# game/script_day3.rpy:9202
+# game/script_day3.rpy:9203
 translate russian d3a8_37629c76:
 
     # O shouting "You...you intend to follow the Professor and throw yourself into that Gate as well?!" with shakeonce
     O shouting "" with shakeonce
 
-# game/script_day3.rpy:9204
+# game/script_day3.rpy:9205
 translate russian d3a8_8374f2ee:
 
     # YD "{cps=6}.....{/cps}"
     YD ""
 
-# game/script_day3.rpy:9205
+# game/script_day3.rpy:9206
 translate russian d3a8_e6505d8f:
 
     # K shadow "...If there's no other way to truly die, then it's better than wandering around this house for eternity, apparently..."
     K shadow ""
 
-# game/script_day3.rpy:9206
+# game/script_day3.rpy:9207
 translate russian d3a8_d1638e6f:
 
     # C thinking "Ria, wasn't it your idea for [name_player] to stay?"
     C thinking ""
 
-# game/script_day3.rpy:9207
+# game/script_day3.rpy:9208
 translate russian d3a8_edd9e2d6:
 
     # O afraid "I-I..." with shakeonce
     O afraid "" with shakeonce
 
-# game/script_day3.rpy:9208
+# game/script_day3.rpy:9209
 translate russian d3a8_ca19e4ba:
 
     # K "....."
     K ""
 
-# game/script_day3.rpy:9209
+# game/script_day3.rpy:9210
 translate russian d3a8_7a1a2490:
 
     # O dejected "{cps=6}...I...{/cps}"
     O dejected ""
 
-# game/script_day3.rpy:9210
+# game/script_day3.rpy:9211
 translate russian d3a8_32dda7a8:
 
     # K tiredblink "Yeah. It's not going to be easy, saying goodbye like this."
     K tiredblink ""
 
-# game/script_day3.rpy:9211
+# game/script_day3.rpy:9212
 translate russian d3a8_b9929aa9:
 
     # K tired "Especially after all that [name_player] suffered through to save us."
     K tired ""
 
-# game/script_day3.rpy:9213
+# game/script_day3.rpy:9214
 translate russian d3a8_1055eb66:
 
     # I "{cps=6}.....{/cps}" with shakeonce
     I "" with shakeonce
 
-# game/script_day3.rpy:9215
+# game/script_day3.rpy:9216
 translate russian d3a8_ddddbc73:
 
     # O shadow "{cps=6}.....{/cps}"
     O shadow ""
 
-# game/script_day3.rpy:9217
+# game/script_day3.rpy:9218
 translate russian d3a8_740d62f5:
 
     # C sad "{cps=6}.....{/cps} ...Aight, if everyone's gonna get all quiet and awkward like this, then I'll say it first."
     C sad ""
 
-# game/script_day3.rpy:9222
+# game/script_day3.rpy:9223
 translate russian d3a8_dd5e37e6:
 
     # I "Whoa! S-spinning... D-dizzy..." with hpunch
     I "" with hpunch
 
-# game/script_day3.rpy:9228
+# game/script_day3.rpy:9229
 translate russian d3a8_3c1b0340:
 
     # C smile "[name_player]!" with hpunch
     C smile "" with hpunch
 
-# game/script_day3.rpy:9229
+# game/script_day3.rpy:9230
 translate russian d3a8_a8eb85ef:
 
     # YD "...!" with shakeonce
     YD "" with shakeonce
 
-# game/script_day3.rpy:9231
+# game/script_day3.rpy:9232
 translate russian d3a8_ca9fe514:
 
     # C happy "{size=+10}Thank you!{/size}" with shakeshort
     C happy "" with shakeshort
 
-# game/script_day3.rpy:9232
+# game/script_day3.rpy:9233
 translate russian d3a8_1f036d39:
 
     # C smile "You were a [t_clue]random spirit[t_cluee] from Hell who had nothing to do with the Professor or any of us."
     C smile ""
 
-# game/script_day3.rpy:9233
+# game/script_day3.rpy:9234
 translate russian d3a8_9a6df4c8:
 
     # C sad "Your eternal rest was disturbed just so you could go through an endless cycle of killing games..."
     C sad ""
 
-# game/script_day3.rpy:9234
+# game/script_day3.rpy:9235
 translate russian d3a8_b7daf225:
 
     # C blush "And at the very end, you broke that cycle and gave the three of us [t_clue]the ultimate good ending[t_cluee]."
     C blush ""
 
-# game/script_day3.rpy:9235
+# game/script_day3.rpy:9236
 translate russian d3a8_02d6690c:
 
     # K panicked "Ah..." with shakeonce
     K panicked "" with shakeonce
 
-# game/script_day3.rpy:9237
+# game/script_day3.rpy:9238
 translate russian d3a8_f4a8949c:
 
     # O stunned "....."
     O stunned ""
 
-# game/script_day3.rpy:9240
+# game/script_day3.rpy:9241
 translate russian d3a8_c2c34141:
 
     # C overjoyed "Thank you for saving us! We'll never forget you!" with shakeshort
     C overjoyed "" with shakeshort
 
-# game/script_day3.rpy:9248
+# game/script_day3.rpy:9249
 translate russian d3a8_6b419d64:
 
     # K "Y-yeah! [name_player], thank you!" with hpunch
     K "" with hpunch
 
-# game/script_day3.rpy:9251
+# game/script_day3.rpy:9252
 translate russian d3a8_b8e8b78b:
 
     # K "If it weren't for you, I... I would've gone through hell over and over a couple million times more..."
     K ""
 
-# game/script_day3.rpy:9253
+# game/script_day3.rpy:9254
 translate russian d3a8_7f30d026:
 
     # K crying "My mind would've broken for sure. I was already going to let a spirit take over and kill one of my dear friends..." with shakeonce
     K crying "" with shakeonce
 
-# game/script_day3.rpy:9254
+# game/script_day3.rpy:9255
 translate russian d3a8_08edad3d:
 
     # K crying2 "You saved me from that fate. I'll...{w=1.0}{nw}"
     K crying2 ""
 
-# game/script_day3.rpy:9256
+# game/script_day3.rpy:9257
 translate russian d3a8_7be04a6a:
 
     # extend " I'll never forget that." with shakeonce
     extend "" with shakeonce
 
-# game/script_day3.rpy:9257
+# game/script_day3.rpy:9258
 translate russian d3a8_7bb84e47:
 
     # I "...You're wrong, Karma."
     I ""
 
-# game/script_day3.rpy:9258
+# game/script_day3.rpy:9259
 translate russian d3a8_b220f6e4:
 
     # K "...?" with shakeonce
     K "" with shakeonce
 
-# game/script_day3.rpy:9259
+# game/script_day3.rpy:9260
 translate russian d3a8_0d483f15:
 
     # I "We only got here thanks to you. Because you never truly gave up."
     I ""
 
-# game/script_day3.rpy:9260
+# game/script_day3.rpy:9261
 translate russian d3a8_6ba524aa:
 
     # I "I've been hearing your [t_clue]voice[t_cluee] from the very beginning. This...could have ended badly really quickly if it weren't for you."
     I ""
 
-# game/script_day3.rpy:9261
+# game/script_day3.rpy:9262
 translate russian d3a8_379bbbf2:
 
     # I "...Thank you for protecting my [t_clue]dear friends[t_cluee] too."
     I ""
 
-# game/script_day3.rpy:9263
+# game/script_day3.rpy:9264
 translate russian d3a8_b06c6be5:
 
     # K overjoyed "{cps=6}.....{/cps} ...Yeah. We have the greatest of friends, don't we...?" with shakeonce
     K overjoyed "" with shakeonce
 
-# game/script_day3.rpy:9265
+# game/script_day3.rpy:9266
 translate russian d3a8_bf5dfd05:
 
     # C sobbing "They're having a private, telepathic conversation... So jelly..." with hpunch
     C sobbing "" with hpunch
 
-# game/script_day3.rpy:9267
+# game/script_day3.rpy:9268
 translate russian d3a8_39a4bdc0_1:
 
     # O thinking "....."
     O thinking ""
 
-# game/script_day3.rpy:9268
+# game/script_day3.rpy:9269
 translate russian d3a8_b95d2f80_3:
 
     # YD "....."
     YD ""
 
-# game/script_day3.rpy:9277
+# game/script_day3.rpy:9278
 translate russian d3a8_ccd349f8:
 
     # O thinking "{cps=6}.....{/cps}"
     O thinking ""
 
-# game/script_day3.rpy:9278
+# game/script_day3.rpy:9279
 translate russian d3a8_4390d72c:
 
     # C smug "...Ria?"
     C smug ""
 
-# game/script_day3.rpy:9279
+# game/script_day3.rpy:9280
 translate russian d3a8_55e4084e:
 
     # O irritated "...Is there anything more for me to add?" with shakeonce
     O irritated "" with shakeonce
 
-# game/script_day3.rpy:9280
+# game/script_day3.rpy:9281
 translate russian d3a8_58ff637f:
 
     # K happy "Come on, it's not about {i}what{/i} you say, but the intent behind it! What feelings do you want to convey?"
     K happy ""
 
-# game/script_day3.rpy:9281
+# game/script_day3.rpy:9282
 translate russian d3a8_49e2b4af:
 
     # O confused "Feelings...?"
     O confused ""
 
-# game/script_day3.rpy:9282
+# game/script_day3.rpy:9283
 translate russian d3a8_b95d2f80_4:
 
     # YD "....."
     YD ""
 
-# game/script_day3.rpy:9284
+# game/script_day3.rpy:9285
 translate russian d3a8_e361bb5c:
 
     # O embarrassed "...Those literal puppy dog eyes are disrupting my thoughts..." with shakeonce
     O embarrassed "" with shakeonce
 
-# game/script_day3.rpy:9286
+# game/script_day3.rpy:9287
 translate russian d3a8_135ac7d7:
 
     # K "You can do it, Ria!" with vpunch
     K "" with vpunch
 
-# game/script_day3.rpy:9289
+# game/script_day3.rpy:9290
 translate russian d3a8_143fed01:
 
     # C happy "Yeah, do it!" with vpunch
     C happy "" with vpunch
 
-# game/script_day3.rpy:9292
+# game/script_day3.rpy:9293
 translate russian d3a8_d66328e8:
 
     # O annoyed "Will the peanut gallery please shut up?!" with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day3.rpy:9293
+# game/script_day3.rpy:9294
 translate russian d3a8_3661dbd8:
 
     # YD "....." with vpunch
     YD "" with vpunch
 
-# game/script_day3.rpy:9294
+# game/script_day3.rpy:9295
 translate russian d3a8_e319bd51:
 
     # O blink "{cps=6}.....{/cps} ...[name_player]."
     O blink ""
 
-# game/script_day3.rpy:9295
+# game/script_day3.rpy:9296
 translate russian d3a8_885f8012:
 
     # O thinking "I was...cold to you when we first met."
     O thinking ""
 
-# game/script_day3.rpy:9296
+# game/script_day3.rpy:9297
 translate russian d3a8_dec4f767:
 
     # O irritated "I couldn't accept a spirit from Hell controlling my best friend, after all."
     O irritated ""
 
-# game/script_day3.rpy:9297
+# game/script_day3.rpy:9298
 translate russian d3a8_a00146ac_1:
 
     # I "....."
     I ""
 
-# game/script_day3.rpy:9298
+# game/script_day3.rpy:9299
 translate russian d3a8_d0bcdf93:
 
     # O default "But... I'm grateful you decided to help us despite that. Despite all the pain you endured from the endless killing games."
     O default ""
 
-# game/script_day3.rpy:9299
+# game/script_day3.rpy:9300
 translate russian d3a8_a076201a:
 
     # O happy "So...{w=0.5} Thank you.{w=0.5} Thank you so much for protecting us."
     O happy ""
 
-# game/script_day3.rpy:9301
+# game/script_day3.rpy:9302
 translate russian d3a8_af2159d4:
 
     # YD "...!!" with shakeonce
     YD "" with shakeonce
 
-# game/script_day3.rpy:9304
+# game/script_day3.rpy:9305
 translate russian d3a8_973b6e83:
 
     # K crying2 "Riiiaaa..." with hpunch
     K crying2 "" with hpunch
 
-# game/script_day3.rpy:9306
+# game/script_day3.rpy:9307
 translate russian d3a8_48a04586:
 
     # C sobbing "They grow up so fast..." with hpunch
     C sobbing "" with hpunch
 
-# game/script_day3.rpy:9308
+# game/script_day3.rpy:9309
 translate russian d3a8_9671072a:
 
     # O embarrassed "I-if we're done here, let's hurry out. Who knows how long this door will remain open..." with shakeonce
     O embarrassed "" with shakeonce
 
-# game/script_day3.rpy:9309
+# game/script_day3.rpy:9310
 translate russian d3a8_92db1b13:
 
     # K blink "Yeah, I guess it's time."
     K blink ""
 
-# game/script_day3.rpy:9312
+# game/script_day3.rpy:9313
 translate russian d3a8_8374f2ee_1:
 
     # YD "{cps=6}.....{/cps}"
     YD ""
 
-# game/script_day3.rpy:9318
+# game/script_day3.rpy:9319
 translate russian d3a8_efbd144a:
 
     # I "Cecilia... Oriana... And Karma..."
     I ""
 
-# game/script_day3.rpy:9319
+# game/script_day3.rpy:9320
 translate russian d3a8_66380f6d:
 
     # I "I hope I never forget you guys either."
     I ""
 
-# game/script_day3.rpy:9320
+# game/script_day3.rpy:9321
 translate russian d3a8_01c9064d:
 
     # I "Even if the flames of Hell burn away any trace of my soul..."
     I ""
 
-# game/script_day3.rpy:9321
+# game/script_day3.rpy:9322
 translate russian d3a8_ebb72e07:
 
     # I "May this house... This space between the realms of the living and the dead..."
     I ""
 
-# game/script_day3.rpy:9322
+# game/script_day3.rpy:9323
 translate russian d3a8_cfc6ceeb:
 
     # I "May it serve as proof of my existence. ...Of our [t_clue]bond's existence[t_cluee]."
     I ""
 
-# game/script_day3.rpy:9324
+# game/script_day3.rpy:9325
 translate russian d3a8_346dddd2:
 
     # K happy "Heehee... You're actually pretty poetic, huh, [name_player]?"
     K happy ""
 
-# game/script_day3.rpy:9325
+# game/script_day3.rpy:9326
 translate russian d3a8_5f352f73:
 
     # I "...You didn't have to comment on my monologue."
     I ""
 
-# game/script_day3.rpy:9326
+# game/script_day3.rpy:9327
 translate russian d3a8_7f1c0dc6:
 
     # K blink "Probably not. But I'm glad we could joke around one last time."
     K blink ""
 
-# game/script_day3.rpy:9328
+# game/script_day3.rpy:9329
 translate russian d3a8_9d958071:
 
     # K default "...[name_player_true]. Maybe one day, we'll meet again."
     K default ""
 
-# game/script_day3.rpy:9329
+# game/script_day3.rpy:9330
 translate russian d3a8_34b1b82b:
 
     # K "Whether in this world or the other one, if we ever meet again, I hope we can be friends."
     K ""
 
-# game/script_day3.rpy:9331
+# game/script_day3.rpy:9332
 translate russian d3a8_467e7c13:
 
     # I "...Yeah. Yeah, I'd like that."
     I ""
 
-# game/script_day3.rpy:9332
+# game/script_day3.rpy:9333
 translate russian d3a8_48bd5364:
 
     # K overjoyed "Don't forget me.{cps=1} {/cps}Until next time..."
     K overjoyed ""
 
-# game/script_day3.rpy:9416
+# game/script_day3.rpy:9418
 translate russian d3a8_ec776ae7:
 
     # C "...?"
     C ""
 
-# game/script_day3.rpy:9418
+# game/script_day3.rpy:9420
 translate russian d3a8_581035ac:
 
     # C "...Huh? Why are you still here?"
     C ""
 
-# game/script_day3.rpy:9419
+# game/script_day3.rpy:9421
 translate russian d3a8_fedd5202:
 
     # C pout "Ack, what is this floating text? Wait, let me clear this..."
     C pout ""
 
-# game/script_day3.rpy:9429
+# game/script_day3.rpy:9431
 translate russian d3a8_88773234:
 
     # C default "There we go! So! Again, why are you still here?"
     C default ""
 
-# game/script_day3.rpy:9430
+# game/script_day3.rpy:9432
 translate russian d3a8_4d97038f:
 
     # C thinking "The credits have finished rolling, and the story has been brought to a conclusive end!"
     C thinking ""
 
-# game/script_day3.rpy:9431
+# game/script_day3.rpy:9433
 translate russian d3a8_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9432
+# game/script_day3.rpy:9434
 translate russian d3a8_e8119d60:
 
     # C surprised "...Huh? You don't know what's going on?"
     C surprised ""
 
-# game/script_day3.rpy:9433
+# game/script_day3.rpy:9435
 translate russian d3a8_ba9cd389:
 
     # C thinking "Hmm... Wait, what's that say above me? \"bg...\""
     C thinking ""
 
-# game/script_day3.rpy:9434
+# game/script_day3.rpy:9436
 translate russian d3a8_a7b71583:
 
     # C "\"bg secretending\", huh? So what, was something supposed to be revealed here?"
     C ""
 
-# game/script_day3.rpy:9436
+# game/script_day3.rpy:9438
 translate russian d3a8_d9aae5b5:
 
     # C "It's all gray! There's nothing! Was this a developer oversight?!"
     C ""
 
-# game/script_day3.rpy:9437
+# game/script_day3.rpy:9439
 translate russian d3a8_928023ab_1:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9438
+# game/script_day3.rpy:9440
 translate russian d3a8_1cde9105:
 
     # C blink "...Okay. I guess if you {i}really{/i} want to keep sticking around, there IS a [t_clue]secret[t_cluee] I could tell you."
     C blink ""
 
-# game/script_day3.rpy:9439
+# game/script_day3.rpy:9441
 translate russian d3a8_b53ff925:
 
     # C default "But you have to PROMISE not to tell anyone, okay? Not Karma, not Ria..."
     C default ""
 
-# game/script_day3.rpy:9440
+# game/script_day3.rpy:9442
 translate russian d3a8_79fb777e:
 
     # C blink "...And not even [name_player]."
     C blink ""
 
-# game/script_day3.rpy:9441
+# game/script_day3.rpy:9443
 translate russian d3a8_54e299eb:
 
     # C default "Hmm? Yeah, I see you there. You're completedly exposed right now."
     C default ""
 
-# game/script_day3.rpy:9442
+# game/script_day3.rpy:9444
 translate russian d3a8_0165e1c3:
 
     # C smile "You're the one who's been pushing [name_player] to do certain things, aren't you?"
     C smile ""
 
-# game/script_day3.rpy:9443
+# game/script_day3.rpy:9445
 translate russian d3a8_c373a1d7:
 
     # C thinking "After all, from what I know, it doesn't make sense. How did [name_player] get out of being sacrificed like that?"
     C thinking ""
 
-# game/script_day3.rpy:9444
+# game/script_day3.rpy:9446
 translate russian d3a8_74273e48:
 
     # C sweatdrop "Especially considering all the emotional aspects, like wouldn't [name_player] WILLINGLY get sacrificed at that point?"
     C sweatdrop ""
 
-# game/script_day3.rpy:9445
+# game/script_day3.rpy:9447
 translate russian d3a8_fa3a12e1:
 
     # C blink "But I digress. That's not the secret I wanted to tell you."
     C blink ""
 
-# game/script_day3.rpy:9446
+# game/script_day3.rpy:9448
 translate russian d3a8_cad07bc3:
 
     # C thinking "Hmm... What's the best way to reveal this..."
     C thinking ""
 
-# game/script_day3.rpy:9447
+# game/script_day3.rpy:9449
 translate russian d3a8_f77000d0:
 
     # C wink "Actually, maybe you already know so I'll just drop it like it's hot."
     C wink ""
 
-# game/script_day3.rpy:9448
+# game/script_day3.rpy:9450
 translate russian d3a8_5e266e9a:
 
     # C blink "The [t_clue]mastermind[t_cluee] who orchestrated the killing game? ...Yeah, that wasn't the Professor."
     C blink ""
 
-# game/script_day3.rpy:9450
+# game/script_day3.rpy:9452
 translate russian d3a8_db47c0b5:
 
     # C "{cps=6}.....{/cps}{w=0.5}{nw}"
     C ""
 
-# game/script_day3.rpy:9452
+# game/script_day3.rpy:9454
 translate russian d3a8_fa57848a:
 
     # extend creepy " ...It was [t_clue]me[t_cluee].{nw}"
     extend creepy ""
 
-# game/script_day3.rpy:9458
+# game/script_day3.rpy:9460
 translate russian d3a8_36fa4755:
 
     # extend "" with shakeonce
     extend "" with shakeonce
 
-# game/script_day3.rpy:9459
+# game/script_day3.rpy:9461
 translate russian d3a8_928023ab_2:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9462
+# game/script_day3.rpy:9464
 translate russian d3a8_e9fc9a2b:
 
     # C "I know, right?! DUN DUN DUUUUN! Mind blown! You should look at your face right now!" with shakeonce
     C "" with shakeonce
 
-# game/script_day3.rpy:9463
+# game/script_day3.rpy:9465
 translate russian d3a8_9f233e06:
 
     # C blink "But think about it. Doesn't it make a lot of sense?"
     C blink ""
 
-# game/script_day3.rpy:9464
+# game/script_day3.rpy:9466
 translate russian d3a8_8623db03:
 
     # C default "The Professor has been killing people who enter his house in order to feed the Gate to Hell, and eventually escape..."
     C default ""
 
-# game/script_day3.rpy:9465
+# game/script_day3.rpy:9467
 translate russian d3a8_91b9b93a:
 
     # C thinking "So WHY would he suddenly decide to mix it up and make his victims try to kill each other instead?"
     C thinking ""
 
-# game/script_day3.rpy:9466
+# game/script_day3.rpy:9468
 translate russian d3a8_b5b7f6cc:
 
     # C blink "The answer is...{w=0.5}{nw}"
     C blink ""
 
-# game/script_day3.rpy:9468
+# game/script_day3.rpy:9470
 translate russian d3a8_6b7600a5:
 
     # extend grin "there IS no reason! He saw the writing on the door and just rolled with it!" with shakeonce
     extend grin "" with shakeonce
 
-# game/script_day3.rpy:9469
+# game/script_day3.rpy:9471
 translate russian d3a8_0ce98450:
 
     # C sad "Maybe he thought it would be one less sin for him to bear if his last victim wasn't killed by his own hands? Who knows!"
     C sad ""
 
-# game/script_day3.rpy:9470
+# game/script_day3.rpy:9472
 translate russian d3a8_3f0e04cd:
 
     # C default "So then, if it wasn't the Professor, who do you think wrote that writing on the door?"
     C default ""
 
-# game/script_day3.rpy:9471
+# game/script_day3.rpy:9473
 translate russian d3a8_928023ab_3:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9473
+# game/script_day3.rpy:9475
 translate russian d3a8_06c99c28:
 
     # C "That's right! Who else but CECE~"
     C ""
 
-# game/script_day3.rpy:9474
+# game/script_day3.rpy:9476
 translate russian d3a8_475b950f:
 
     # C default "Ria doesn't know this, but when we all got pulled into this house, I actually woke up first."
     C default ""
 
-# game/script_day3.rpy:9475
+# game/script_day3.rpy:9477
 translate russian d3a8_ee922602:
 
     # C thinking "It was maybe about...20 minutes before Ria woke up? Anyway, I was enthused so I went around the house alone."
     C thinking ""
 
-# game/script_day3.rpy:9476
+# game/script_day3.rpy:9478
 translate russian d3a8_157f924d:
 
     # C blink "When I wandered into the little girl's bedroom, I saw the paint set on the desk, and came up with the BEST idea."
     C blink ""
 
-# game/script_day3.rpy:9477
+# game/script_day3.rpy:9479
 translate russian d3a8_fe563b8e:
 
     # C smug "\"What if when Ria and Karma wake up, they see writing on the door telling them they need to kill someone to leave?\""
     C smug ""
 
-# game/script_day3.rpy:9478
+# game/script_day3.rpy:9480
 translate russian d3a8_2a8c00e3:
 
     # C wink "It was sort of a prank, sort of morbid curiosity, but I did it and pretended to not know a thing!"
     C wink ""
 
-# game/script_day3.rpy:9479
+# game/script_day3.rpy:9481
 translate russian d3a8_91bec1d4:
 
     # C surprised "But boy, it came as a big shock to see Karma wake up screaming. Who would've guessed she could control time?"
     C surprised ""
 
-# game/script_day3.rpy:9480
+# game/script_day3.rpy:9482
 translate russian d3a8_ecfdb4e0:
 
     # C sad "I never would have thought she'd go through the killing game so many times."
     C sad ""
 
-# game/script_day3.rpy:9481
+# game/script_day3.rpy:9483
 translate russian d3a8_88886f1c:
 
     # C overjoyed "And then the Professor coming out to offer a spirit from Hell to help us kill each other? THAT was rad." with vpunch
     C overjoyed "" with vpunch
 
-# game/script_day3.rpy:9482
+# game/script_day3.rpy:9484
 translate russian d3a8_4448b8d5:
 
     # C smile "Things just kept getting more and more interesting from there... We had to find a solution to work around Karma's time traveling..."
     C smile ""
 
-# game/script_day3.rpy:9483
+# game/script_day3.rpy:9485
 translate russian d3a8_315cec68:
 
     # C happy "At some point, I forgot that I was the one who wrote the writing on the door in the first place!"
     C happy ""
 
-# game/script_day3.rpy:9484
+# game/script_day3.rpy:9486
 translate russian d3a8_bf7c6a1c:
 
     # C grin "But like, it all worked out in the end, right?"
     C grin ""
 
-# game/script_day3.rpy:9485
+# game/script_day3.rpy:9487
 translate russian d3a8_b3590e97:
 
     # C "In fact, if we DIDN'T do the killing game, the Professor would've just killed us normally anyway!" with hpunch
     C "" with hpunch
 
-# game/script_day3.rpy:9486
+# game/script_day3.rpy:9488
 translate russian d3a8_d8512af5:
 
     # C sad "And because of Karma's power, we would've been [t_clue]killed over and over again[t_cluee]!"
     C sad ""
 
-# game/script_day3.rpy:9487
+# game/script_day3.rpy:9489
 translate russian d3a8_2c3baf2a:
 
     # C smug "It's thanks to the killing game that we were able to get [name_player]'s help, and buy enough time to corner the Professor."
     C smug ""
 
-# game/script_day3.rpy:9488
+# game/script_day3.rpy:9490
 translate russian d3a8_d1e50068:
 
     # C happy "So if anything, the [t_clue]true hero[t_cluee] of this story is ME!"
     C happy ""
 
-# game/script_day3.rpy:9489
+# game/script_day3.rpy:9491
 translate russian d3a8_928023ab_4:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9492
+# game/script_day3.rpy:9494
 translate russian d3a8_52a7c44e:
 
     # C "...You don't look too impressed. Well, I suppose calling me a \"hero\" is a bit of a stretch here..."
     C ""
 
-# game/script_day3.rpy:9494
+# game/script_day3.rpy:9496
 translate russian d3a8_ea5c27ab:
 
     # C "And just maaaybe we could've found a way out without needing to involve a killing game in any way or form..."
     C ""
 
-# game/script_day3.rpy:9495
+# game/script_day3.rpy:9497
 translate russian d3a8_1f4be67e:
 
     # C smile "But killing games are FUN, though! You think so too, don't you? I mean,{w=1.0} [t_clue]why else would you be playing this game?[t_cluee]"
     C smile ""
 
-# game/script_day3.rpy:9496
+# game/script_day3.rpy:9498
 translate russian d3a8_ac65426f:
 
     # C "People degrading their morals... Turning against even their best friends as fear for their lives takes over..."
     C ""
 
-# game/script_day3.rpy:9497
+# game/script_day3.rpy:9499
 translate russian d3a8_604e8635:
 
     # C happy "It's truly the most addictive form of entertainment! Man, I'm glad to be living in modern times!"
     C happy ""
 
-# game/script_day3.rpy:9498
+# game/script_day3.rpy:9500
 translate russian d3a8_928023ab_5:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9499
+# game/script_day3.rpy:9501
 translate russian d3a8_76d96b49:
 
     # C surprised "...Hmm? It should be limited to fiction, you say?"
     C surprised ""
 
-# game/script_day3.rpy:9500
+# game/script_day3.rpy:9502
 translate russian d3a8_928023ab_6:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9501
+# game/script_day3.rpy:9503
 translate russian d3a8_dc27ba81:
 
     # C thinking "Hmm... Correct me if I'm wrong, but..."
     C thinking ""
 
-# game/script_day3.rpy:9503
+# game/script_day3.rpy:9505
 translate russian d3a8_03d565d9:
 
     # C default "From your point of view, isn't this all a [t_clue]work of fiction[t_cluee] in the first place?"
     C default ""
 
-# game/script_day3.rpy:9504
+# game/script_day3.rpy:9506
 translate russian d3a8_71faf56d:
 
     # C thinking "Like, wasn't there a disclaimer or something when you started playing this game?"
     C thinking ""
 
-# game/script_day3.rpy:9505
+# game/script_day3.rpy:9507
 translate russian d3a8_ba900bfc:
 
     # C "It even appeared again after the end credits. Remember? \"This is a work of...\""
     C ""
 
-# game/script_day3.rpy:9506
+# game/script_day3.rpy:9508
 translate russian d3a8_928023ab_7:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9507
+# game/script_day3.rpy:9509
 translate russian d3a8_8e20c7a6:
 
     # C surprised "Oooh, you mean like in MY world? The morality that Ria likes to preach about?"
     C surprised ""
 
-# game/script_day3.rpy:9508
+# game/script_day3.rpy:9510
 translate russian d3a8_9424a47f:
 
     # C thinking "Hmmmmmmmmm..."
     C thinking ""
 
-# game/script_day3.rpy:9509
+# game/script_day3.rpy:9511
 translate russian d3a8_dc0a9052:
 
     # C smug "I mean, you don't live on this side. Who's to say our moral values are the same as yours?"
     C smug ""
 
-# game/script_day3.rpy:9510
+# game/script_day3.rpy:9512
 translate russian d3a8_d4ab63c3:
 
     # C blink "You saw for yourself that even Ria is capable of committing murder when her back is against the wall."
     C blink ""
 
-# game/script_day3.rpy:9511
+# game/script_day3.rpy:9513
 translate russian d3a8_794a9b77:
 
     # C "Maybe she was just saying pretty words that make sense to you, but not to the rest of us."
     C ""
 
-# game/script_day3.rpy:9512
+# game/script_day3.rpy:9514
 translate russian d3a8_407db78b:
 
     # C grin "Do you expect us fictional characters to adhere to your \"real-life\" morals?"
     C grin ""
 
-# game/script_day3.rpy:9513
+# game/script_day3.rpy:9515
 translate russian d3a8_928023ab_8:
 
     # C "....."
     C ""
 
-# game/script_day3.rpy:9514
+# game/script_day3.rpy:9516
 translate russian d3a8_73e22b30:
 
     # C blink "Besides, the ultimate outcome of my little prank with the door is that all of us got to escape safely."
     C blink ""
 
-# game/script_day3.rpy:9515
+# game/script_day3.rpy:9517
 translate russian d3a8_703dd89f:
 
     # C "A classic \"the ends justifies the means\" argument, perhaps, but isn't it valid?"
     C ""
 
-# game/script_day3.rpy:9516
+# game/script_day3.rpy:9518
 translate russian d3a8_bcd87a86:
 
     # C smile "We all survived. That's all anyone needs to know."
     C smile ""
 
-# game/script_day3.rpy:9518
+# game/script_day3.rpy:9520
 translate russian d3a8_6a127fdd:
 
     # C surprised "Oh, looks like the game is finally ending."
     C surprised ""
 
-# game/script_day3.rpy:9519
+# game/script_day3.rpy:9521
 translate russian d3a8_7b42dbe2:
 
     # C blush "Okay, I'll be going now. And don't forget our promise, okay?"
     C blush ""
 
-# game/script_day3.rpy:9521
+# game/script_day3.rpy:9523
 translate russian d3a8_00b3377f:
 
     # C "{cps=6}...{/cps}{w=0.5}{nw}"
     C ""
 
-# game/script_day3.rpy:9523
+# game/script_day3.rpy:9525
 translate russian d3a8_bcc8ba9f:
 
     # extend creepy "{color=#ff0000}Don't tell anyone about this secret ending.{/color}" with shakeonce
     extend creepy "" with shakeonce
 
-# game/script_day3.rpy:9529
+# game/script_day3.rpy:9531
 translate russian d3a8_1bc847b1:
 
     # C "Don't tell Karma, Ria, or [name_player], of course, but also don't tell your friends or family."
     C ""
 
-# game/script_day3.rpy:9531
+# game/script_day3.rpy:9533
 translate russian d3a8_72509ebf:
 
     # C "Don't even post any screenshots or recordings of this ending on the Internet or social media. Because if you do..."
     C ""
 
-# game/script_day3.rpy:9534
+# game/script_day3.rpy:9536
 translate russian d3a8_864c3da5:
 
     # C "...I'll know. You and [name_player] share a name, right? Or maybe you lied at that screen?"
     C ""
 
-# game/script_day3.rpy:9536
+# game/script_day3.rpy:9538
 translate russian d3a8_598f045e:
 
     # C "...I'll know. [name_player_true], was it? Or maybe that was also a fake name?"
     C ""
 
-# game/script_day3.rpy:9538
+# game/script_day3.rpy:9540
 translate russian d3a8_4c3d7b55:
 
     # C "You can't hide your face from me though. I'm looking at it right now. And I'll remember it."
     C ""
 
-# game/script_day3.rpy:9540
+# game/script_day3.rpy:9542
 translate russian d3a8_e9e73735:
 
     # C "Even if I'm a fictional character, I exist."
     C ""
 
-# game/script_day3.rpy:9542
+# game/script_day3.rpy:9544
 translate russian d3a8_18813550:
 
     # C "You and all the other players who know me grant me a presence in your world."
     C ""
 
-# game/script_day3.rpy:9544
+# game/script_day3.rpy:9546
 translate russian d3a8_3bfe9163:
 
     # C "{cps=24}And as that presence...{/cps}{w=0.5} {color=#ff0000}I will be watching you.{/color}{w=1.0} Very carefully..."
     C ""
 
-# game/script_day3.rpy:9550
+# game/script_day3.rpy:9552
 translate russian d3a8_fb2e0fd0:
 
     # C "Anyway, the developers and I hope you had a great time playing\n[t_clue]Yet Another Killing Game[t_cluee]!"
     C ""
 
-# game/script_day3.rpy:9551
+# game/script_day3.rpy:9553
 translate russian d3a8_01871323:
 
     # C wink "Have fun playing your next game, okay? Byeeee~ [u_music_note]"
@@ -21698,27 +21698,27 @@ translate russian d3a8_01871323:
 
 translate russian strings:
 
-    # game/script_day3.rpy:62
+    # game/script_day3.rpy:61
     old "\"I'll do it.\""
     new ""
 
-    # game/script_day3.rpy:65
+    # game/script_day3.rpy:64
     old "\"You do it.\""
     new ""
 
-    # game/script_day3.rpy:83
+    # game/script_day3.rpy:82
     old "Open it now"
     new ""
 
-    # game/script_day3.rpy:85
+    # game/script_day3.rpy:84
     old "Wait a moment first"
     new ""
 
-    # game/script_day3.rpy:131
+    # game/script_day3.rpy:130
     old "Move up quickly"
     new ""
 
-    # game/script_day3.rpy:143
+    # game/script_day3.rpy:142
     old "Move up slowly"
     new ""
 
@@ -21742,15 +21742,15 @@ translate russian strings:
     old "Go to the hallway [t_clue]Upstairs[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:697
+    # game/script_day3.rpy:696
     old "The monstrous attacker"
     new ""
 
-    # game/script_day3.rpy:741
+    # game/script_day3.rpy:740
     old "The dog"
     new ""
 
-    # game/script_day3.rpy:798
+    # game/script_day3.rpy:797
     old "Someone outside the house"
     new ""
 
@@ -21766,11 +21766,11 @@ translate russian strings:
     old "Cancel your accusation"
     new ""
 
-    # game/script_day3.rpy:1052
+    # game/script_day3.rpy:1051
     old "\"It'll be fine now.\""
     new ""
 
-    # game/script_day3.rpy:1059
+    # game/script_day3.rpy:1058
     old "\"We should be careful.\""
     new ""
 
@@ -21782,39 +21782,39 @@ translate russian strings:
     old "Stop talking with Ria"
     new ""
 
-    # game/script_day3.rpy:1150
+    # game/script_day3.rpy:1149
     old "\"I remember.\""
     new ""
 
-    # game/script_day3.rpy:1171
+    # game/script_day3.rpy:1170
     old "Young Oriana"
     new ""
 
-    # game/script_day3.rpy:1174
+    # game/script_day3.rpy:1173
     old "Student A"
     new ""
 
-    # game/script_day3.rpy:1176
+    # game/script_day3.rpy:1175
     old "Student B"
     new ""
 
-    # game/script_day3.rpy:1178
+    # game/script_day3.rpy:1177
     old "{color=#fff}\"Carol\"{/color}"
     new ""
 
-    # game/script_day3.rpy:1190
+    # game/script_day3.rpy:1189
     old "Student C"
     new ""
 
-    # game/script_day3.rpy:1239
+    # game/script_day3.rpy:1238
     old "{color=#fff}Carol-Maria{/color}"
     new ""
 
-    # game/script_day3.rpy:1278
+    # game/script_day3.rpy:1277
     old "Teacher"
     new ""
 
-    # game/script_day3.rpy:1385
+    # game/script_day3.rpy:1384
     old "\"You're stronger than you think.\""
     new ""
 
@@ -21822,27 +21822,27 @@ translate russian strings:
     old "\"You're being too harsh with yourself.\""
     new ""
 
-    # game/script_day3.rpy:1689
+    # game/script_day3.rpy:1688
     old "Digging through the underground passage"
     new ""
 
-    # game/script_day3.rpy:1698
+    # game/script_day3.rpy:1697
     old "Using what Cece learned in the attic"
     new ""
 
-    # game/script_day3.rpy:1708
+    # game/script_day3.rpy:1707
     old "Killing the zombie"
     new ""
 
-    # game/script_day3.rpy:1723
+    # game/script_day3.rpy:1722
     old "\"Yes, I'm sure.\""
     new ""
 
-    # game/script_day3.rpy:1734
+    # game/script_day3.rpy:1733
     old "\"I don't know!\""
     new ""
 
-    # game/script_day3.rpy:1789
+    # game/script_day3.rpy:1788
     old "Investigate [name_dog]'s corpse"
     new ""
 
@@ -21850,7 +21850,7 @@ translate russian strings:
     old "\"No, there's no need...\""
     new ""
 
-    # game/script_day3.rpy:1946
+    # game/script_day3.rpy:1945
     old "Open the door quickly"
     new ""
 
@@ -21862,7 +21862,7 @@ translate russian strings:
     old "Investigate the [t_clue]Lounge[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:2262
+    # game/script_day3.rpy:2261
     old "\"Yeah, I will.\""
     new ""
 
@@ -21874,23 +21874,23 @@ translate russian strings:
     old "[u_check]Investigate the [t_clue]Lounge[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:2664
+    # game/script_day3.rpy:2663
     old "We're still missing something"
     new ""
 
-    # game/script_day3.rpy:2669
+    # game/script_day3.rpy:2668
     old "That person's death did not qualify"
     new ""
 
-    # game/script_day3.rpy:2675
+    # game/script_day3.rpy:2674
     old "Only the culprit knows how to open it"
     new ""
 
-    # game/script_day3.rpy:2838
+    # game/script_day3.rpy:2837
     old "The mastermind himself"
     new ""
 
-    # game/script_day3.rpy:3063
+    # game/script_day3.rpy:3062
     old "Proceed"
     new ""
 
@@ -21914,11 +21914,11 @@ translate russian strings:
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#00ff00}GOOD END{/color}{/size}\n{color=#000}Martyr Ending{/color}{/font}"
     new ""
 
-    # game/script_day3.rpy:4001
+    # game/script_day3.rpy:4000
     old "\"Who are you?\""
     new ""
 
-    # game/script_day3.rpy:4004
+    # game/script_day3.rpy:4003
     old "\"Wait. You're...\""
     new ""
 
@@ -21982,11 +21982,11 @@ translate russian strings:
     old "Return to the Title Screen"
     new ""
 
-    # game/script_day3.rpy:4985
+    # game/script_day3.rpy:4984
     old "\"I'm already dead.\""
     new ""
 
-    # game/script_day3.rpy:4995
+    # game/script_day3.rpy:4994
     old "\"The Professor's death didn't open it.\""
     new ""
 
@@ -21994,51 +21994,51 @@ translate russian strings:
     old "\"The door won't open without me.\""
     new ""
 
-    # game/script_day3.rpy:5019
+    # game/script_day3.rpy:5018
     old "\"He was dead from the start.\""
     new ""
 
-    # game/script_day3.rpy:5032
+    # game/script_day3.rpy:5031
     old "\"He's the owner of the house.\""
     new ""
 
-    # game/script_day3.rpy:5058
+    # game/script_day3.rpy:5057
     old "\"He didn't actually die.\""
     new ""
 
-    # game/script_day3.rpy:5077
+    # game/script_day3.rpy:5076
     old "\"It's someone else's corpse.\""
     new ""
 
-    # game/script_day3.rpy:5092
+    # game/script_day3.rpy:5091
     old "\"It's an artificial body.\""
     new ""
 
-    # game/script_day3.rpy:5108
+    # game/script_day3.rpy:5107
     old "\"It's a soulless shell.\""
     new ""
 
-    # game/script_day3.rpy:5110
+    # game/script_day3.rpy:5109
     old "\"It's a puppet he can control.\""
     new ""
 
-    # game/script_day3.rpy:5144
+    # game/script_day3.rpy:5143
     old "\"By floating around.\""
     new ""
 
-    # game/script_day3.rpy:5158
+    # game/script_day3.rpy:5157
     old "\"With spirit channeling.\""
     new ""
 
-    # game/script_day3.rpy:5173
+    # game/script_day3.rpy:5172
     old "\"By getting killed.\""
     new ""
 
-    # game/script_day3.rpy:5195
+    # game/script_day3.rpy:5194
     old "\"By inhabiting a host.\""
     new ""
 
-    # game/script_day3.rpy:5217
+    # game/script_day3.rpy:5216
     old "\"There are multiple wrist shackles.\""
     new ""
 
@@ -22046,43 +22046,43 @@ translate russian strings:
     old "\"There are two souls in this wrist shackle.\""
     new ""
 
-    # game/script_day3.rpy:5233
+    # game/script_day3.rpy:5232
     old "The daughter of the house"
     new ""
 
-    # game/script_day3.rpy:5240
+    # game/script_day3.rpy:5239
     old "A stranger"
     new ""
 
-    # game/script_day3.rpy:5259
+    # game/script_day3.rpy:5258
     old "\"There are other artifacts like this one.\""
     new ""
 
-    # game/script_day3.rpy:5265
+    # game/script_day3.rpy:5264
     old "Cece's Knife"
     new ""
 
-    # game/script_day3.rpy:5276
+    # game/script_day3.rpy:5275
     old "Ria's Choker"
     new ""
 
-    # game/script_day3.rpy:5288
+    # game/script_day3.rpy:5287
     old "Karma's Earring"
     new ""
 
-    # game/script_day3.rpy:5304
+    # game/script_day3.rpy:5303
     old "\"I must be the Professor.\""
     new ""
 
-    # game/script_day3.rpy:5402
+    # game/script_day3.rpy:5401
     old "\"It moved to find a new host.\""
     new ""
 
-    # game/script_day3.rpy:5431
+    # game/script_day3.rpy:5430
     old "\"Someone picked it up.\""
     new ""
 
-    # game/script_day3.rpy:5433
+    # game/script_day3.rpy:5432
     old "\"It dissolved away.\""
     new ""
 
@@ -22094,15 +22094,15 @@ translate russian strings:
     old "TRY AGAIN"
     new ""
 
-    # game/script_day3.rpy:5605
+    # game/script_day3.rpy:5604
     old "\"You love occult stuff.\""
     new ""
 
-    # game/script_day3.rpy:5612
+    # game/script_day3.rpy:5611
     old "\"You picked it up by mistake.\""
     new ""
 
-    # game/script_day3.rpy:5620
+    # game/script_day3.rpy:5619
     old "\"You were forced to take it.\""
     new ""
 
@@ -22174,119 +22174,119 @@ translate russian strings:
     old "[t_clue]\"That's enough Q and A.\"[t_cluee]"
     new ""
 
-    # game/script_day3.rpy:6831
+    # game/script_day3.rpy:6830
     old "Go out now"
     new ""
 
-    # game/script_day3.rpy:6876
+    # game/script_day3.rpy:6875
     old "Wait a little longer"
     new ""
 
-    # game/script_day3.rpy:6914
+    # game/script_day3.rpy:6913
     old "Grab the wrist shackle"
     new ""
 
-    # game/script_day3.rpy:6925
+    # game/script_day3.rpy:6924
     old "Punch her in the face"
     new ""
 
-    # game/script_day3.rpy:6991
+    # game/script_day3.rpy:6990
     old "Headbutt her"
     new ""
 
-    # game/script_day3.rpy:7032
+    # game/script_day3.rpy:7031
     old "Grab the shackle once she's close"
     new ""
 
-    # game/script_day3.rpy:7064
+    # game/script_day3.rpy:7063
     old "Turn back"
     new ""
 
-    # game/script_day3.rpy:7204
+    # game/script_day3.rpy:7203
     old "Sacrifice yourself as well"
     new ""
 
-    # game/script_day3.rpy:7232
+    # game/script_day3.rpy:7231
     old "Throw yourself into the Gate instead"
     new ""
 
-    # game/script_day3.rpy:7256
+    # game/script_day3.rpy:7255
     old "Wait for the next victim"
     new ""
 
-    # game/script_day3.rpy:7371
+    # game/script_day3.rpy:7370
     old "Strike first"
     new ""
 
-    # game/script_day3.rpy:7390
+    # game/script_day3.rpy:7389
     old "Bide your time"
     new ""
 
-    # game/script_day3.rpy:7401
+    # game/script_day3.rpy:7400
     old "Block high"
     new ""
 
-    # game/script_day3.rpy:7416
+    # game/script_day3.rpy:7415
     old "Block low"
     new ""
 
-    # game/script_day3.rpy:7435
+    # game/script_day3.rpy:7434
     old "Try to attack first"
     new ""
 
-    # game/script_day3.rpy:7446
+    # game/script_day3.rpy:7445
     old "Run away"
     new ""
 
-    # game/script_day3.rpy:7468
+    # game/script_day3.rpy:7467
     old "Stab"
     new ""
 
-    # game/script_day3.rpy:7487
+    # game/script_day3.rpy:7486
     old "Dodge"
     new ""
 
-    # game/script_day3.rpy:7495
+    # game/script_day3.rpy:7494
     old "Block"
     new ""
 
-    # game/script_day3.rpy:7519
+    # game/script_day3.rpy:7518
     old "PANIC"
     new ""
 
-    # game/script_day3.rpy:7534
+    # game/script_day3.rpy:7533
     old "Slash vertically"
     new ""
 
-    # game/script_day3.rpy:7551
+    # game/script_day3.rpy:7550
     old "Block horizontally"
     new ""
 
-    # game/script_day3.rpy:7586
+    # game/script_day3.rpy:7585
     old "Block left"
     new ""
 
-    # game/script_day3.rpy:7603
+    # game/script_day3.rpy:7602
     old "Block right"
     new ""
 
-    # game/script_day3.rpy:7630
+    # game/script_day3.rpy:7629
     old "{size=+10}{font=DejaVuSans.ttf}←{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7640
+    # game/script_day3.rpy:7639
     old "{size=+10}{font=DejaVuSans.ttf}↑{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7650
+    # game/script_day3.rpy:7649
     old "{size=+10}{font=DejaVuSans.ttf}↺{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7660
+    # game/script_day3.rpy:7659
     old "{size=+10}{font=DejaVuSans.ttf}→{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7670
+    # game/script_day3.rpy:7669
     old "{size=+10}{font=DejaVuSans.ttf}↓{/font}{/size}"
     new ""
 
@@ -22322,27 +22322,27 @@ translate russian strings:
     old "{size=+10}{font=DejaVuSans.ttf}↳{/font}{/size}"
     new ""
 
-    # game/script_day3.rpy:7818
+    # game/script_day3.rpy:7817
     old "Stay silent"
     new ""
 
-    # game/script_day3.rpy:7822
+    # game/script_day3.rpy:7821
     old "Agree and surrender"
     new ""
 
-    # game/script_day3.rpy:7829
+    # game/script_day3.rpy:7828
     old "Claim you didn't cheat"
     new ""
 
-    # game/script_day3.rpy:8029
+    # game/script_day3.rpy:8028
     old "Run out now"
     new ""
 
-    # game/script_day3.rpy:8734
+    # game/script_day3.rpy:8733
     old "\"Why did you give Karma {i}my{/i} shackle?\""
     new ""
 
-    # game/script_day3.rpy:8739
+    # game/script_day3.rpy:8738
     old "\"Why did you keep my shackle at all?\""
     new ""
 
@@ -22350,23 +22350,23 @@ translate russian strings:
     old "Escape the house with the others"
     new ""
 
-    # game/script_day3.rpy:9037
+    # game/script_day3.rpy:9036
     old "Bark"
     new ""
 
-    # game/script_day3.rpy:9042
+    # game/script_day3.rpy:9041
     old "Don't bark"
     new ""
 
-    # game/script_day3.rpy:9130
+    # game/script_day3.rpy:9129
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#fff}THE END{/color}{/size}{/font}"
     new ""
 
-    # game/script_day3.rpy:9181
+    # game/script_day3.rpy:9180
     old "Thank you to my team, to everyone who helped me bring this vision to life,\nand of course, you, [name_player_true], for seeing this story to the end.\n\nSincerely yours,\nJun Kakeru (2025)"
     new ""
 
-    # game/script_day3.rpy:9191
+    # game/script_day3.rpy:9192
     old "Stay behind and pass on"
     new ""
 

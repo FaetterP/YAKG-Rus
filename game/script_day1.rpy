@@ -529,7 +529,6 @@ label d1a1:
     Y sad "...! I...uh... It's nothing..." with hpunch
     O thinking "...[name_player]. I think I know what your answer will be, but..."
     O default "Do you remember anything about how you ended up here? Anything at all?{nw}"
-
     menu:
         extend ""
         "Tell the truth":
@@ -549,6 +548,7 @@ label d1a1:
             C thinking "Like, I remember who I am, but the past day or so's a total blur!"
             I "They're acting kinda weird..."
         "Lie to them":
+
             Y sad "N-no, sorry. I don't remember how I got brought here."
             $ fadein_sideimage = False
             Y thinking "I guess someone kidnapped me while I was sleeping...?"
@@ -578,7 +578,6 @@ label d1a1:
     O annoyed "Tsk..." with shakeonce
     O irritated "In any case, this is probably a lot to take in all at once."
     O default "Do you have any questions, [name_player]?{nw}"
-
     menu:
         extend ""
         "\"What is the weird fog?\"":
@@ -602,6 +601,7 @@ label d1a1:
             C thinking "What's {i}really{/i} strange is that the fog makes it hard to tell if it's day or night."
             C blink "At least we have the clock here by the door, even if it doesn't say if it's A.M. or P.M.--"
         "\"Can't we call for help?\"":
+
             Y leering "Have you tried calling for help?"
             O leering "Obviously."
             O irritated2 "We screamed, banged on the doors... But nothing. No response from anyone."
@@ -647,7 +647,6 @@ label d1a1:
     O shadow "Or perhaps..."
     show bg black with dissolve
     O "Perhaps this house is in fact inescapable...{w=0.5} And we'll simply starve to death if we don't...{nw}" with shakeonce
-
     menu:
         extend ""
         "Say something":
@@ -744,6 +743,7 @@ label d1a1:
     scene bg foyer
     with dissolve
     I "All of them seem promising... Guess I'll just pick wherever I want to go first..."
+
     if day1_loop_count <= 0:
         call screen tutorial("controls")
         pause 0.5
@@ -808,7 +808,6 @@ label d1a1_start_investigation:
             I "...Huh? I wonder why I have this strange feeling of [t_clue]déjà vu[t_cluee]."
             Y thinking "{cps=6}.....{/cps} ...Maybe I don't need to be in a rush..."
             I "Should I think more carefully about where I should go next?{nw}"
-
             menu:
                 extend ""
                 "{color=#cccc00}Learn what to do next{/color}":
@@ -853,6 +852,7 @@ label d1a1_start_investigation:
                     I "...No, I guess I shouldn't depend on strange feelings right now."
                     I "This is a serious situation. I should make my decisions more carefully..."
             jump d1a1_start_investigation
+
 
     if not d1a1_checked_kitchen or not d1a1_checked_bathroom or not d1a1_checked_upstairs:
         I "Guess I should investigate somewhere else now."
@@ -1414,7 +1414,6 @@ label d1a1_bathroom_end:
     D "........."
     I "It's just sitting there. Staring at me..."
     I "Is it friendly...?{nw}"
-
     menu:
         extend ""
         "Pet the dog":
@@ -1438,6 +1437,7 @@ label d1a1_bathroom_end:
             Y thinking "...\"Outside\"? Wait..."
             Y leering "Could this dog have come from...?!" with shakeonce
         "Don't pet the dog":
+
             I "...I think I'll just stare back at it and keep my guard up."
             I "I can't really remember, but I don't think I'm good with dogs."
             I "Besides, the others didn't mention there being a dog so...it could only belong to the culprit."
@@ -1477,17 +1477,16 @@ label d1a1_bathroom_end:
     show dog_raw at myleft with moveinleft
     Y shouting "There it is!" with shakeonce
     I "What should I do?{nw}"
-
     menu:
         extend ""
         "Try to catch it":
             Y surprised "Okay, come on... Come here now..."
         "Let it go":
+
             jump d1a1_dog_escaped
 
     show dog_raw at myright with move
     I "It's avoiding me...{nw}"
-
 
     menu:
         extend ""
@@ -1501,6 +1500,7 @@ label d1a1_bathroom_end:
             pause 1.0
             I "It dodged?!"
         "Approach it slowly":
+
             Y happy "Okay, come on... Come here now..."
             D "....."
             I "Steady..."
@@ -1532,7 +1532,6 @@ label d1a1_bathroom_end:
     I "...It's..."
     I "Is it...TAUNTING me?!{nw}" with shakeonce
 
-
     menu:
         extend ""
         "Approach it from the left":
@@ -1551,6 +1550,7 @@ label d1a1_bathroom_end:
             pause 0.5
             Y wince "Ow... How did it...?!"
         "Approach it from the right":
+
             Y shouting "Okay... THAT way!"
             D "....."
             I "...It's not falling for that."
@@ -1578,7 +1578,6 @@ label d1a1_bathroom_end:
     show dog_raw at myleft with move
     I "...I'm not done yet!{nw}"
 
-
     menu:
         extend ""
         "Try to trick it":
@@ -1593,6 +1592,7 @@ label d1a1_bathroom_end:
             pause 0.5
             I "I'm still on my feet!"
         "Match its movements":
+
             Y leering "All right, you're not fooling me anymore..."
             I "If I do this...!"
             play ctc_sfx sfx_whooshlow
@@ -1626,7 +1626,6 @@ label d1a1_bathroom_end:
     Y afraid2 "WHAT THE HECK?!{nw}" with shakeshort
     $ fadein_sideimage = False
 
-
     menu:
         extend ""
         "Grab the right one":
@@ -1657,6 +1656,7 @@ label d1a1_bathroom_end:
             play sound sfx_emoteshout
             Y afraid "WHAT IS THIS THING?!" with shakeshort
         "Grab the wrong one":
+
             Y angry "Okay, I'll--{w=0.5}{nw}"
             play sound sfx_emoteshout
             extend panicked " Wait, grab the [t_clue]WRONG[t_cluee] one?!" with shakeshort
@@ -2374,7 +2374,6 @@ label d1a2:
         extend " Urgh..." with shakeonce
         I "Why do I feel like I've been running around in circles...?"
         I "...Maybe I should pass on dinner and get some rest in one of the bedrooms upstairs?{nw}"
-
         menu:
             extend ""
             "{color=#cccc00}Skip the discussion and dinner{/color}":
@@ -2400,6 +2399,7 @@ label d1a2:
             "Don't skip":
                 I "...No, it wouldn't be fair to just dip out like this."
                 I "That sudden time limit... I should talk with the others about it."
+
     Y worried "Okay, off to the dining room..."
     play ctc_sfx sfx_steps
     scene bg black with fade
@@ -2579,7 +2579,6 @@ label d1a2:
     O leering "Which can only mean that this is a [t_clue]premeditated kidnapping[t_cluee]."
     Y leering "You mean the culprit planned ahead to trap the three of us in here?"
     O blink "...There's a good chance that's the case, yes.{nw}"
-
     menu:
         extend ""
         "\"How did they catch us?\"":
@@ -2624,6 +2623,7 @@ label d1a2:
             I "Well, in my case, I just don't remember anything at all..."
             O default "Anyways, it's safe to say that the culprit put each of us to sleep using the same mysterious method."
         "\"Why are they doing this?\"":
+
             Y thinking "Trapping us in this modified house, writing...THAT on the door..."
             $ fadein_sideimage = False
             Y "They clearly want us to turn on each other, but why? What do they get from making us do this?"
@@ -2655,7 +2655,6 @@ label d1a2:
             O irritated "...!" with shakeonce
 
     I "The culprit...{nw}"
-
     menu:
         extend ""
         "\"Is this the culprit's house?\"":
@@ -2699,6 +2698,7 @@ label d1a2:
             O thinking "I'm sorry, I don't know who it could be."
             C grin "Pft..."
         "\"Who is our culprit?\"":
+
             Y thinking "Who do you think it is? The person that brought us here?"
             C blink "....."
             O thinking "....."
@@ -2713,7 +2713,6 @@ label d1a2:
             C default "But did you find any clues about the IDENTITIES of this evil duo?"
             O irritated ".....{w=1.0} ...No."
             C smug "Really! Even though you're SOOO sure that there are two people involved?{nw}"
-
             menu:
                 extend ""
                 "Say something":
@@ -2725,11 +2724,11 @@ label d1a2:
                     O leering "You already mentioned how the three of us were brought here all at once."
                     O "Anyone would have trouble doing something like that alone."
                     C blink "..... Hmph. I guess I did say that."
+
             C smile "But come to think of it, [name_player], {i}you{/i} posed the initial question. So let's hear YOUR thoughts!"
             C default "Who do {i}you{/i} think the culprit could be?"
             Y panicked "...Huh? M-me?"
             C happy "Yeah, show us your detective skills!{nw}"
-
             menu:
                 extend ""
                 "Admit you have no idea":
@@ -2738,6 +2737,7 @@ label d1a2:
                     C "You're not even gonna try? Booooo."
                     O blink "That's probably for the best. It won't do us any good to jump to a wrong conclusion."
                 "Try making a deduction":
+
                     I "...I have no idea who it could be but..."
                     Y thinking "...I guess something I noticed is there's a lot of dust around here. On top of other signs that no one's been living here for a while."
                     $ fadein_sideimage = False
@@ -2754,7 +2754,6 @@ label d1a2:
     O thinking "....."
     C blink "...Alright, so I guess we don't have enough clues to identify our mystery culprit."
     I "Then let's try a different angle...{nw}"
-
 
     menu:
         extend ""
@@ -2783,6 +2782,7 @@ label d1a2:
             C smile "This whole situation might just be the culprit acting out some weird fetish."
             O leering "There's that tactlessness again..."
         "\"Why three victims?\"":
+
             Y blink "I wonder why there's three of us...?"
             C surprised "Hmm? What do you mean?"
             C thinking "It would be pretty hard to have a death game with only one person. And with two, well, it would just be a duel to the--"
@@ -2903,7 +2903,6 @@ label d1a2:
     Y afraid "Wh-what?" with shakeonce
     C sad "Weren't you listening? I said let's cut to the chase!"
     C grin "Who do you think should [t_clue]die[t_cluee] here?{nw}"
-
     menu:
         extend ""
         "One of us":
@@ -2925,6 +2924,7 @@ label d1a2:
             C default "...Why not? Would you prefer it if the choice wasn't up to you?"
             Y depressed "That's... I-I..." with shakeonce
         "The culprit":
+
             Y pained "The culprit. If we can just find the culprit, then--" with shakeonce
             C pout "Enough about the culprit, [name_player]. Were you not paying attention?"
             C "We have no clues on who the culprit is or where they could be. And even if we did,{w=0.3}{nw}"
@@ -3020,7 +3020,6 @@ label d1a2:
     show cecilia thinking at mycenter
     C "Hmm... I guess that dog's here right now because it's looking for food. The pet bowl is right over there, after all."
     C default "Which means the dog probably [t_clue]lives here[t_cluee].{nw}"
-
     menu:
         extend ""
         "\"Does it belong to the owner of this house?\"":
@@ -3034,6 +3033,7 @@ label d1a2:
             C blink "It probably smelled our dinner, right?"
             Y annoyed "But you had the cans cut open since long before we came in. So why would it wait until now?"
         "\"Does it belong to the culprit?\"":
+
             Y thinking "Did the culprit bring it here?"
             C smile "That's my best guess, yep."
             C thinking "Who knows, this dog might lead us to our culprit..."
@@ -3117,7 +3117,6 @@ label d1a2:
     play ctc_sfx "<silence 1.0>"
     $ fadein_sideimage = False
     extend thinking "Let's go with...{nw}"
-
     menu:
         extend ""
         "Cerberus":
@@ -3128,6 +3127,7 @@ label d1a2:
             C "Aha! \"[name_dog]\" it is!"
             O annoyed "...[name_player]. You have done this dog a great disservice. ...I hope you're ashamed of yourself."
         "Shaggy":
+
             $ input_name_dog = __("Shaggy")
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             play ctc_sfx sfx_emotehappy
@@ -3178,7 +3178,6 @@ label d1a2:
     show oriana sideeyeblink at myleft with dissolve
     O "I agree. We haven't searched for that long, but I can tell everyone is feeling tired, especially [name_player]."
     O sideeye "It would be more efficient to get some sleep and try again in the morning.{nw}"
-
     menu:
         extend ""
         "Agree":
@@ -3286,6 +3285,7 @@ label d1a2:
     scene bg black
     pause 2.0
     jump d1a3
+
 label d1a3:
     if d1a1_order_flag != "A" and d1a1_order_flag != "" and d1a1_chaos_flag == "A":
 
@@ -3743,7 +3743,6 @@ label d1a3_karma:
     play music bgm_tragedy fadein 0.5
     C "...Kar...ma..."
     I "Her eyes are still open...{nw}"
-
     menu:
         extend ""
         "Say something":
@@ -3856,6 +3855,7 @@ label d1a3_karma:
     $ persistent.unlock_cg_karma = True
     $ shard_string = "Karma"
     return
+
 label d1a3_order:
     call save_file_name_update (1, "d1a3_order")
     stop music
@@ -3987,7 +3987,6 @@ label d1a3_order:
     Y afraid2 "It's NOT, right, Oriana?!" with shakeonce
     $ fadein_sideimage = True
     O sideeye "And what do you think this is, [name_player]?{nw}"
-
     menu:
         extend ""
         "Accuse her":
@@ -4003,6 +4002,7 @@ label d1a3_order:
             Y angry "....."
             O leering "Hmph. Do you think glaring at me will do anything?"
     O blink "...I remembered something, you see. Earlier, when we were talking in the hallway."
+
     stop loop_sfx fadeout 3.0
     O default "...It was Cecilia. She's the reason we're all here..."
     O leering2 "She's the [t_clue]demon[t_cluee] we were looking for."
@@ -4842,7 +4842,6 @@ label d1a4:
     Y shadow "...I..."
     O thinking "...[name_player]. I think I know what your answer will be, but..."
     O default "Do you remember anything about how you ended up here? Anything at all?{nw}"
-
     menu:
         extend ""
         "Tell the truth (disabled)":
@@ -4969,6 +4968,7 @@ label d1a4:
     I "Okay, let's do this!" with shakeonce
     play music bgm_truth
     $ show_music_info_timer = music_info_pop_out_time()
+
     $ d1a4_questioning_clue1 = False
     $ d1a4_questioning_clue2 = False
     $ d1a4_questioning_clue2A = False
@@ -5027,7 +5027,6 @@ label d1a4_question1:
     O default "The first is that we didn't know how you would react to us."
     C smile "Yep! I mean, if you knew the two of us were connected, wouldn't you have been super scared?"
     C thinking "You might've thought we would team up to kill you...or maybe that we were the ones who kidnapped you in the first place.{nw}"
-
     menu:
         extend ""
         "\"That's a good point...\"":
@@ -5054,6 +5053,7 @@ label d1a4_question1:
     I "So basically...[t_clue]no more secrets[t_cluee], huh...?"
     $ d1a4_questioning_clue1 = True
     return
+
 label d1a4_question2:
     Y default "So how do you two know each other?"
     O blink "Cecilia and I are in the same club at our university."
@@ -5072,7 +5072,6 @@ label d1a4_question2:
     C happy "Hey, c'mon, ghosts are cool! Ever since I was a toddler, I've always wanted to play with one!"
     Y worried2 "Aha..."
     O thinking "*sigh* ...She's my senior by one year, and yet she's never without this child-like enthusiasm...{nw}"
-
     menu:
         extend ""
         "\"[name_cecilia] is older?!\"":
@@ -5123,6 +5122,7 @@ label d1a4_question2:
             O irritated "....."
             I "The third member..."
             $ d1a4_third_member_mentioned = True
+
     $ _last_say_who = 'C'
     show cecilia blink at mycenter with move
     show cecilia happy at shudder
@@ -5245,7 +5245,6 @@ label d1a4_question2A:
     O "Okay, that's enough, Cecilia."
     C sad "Aww... Ria, you killjoy."
     C wink "[name_player], did I spook you at least a little bit?{nw}"
-
     menu:
         extend ""
         "\"Not at all.\"":
@@ -5324,6 +5323,7 @@ label d1a4_question2A:
             I "But what about me? I'm not part of the club, so how did I end up here...? ...Unless..."
     $ d1a4_questioning_clue2A = True
     return
+
 label d1a4_question2AA:
     Y sad "When, um...[name_oriana] killed Cece..."
     O thinking "....."
@@ -5447,7 +5447,6 @@ label d1a4_question2B:
     C sweatdrop "Oh relaaax, Ria. Let [name_player] finish."
     Y surprised "S-so... The third member...{nw}"
     $ fadein_sideimage = False
-
     menu:
         extend ""
         "\"What kind of person is she?\"":
@@ -5475,6 +5474,7 @@ label d1a4_question2B:
             C surprised "Heh?"
             O confused "Care to explain how you came to such an odd conclusion?{nw}"
             menu:
+                extend ""
                 "Because of what Cece said" if d1a4_questioning_clue2AB:
                     Y sad "Well, I remember that time when...you two killed each other at the same time..."
                     O irritated "...Of all the versions, I would've liked to forget about that one the most..." with shakeonce
@@ -5486,7 +5486,6 @@ label d1a4_question2B:
                     $ fadein_sideimage = True
                     O surprised "...!" with shakeonce
                     C thinking "...So? What's your point?{nw}"
-
                     menu:
                         extend ""
                         "It was too friendly":
@@ -5548,6 +5547,7 @@ label d1a4_question2B:
                     if not is_demo_version():
                         achieve THIRD_MEMBER
                     $ renpy.music.set_volume(1.0, 3, channel="music")
+
                 "Because of the Occult Club" if d1a4_questioning_clue2A:
                     Y thinking "You said earlier that the Occult Club came here to check out that legend. And this whole area is...mostly abandoned, right?"
                     $ fadein_sideimage = False
@@ -5588,7 +5588,6 @@ label d1a4_question3:
         return
     else:
         I "Is that supposed to be whispering...? I can hear them...{nw}"
-
         menu:
             extend ""
             "No more secrets":
@@ -5681,6 +5680,7 @@ label d1a4_question3:
             $ renpy.music.set_volume(1.0, 3, channel="music")
             $ d1a4_questioning_clue3 = True
             return
+
 label d1a4_questioning_end:
     scene bg black with dissolvemed
     scene bg diningroom
@@ -5800,7 +5800,6 @@ label d1a4_questioning_end:
 
 label dogname_select:
     I "The dog's name was...{nw}"
-
     menu:
         extend ""
         "Cerberus":
@@ -5808,6 +5807,7 @@ label dogname_select:
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             jump dogname_confirmed
         "Shaggy":
+
             $ input_name_dog = __("Shaggy")
             $ name_dog = "{color=#606060}"+input_name_dog+"{/color}"
             jump dogname_confirmed
@@ -5827,7 +5827,6 @@ label dogname_entry:
 
     if input_name_dog == input_name:
         I "...Nah, that's gonna get confusing. Let's try something else.{nw}"
-
         menu:
             extend ""
             "Enter a new name":
@@ -5859,6 +5858,7 @@ label dogname_entry:
                         jump dogname_entry
                     "Go back to the lame names":
                         jump dogname_select
+
 label dogname_confirmed:
     scene bg diningroom
     show cecilia at mycenter
@@ -6028,7 +6028,6 @@ label dogname_confirmed:
     I "....."
     I "If we run out of time..."
     I "If we end up in real danger... What would I do...?{nw}"
-
     menu:
         extend ""
         "Kill one of them":
@@ -6058,6 +6057,7 @@ label dogname_confirmed:
     play ctc_sfx "<silence 1.0>"
     I "...I'm winning this [t_clue]killing game[t_cluee]...{w=0.5}{nw}"
     play ctc_sfx "<silence 1.0>"
+
     $ this_inst_is_demo = is_demo_version()
     extend " No matter what." with hpunch
     scene bg black
@@ -6097,7 +6097,6 @@ label day1_end:
     $ this_inst_day1_clear = True
     $ this_inst_is_demo = False
     S "Continuing [name_player]'s [t_clue]killing game[t_cluee] to {color=#fff}Part II{/color}.{w=1.0}\nPlease remember to save your progress regularly.{nw}"
-
     menu:
         extend ""
         "Continue":

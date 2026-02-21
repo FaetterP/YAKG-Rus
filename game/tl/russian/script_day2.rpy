@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 # game/script_day2.rpy:9
 translate russian d2a1_a00146ac:
@@ -84,241 +84,241 @@ translate russian d2a1_c8a03b1d:
     # C towel surprised "Oh! [name_player], you're awake!{nw}"
     C towel surprised ""
 
-# game/script_day2.rpy:62
+# game/script_day2.rpy:61
 translate russian d2a1_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:65
+# game/script_day2.rpy:64
 translate russian d2a1_a97948ca:
 
     # Y panicked "Wha-- Cece?! Wh-what are you doing?!" with shakeshort
     Y panicked "" with shakeshort
 
-# game/script_day2.rpy:66
+# game/script_day2.rpy:65
 translate russian d2a1_43234a8c:
 
     # C towel surprised "Huh? I mean, I took a shower, and my clothes are out here..."
     C towel surprised ""
 
-# game/script_day2.rpy:69
+# game/script_day2.rpy:68
 translate russian d2a1_9d99bd73:
 
     # C towel smile "...Wait, are you getting worked up from seeing me in a towel?"
     C towel smile ""
 
-# game/script_day2.rpy:71
+# game/script_day2.rpy:70
 translate russian d2a1_33f8292e:
 
     # Y sad "N-no, I... Uh, tha-that is to say..." with shakeonce
     Y sad "" with shakeonce
 
-# game/script_day2.rpy:73
+# game/script_day2.rpy:72
 translate russian d2a1_472ba845:
 
     # C towel happy "Oh. Em. GEE! Your face is priceless right now! [u_heart]" with hpunch
     C towel happy "" with hpunch
 
-# game/script_day2.rpy:79
+# game/script_day2.rpy:78
 translate russian d2a1_237292cd:
 
     # C towel smile "If you want, I could give you a closer look...?"
     C towel smile ""
 
-# game/script_day2.rpy:81
+# game/script_day2.rpy:80
 translate russian d2a1_a41ebbf8:
 
     # Y panicked "I-I'll pass, thanks! Wh-where's Ria? Downstairs? I'll go check on her!" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day2.rpy:84
+# game/script_day2.rpy:83
 translate russian d2a1_2317088d:
 
     # C towel surprised "Ah! [name_player], wait!" with shakeshort
     C towel surprised "" with shakeshort
 
-# game/script_day2.rpy:85
+# game/script_day2.rpy:84
 translate russian d2a1_834dc4a3:
 
     # C "[t_clue]Holding it in isn't good for you[t_cluee], you know!"
     C ""
 
-# game/script_day2.rpy:87
+# game/script_day2.rpy:86
 translate russian d2a1_d192d7c0:
 
     # Y scream "JUST GET DRESSED ALREADY!" with shakelong
     Y scream "" with shakelong
 
-# game/script_day2.rpy:93
+# game/script_day2.rpy:92
 translate russian d2a1_4ff1e369:
 
     # Y default "...Yeah, your humming woke me up."
     Y default ""
 
-# game/script_day2.rpy:94
+# game/script_day2.rpy:93
 translate russian d2a1_14454dac:
 
     # C "Oh... You heard that...?"
     C ""
 
-# game/script_day2.rpy:97
+# game/script_day2.rpy:96
 translate russian d2a1_d53a3981:
 
     # C towel smile "Hee hee, better than an annoying alarm clock, right?"
     C towel smile ""
 
-# game/script_day2.rpy:99
+# game/script_day2.rpy:98
 translate russian d2a1_2e0c0dd2:
 
     # Y "I guess, yeah..."
     Y ""
 
-# game/script_day2.rpy:100
+# game/script_day2.rpy:99
 translate russian d2a1_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day2.rpy:101
+# game/script_day2.rpy:100
 translate russian d2a1_f9893ca7:
 
     # Y "......."
     Y ""
 
-# game/script_day2.rpy:102
+# game/script_day2.rpy:101
 translate russian d2a1_d711a343:
 
     # C "........."
     C ""
 
-# game/script_day2.rpy:104
+# game/script_day2.rpy:103
 translate russian d2a1_1629dfa5:
 
     # C towel surprised "Wait, is that all you have to say?" with hpunch
     C towel surprised "" with hpunch
 
-# game/script_day2.rpy:105
+# game/script_day2.rpy:104
 translate russian d2a1_ab265bdd:
 
     # Y thinking "...What do you mean? I just woke up."
     Y thinking ""
 
-# game/script_day2.rpy:106
+# game/script_day2.rpy:105
 translate russian d2a1_649b646b:
 
     # C "Wha-- I mean, you have a beautiful young lady almost NUDE and dripping WET before your bare eyes!" with shakeonce
     C "" with shakeonce
 
-# game/script_day2.rpy:107
+# game/script_day2.rpy:106
 translate russian d2a1_f21b4bac:
 
     # C towel pout "This is like, the quintessential fanservice scene! Possibly the [t_clue]only one[t_cluee] you'll get!" with shakeonce
     C towel pout "" with shakeonce
 
-# game/script_day2.rpy:108
+# game/script_day2.rpy:107
 translate russian d2a1_d3462057:
 
     # Y worried "...I have no idea what you're talking about..."
     Y worried ""
 
-# game/script_day2.rpy:110
+# game/script_day2.rpy:109
 translate russian d2a1_dee24c52:
 
     # C towel sad "Mrgh... Okay, I guess you're allowed to not be into girls..." with hpunch
     C towel sad "" with hpunch
 
-# game/script_day2.rpy:116
+# game/script_day2.rpy:115
 translate russian d2a1_b947540f:
 
     # C towel pout "...Wait, unless the problem is my assets? If it were Ria coming out of the shower, would you have a better reaction?"
     C towel pout ""
 
-# game/script_day2.rpy:118
+# game/script_day2.rpy:117
 translate russian d2a1_d5abd7bd:
 
     # Y surprised "Oh yeah, where's Ria? If she's already awake, I better go check on her."
     Y surprised ""
 
-# game/script_day2.rpy:123
+# game/script_day2.rpy:122
 translate russian d2a1_861ea64b:
 
     # C towel pout "AHA, SO IT'S TRUE! Only someone with Ria's curvatures will do it for you, huh, [name_player]?!" with shakeshort
     C towel pout "" with shakeshort
 
-# game/script_day2.rpy:125
+# game/script_day2.rpy:124
 translate russian d2a1_25a8758b:
 
     # Y worried "Can you stop your hijinks and get dressed already? We're still trapped in a killing game, you know."
     Y worried ""
 
-# game/script_day2.rpy:127
+# game/script_day2.rpy:126
 translate russian d2a1_8f596d42:
 
     # C "[t_clue]\"Flat is justice\"[t_cluee], [name_player]! Remember that!" with shakeshort
     C "" with shakeshort
 
-# game/script_day2.rpy:133
+# game/script_day2.rpy:132
 translate russian d2a1_a52dee85:
 
     # Y shouting "Cece! Just WHAT do you think you're doing?!" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day2.rpy:134
+# game/script_day2.rpy:133
 translate russian d2a1_43234a8c_1:
 
     # C towel surprised "Huh? I mean, I took a shower, and my clothes are out here..."
     C towel surprised ""
 
-# game/script_day2.rpy:137
+# game/script_day2.rpy:136
 translate russian d2a1_8b339328:
 
     # C towel smile "...Wait, are you getting worked up from seeing me in a tow--"
     C towel smile ""
 
-# game/script_day2.rpy:143
+# game/script_day2.rpy:142
 translate russian d2a1_04a2ce94:
 
     # Y shouting "As a young lady, how could you be strutting around half-naked like that?!" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day2.rpy:144
+# game/script_day2.rpy:143
 translate russian d2a1_c4a5fb2d:
 
     # Y "Don't you have any shame?!" with shakeshort
     Y "" with shakeshort
 
-# game/script_day2.rpy:145
+# game/script_day2.rpy:144
 translate russian d2a1_16f9c4c7:
 
     # C towel surprised "Wh-what? Are... A-are you mad?" with shakeonce
     C towel surprised "" with shakeonce
 
-# game/script_day2.rpy:152
+# game/script_day2.rpy:151
 translate russian d2a1_58958444:
 
     # C towel pout "MMPH! Ah! H-hey, don't throw my clothes around!" with shakeshort
     C towel pout "" with shakeshort
 
-# game/script_day2.rpy:154
+# game/script_day2.rpy:153
 translate russian d2a1_2bdfa0b3:
 
     # Y angry "Pick those up, get back in the bathroom, and get dressed!" with shakeshort
     Y angry "" with shakeshort
 
-# game/script_day2.rpy:155
+# game/script_day2.rpy:154
 translate russian d2a1_f1e911e0:
 
     # Y leering "Meet us downstairs in 2 minutes, understood?!"
     Y leering ""
 
-# game/script_day2.rpy:156
+# game/script_day2.rpy:155
 translate russian d2a1_0e785e36:
 
     # C towel surprised "YES, MOMMY! Er, [name_player]!" with shakeshort
     C towel surprised "" with shakeshort
 
-# game/script_day2.rpy:157
+# game/script_day2.rpy:156
 translate russian d2a1_55a19cdd:
 
     # C "...I did not foresee this sequence of events...{w=1.0} {size=-10}But it felt kinda nice...{/size} [u_heart]"
@@ -2148,253 +2148,253 @@ translate russian d2a1_attic_end_fe996051:
     # C default "So...what does that mean?{nw}"
     C default ""
 
-# game/script_day2.rpy:1003
+# game/script_day2.rpy:1002
 translate russian d2a1_attic_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:1005
+# game/script_day2.rpy:1004
 translate russian d2a1_attic_end_1c44ad8c:
 
     # Y troubled "She...killed herself...right? Because all of this was too..."
     Y troubled ""
 
-# game/script_day2.rpy:1006
+# game/script_day2.rpy:1005
 translate russian d2a1_attic_end_bfa48158:
 
     # C sad "[name_player]. You and I both know she would never do that."
     C sad ""
 
-# game/script_day2.rpy:1007
+# game/script_day2.rpy:1006
 translate russian d2a1_attic_end_0439d58f:
 
     # C thinking "Come on, it's not too complicated. Think about it."
     C thinking ""
 
-# game/script_day2.rpy:1008
+# game/script_day2.rpy:1007
 translate russian d2a1_attic_end_55ace44f:
 
     # Y "....."
     Y ""
 
-# game/script_day2.rpy:1010
+# game/script_day2.rpy:1009
 translate russian d2a1_attic_end_fdf0c805:
 
     # Y wince "...It was...the culprit." with hpunch
     Y wince "" with hpunch
 
-# game/script_day2.rpy:1013
+# game/script_day2.rpy:1012
 translate russian d2a1_attic_end_d2fcf0ef:
 
     # Y shadow "...The culprit. They must have killed her."
     Y shadow ""
 
-# game/script_day2.rpy:1014
+# game/script_day2.rpy:1013
 translate russian d2a1_attic_end_0795716b:
 
     # C blink "Yes. The culprit must've ambushed her."
     C blink ""
 
-# game/script_day2.rpy:1015
+# game/script_day2.rpy:1014
 translate russian d2a1_attic_end_dad2dcc4:
 
     # Y troubled "The...culprit..." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day2.rpy:1016
+# game/script_day2.rpy:1015
 translate russian d2a1_attic_end_51206869:
 
     # C thinking "The weapon that killed Ria is nowhere to be found."
     C thinking ""
 
-# game/script_day2.rpy:1017
+# game/script_day2.rpy:1016
 translate russian d2a1_attic_end_dcee4fdb:
 
     # C "And there's a faint trail of blood drops leading to the [t_clue]corner[t_cluee] over there, AWAY from the door we entered."
     C ""
 
-# game/script_day2.rpy:1018
+# game/script_day2.rpy:1017
 translate russian d2a1_attic_end_fc2242ca:
 
     # Y depressed "....."
     Y depressed ""
 
-# game/script_day2.rpy:1019
+# game/script_day2.rpy:1018
 translate russian d2a1_attic_end_45a1fcea:
 
     # C "In other words, [name_player], the culprit probably didn't escape through the foyer."
     C ""
 
-# game/script_day2.rpy:1020
+# game/script_day2.rpy:1019
 translate russian d2a1_attic_end_436a5e1c:
 
     # C determined "They could still be hiding around here, waiting to kill us too."
     C determined ""
 
-# game/script_day2.rpy:1021
+# game/script_day2.rpy:1020
 translate russian d2a1_attic_end_6a45df32:
 
     # Y "...No..."
     Y ""
 
-# game/script_day2.rpy:1023
+# game/script_day2.rpy:1022
 translate russian d2a1_attic_end_c59a0804:
 
     # Y angry "...No... Not if I kill them first. Where's your knife? Let me--" with shakeonce
     Y angry "" with shakeonce
 
-# game/script_day2.rpy:1025
+# game/script_day2.rpy:1024
 translate russian d2a1_attic_end_5b88e83a:
 
     # C sad "[name_player]. Come to your senses already."
     C sad ""
 
-# game/script_day2.rpy:1026
+# game/script_day2.rpy:1025
 translate russian d2a1_attic_end_d827db53:
 
     # C determined "We need to run. Go get help. There's no way we can handle a murderer alone."
     C determined ""
 
-# game/script_day2.rpy:1030
+# game/script_day2.rpy:1029
 translate russian d2a1_attic_end_ae39a052:
 
     # Y scream "STOP BEING THE RATIONAL ONE!!" with shakeshort
     Y scream "" with shakeshort
 
-# game/script_day2.rpy:1031
+# game/script_day2.rpy:1030
 translate russian d2a1_attic_end_9c63dce0:
 
     # C surprised "[name_player]..."
     C surprised ""
 
-# game/script_day2.rpy:1032
+# game/script_day2.rpy:1031
 translate russian d2a1_attic_end_1183ed4c:
 
     # Y pained "Ria... Ria was your friend, wasn't she...?" with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day2.rpy:1034
+# game/script_day2.rpy:1033
 translate russian d2a1_attic_end_1cc5d849:
 
     # Y "How can you be so cold about her death...?"
     Y ""
 
-# game/script_day2.rpy:1036
+# game/script_day2.rpy:1035
 translate russian d2a1_attic_end_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day2.rpy:1037
+# game/script_day2.rpy:1036
 translate russian d2a1_attic_end_d5539771:
 
     # C blink "......."
     C blink ""
 
-# game/script_day2.rpy:1038
+# game/script_day2.rpy:1037
 translate russian d2a1_attic_end_b957a432:
 
     # Y shocked "Unless... You... Did you..."
     Y shocked ""
 
-# game/script_day2.rpy:1045
+# game/script_day2.rpy:1044
 translate russian d2a1_attic_end_c94adb79:
 
     # Y pained2 "Ngh! ...My head..." with shakeonce
     Y pained2 "" with shakeonce
 
-# game/script_day2.rpy:1047
+# game/script_day2.rpy:1046
 translate russian d2a1_attic_end_3944fcf6:
 
     # KI "[t_ghost]...can't...[t_ghoste]"
     KI ""
 
-# game/script_day2.rpy:1048
+# game/script_day2.rpy:1047
 translate russian d2a1_attic_end_44b0d0dc:
 
     # I "This voice again...?" with shakeonce
     I "" with shakeonce
 
-# game/script_day2.rpy:1049
+# game/script_day2.rpy:1048
 translate russian d2a1_attic_end_798e0644:
 
     # C surprised "[name_player]? Are you okay?"
     C surprised ""
 
-# game/script_day2.rpy:1050
+# game/script_day2.rpy:1049
 translate russian d2a1_attic_end_f55d373e:
 
     # Y pained "I'm... It's happening again..." with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day2.rpy:1051
+# game/script_day2.rpy:1050
 translate russian d2a1_attic_end_c70e22ca:
 
     # C thinking "What's...{w=0.5}{nw}"
     C thinking ""
 
-# game/script_day2.rpy:1053
+# game/script_day2.rpy:1052
 translate russian d2a1_attic_end_78fa36b0:
 
     # extend surprised " Oh! Your [t_clue]time travel power[t_cluee]?!"
     extend surprised ""
 
-# game/script_day2.rpy:1054
+# game/script_day2.rpy:1053
 translate russian d2a1_attic_end_631afa0b:
 
     # KI "[t_ghost]...like this... Can't...[t_ghoste]" with shakeonce
     KI "" with shakeonce
 
-# game/script_day2.rpy:1055
+# game/script_day2.rpy:1054
 translate russian d2a1_attic_end_e70da02c:
 
     # Y shadow "It's...for the best..."
     Y shadow ""
 
-# game/script_day2.rpy:1057
+# game/script_day2.rpy:1056
 translate russian d2a1_attic_end_dc8e4ee9:
 
     # Y depressed "...Ria... We can't leave...Ria..."
     Y depressed ""
 
-# game/script_day2.rpy:1059
+# game/script_day2.rpy:1058
 translate russian d2a1_attic_end_a68930ae:
 
     # KI "[t_ghost]...I can't let Ria...die like this... It...[t_ghoste]" with shakeonce
     KI "" with shakeonce
 
-# game/script_day2.rpy:1060
+# game/script_day2.rpy:1059
 translate russian d2a1_attic_end_44f0728b:
 
     # C determined "[name_player], quick! Before you go, just try your hardest to remember this sentence!"
     C determined ""
 
-# game/script_day2.rpy:1061
+# game/script_day2.rpy:1060
 translate russian d2a1_attic_end_85d21f86:
 
     # Y "Wha... Remember a..."
     Y ""
 
-# game/script_day2.rpy:1063
+# game/script_day2.rpy:1062
 translate russian d2a1_attic_end_656c2962:
 
     # C default "[t_clue]Serena killed the clownfish.[t_cluee]"
     C default ""
 
-# game/script_day2.rpy:1064
+# game/script_day2.rpy:1063
 translate russian d2a1_attic_end_a07b0320:
 
     # Y "What are you..."
     Y ""
 
-# game/script_day2.rpy:1065
+# game/script_day2.rpy:1064
 translate russian d2a1_attic_end_0de32b05:
 
     # C smile "Just remember it, okay?! I--{w=0.2}{nw}"
     C smile ""
 
-# game/script_day2.rpy:1070
+# game/script_day2.rpy:1069
 translate russian d2a1_attic_end_aded82b1:
 
     # KI "[t_ghost]{size=+5}IT CAN'T END LIKE THIIIIIIIS!!{/size}[t_ghoste]" with shakelong
@@ -2646,121 +2646,121 @@ translate russian d2a1_lounge_tragedy_fb48f479:
     # O default "[name_player]. Think about it. What tragedy happened to the family?{nw}"
     O default ""
 
-# game/script_day2.rpy:1236
+# game/script_day2.rpy:1235
 translate russian d2a1_lounge_tragedy_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:1238
+# game/script_day2.rpy:1237
 translate russian d2a1_lounge_tragedy_269ffc3a:
 
     # Y thinking "The parents divorced, right? That explains why there are only men's clothes in the master bedroom."
     Y thinking ""
 
-# game/script_day2.rpy:1240
+# game/script_day2.rpy:1239
 translate russian d2a1_lounge_tragedy_8a6b8292:
 
     # Y default "The mother must've left the house and took the son with her."
     Y default ""
 
-# game/script_day2.rpy:1242
+# game/script_day2.rpy:1241
 translate russian d2a1_lounge_tragedy_e8f1028d:
 
     # O blink "...I suppose that's not the worst guess in the world."
     O blink ""
 
-# game/script_day2.rpy:1243
+# game/script_day2.rpy:1242
 translate russian d2a1_lounge_tragedy_b7bb8a49:
 
     # O thinking "Frankly, I wish the tragedy was as simple and bloodless as that..."
     O thinking ""
 
-# game/script_day2.rpy:1244
+# game/script_day2.rpy:1243
 translate russian d2a1_lounge_tragedy_bca7b521:
 
     # Y worried "So...no?"
     Y worried ""
 
-# game/script_day2.rpy:1245
+# game/script_day2.rpy:1244
 translate russian d2a1_lounge_tragedy_f253193d:
 
     # O default "No. The mother certainly did leave the father, most likely taking the son with her..."
     O default ""
 
-# game/script_day2.rpy:1246
+# game/script_day2.rpy:1245
 translate russian d2a1_lounge_tragedy_1dd7f499:
 
     # O sideeyeblink "But there was another event that occurred before that. Something big."
     O sideeyeblink ""
 
-# game/script_day2.rpy:1247
+# game/script_day2.rpy:1246
 translate russian d2a1_lounge_tragedy_0417b4dc:
 
     # I "Why can't she just say what it is instead of hyping it up like this...?" with hpunch
     I "" with hpunch
 
-# game/script_day2.rpy:1250
+# game/script_day2.rpy:1249
 translate russian d2a1_lounge_tragedy_d487b524:
 
     # Y default "The son died, right? The empty bedroom must have belonged to him."
     Y default ""
 
-# game/script_day2.rpy:1252
+# game/script_day2.rpy:1251
 translate russian d2a1_lounge_tragedy_f552630c:
 
     # Y sad "And then after he died, the family must've cleared his bedroom to move on from the pain of losing him."
     Y sad ""
 
-# game/script_day2.rpy:1254
+# game/script_day2.rpy:1253
 translate russian d2a1_lounge_tragedy_30c9048d:
 
     # O sideeyeblink "...[name_player]. You're so close, yet so, SO very far."
     O sideeyeblink ""
 
-# game/script_day2.rpy:1255
+# game/script_day2.rpy:1254
 translate russian d2a1_lounge_tragedy_e8db26c1:
 
     # O sideeye "You recall the mother's letter mentioning that the son is with her, yes?"
     O sideeye ""
 
-# game/script_day2.rpy:1256
+# game/script_day2.rpy:1255
 translate russian d2a1_lounge_tragedy_16980899:
 
     # Y worried "Oh."
     Y worried ""
 
-# game/script_day2.rpy:1257
+# game/script_day2.rpy:1256
 translate russian d2a1_lounge_tragedy_d9d0cadd:
 
     # O sideeyeblink "Also, if the son really had died, I don't think they would've cleared out his bedroom."
     O sideeyeblink ""
 
-# game/script_day2.rpy:1258
+# game/script_day2.rpy:1257
 translate russian d2a1_lounge_tragedy_ab0ff013:
 
     # O thinking "If anything, they would've [t_clue]preserved it[t_cluee], but it was instead scraped bare. Almost maliciously."
     O thinking ""
 
-# game/script_day2.rpy:1259
+# game/script_day2.rpy:1258
 translate russian d2a1_lounge_tragedy_e83c98b9:
 
     # Y thinking "Hmm..."
     Y thinking ""
 
-# game/script_day2.rpy:1260
+# game/script_day2.rpy:1259
 translate russian d2a1_lounge_tragedy_07c4059d:
 
     # O default "You're getting closer, though. It should be obvious now what happened."
     O default ""
 
-# game/script_day2.rpy:1261
+# game/script_day2.rpy:1260
 translate russian d2a1_lounge_tragedy_aaf37228:
 
     # I "Then can't you just tell me the answer...?" with hpunch
     I "" with hpunch
 
-# game/script_day2.rpy:1264
+# game/script_day2.rpy:1263
 translate russian d2a1_lounge_tragedy_db819b4b:
 
     # Y blink "The daughter died, right?"
@@ -2784,817 +2784,817 @@ translate russian d2a1_lounge_tragedy_846577c1:
     # O leering2 "What else did we learn that suggests the daughter died?{nw}"
     O leering2 ""
 
-# game/script_day2.rpy:1272
+# game/script_day2.rpy:1271
 translate russian d2a1_lounge_tragedy_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:1274
+# game/script_day2.rpy:1273
 translate russian d2a1_lounge_tragedy_3ee0bea4:
 
     # Y thinking "This has been bothering me the whole time, but why did the son and mother wait so long before leaving?"
     Y thinking ""
 
-# game/script_day2.rpy:1276
+# game/script_day2.rpy:1275
 translate russian d2a1_lounge_tragedy_df721148:
 
     # Y leering "If it's true that the father was beating the son, then wouldn't they react sooner? In fact, why didn't they call the authorities?" with shakeonce
     Y leering "" with shakeonce
 
-# game/script_day2.rpy:1278
+# game/script_day2.rpy:1277
 translate russian d2a1_lounge_tragedy_0da3f551:
 
     # O "....."
     O ""
 
-# game/script_day2.rpy:1279
+# game/script_day2.rpy:1278
 translate russian d2a1_lounge_tragedy_25de884e:
 
     # O blink "......."
     O blink ""
 
-# game/script_day2.rpy:1280
+# game/script_day2.rpy:1279
 translate russian d2a1_lounge_tragedy_a1012dbb:
 
     # O thinking "[name_player]. Domestic violence is always a complicated problem. Victims can't really be objective in those situations."
     O thinking ""
 
-# game/script_day2.rpy:1281
+# game/script_day2.rpy:1280
 translate russian d2a1_lounge_tragedy_7f169205:
 
     # O default "There could be any number of reasons why they stayed so long, and why they didn't call for help."
     O default ""
 
-# game/script_day2.rpy:1282
+# game/script_day2.rpy:1281
 translate russian d2a1_lounge_tragedy_4a7bc7de:
 
     # Y sad "....."
     Y sad ""
 
-# game/script_day2.rpy:1283
+# game/script_day2.rpy:1282
 translate russian d2a1_lounge_tragedy_658ae5b4:
 
     # O blink "That's why their actions alone don't necessarily prove the daughter died."
     O blink ""
 
-# game/script_day2.rpy:1284
+# game/script_day2.rpy:1283
 translate russian d2a1_lounge_tragedy_ac8b69a2:
 
     # O "Just to clear your thoughts, let's start from the beginning."
     O ""
 
-# game/script_day2.rpy:1287
+# game/script_day2.rpy:1286
 translate russian d2a1_lounge_tragedy_1fa4a356:
 
     # Y blink "There was something strange I noticed about the letter's contents."
     Y blink ""
 
-# game/script_day2.rpy:1289
+# game/script_day2.rpy:1288
 translate russian d2a1_lounge_tragedy_5ee53460:
 
     # Y thinking "The mother mentions the addressee--most likely the father--was beating his son."
     Y thinking ""
 
-# game/script_day2.rpy:1290
+# game/script_day2.rpy:1289
 translate russian d2a1_lounge_tragedy_4fb90199:
 
     # Y "And the result of that is the son urging for the mother to leave the house..."
     Y ""
 
-# game/script_day2.rpy:1291
+# game/script_day2.rpy:1290
 translate russian d2a1_lounge_tragedy_c27691e8:
 
     # Y leering "But there's [t_clue]no mention of the daughter[t_cluee] at all."
     Y leering ""
 
-# game/script_day2.rpy:1292
+# game/script_day2.rpy:1291
 translate russian d2a1_lounge_tragedy_8eca5824:
 
     # Y sad "Nothing that suggests the mother took the daughter with her, or that the son rescued his sister himself..."
     Y sad ""
 
-# game/script_day2.rpy:1294
+# game/script_day2.rpy:1293
 translate russian d2a1_lounge_tragedy_ea3d2f51:
 
     # O irritated "....." with shakeonce
     O irritated "" with shakeonce
 
-# game/script_day2.rpy:1296
+# game/script_day2.rpy:1295
 translate russian d2a1_lounge_tragedy_13863ad9:
 
     # Y worried "I, uh.... I dunno." with hpunch
     Y worried "" with hpunch
 
-# game/script_day2.rpy:1297
+# game/script_day2.rpy:1296
 translate russian d2a1_lounge_tragedy_5d19ccfb:
 
     # O disappointed "....."
     O disappointed ""
 
-# game/script_day2.rpy:1298
+# game/script_day2.rpy:1297
 translate russian d2a1_lounge_tragedy_c2a78e26:
 
     # Y thinking "Maybe we're a little off with our assumptions here...?"
     Y thinking ""
 
-# game/script_day2.rpy:1299
+# game/script_day2.rpy:1298
 translate russian d2a1_lounge_tragedy_0c665e6f:
 
     # O confused "...Fine, let's think this through from the beginning again."
     O confused ""
 
-# game/script_day2.rpy:1301
+# game/script_day2.rpy:1300
 translate russian d2a1_lounge_tragedy_2228cb6b:
 
     # O thinking "...Yes."
     O thinking ""
 
-# game/script_day2.rpy:1302
+# game/script_day2.rpy:1301
 translate russian d2a1_lounge_tragedy_5ef564b3:
 
     # O "Through some unknown means, the daughter must have died first. That has to be the tragedy that tore their family apart."
     O ""
 
-# game/script_day2.rpy:1304
+# game/script_day2.rpy:1303
 translate russian d2a1_lounge_tragedy_21791070:
 
     # Y shadow2 "....."
     Y shadow2 ""
 
-# game/script_day2.rpy:1305
+# game/script_day2.rpy:1304
 translate russian d2a1_lounge_tragedy_0da3f551_1:
 
     # O "....."
     O ""
 
-# game/script_day2.rpy:1306
+# game/script_day2.rpy:1305
 translate russian d2a1_lounge_tragedy_eb32f3ef:
 
     # O default "...Well?"
     O default ""
 
-# game/script_day2.rpy:1307
+# game/script_day2.rpy:1306
 translate russian d2a1_lounge_tragedy_00cb6339:
 
     # Y surprised "...Well...what?"
     Y surprised ""
 
-# game/script_day2.rpy:1308
+# game/script_day2.rpy:1307
 translate russian d2a1_lounge_tragedy_fdf887f4:
 
     # O "Learning about the daughter's death, and how it affected her loved ones... Do you feel nothing about it?"
     O ""
 
-# game/script_day2.rpy:1309
+# game/script_day2.rpy:1308
 translate russian d2a1_lounge_tragedy_e04d2349:
 
     # Y sad "Do I feel...? I mean, it's tragic, for sure. My condolences to them."
     Y sad ""
 
-# game/script_day2.rpy:1312
+# game/script_day2.rpy:1311
 translate russian d2a1_lounge_tragedy_5b28027b:
 
     # Y default "But [t_clue]I don't know these people[t_cluee]. Or at least...I don't think I do."
     Y default ""
 
-# game/script_day2.rpy:1314
+# game/script_day2.rpy:1313
 translate russian d2a1_lounge_tragedy_0da3f551_2:
 
     # O "....."
     O ""
 
-# game/script_day2.rpy:1315
+# game/script_day2.rpy:1314
 translate russian d2a1_lounge_tragedy_8187b00e:
 
     # O thinking "......."
     O thinking ""
 
-# game/script_day2.rpy:1316
+# game/script_day2.rpy:1315
 translate russian d2a1_lounge_tragedy_2a4c95c1:
 
     # O blink "...I see. Then we'll leave it at that."
     O blink ""
 
-# game/script_day2.rpy:1317
+# game/script_day2.rpy:1316
 translate russian d2a1_lounge_tragedy_df117f36:
 
     # Y thinking "...?"
     Y thinking ""
 
-# game/script_day2.rpy:1318
+# game/script_day2.rpy:1317
 translate russian d2a1_lounge_tragedy_7c0973e3:
 
     # O confused "Back to our present situation..."
     O confused ""
 
-# game/script_day2.rpy:1320
+# game/script_day2.rpy:1319
 translate russian d2a1_lounge_tragedy_90849944:
 
     # O "Considering all of our deductions up to now, there's a good chance the father still lives here."
     O ""
 
-# game/script_day2.rpy:1321
+# game/script_day2.rpy:1320
 translate russian d2a1_lounge_tragedy_56aba764:
 
     # O leering2 "In other words, the [t_clue]father is the mastermind[t_cluee] behind this killing game."
     O leering2 ""
 
-# game/script_day2.rpy:1322
+# game/script_day2.rpy:1321
 translate russian d2a1_lounge_tragedy_c7a0d03b:
 
     # Y thinking "Considering the type of man he was, I guess that's plausible..."
     Y thinking ""
 
-# game/script_day2.rpy:1324
+# game/script_day2.rpy:1323
 translate russian d2a1_lounge_tragedy_355b7a2f:
 
     # Y sad "But... I don't know, there's plenty of proof to suggest that he was a good father before the tragedy happened."
     Y sad ""
 
-# game/script_day2.rpy:1326
+# game/script_day2.rpy:1325
 translate russian d2a1_lounge_tragedy_1a0a22a5:
 
     # O surprised "....."
     O surprised ""
 
-# game/script_day2.rpy:1327
+# game/script_day2.rpy:1326
 translate russian d2a1_lounge_tragedy_7fbde785:
 
     # O thinking "{cps=6}.......{/cps} {nw}"
     O thinking ""
 
-# game/script_day2.rpy:1329
+# game/script_day2.rpy:1328
 translate russian d2a1_lounge_tragedy_4c646077:
 
     # extend irritated "No." with shakeonce
     extend irritated "" with shakeonce
 
-# game/script_day2.rpy:1330
+# game/script_day2.rpy:1329
 translate russian d2a1_lounge_tragedy_15029e90:
 
     # O annoyed2 "A criminal is a criminal, no matter what his circumstances were."
     O annoyed2 ""
 
-# game/script_day2.rpy:1331
+# game/script_day2.rpy:1330
 translate russian d2a1_lounge_tragedy_48e2563d:
 
     # O leering2 "No amount of suffering he's been through can justify what he did to his son. ...And what he's done to us."
     O leering2 ""
 
-# game/script_day2.rpy:1332
+# game/script_day2.rpy:1331
 translate russian d2a1_lounge_tragedy_d154b34f:
 
     # Y shadow2 "....." with hpunch
     Y shadow2 "" with hpunch
 
-# game/script_day2.rpy:1333
+# game/script_day2.rpy:1332
 translate russian d2a1_lounge_tragedy_bffb1959:
 
     # O thinking "He's probably hiding in the [t_clue]basement[t_cluee]. We should go find Cecilia and get ourselves ready to bring him to justice."
     O thinking ""
 
-# game/script_day2.rpy:1334
+# game/script_day2.rpy:1333
 translate russian d2a1_lounge_tragedy_f2eb0de1:
 
     # Y surprised "Oh yeah, Cece's still not back..."
     Y surprised ""
 
-# game/script_day2.rpy:1335
+# game/script_day2.rpy:1334
 translate russian d2a1_lounge_tragedy_0b44bb81:
 
     # I "I guess she got really into whatever's in the attic. Wonder if she found any important clues..."
     I ""
 
-# game/script_day2.rpy:1342
+# game/script_day2.rpy:1341
 translate russian d2a1_lounge_tragedy_30d02aab:
 
     # I "...Ria's clearly on autopilot, following my back while lost in her own thoughts..."
     I ""
 
-# game/script_day2.rpy:1343
+# game/script_day2.rpy:1342
 translate russian d2a1_lounge_tragedy_bbd8a684:
 
     # I "I wonder what's got her so distracted...?"
     I ""
 
-# game/script_day2.rpy:1344
+# game/script_day2.rpy:1343
 translate russian d2a1_lounge_tragedy_016c4857:
 
     # Y surprised "Oh!"
     Y surprised ""
 
-# game/script_day2.rpy:1351
+# game/script_day2.rpy:1350
 translate russian d2a1_lounge_tragedy_b9913353:
 
     # Y surprised "Huh, what do you know, there really was an attic here. No wonder this corner felt a little odd."
     Y surprised ""
 
-# game/script_day2.rpy:1355
+# game/script_day2.rpy:1354
 translate russian d2a1_lounge_tragedy_6e874dfc:
 
     # Y default "Hey! Cece! Are you done checking out the attic?"
     Y default ""
 
-# game/script_day2.rpy:1357
+# game/script_day2.rpy:1356
 translate russian d2a1_lounge_tragedy_55ace44f:
 
     # Y "....."
     Y ""
 
-# game/script_day2.rpy:1358
+# game/script_day2.rpy:1357
 translate russian d2a1_lounge_tragedy_dc76d97e:
 
     # Y thinking "......."
     Y thinking ""
 
-# game/script_day2.rpy:1360
+# game/script_day2.rpy:1359
 translate russian d2a1_lounge_tragedy_86d9ce6f:
 
     # Y shouting "CECE! COME ON, WE HAVE ANOTHER PLACE TO CHECK OUT! GET DOWN HERE!" with shakelong
     Y shouting "" with shakelong
 
-# game/script_day2.rpy:1361
+# game/script_day2.rpy:1360
 translate russian d2a1_lounge_tragedy_0580a923:
 
     # Y leering "....."
     Y leering ""
 
-# game/script_day2.rpy:1362
+# game/script_day2.rpy:1361
 translate russian d2a1_lounge_tragedy_dd7b53d1:
 
     # Y worried "......."
     Y worried ""
 
-# game/script_day2.rpy:1368
+# game/script_day2.rpy:1367
 translate russian d2a1_lounge_tragedy_32afe5b2:
 
     # O "...She must be completely absorbed in a book or something."
     O ""
 
-# game/script_day2.rpy:1369
+# game/script_day2.rpy:1368
 translate russian d2a1_lounge_tragedy_c36cc56e:
 
     # Y annoyed "Guess there's no choice but to climb up."
     Y annoyed ""
 
-# game/script_day2.rpy:1371
+# game/script_day2.rpy:1370
 translate russian d2a1_lounge_tragedy_21af2c8e:
 
     # Y default "You can wait here, Ria. I'll go pull her down quickly."
     Y default ""
 
-# game/script_day2.rpy:1373
+# game/script_day2.rpy:1372
 translate russian d2a1_lounge_tragedy_0da3f551_3:
 
     # O "....."
     O ""
 
-# game/script_day2.rpy:1374
+# game/script_day2.rpy:1373
 translate russian d2a1_lounge_tragedy_8a5956d4:
 
     # O surprised "...Huh?"
     O surprised ""
 
-# game/script_day2.rpy:1375
+# game/script_day2.rpy:1374
 translate russian d2a1_lounge_tragedy_d622ed48:
 
     # O thinking "O-oh, okay, take your time..."
     O thinking ""
 
-# game/script_day2.rpy:1376
+# game/script_day2.rpy:1375
 translate russian d2a1_lounge_tragedy_1d860b99:
 
     # Y worried "....."
     Y worried ""
 
-# game/script_day2.rpy:1377
+# game/script_day2.rpy:1376
 translate russian d2a1_lounge_tragedy_442e951f:
 
     # I "Everyone's so distracted today..."
     I ""
 
-# game/script_day2.rpy:1383
+# game/script_day2.rpy:1382
 translate russian d2a1_lounge_tragedy_d517c7cf:
 
     # Y shouting "Okay, Cece, playtime's over!" with shakeshort
     Y shouting "" with shakeshort
 
-# game/script_day2.rpy:1385
+# game/script_day2.rpy:1384
 translate russian d2a1_lounge_tragedy_4a2f9b21:
 
     # Y surprised "Let's...get... ...going...?"
     Y surprised ""
 
-# game/script_day2.rpy:1391
+# game/script_day2.rpy:1390
 translate russian d2a1_lounge_tragedy_df07144a:
 
     # Y surprised "...Cece?"
     Y surprised ""
 
-# game/script_day2.rpy:1398
+# game/script_day2.rpy:1397
 translate russian d2a1_lounge_tragedy_145a7860:
 
     # Y thinking "....."
     Y thinking ""
 
-# game/script_day2.rpy:1405
+# game/script_day2.rpy:1404
 translate russian d2a1_lounge_tragedy_eb30be65:
 
     # Y afraid "...!!" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day2.rpy:1418
+# game/script_day2.rpy:1417
 translate russian d2a1_lounge_tragedy_38c61561:
 
     # Y afraid "CECE!!" with shakeshort
     Y afraid "" with shakeshort
 
-# game/script_day2.rpy:1419
+# game/script_day2.rpy:1418
 translate russian d2a1_lounge_tragedy_1e62f727:
 
     # I "Cece's...been slashed...?"
     I ""
 
-# game/script_day2.rpy:1420
+# game/script_day2.rpy:1419
 translate russian d2a1_lounge_tragedy_910c1da8:
 
     # Y pained "Cece, wake up! Come on, this isn't funny!" with shakeonce
     Y pained "" with shakeonce
 
-# game/script_day2.rpy:1423
+# game/script_day2.rpy:1422
 translate russian d2a1_lounge_tragedy_b791bdc8:
 
     # O hidden "{size=-10}[name_player]! What's going on?!{/size}"
     O hidden ""
 
-# game/script_day2.rpy:1425
+# game/script_day2.rpy:1424
 translate russian d2a1_lounge_tragedy_928023ab:
 
     # C "....."
     C ""
 
-# game/script_day2.rpy:1426
+# game/script_day2.rpy:1425
 translate russian d2a1_lounge_tragedy_4203ebb2:
 
     # Y scream "Cece, talk to me!" with shakeshort
     Y scream "" with shakeshort
 
-# game/script_day2.rpy:1428
+# game/script_day2.rpy:1427
 translate russian d2a1_lounge_tragedy_565be762:
 
     # C "...I...messed up..."
     C ""
 
-# game/script_day2.rpy:1430
+# game/script_day2.rpy:1429
 translate russian d2a1_lounge_tragedy_ebc1d6f8:
 
     # I "...!! She's still alive!" with shakeonce
     I "" with shakeonce
 
-# game/script_day2.rpy:1431
+# game/script_day2.rpy:1430
 translate russian d2a1_lounge_tragedy_f9479968:
 
     # O shouting "*pant* [name_player]! What's with all...the..." with shakeshort
     O shouting "" with shakeshort
 
-# game/script_day2.rpy:1433
+# game/script_day2.rpy:1432
 translate russian d2a1_lounge_tragedy_2fbad964:
 
     # O afraid "...Wait... Wha-what is this...?"
     O afraid ""
 
-# game/script_day2.rpy:1435
+# game/script_day2.rpy:1434
 translate russian d2a1_lounge_tragedy_2ffbe8a8:
 
     # Y troubled "It's okay, Cece! You'll be fine! Just... Just focus on breathing!" with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day2.rpy:1436
+# game/script_day2.rpy:1435
 translate russian d2a1_lounge_tragedy_199632e7:
 
     # Y "Something to stop the bleeding...! There's gotta be something... Anything!" with shakeonce
     Y "" with shakeonce
 
-# game/script_day2.rpy:1438
+# game/script_day2.rpy:1437
 translate russian d2a1_lounge_tragedy_c857e1df:
 
     # C "No...need...[name_player]... I'm...not...bouncing back...from this..."
     C ""
 
-# game/script_day2.rpy:1439
+# game/script_day2.rpy:1438
 translate russian d2a1_lounge_tragedy_b6e09be6:
 
     # Y pained "Stop joking around! This is... This is the one time you shouldn't be joking around!" with shakeshort
     Y pained "" with shakeshort
 
-# game/script_day2.rpy:1440
+# game/script_day2.rpy:1439
 translate russian d2a1_lounge_tragedy_e51a6c6a:
 
     # C "I...know... It's...no joke..."
     C ""
 
-# game/script_day2.rpy:1441
+# game/script_day2.rpy:1440
 translate russian d2a1_lounge_tragedy_8be3e89f:
 
     # Y angry "Who did this to you?! Cece! Did you see the culprit?!"
     Y angry ""
 
-# game/script_day2.rpy:1442
+# game/script_day2.rpy:1441
 translate russian d2a1_lounge_tragedy_9a1b8d6a:
 
     # C "...Sorry..."
     C ""
 
-# game/script_day2.rpy:1443
+# game/script_day2.rpy:1442
 translate russian d2a1_lounge_tragedy_c806e4eb:
 
     # C "...I couldn't...see..."
     C ""
 
-# game/script_day2.rpy:1444
+# game/script_day2.rpy:1443
 translate russian d2a1_lounge_tragedy_9e0d7d51:
 
     # C "...It was...dark...and...fast..."
     C ""
 
-# game/script_day2.rpy:1446
+# game/script_day2.rpy:1445
 translate russian d2a1_lounge_tragedy_5c9a11d7:
 
     # C "A...[t_clue]demon[t_cluee]..." with shakeonce
     C "" with shakeonce
 
-# game/script_day2.rpy:1447
+# game/script_day2.rpy:1446
 translate russian d2a1_lounge_tragedy_82f8ccb8:
 
     # Y shocked "A demon...? Cece, what are you--"
     Y shocked ""
 
-# game/script_day2.rpy:1453
+# game/script_day2.rpy:1452
 translate russian d2a1_lounge_tragedy_356e4c5d:
 
     # C "[t_clue]Behind[t_cluee]...[t_clue]trunk[t_cluee]..."
     C ""
 
-# game/script_day2.rpy:1458
+# game/script_day2.rpy:1457
 translate russian d2a1_lounge_tragedy_05fdce55:
 
     # C "[t_clue]Page[t_cluee]... [t_clue]Forty[t_cluee]... {size=-10}[t_clue]Fo[t_cluee]...{/size}"
     C ""
 
-# game/script_day2.rpy:1462
+# game/script_day2.rpy:1461
 translate russian d2a1_lounge_tragedy_1570094d:
 
     # Y shocked "{cps=6}.....{/cps} ...C-Cece...?"
     Y shocked ""
 
-# game/script_day2.rpy:1468
+# game/script_day2.rpy:1467
 translate russian d2a1_lounge_tragedy_36aa741c:
 
     # I "...That's...the front door..."
     I ""
 
-# game/script_day2.rpy:1472
+# game/script_day2.rpy:1471
 translate russian d2a1_lounge_tragedy_0da3f551_4:
 
     # O "....."
     O ""
 
-# game/script_day2.rpy:1473
+# game/script_day2.rpy:1472
 translate russian d2a1_lounge_tragedy_f9287767:
 
     # Y depressed "......."
     Y depressed ""
 
-# game/script_day2.rpy:1474
+# game/script_day2.rpy:1473
 translate russian d2a1_lounge_tragedy_6250cde8:
 
     # O irritated "...[name_player]. She's gone."
     O irritated ""
 
-# game/script_day2.rpy:1476
+# game/script_day2.rpy:1475
 translate russian d2a1_lounge_tragedy_f11b8e76:
 
     # O "Cecilia is...{w=1.0}{cps=9}[t_clue]dead[t_cluee].{/cps}{nw}"
     O ""
 
-# game/script_day2.rpy:1480
+# game/script_day2.rpy:1479
 translate russian d2a1_lounge_tragedy_36fa4755:
 
     # extend "" with shakeonce
     extend "" with shakeonce
 
-# game/script_day2.rpy:1482
+# game/script_day2.rpy:1481
 translate russian d2a1_lounge_tragedy_80e85052:
 
     # Y shadow "....." with shakeonce
     Y shadow "" with shakeonce
 
-# game/script_day2.rpy:1483
+# game/script_day2.rpy:1482
 translate russian d2a1_lounge_tragedy_d2556ff1:
 
     # O thinking "She has two deep knife wounds, one on her stomach, one on her neck..."
     O thinking ""
 
-# game/script_day2.rpy:1484
+# game/script_day2.rpy:1483
 translate russian d2a1_lounge_tragedy_5a5b0fe3:
 
     # O sideeye "Her kitchen knife is on the floor next to her. No blood."
     O sideeye ""
 
-# game/script_day2.rpy:1485
+# game/script_day2.rpy:1484
 translate russian d2a1_lounge_tragedy_d09b3e61:
 
     # O leering "This means someone used [t_clue]another knife[t_cluee] to kill her."
     O leering ""
 
-# game/script_day2.rpy:1486
+# game/script_day2.rpy:1485
 translate russian d2a1_lounge_tragedy_27d2a107:
 
     # Y "...Not \"someone\". A [t_clue]demon[t_cluee]."
     Y ""
 
-# game/script_day2.rpy:1488
+# game/script_day2.rpy:1487
 translate russian d2a1_lounge_tragedy_9720b35d:
 
     # O surprised "...What? Come on, [name_player], she didn't mean a literal demon."
     O surprised ""
 
-# game/script_day2.rpy:1489
+# game/script_day2.rpy:1488
 translate russian d2a1_lounge_tragedy_d46b53a8:
 
     # Y shadow2 "But it's the only thing that makes sense..."
     Y shadow2 ""
 
-# game/script_day2.rpy:1491
+# game/script_day2.rpy:1490
 translate russian d2a1_lounge_tragedy_6be2a145:
 
     # Y "Cece's...practically a demon herself. Only another demon would be able to kill her."
     Y ""
 
-# game/script_day2.rpy:1492
+# game/script_day2.rpy:1491
 translate russian d2a1_lounge_tragedy_c138c636:
 
     # Y happy "...Heh... Heh heh... It makes perfect sense..." with shakeonce
     Y happy "" with shakeonce
 
-# game/script_day2.rpy:1495
+# game/script_day2.rpy:1494
 translate russian d2a1_lounge_tragedy_14a5aba2:
 
     # O shouting "[name_player]! Forget about all that! We need to leave! NOW!" with shakeshort
     O shouting "" with shakeshort
 
-# game/script_day2.rpy:1496
+# game/script_day2.rpy:1495
 translate russian d2a1_lounge_tragedy_f7dd6b11:
 
     # O leering "Cecilia's death means the front door is open. We could both hear it even all the way from up here!"
     O leering ""
 
-# game/script_day2.rpy:1497
+# game/script_day2.rpy:1496
 translate russian d2a1_lounge_tragedy_ca0b9280:
 
     # Y troubled "Nrgh..." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day2.rpy:1498
+# game/script_day2.rpy:1497
 translate russian d2a1_lounge_tragedy_97228f27:
 
     # O annoyed2 "We don't know who killed her! Demon or not, they could still be hiding somewhere around here!"
     O annoyed2 ""
 
-# game/script_day2.rpy:1499
+# game/script_day2.rpy:1498
 translate russian d2a1_lounge_tragedy_1daecb61:
 
     # O shouting "We owe it to her to escape this place alive! Don't let her [t_clue]sacrifice[t_cluee] be in vain!" with shakeshort
     O shouting "" with shakeshort
 
-# game/script_day2.rpy:1500
+# game/script_day2.rpy:1499
 translate russian d2a1_lounge_tragedy_a746113f:
 
     # Y depressed "Demon... Sacrifice..."
     Y depressed ""
 
-# game/script_day2.rpy:1507
+# game/script_day2.rpy:1506
 translate russian d2a1_lounge_tragedy_c94adb79:
 
     # Y pained2 "Ngh! ...My head..." with shakeonce
     Y pained2 "" with shakeonce
 
-# game/script_day2.rpy:1509
+# game/script_day2.rpy:1508
 translate russian d2a1_lounge_tragedy_3944fcf6:
 
     # KI "[t_ghost]...can't...[t_ghoste]"
     KI ""
 
-# game/script_day2.rpy:1510
+# game/script_day2.rpy:1509
 translate russian d2a1_lounge_tragedy_f9891b02:
 
     # I "This...voice again...?" with shakeonce
     I "" with shakeonce
 
-# game/script_day2.rpy:1511
+# game/script_day2.rpy:1510
 translate russian d2a1_lounge_tragedy_44eddf33:
 
     # O surprised "[name_player]! What's wrong?!"
     O surprised ""
 
-# game/script_day2.rpy:1512
+# game/script_day2.rpy:1511
 translate russian d2a1_lounge_tragedy_a6f74a72:
 
     # Y troubled "It's...happening...again..."
     Y troubled ""
 
-# game/script_day2.rpy:1513
+# game/script_day2.rpy:1512
 translate russian d2a1_lounge_tragedy_566bc460:
 
     # O "What's...{w=0.5}{nw}"
     O ""
 
-# game/script_day2.rpy:1515
+# game/script_day2.rpy:1514
 translate russian d2a1_lounge_tragedy_2e301e7f:
 
     # extend " W-wait, you mean your [t_clue]time travel power[t_cluee]?!" with shakeonce
     extend "" with shakeonce
 
-# game/script_day2.rpy:1516
+# game/script_day2.rpy:1515
 translate russian d2a1_lounge_tragedy_e7f3966d:
 
     # KI "[t_ghost]...Cece can't...[t_ghoste]"
     KI ""
 
-# game/script_day2.rpy:1517
+# game/script_day2.rpy:1516
 translate russian d2a1_lounge_tragedy_bf75d193:
 
     # O horrified "No! Stop! [name_player]! Don't turn back time!" with shakeonce
     O horrified "" with shakeonce
 
-# game/script_day2.rpy:1518
+# game/script_day2.rpy:1517
 translate russian d2a1_lounge_tragedy_8d9e013c:
 
     # O "Things are okay like this! W-we can escape now! Just the two of us..."
     O ""
 
-# game/script_day2.rpy:1519
+# game/script_day2.rpy:1518
 translate russian d2a1_lounge_tragedy_4b444e61:
 
     # O "DON'T THROW ALL THIS AWAY!" with shakeshort
     O "" with shakeshort
 
-# game/script_day2.rpy:1520
+# game/script_day2.rpy:1519
 translate russian d2a1_lounge_tragedy_c8a6ae9c:
 
     # Y shadow "I... I can't... do that..."
     Y shadow ""
 
-# game/script_day2.rpy:1522
+# game/script_day2.rpy:1521
 translate russian d2a1_lounge_tragedy_dc8627dc:
 
     # Y "...Cece... Cece...doesn't...deserve this..."
     Y ""
 
-# game/script_day2.rpy:1524
+# game/script_day2.rpy:1523
 translate russian d2a1_lounge_tragedy_c0649803:
 
     # I "...!! Wait, [t_clue]behind the trunk[t_cluee]!" with shakeshort
     I "" with shakeshort
 
-# game/script_day2.rpy:1531
+# game/script_day2.rpy:1530
 translate russian d2a1_lounge_tragedy_cb701e28:
 
     # Y pained "NRGHHH!!" with shakeshort
     Y pained "" with shakeshort
 
-# game/script_day2.rpy:1532
+# game/script_day2.rpy:1531
 translate russian d2a1_lounge_tragedy_bbd2b80c:
 
     # KI "[t_ghost]...We can't leave things...like this...[t_ghoste]"
     KI ""
 
-# game/script_day2.rpy:1537
+# game/script_day2.rpy:1536
 translate russian d2a1_lounge_tragedy_b4d8a133:
 
     # O horrified "[name_player]! Please! Don't go back!" with shakeonce
     O horrified "" with shakeonce
 
-# game/script_day2.rpy:1539
+# game/script_day2.rpy:1538
 translate russian d2a1_lounge_tragedy_bba8df64:
 
     # O "Don't go back! DON'T GO BAAAACK!!" with shakelong
     O "" with shakelong
 
-# game/script_day2.rpy:1545
+# game/script_day2.rpy:1544
 translate russian d2a1_lounge_tragedy_5ab2d5ed:
 
     # I "Nrrrrrrghh... Got it!" with shakeonce
     I "" with shakeonce
 
-# game/script_day2.rpy:1546
+# game/script_day2.rpy:1545
 translate russian d2a1_lounge_tragedy_a696a9f1:
 
     # Y "Page... Forty... Foooo--" with shakeonce
     Y "" with shakeonce
 
-# game/script_day2.rpy:1551
+# game/script_day2.rpy:1550
 translate russian d2a1_lounge_tragedy_41a1f6db:
 
     # KI "[t_ghost]{size=+5}GO BAAAAAAAAAAAAAACK!!!{/size}[t_ghoste]" with shakelong
@@ -5484,7 +5484,7 @@ translate russian d2a2_basement_choice_7d6728d9:
     # I "{cps=6}I...{/cps}should be dead already.{w=1.0} I died...{nw}"
     I ""
 
-# game/script_day2.rpy:2380
+# game/script_day2.rpy:2379
 translate russian d2a2_basement_choice_11fdb519:
 
     # extend "" nointeract
@@ -5610,13 +5610,13 @@ translate russian truename_entry_f21cfcca:
     # I "My name... My [t_clue]true name[t_cluee]...{nw}"
     I ""
 
-# game/script_day2.rpy:2434
+# game/script_day2.rpy:2433
 translate russian truename_entry_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:2440
+# game/script_day2.rpy:2439
 translate russian truename_entry_059ba334:
 
     # I "...My...true name...is..."
@@ -5640,7 +5640,7 @@ translate russian truename_entry_40907ac0:
     # I "My true name is [name_player_true]...{nw}"
     I ""
 
-# game/script_day2.rpy:2459
+# game/script_day2.rpy:2458
 translate russian truename_entry_11fdb519_1:
 
     # extend "" nointeract
@@ -5730,31 +5730,31 @@ translate russian d2a3_a80f79d9:
     # O leering2 "...[name_player]. May I ask what happens if I jump in?{nw}"
     O leering2 ""
 
-# game/script_day2.rpy:2488
+# game/script_day2.rpy:2487
 translate russian d2a3_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:2490
+# game/script_day2.rpy:2489
 translate russian d2a3_a334e867:
 
     # Y blink "You find a key down there, but...someone [t_clue]stabs my back[t_cluee] and kills me."
     Y blink ""
 
-# game/script_day2.rpy:2491
+# game/script_day2.rpy:2490
 translate russian d2a3_4a8d3bd4:
 
     # O surprised "...! That's..." with shakeonce
     O surprised "" with shakeonce
 
-# game/script_day2.rpy:2492
+# game/script_day2.rpy:2491
 translate russian d2a3_453d8c20:
 
     # O irritated "...Oh. I understand why you want to wait now."
     O irritated ""
 
-# game/script_day2.rpy:2493
+# game/script_day2.rpy:2492
 translate russian d2a3_21791070:
 
     # Y shadow2 "....."
@@ -5778,19 +5778,19 @@ translate russian d2a3_e86205c9:
     # O confused "...And what happens if {i}you{/i} jump in?{nw}"
     O confused ""
 
-# game/script_day2.rpy:2501
+# game/script_day2.rpy:2500
 translate russian d2a3_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:2503
+# game/script_day2.rpy:2502
 translate russian d2a3_4fbf05ca:
 
     # Y troubled "...I..." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day2.rpy:2504
+# game/script_day2.rpy:2503
 translate russian d2a3_754f41e4:
 
     # I "...Can I say it...?"
@@ -6606,61 +6606,61 @@ translate russian d2a3_805698d9:
     # I "I need to find an escape route!{nw}" with shakeonce
     I "" with shakeonce
 
-# game/script_day2.rpy:2874
+# game/script_day2.rpy:2873
 translate russian d2a3_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:2879
+# game/script_day2.rpy:2878
 translate russian d2a3_179a3155:
 
     # I "The safest place would be back upstairs!" with vpunch
     I "" with vpunch
 
-# game/script_day2.rpy:2880
+# game/script_day2.rpy:2879
 translate russian d2a3_3af77c90:
 
     # I "We could also get some supplies to treat Ria's wound--"
     I ""
 
-# game/script_day2.rpy:2892
+# game/script_day2.rpy:2891
 translate russian d2a3_1f2e2c74:
 
     # Y afraid2 "AHH!" with shakelong
     Y afraid2 "" with shakelong
 
-# game/script_day2.rpy:2893
+# game/script_day2.rpy:2892
 translate russian d2a3_2dee28ee:
 
     # C sad "Aghh... Curse my dainty weight... Got flung like a softball there..."
     C sad ""
 
-# game/script_day2.rpy:2894
+# game/script_day2.rpy:2893
 translate russian d2a3_818dedd2:
 
     # Y panicked "Cece, are you--" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day2.rpy:2899
+# game/script_day2.rpy:2898
 translate russian d2a3_d5b0bd0f:
 
     # C "COUNTERRRRRR!!" with shakelong
     C "" with shakelong
 
-# game/script_day2.rpy:2902
+# game/script_day2.rpy:2901
 translate russian d2a3_fdb9eff8:
 
     # C "Ngh...! I'm fine! Just hurry to someplace safe!" with shakeonce
     C "" with shakeonce
 
-# game/script_day2.rpy:2903
+# game/script_day2.rpy:2902
 translate russian d2a3_e7cefd1c:
 
     # I "They're fighting too close to the stairs... Guess there's only one place left to go!" with hpunch
     I "" with hpunch
 
-# game/script_day2.rpy:2911
+# game/script_day2.rpy:2910
 translate russian d2a3_fbb7cb9c:
 
     # I "If we go into that room, we can lock this zombie out!" with shakeonce
@@ -7572,91 +7572,91 @@ translate russian d2a3_library_cece_hearttoheart_fd9d1edb:
     # Y thinking "Yeah, the sentence was... Uh... How did it go...?{nw}"
     Y thinking ""
 
-# game/script_day2.rpy:3359
+# game/script_day2.rpy:3358
 translate russian d2a3_library_cece_hearttoheart_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:3361
+# game/script_day2.rpy:3360
 translate russian d2a3_library_cece_hearttoheart_2db4bf30:
 
     # Y "\"Selena...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3364
+# game/script_day2.rpy:3363
 translate russian d2a3_library_cece_hearttoheart_0f3a5cbb:
 
     # Y "\"Serena...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3366
+# game/script_day2.rpy:3365
 translate russian d2a3_library_cece_hearttoheart_029cb603:
 
     # Y "\"Serene...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3368
+# game/script_day2.rpy:3367
 translate russian d2a3_library_cece_hearttoheart_e0a4cf22:
 
     # Y "\"Celene...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3371
+# game/script_day2.rpy:3370
 translate russian d2a3_library_cece_hearttoheart_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:3374
+# game/script_day2.rpy:3373
 translate russian d2a3_library_cece_hearttoheart_1f31b3c6:
 
     # Y "\"...killed...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3376
+# game/script_day2.rpy:3375
 translate russian d2a3_library_cece_hearttoheart_9681f7b4:
 
     # Y "\"...grilled...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3378
+# game/script_day2.rpy:3377
 translate russian d2a3_library_cece_hearttoheart_d6f10065:
 
     # Y "\"...spilled...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3380
+# game/script_day2.rpy:3379
 translate russian d2a3_library_cece_hearttoheart_178b9e79:
 
     # Y "\"...chilled...\"{nw}"
     Y ""
 
-# game/script_day2.rpy:3383
+# game/script_day2.rpy:3382
 translate russian d2a3_library_cece_hearttoheart_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:3385
+# game/script_day2.rpy:3384
 translate russian d2a3_library_cece_hearttoheart_d856fa33:
 
     # Y "\"...the monkfish.\""
     Y ""
 
-# game/script_day2.rpy:3387
+# game/script_day2.rpy:3386
 translate russian d2a3_library_cece_hearttoheart_03b43d89:
 
     # Y "\"...the koi fish.\""
     Y ""
 
-# game/script_day2.rpy:3389
+# game/script_day2.rpy:3388
 translate russian d2a3_library_cece_hearttoheart_3d243d8b:
 
     # Y "\"...the goldfish.\""
     Y ""
 
-# game/script_day2.rpy:3392
+# game/script_day2.rpy:3391
 translate russian d2a3_library_cece_hearttoheart_fb8f40a1:
 
     # Y "\"...the clownfish.\""
@@ -7776,187 +7776,187 @@ translate russian d2a3_library_cece_hearttoheart_0b1c88b6:
     # C sweatdrop "...Are you sure you wanna know? It might make things...tricky for you.{nw}"
     C sweatdrop ""
 
-# game/script_day2.rpy:3424
+# game/script_day2.rpy:3423
 translate russian d2a3_library_cece_hearttoheart_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:3426
+# game/script_day2.rpy:3425
 translate russian d2a3_library_cece_hearttoheart_c52ee338:
 
     # Y leering "Cece, please tell me. What were you trying to test by telling me that secret?"
     Y leering ""
 
-# game/script_day2.rpy:3427
+# game/script_day2.rpy:3426
 translate russian d2a3_library_cece_hearttoheart_df4445c4:
 
     # C blink "Now, of course, I can't be 100%% sure, but I think that other Cece was trying to test two things."
     C blink ""
 
-# game/script_day2.rpy:3428
+# game/script_day2.rpy:3427
 translate russian d2a3_library_cece_hearttoheart_0cbd1242:
 
     # C default "First, she was testing [t_clue]me[t_cluee]. The current Cece."
     C default ""
 
-# game/script_day2.rpy:3429
+# game/script_day2.rpy:3428
 translate russian d2a3_library_cece_hearttoheart_9f8930c6:
 
     # Y thinking "What? How?"
     Y thinking ""
 
-# game/script_day2.rpy:3430
+# game/script_day2.rpy:3429
 translate russian d2a3_library_cece_hearttoheart_092697ab:
 
     # C thinking "By having you tell me a secret no one could possibly know about, she's testing if I [t_clue]remember[t_cluee] telling you that secret."
     C thinking ""
 
-# game/script_day2.rpy:3431
+# game/script_day2.rpy:3430
 translate russian d2a3_library_cece_hearttoheart_e82f7923:
 
     # Y panicked "...Wait, what? But aren't you two different Ceces?" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day2.rpy:3432
+# game/script_day2.rpy:3431
 translate russian d2a3_library_cece_hearttoheart_454c02af:
 
     # C "...No. It turns out her theory was correct."
     C ""
 
-# game/script_day2.rpy:3433
+# game/script_day2.rpy:3432
 translate russian d2a3_library_cece_hearttoheart_dad82948:
 
     # C default "It's very faint, but I do vaguely [t_clue]remember telling someone that secret[t_cluee]."
     C default ""
 
-# game/script_day2.rpy:3434
+# game/script_day2.rpy:3433
 translate russian d2a3_library_cece_hearttoheart_d3be91f2:
 
     # C blink "Which then tested and confirmed the second thing."
     C blink ""
 
-# game/script_day2.rpy:3435
+# game/script_day2.rpy:3434
 translate russian d2a3_library_cece_hearttoheart_cbea1ce9:
 
     # C smug "She was testing the [t_clue]nature[t_cluee] of your time travel power."
     C smug ""
 
-# game/script_day2.rpy:3436
+# game/script_day2.rpy:3435
 translate russian d2a3_library_cece_hearttoheart_bb6fd41c:
 
     # Y worried "The...\"nature\" of my time traveling?" with hpunch
     Y worried "" with hpunch
 
-# game/script_day2.rpy:3437
+# game/script_day2.rpy:3436
 translate russian d2a3_library_cece_hearttoheart_7f4562ce:
 
     # C sweatdrop "Hmm... Your oblivious expression tells me you're not familiar with the time travel tropes so commonly explored in sci-fi stories."
     C sweatdrop ""
 
-# game/script_day2.rpy:3438
+# game/script_day2.rpy:3437
 translate russian d2a3_library_cece_hearttoheart_a3ea433f:
 
     # C default "Okay, think of it this way. Let's say you go back in time because Ria died, but I'm still alive."
     C default ""
 
-# game/script_day2.rpy:3439
+# game/script_day2.rpy:3438
 translate russian d2a3_library_cece_hearttoheart_5388cea3:
 
     # C "What do you think happens to the dead Ria and the still-alive me AFTER you travel back?{nw}"
     C ""
 
-# game/script_day2.rpy:3441
+# game/script_day2.rpy:3440
 translate russian d2a3_library_cece_hearttoheart_11fdb519_4:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:3443
+# game/script_day2.rpy:3442
 translate russian d2a3_library_cece_hearttoheart_1c5ff56d:
 
     # Y sad "...Wouldn't you still live on? And Ria would still be dead..."
     Y sad ""
 
-# game/script_day2.rpy:3444
+# game/script_day2.rpy:3443
 translate russian d2a3_library_cece_hearttoheart_993c694c:
 
     # C blink "So I would escape through the front door, right?"
     C blink ""
 
-# game/script_day2.rpy:3445
+# game/script_day2.rpy:3444
 translate russian d2a3_library_cece_hearttoheart_26d1d469:
 
     # Y blink "I guess so, yeah."
     Y blink ""
 
-# game/script_day2.rpy:3446
+# game/script_day2.rpy:3445
 translate russian d2a3_library_cece_hearttoheart_bdc1a71c:
 
     # C default "But then what about you?"
     C default ""
 
-# game/script_day2.rpy:3447
+# game/script_day2.rpy:3446
 translate russian d2a3_library_cece_hearttoheart_6da1e6e1:
 
     # Y surprised "Me? Didn't I--"
     Y surprised ""
 
-# game/script_day2.rpy:3448
+# game/script_day2.rpy:3447
 translate russian d2a3_library_cece_hearttoheart_d2ba7795:
 
     # C smile "Yes, \"you\" went back in time. But what about your body?"
     C smile ""
 
-# game/script_day2.rpy:3449
+# game/script_day2.rpy:3448
 translate russian d2a3_library_cece_hearttoheart_338f4ba1:
 
     # Y thinking "{cps=6}.....{/cps} {nw}"
     Y thinking ""
 
-# game/script_day2.rpy:3452
+# game/script_day2.rpy:3451
 translate russian d2a3_library_cece_hearttoheart_003ecd5b:
 
     # extend panicked "Oh! Wait, no, I guess only my [t_clue]mind[t_cluee] travels back, since I always wake up in my sleeping body." with hpunch
     extend panicked "" with hpunch
 
-# game/script_day2.rpy:3454
+# game/script_day2.rpy:3453
 translate russian d2a3_library_cece_hearttoheart_fd742ac7:
 
     # C happy "Exactly! So what do you think happens to your old body, still stuck in the future?"
     C happy ""
 
-# game/script_day2.rpy:3455
+# game/script_day2.rpy:3454
 translate russian d2a3_library_cece_hearttoheart_537e7e64:
 
     # Y thinking "Uh... It either lives on without a mind, or..."
     Y thinking ""
 
-# game/script_day2.rpy:3457
+# game/script_day2.rpy:3456
 translate russian d2a3_library_cece_hearttoheart_25ec23f8:
 
     # Y surprised "Wait, does it become another \"me\"?"
     Y surprised ""
 
-# game/script_day2.rpy:3459
+# game/script_day2.rpy:3458
 translate russian d2a3_library_cece_hearttoheart_56671874:
 
     # C smile "That would be the [t_clue]multiple timeline theory[t_cluee], yes."
     C smile ""
 
-# game/script_day2.rpy:3460
+# game/script_day2.rpy:3459
 translate russian d2a3_library_cece_hearttoheart_4681aa4b:
 
     # C blink "If your time traveling was of this type, that would mean that every single time any of us died..."
     C blink ""
 
-# game/script_day2.rpy:3461
+# game/script_day2.rpy:3460
 translate russian d2a3_library_cece_hearttoheart_a0f80a2d:
 
     # C "...that person [t_clue]stayed dead[t_cluee] in that timeline, and all you're doing is jumping around until you find an optimal outcome."
     C ""
 
-# game/script_day2.rpy:3462
+# game/script_day2.rpy:3461
 translate russian d2a3_library_cece_hearttoheart_3fe525b6:
 
     # Y thinking "...\"If\"? So... What I'm doing is NOT that?"
@@ -8442,91 +8442,91 @@ translate russian d2a3_library_cece_hearttoheart_ff0c7aba:
     # Y default "{cps=6}.....{/cps} Cece...{w=0.5}{nw}"
     Y default ""
 
-# game/script_day2.rpy:3609
+# game/script_day2.rpy:3608
 translate russian d2a3_library_cece_hearttoheart_11fdb519_5:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day2.rpy:3611
+# game/script_day2.rpy:3610
 translate russian d2a3_library_cece_hearttoheart_d0fcf641:
 
     # Y relaxed "You're a good person after all."
     Y relaxed ""
 
-# game/script_day2.rpy:3612
+# game/script_day2.rpy:3611
 translate russian d2a3_library_cece_hearttoheart_f95f51fd:
 
     # C surprised "Hm? Where's this coming from?"
     C surprised ""
 
-# game/script_day2.rpy:3613
+# game/script_day2.rpy:3612
 translate russian d2a3_library_cece_hearttoheart_c514ec4b:
 
     # Y blink "The way you talk about yourself...and your past self..."
     Y blink ""
 
-# game/script_day2.rpy:3614
+# game/script_day2.rpy:3613
 translate russian d2a3_library_cece_hearttoheart_a0def964:
 
     # Y default "It feels like you don't have the nicest things to say about either of them."
     Y default ""
 
-# game/script_day2.rpy:3615
+# game/script_day2.rpy:3614
 translate russian d2a3_library_cece_hearttoheart_6d7b3a8e:
 
     # C sweatdrop "Ahaha... I get what you mean, but it's not like I have low self-esteem or anything." with hpunch
     C sweatdrop "" with hpunch
 
-# game/script_day2.rpy:3616
+# game/script_day2.rpy:3615
 translate russian d2a3_library_cece_hearttoheart_089815e0:
 
     # C blink "I'm just giving a description of how general society views someone like me."
     C blink ""
 
-# game/script_day2.rpy:3617
+# game/script_day2.rpy:3616
 translate russian d2a3_library_cece_hearttoheart_8e279eca:
 
     # Y leering "But you protected Serena."
     Y leering ""
 
-# game/script_day2.rpy:3618
+# game/script_day2.rpy:3617
 translate russian d2a3_library_cece_hearttoheart_f68daeb8:
 
     # C thinking "Maybe, but it wasn't out of heroism or friendship or some civic duty..."
     C thinking ""
 
-# game/script_day2.rpy:3619
+# game/script_day2.rpy:3618
 translate russian d2a3_library_cece_hearttoheart_232b7edd:
 
     # C sweatdrop "Frankly, it was just because it was the easiest choice to make. Imagine trying to convince a class of children that--"
     C sweatdrop ""
 
-# game/script_day2.rpy:3620
+# game/script_day2.rpy:3619
 translate russian d2a3_library_cece_hearttoheart_f1fb5a0c:
 
     # Y blink "You just said that you recognized Serena's friends were important to her."
     Y blink ""
 
-# game/script_day2.rpy:3621
+# game/script_day2.rpy:3620
 translate russian d2a3_library_cece_hearttoheart_38083982_1:
 
     # C surprised "....."
     C surprised ""
 
-# game/script_day2.rpy:3622
+# game/script_day2.rpy:3621
 translate russian d2a3_library_cece_hearttoheart_5c77e2e1:
 
     # Y "You kept this secret for so long because you wanted to protect something that some kid cared about."
     Y ""
 
-# game/script_day2.rpy:3623
+# game/script_day2.rpy:3622
 translate russian d2a3_library_cece_hearttoheart_d3052337:
 
     # Y relaxed "Some kid who wasn't even your friend."
     Y relaxed ""
 
-# game/script_day2.rpy:3624
+# game/script_day2.rpy:3623
 translate russian d2a3_library_cece_hearttoheart_64f5974a:
 
     # Y happy "I think being able to even recognize the things that matter to other people proves your humanity."
@@ -8694,7 +8694,7 @@ translate russian day2_end_5e395124:
     # S "Continuing [name_player]'s [t_clue]killing game[t_cluee] to {color=#fff}Part III{/color}.{w=1.0}\nPlease remember to save your progress regularly.{nw}"
     S ""
 
-# game/script_day2.rpy:3698
+# game/script_day2.rpy:3697
 translate russian day2_end_11fdb519:
 
     # extend "" nointeract
@@ -8702,15 +8702,15 @@ translate russian day2_end_11fdb519:
 
 translate russian strings:
 
-    # game/script_day2.rpy:63
+    # game/script_day2.rpy:62
     old "Be flustered"
     new ""
 
-    # game/script_day2.rpy:91
+    # game/script_day2.rpy:90
     old "Be unfazed"
     new ""
 
-    # game/script_day2.rpy:130
+    # game/script_day2.rpy:129
     old "Be angry"
     new ""
 
@@ -8734,15 +8734,15 @@ translate russian strings:
     old "What weird, supernatural discoveries await you in this eerie attic?\nPerhaps one of the many items here will lead you to the truth..."
     new ""
 
-    # game/script_day2.rpy:1004
+    # game/script_day2.rpy:1003
     old "She killed herself"
     new ""
 
-    # game/script_day2.rpy:1012
+    # game/script_day2.rpy:1011
     old "The culprit killed her"
     new ""
 
-    # game/script_day2.rpy:1077
+    # game/script_day2.rpy:1076
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nDespair Ending{/font}"
     new ""
 
@@ -8750,31 +8750,31 @@ translate russian strings:
     old "You finally opened the final room in the first floor. Who is the culprit?\nWhy was this room sealed? The answers to these questions beckon you..."
     new ""
 
-    # game/script_day2.rpy:1237
+    # game/script_day2.rpy:1236
     old "The parents divorced"
     new ""
 
-    # game/script_day2.rpy:1249
+    # game/script_day2.rpy:1248
     old "The son died"
     new ""
 
-    # game/script_day2.rpy:1263
+    # game/script_day2.rpy:1262
     old "The daughter died"
     new ""
 
-    # game/script_day2.rpy:1273
+    # game/script_day2.rpy:1272
     old "The timing of the son and mother's actions"
     new ""
 
-    # game/script_day2.rpy:1286
+    # game/script_day2.rpy:1285
     old "The daughter isn't mentioned in the letter"
     new ""
 
-    # game/script_day2.rpy:1554
+    # game/script_day2.rpy:1553
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}Page 44{/size}\nOpening a Gate to {color=#ff0000}HELL{/color}{/font}"
     new ""
 
-    # game/script_day2.rpy:1562
+    # game/script_day2.rpy:1561
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nJudgement Ending{/font}"
     new ""
 
@@ -8802,11 +8802,11 @@ translate russian strings:
     old "Jump in yourself"
     new ""
 
-    # game/script_day2.rpy:2381
+    # game/script_day2.rpy:2380
     old "With regrets"
     new ""
 
-    # game/script_day2.rpy:2383
+    # game/script_day2.rpy:2382
     old "Without regrets"
     new ""
 
@@ -8814,11 +8814,11 @@ translate russian strings:
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nLight Ending{/font}"
     new ""
 
-    # game/script_day2.rpy:2435
+    # game/script_day2.rpy:2434
     old "\"...is [name_player].\""
     new ""
 
-    # game/script_day2.rpy:2439
+    # game/script_day2.rpy:2438
     old "\"...is NOT [name_player].\""
     new ""
 
@@ -8826,11 +8826,11 @@ translate russian strings:
     old "ENTER YOUR {size=+15}{color=#44b817}TRUE NAME{/color}{/size}"
     new ""
 
-    # game/script_day2.rpy:2462
+    # game/script_day2.rpy:2461
     old "\"No, that's wrong.\""
     new ""
 
-    # game/script_day2.rpy:2489
+    # game/script_day2.rpy:2488
     old "Tell her"
     new ""
 
@@ -8838,11 +8838,11 @@ translate russian strings:
     old "Don't tell her"
     new ""
 
-    # game/script_day2.rpy:2875
+    # game/script_day2.rpy:2874
     old "Go up the stairs"
     new ""
 
-    # game/script_day2.rpy:2907
+    # game/script_day2.rpy:2906
     old "Go into the locked room"
     new ""
 
@@ -8862,59 +8862,59 @@ translate russian strings:
     old "Stop talking with Cece"
     new ""
 
-    # game/script_day2.rpy:3360
+    # game/script_day2.rpy:3359
     old "\"Selena...\""
     new ""
 
-    # game/script_day2.rpy:3362
+    # game/script_day2.rpy:3361
     old "\"Serena...\""
     new ""
 
-    # game/script_day2.rpy:3365
+    # game/script_day2.rpy:3364
     old "\"Serene...\""
     new ""
 
-    # game/script_day2.rpy:3367
+    # game/script_day2.rpy:3366
     old "\"Celene...\""
     new ""
 
-    # game/script_day2.rpy:3372
+    # game/script_day2.rpy:3371
     old "\"...killed...\""
     new ""
 
-    # game/script_day2.rpy:3375
+    # game/script_day2.rpy:3374
     old "\"...grilled...\""
     new ""
 
-    # game/script_day2.rpy:3377
+    # game/script_day2.rpy:3376
     old "\"...spilled...\""
     new ""
 
-    # game/script_day2.rpy:3379
+    # game/script_day2.rpy:3378
     old "\"...chilled...\""
     new ""
 
-    # game/script_day2.rpy:3384
+    # game/script_day2.rpy:3383
     old "\"...the monkfish.\""
     new ""
 
-    # game/script_day2.rpy:3386
+    # game/script_day2.rpy:3385
     old "\"...the koi fish.\""
     new ""
 
-    # game/script_day2.rpy:3388
+    # game/script_day2.rpy:3387
     old "\"...the goldfish.\""
     new ""
 
-    # game/script_day2.rpy:3390
+    # game/script_day2.rpy:3389
     old "\"...the clownfish.\""
     new ""
 
-    # game/script_day2.rpy:3425
+    # game/script_day2.rpy:3424
     old "\"Yes, tell me.\""
     new ""
 
-    # game/script_day2.rpy:3442
+    # game/script_day2.rpy:3441
     old "\"You continue on.\""
     new ""
 
@@ -8930,7 +8930,7 @@ translate russian strings:
     old "\"Actually, never mind...\""
     new ""
 
-    # game/script_day2.rpy:3610
+    # game/script_day2.rpy:3609
     old "\"You're a good person after all.\""
     new ""
 

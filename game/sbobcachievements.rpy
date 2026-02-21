@@ -161,7 +161,7 @@ screen bobcachievements():
                 xalign 0.5
                 null height 24
                 if numachievements >= BOBCACHIEVEMENTS_NUMACHIEVEMENTS or config.developer:
-                    text _("Now... Will you DELETE your Achievement data and collect them all again?"):
+                    text _("Now... Will you [t_clue]DELETE[t_cluee] your Achievement data and collect them all again?"):
                         style "achievement_delete_message"
                 textbutton _("DELETE ACHIEVEMENT DATA") action Confirm(_("{color=#ff0000}DELETE{/color} your Achievement data?\nWARNING: this will also affect [t_clue]Steam[t_cluee] data!"), yes=Function(achievement.clear_all)):
                     xalign 0.5

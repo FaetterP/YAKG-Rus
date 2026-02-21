@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 # game/script_day3_investigations.rpy:24
 translate russian d3a2_dog_confirm_end_0abee896:
@@ -6,19 +6,19 @@ translate russian d3a2_dog_confirm_end_0abee896:
     # I "...Have I investigated [name_dog]'s body enough...?{nw}"
     I ""
 
-# game/script_day3_investigations.rpy:27
+# game/script_day3_investigations.rpy:26
 translate russian d3a2_dog_confirm_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3_investigations.rpy:29
+# game/script_day3_investigations.rpy:28
 translate russian d3a2_dog_confirm_end_ff8e9ad8:
 
     # I "...Yeah, that's enough. I need to help Cece find that zombie now."
     I ""
 
-# game/script_day3_investigations.rpy:32
+# game/script_day3_investigations.rpy:31
 translate russian d3a2_dog_confirm_end_ec177a8d:
 
     # I "No, there might be something I missed..." with hpunch
@@ -192,25 +192,25 @@ translate russian d3a3_corpse_confirm_end_1761a890:
     # I "...Have I investigated the body enough...?{nw}"
     I ""
 
-# game/script_day3_investigations.rpy:188
+# game/script_day3_investigations.rpy:187
 translate russian d3a3_corpse_confirm_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3_investigations.rpy:190
+# game/script_day3_investigations.rpy:189
 translate russian d3a3_corpse_confirm_end_a00146ac:
 
     # I "....."
     I ""
 
-# game/script_day3_investigations.rpy:192
+# game/script_day3_investigations.rpy:191
 translate russian d3a3_corpse_confirm_end_245e3742:
 
     # Y troubled "....." with shakeonce
     Y troubled "" with shakeonce
 
-# game/script_day3_investigations.rpy:197
+# game/script_day3_investigations.rpy:196
 translate russian d3a3_corpse_confirm_end_ad0e4120:
 
     # I "No... No, there MUST be something I missed..." with hpunch
@@ -282,169 +282,169 @@ translate russian d3a3_corpse_check_pockets_1ac40bc3:
     # O surprised "...[name_player]? What's wrong?{nw}"
     O surprised ""
 
-# game/script_day3_investigations.rpy:228
+# game/script_day3_investigations.rpy:227
 translate russian d3a3_corpse_check_pockets_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day3_investigations.rpy:230
+# game/script_day3_investigations.rpy:229
 translate russian d3a3_corpse_check_pockets_df742cbb:
 
     # Y worried "I still don't have all my memories back, and that includes my passcode." with hpunch
     Y worried "" with hpunch
 
-# game/script_day3_investigations.rpy:232
+# game/script_day3_investigations.rpy:231
 translate russian d3a3_corpse_check_pockets_b97673f9:
 
     # I "In fact, who knows if this is even mine..."
     I ""
 
-# game/script_day3_investigations.rpy:233
+# game/script_day3_investigations.rpy:232
 translate russian d3a3_corpse_check_pockets_0528a9da:
 
     # O thinking "Oh, I suppose that makes sense."
     O thinking ""
 
-# game/script_day3_investigations.rpy:235
+# game/script_day3_investigations.rpy:234
 translate russian d3a3_corpse_check_pockets_9dbd725d:
 
     # O confused "Don't worry, let me try calling for-- ....."
     O confused ""
 
-# game/script_day3_investigations.rpy:239
+# game/script_day3_investigations.rpy:238
 translate russian d3a3_corpse_check_pockets_5f743a28:
 
     # Y panicked "Is this...really a phone?" with shakeonce
     Y panicked "" with shakeonce
 
-# game/script_day3_investigations.rpy:240
+# game/script_day3_investigations.rpy:239
 translate russian d3a3_corpse_check_pockets_e189a99c:
 
     # O disappointed "What are you talking about? Of course it is."
     O disappointed ""
 
-# game/script_day3_investigations.rpy:241
+# game/script_day3_investigations.rpy:240
 translate russian d3a3_corpse_check_pockets_e0dc81e9:
 
     # Y thinking "It's just, I thought phones were more... I don't know, bigger? With handles?"
     Y thinking ""
 
-# game/script_day3_investigations.rpy:242
+# game/script_day3_investigations.rpy:241
 translate russian d3a3_corpse_check_pockets_13dcd733:
 
     # O blink "Phones have been shaped like this for decades now, [name_player]."
     O blink ""
 
-# game/script_day3_investigations.rpy:243
+# game/script_day3_investigations.rpy:242
 translate russian d3a3_corpse_check_pockets_7e17a3e5:
 
     # O thinking "But I suppose you still haven't recovered all of your memories..."
     O thinking ""
 
-# game/script_day3_investigations.rpy:245
+# game/script_day3_investigations.rpy:244
 translate russian d3a3_corpse_check_pockets_c022ec51:
 
     # I "Hmm... For some reason, I don't think my memory loss is the problem here..."
     I ""
 
-# game/script_day3_investigations.rpy:246
+# game/script_day3_investigations.rpy:245
 translate russian d3a3_corpse_check_pockets_e923172b:
 
     # O confused "Okay, let me try calling for-- ....."
     O confused ""
 
-# game/script_day3_investigations.rpy:254
+# game/script_day3_investigations.rpy:253
 translate russian d3a3_corpse_check_pockets_a934e1e3:
 
     # O annoyed "...Tsk. No signal. Cecilia, how about you?" with shakeonce
     O annoyed "" with shakeonce
 
-# game/script_day3_investigations.rpy:255
+# game/script_day3_investigations.rpy:254
 translate russian d3a3_corpse_check_pockets_b53701cf:
 
     # C surprised "Huh? O-oh, I, uh..."
     C surprised ""
 
-# game/script_day3_investigations.rpy:256
+# game/script_day3_investigations.rpy:255
 translate russian d3a3_corpse_check_pockets_bd09cc75:
 
     # O leering2 "What is it? ...Looks like you don't have a signal either."
     O leering2 ""
 
-# game/script_day3_investigations.rpy:257
+# game/script_day3_investigations.rpy:256
 translate russian d3a3_corpse_check_pockets_93492a24:
 
     # C sweatdrop "Yeah, I guess we'll have to try again later..."
     C sweatdrop ""
 
-# game/script_day3_investigations.rpy:258
+# game/script_day3_investigations.rpy:257
 translate russian d3a3_corpse_check_pockets_a00146ac:
 
     # I "....."
     I ""
 
-# game/script_day3_investigations.rpy:259
+# game/script_day3_investigations.rpy:258
 translate russian d3a3_corpse_check_pockets_af8aa128:
 
     # C surprised "Huh? What's wrong, [name_player]? You're staring at me."
     C surprised ""
 
-# game/script_day3_investigations.rpy:260
+# game/script_day3_investigations.rpy:259
 translate russian d3a3_corpse_check_pockets_c9a721b3:
 
     # Y sad "O-oh. Sorry, it's nothing..."
     Y sad ""
 
-# game/script_day3_investigations.rpy:261
+# game/script_day3_investigations.rpy:260
 translate russian d3a3_corpse_check_pockets_6d4646f6:
 
     # C thinking "...?"
     C thinking ""
 
-# game/script_day3_investigations.rpy:262
+# game/script_day3_investigations.rpy:261
 translate russian d3a3_corpse_check_pockets_1f7a7bd4:
 
     # O irritated "We may be able to get a better signal once we're out of the house. Hurry, let's find the key for the front door."
     O irritated ""
 
-# game/script_day3_investigations.rpy:263
+# game/script_day3_investigations.rpy:262
 translate russian d3a3_corpse_check_pockets_3dba5962:
 
     # Y thinking "Right, the..."
     Y thinking ""
 
-# game/script_day3_investigations.rpy:265
+# game/script_day3_investigations.rpy:264
 translate russian d3a3_corpse_check_pockets_f8bf59cb:
 
     # I "{cps=6}.....{/cps} ...Wait."
     I ""
 
-# game/script_day3_investigations.rpy:267
+# game/script_day3_investigations.rpy:266
 translate russian d3a3_corpse_check_pockets_d94b1cb7:
 
     # I "There's...nothing else in his pockets...?" with shakeonce
     I "" with shakeonce
 
-# game/script_day3_investigations.rpy:269
+# game/script_day3_investigations.rpy:268
 translate russian d3a3_corpse_check_pockets_5b797baf:
 
     # I "...N-no... Maybe if I keep looking...?" with hpunch
     I "" with hpunch
 
-# game/script_day3_investigations.rpy:278
+# game/script_day3_investigations.rpy:277
 translate russian d3a3_corpse_check_pockets_a00146ac_1:
 
     # I "....."
     I ""
 
-# game/script_day3_investigations.rpy:284
+# game/script_day3_investigations.rpy:283
 translate russian d3a3_corpse_check_pockets_14eca90a:
 
     # Y depressed "{cps=6}.....{/cps}"
     Y depressed ""
 
-# game/script_day3_investigations.rpy:286
+# game/script_day3_investigations.rpy:285
 translate russian d3a3_corpse_check_pockets_20cb9194:
 
     # I "There's...nothing else in his [t_pacclue]pockets[t_paccluee]..."
@@ -804,11 +804,11 @@ translate russian strings:
     old "Hood"
     new ""
 
-    # game/script_day3_investigations.rpy:229
+    # game/script_day3_investigations.rpy:228
     old "\"I don't know how to unlock it.\""
     new ""
 
-    # game/script_day3_investigations.rpy:237
+    # game/script_day3_investigations.rpy:236
     old "\"I don't know what this is.\""
     new ""
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 translate russian strings:
 
@@ -118,255 +118,259 @@ translate russian strings:
     old "[[Y]et Another Killing Game"
     new ""
 
-    # game/music_room.rpy:177
+    # game/music_room.rpy:178
     old "--no track playing--"
     new ""
 
-    # game/music_room.rpy:217
+    # game/music_room.rpy:206
     old "Mute All - ON"
     new ""
 
-    # game/music_room.rpy:221
+    # game/music_room.rpy:210
     old "Mute All - OFF"
     new ""
 
-    # game/music_room.rpy:232
+    # game/music_room.rpy:221
     old "{color=#fff}Sort by: {/color}"
     new ""
 
-    # game/music_room.rpy:259
+    # game/music_room.rpy:239
+    old "Get the OST!"
+    new ""
+
+    # game/music_room.rpy:278
     old "1."
     new ""
 
-    # game/music_room.rpy:259
+    # game/music_room.rpy:278
     old "[L]oading"
     new ""
 
-    # game/music_room.rpy:260
+    # game/music_room.rpy:279
     old "2."
     new ""
 
-    # game/music_room.rpy:260
+    # game/music_room.rpy:279
     old "[A]wakening"
     new ""
 
-    # game/music_room.rpy:261
+    # game/music_room.rpy:280
     old "3."
     new ""
 
-    # game/music_room.rpy:261
+    # game/music_room.rpy:280
     old "[I]nsanity"
     new ""
 
-    # game/music_room.rpy:262
+    # game/music_room.rpy:281
     old "4."
     new ""
 
-    # game/music_room.rpy:262
+    # game/music_room.rpy:281
     old "[M]eeting"
     new ""
 
-    # game/music_room.rpy:263
+    # game/music_room.rpy:282
     old "5."
     new ""
 
-    # game/music_room.rpy:263
+    # game/music_room.rpy:282
     old "[C]haos"
     new ""
 
-    # game/music_room.rpy:264
+    # game/music_room.rpy:283
     old "6."
     new ""
 
-    # game/music_room.rpy:264
+    # game/music_room.rpy:283
     old "[O]rder"
     new ""
 
-    # game/music_room.rpy:265
+    # game/music_room.rpy:284
     old "7."
     new ""
 
-    # game/music_room.rpy:265
+    # game/music_room.rpy:284
     old "[K]arma"
     new ""
 
-    # game/music_room.rpy:266
+    # game/music_room.rpy:285
     old "8."
     new ""
 
-    # game/music_room.rpy:266
+    # game/music_room.rpy:285
     old "[U]nrest"
     new ""
 
-    # game/music_room.rpy:267
+    # game/music_room.rpy:286
     old "9."
     new ""
 
-    # game/music_room.rpy:267
+    # game/music_room.rpy:286
     old "[Z]eal"
     new ""
 
-    # game/music_room.rpy:268
+    # game/music_room.rpy:287
     old "10."
     new ""
 
-    # game/music_room.rpy:268
+    # game/music_room.rpy:287
     old "[J]udgement"
     new ""
 
-    # game/music_room.rpy:269
+    # game/music_room.rpy:288
     old "11."
     new ""
 
-    # game/music_room.rpy:269
+    # game/music_room.rpy:288
     old "[W]himsy"
     new ""
 
-    # game/music_room.rpy:270
+    # game/music_room.rpy:289
     old "12."
     new ""
 
-    # game/music_room.rpy:270
+    # game/music_room.rpy:289
     old "[Q]uiet"
     new ""
 
-    # game/music_room.rpy:271
+    # game/music_room.rpy:290
     old "13."
     new ""
 
-    # game/music_room.rpy:271
+    # game/music_room.rpy:290
     old "[D]espair"
     new ""
 
-    # game/music_room.rpy:272
+    # game/music_room.rpy:291
     old "14."
     new ""
 
-    # game/music_room.rpy:272
+    # game/music_room.rpy:291
     old "[V]erdict"
     new ""
 
-    # game/music_room.rpy:273
+    # game/music_room.rpy:292
     old "15."
     new ""
 
-    # game/music_room.rpy:273
+    # game/music_room.rpy:292
     old "[X]-fire"
     new ""
 
-    # game/music_room.rpy:274
+    # game/music_room.rpy:293
     old "16."
     new ""
 
-    # game/music_room.rpy:274
+    # game/music_room.rpy:293
     old "[F]ate"
     new ""
 
-    # game/music_room.rpy:275
+    # game/music_room.rpy:294
     old "17."
     new ""
 
-    # game/music_room.rpy:275
+    # game/music_room.rpy:294
     old "[T]ruth"
     new ""
 
-    # game/music_room.rpy:276
+    # game/music_room.rpy:295
     old "18."
     new ""
 
-    # game/music_room.rpy:276
+    # game/music_room.rpy:295
     old "[P]anic"
     new ""
 
-    # game/music_room.rpy:277
+    # game/music_room.rpy:296
     old "19."
     new ""
 
-    # game/music_room.rpy:277
+    # game/music_room.rpy:296
     old "[G]uardian"
     new ""
 
-    # game/music_room.rpy:278
+    # game/music_room.rpy:297
     old "20."
     new ""
 
-    # game/music_room.rpy:278
+    # game/music_room.rpy:297
     old "[R]eform"
     new ""
 
-    # game/music_room.rpy:279
+    # game/music_room.rpy:298
     old "21."
     new ""
 
-    # game/music_room.rpy:279
+    # game/music_room.rpy:298
     old "[N]ull"
     new ""
 
-    # game/music_room.rpy:280
+    # game/music_room.rpy:299
     old "22."
     new ""
 
-    # game/music_room.rpy:280
+    # game/music_room.rpy:299
     old "[E]ternity"
     new ""
 
-    # game/music_room.rpy:281
+    # game/music_room.rpy:300
     old "23."
     new ""
 
-    # game/music_room.rpy:281
+    # game/music_room.rpy:300
     old "[B]roken"
     new ""
 
-    # game/music_room.rpy:282
+    # game/music_room.rpy:301
     old "24."
     new ""
 
-    # game/music_room.rpy:282
+    # game/music_room.rpy:301
     old "[H]ope"
     new ""
 
-    # game/music_room.rpy:283
+    # game/music_room.rpy:302
     old "25."
     new ""
 
-    # game/music_room.rpy:283
+    # game/music_room.rpy:302
     old "[S]alvation"
     new ""
 
-    # game/music_room.rpy:284
+    # game/music_room.rpy:303
     old "26."
     new ""
 
-    # game/music_room.rpy:284
+    # game/music_room.rpy:303
     old "[Y]et Another Killing Game"
     new ""
 
-    # game/music_room.rpy:327
+    # game/music_room.rpy:346
     old " ?????"
     new ""
 
-    # game/music_room.rpy:401
+    # game/music_room.rpy:420
     old "{size=-8}--MUTED--{/size}"
     new ""
 
-    # game/music_room.rpy:405
+    # game/music_room.rpy:424
     old "{size=-8}NOW PLAYING{/size}"
     new ""
 
-    # game/music_room.rpy:410
+    # game/music_room.rpy:429
     old "\""
     new ""
 
-    # game/music_room.rpy:412
+    # game/music_room.rpy:431
     old "{size=-8}"
     new ""
 
-    # game/music_room.rpy:412
+    # game/music_room.rpy:431
     old "{/size}"
     new ""
 
-    # game/music_room.rpy:416
+    # game/music_room.rpy:435
     old "NO MUSIC PLAYING"
     new ""
 

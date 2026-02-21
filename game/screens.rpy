@@ -190,6 +190,7 @@ style gamepad_help_ui_text:
     color "#000"
     outlines [(2, "#888")]
     size 24
+    line_spacing 0
 
 style data_hider_outlines:
     outlines [(2, "#000000")]
@@ -748,7 +749,7 @@ screen main_menu():
 
             text _("Ver. [config.version]"):
                 style "main_menu_version"
-            text "{size=-12}[u_copyright] 2025 Jun Kakeru{/size}":
+            text "{size=-12}[u_copyright] 2025 Soulseer Studios{/size}":
                 style "main_menu_version"
 
 style main_menu_frame is empty
@@ -947,7 +948,7 @@ screen about():
             label "[config.name!t]"
             if _preferences.language == "japanese":
                 null height 24
-            text _("Ver. [config.version!t] | [u_copyright] 2025 Jun Kakeru\n")
+            text _("Ver. [config.version!t] | [u_copyright] 2025 Soulseer Studios\n")
 
 
             if gui.about:
@@ -1205,6 +1206,7 @@ screen preferences():
                         null height 12
                     style_prefix "check"
                     label ""
+                    textbutton _("Lock Auto Cancel") action Preference("auto-forward after click", "toggle") tooltip __("{size=+10}Lock Auto Cancel{/size}\nPrevents \"Auto\" from being cancelled when advancing dialogue manually.")
                     textbutton _("Darken Flashes") action ToggleField(persistent, "darken_flashes") tooltip __("{size=+10}Darken Flashes{/size}\nLowers the brightness of flash transitions and effects.")
                     textbutton _("Use Ren'Py Features") action [ToggleField(persistent, "legacy_renpy"), Function(toggle_rollback)] tooltip __("{size=+10}Use Ren'Py Features{/size}\nEnables Rollback, Quick Saves, Sync, and a familiar quick menu layout {color=#ff3eff}for players used to Ren'Py{/color}.")
                 null width 76

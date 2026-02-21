@@ -57,7 +57,6 @@ label d2a1:
     C towel surprised "Oh! [name_player], you're awake!{nw}"
     $ fadein_sideimage = False
     $ d2a1_shower_reaction = ""
-
     menu:
         extend ""
         "Be flustered":
@@ -156,6 +155,7 @@ label d2a1:
             C towel surprised "YES, MOMMY! Er, [name_player]!" with shakeshort
             C "...I did not foresee this sequence of events...{w=1.0} {size=-10}But it felt kinda nice...{/size} [u_heart]"
             play ctc_sfx sfx_steps
+
     $ persistent.unlock_cg_shower = True
     $ fadein_sideimage = True
     $ show_side_cecilia = False
@@ -998,7 +998,6 @@ label d2a1_attic_end:
     Y shocked "Wh-wha... \"Who\"...?"
     C "You and I were in the attic together the entire time. Neither of us could've done it."
     C default "So...what does that mean?{nw}"
-
     menu:
         extend ""
         "She killed herself":
@@ -1086,6 +1085,7 @@ label d2a1_attic_end:
     $ renpy.music.set_volume(1.0, 0, channel="music")
     stop music
     jump gameover_day2
+
 
 label d2a1_lounge:
     call save_file_name_update (2, "d2a1_lounge")
@@ -1231,7 +1231,6 @@ label d2a1_lounge_end:
 
 label d2a1_lounge_tragedy:
     O default "[name_player]. Think about it. What tragedy happened to the family?{nw}"
-
     menu:
         extend ""
         "The parents divorced":
@@ -1262,12 +1261,12 @@ label d2a1_lounge_tragedy:
             jump d2a1_lounge_tragedy
         "The daughter died":
             Y blink "The daughter died, right?"
+
     $ fadein_sideimage = False
     Y default "That's probably why the little girl's bedroom was kept neat and tidy."
     $ fadein_sideimage = True
     O blink "...I think so too, but obviously, that alone is insufficient as proof."
     O leering2 "What else did we learn that suggests the daughter died?{nw}"
-
     menu:
         extend ""
         "The timing of the son and mother's actions":
@@ -1571,6 +1570,7 @@ label d2a1_lounge_tragedy:
     $ renpy.music.set_volume(1.0, 0, channel="music")
     stop music
     jump gameover_day2
+
 label d2a2:
     $ renpy.block_rollback()
     call save_file_name_update (2, "d2a2")
@@ -2375,13 +2375,13 @@ label d2a2_basement_choice:
 
             if not seen_ending_light:
                 I "{cps=6}I...{/cps}should be dead already.{w=1.0} I died...{nw}"
-
                 menu:
                     extend ""
                     "With regrets":
                         $ died_with_regrets = True
                     "Without regrets":
                         $ died_with_regrets = False
+
             if died_with_regrets:
                 I "I...didn't want to die..."
                 I "But... I definitely did. Long before any of this."
@@ -2429,7 +2429,6 @@ label d2a2_basement_choice:
 
 label truename_entry:
     I "My name... My [t_clue]true name[t_cluee]...{nw}"
-
     menu:
         extend ""
         "\"...is [name_player].\"":
@@ -2438,6 +2437,7 @@ label truename_entry:
             return
         "\"...is NOT [name_player].\"":
             I "...My...true name...is..."
+
     $ quick_menu = False
     $ music_info = False
     $ input_name_true = renpy.input(_("ENTER YOUR {size=+15}{color=#44b817}TRUE NAME{/color}{/size}"), exclude={'[', ']', '{', '}'}, pixel_width=250)
@@ -2454,13 +2454,13 @@ label truename_entry:
         $ name_player_true = "{color=#44b817}"+input_name_true+"{/color}"
         I "...[name_player_true]..."
         I "My true name is [name_player_true]...{nw}"
-
         menu:
             extend ""
             "\"Yes, it is.\"":
                 return
             "\"No, that's wrong.\"":
                 jump truename_entry
+
 label d2a3:
     scene bg basement
     with dissolvemed
@@ -2483,7 +2483,6 @@ label d2a3:
     Y thinking "But...didn't you say it could be an escape route?"
     O confused "I did, but at the same time, I felt something strange... Maybe if..."
     O leering2 "...[name_player]. May I ask what happens if I jump in?{nw}"
-
     menu:
         extend ""
         "Tell her":
@@ -2492,17 +2491,18 @@ label d2a3:
             O irritated "...Oh. I understand why you want to wait now."
             Y shadow2 "....."
         "Don't tell her":
+
             Y sad "...It's better if you don't know."
             O confused "....."
 
     O confused "...And what happens if {i}you{/i} jump in?{nw}"
-
     menu:
         extend ""
         "Tell her":
             Y troubled "...I..." with shakeonce
             I "...Can I say it...?"
         "Don't tell her":
+
             Y wince "I...don't want to say." with shakeonce
 
     O blink "...[name_player]. Your face gives it all away, you know."
@@ -2869,7 +2869,6 @@ label d2a3:
     with dissolve
     I "Okay, I have Ria leaning on my shoulder. Cece is still fighting off that...zombie thing..." with shakeonce
     I "I need to find an escape route!{nw}" with shakeonce
-
     menu:
         extend ""
         "Go up the stairs":
@@ -2909,6 +2908,7 @@ label d2a3:
                 xalign 0.0 yalign 0.8 zoom 1.3
             with dissolve
             I "If we go into that room, we can lock this zombie out!" with shakeonce
+
     I "Where's the... Right, I still have the [t_clue]key[t_cluee] in my hand!" with hpunch
     play sound sfx_unlock
     Y shouting "Cece! This way!" with shakeshort
@@ -3354,7 +3354,6 @@ label d2a3_library_cece_hearttoheart:
     Y thinking "Yeah, the sentence was... Uh... How did it go...?{nw}"
     $ fadein_sideimage = False
     $ d2a3_library_cece_sentence = ""
-
     menu:
         extend ""
         "\"Selena...\"":
@@ -3390,6 +3389,7 @@ label d2a3_library_cece_hearttoheart:
         "\"...the clownfish.\"":
             $ d2a3_library_cece_sentence = d2a3_library_cece_sentence + "C"
             Y "\"...the clownfish.\""
+
     $ fadein_sideimage = True
     if d2a3_library_cece_sentence == "ABC":
         play ctc_sfx sfx_heartbeat_single
@@ -3419,7 +3419,6 @@ label d2a3_library_cece_hearttoheart:
     Y leering "Wh-what is it?" with shakeonce
     C thinking "Um..."
     C sweatdrop "...Are you sure you wanna know? It might make things...tricky for you.{nw}"
-
     menu:
         extend ""
         "\"Yes, tell me.\"":
@@ -3461,6 +3460,7 @@ label d2a3_library_cece_hearttoheart:
                     C "...that person [t_clue]stayed dead[t_cluee] in that timeline, and all you're doing is jumping around until you find an optimal outcome."
                     Y thinking "...\"If\"? So... What I'm doing is NOT that?"
                 "\"You get rewound.\"":
+
                     Y thinking "Wouldn't you...um...rewind? Like, your bodies and minds get pulled back to their original states?"
                     C surprised "Interesting... So it'd be like every single millisecond, our current states get saved to the universe's save cloud?"
                     play ctc_sfx sfx_emotehappy
@@ -3604,7 +3604,6 @@ label d2a3_library_cece_hearttoheart:
     play ctc_sfx sfx_emotesigh
     C sweatdrop "Gosh, I've never talked this much about myself before... [name_player], you're a real smooth operator, huh?" with hpunch
     Y default "{cps=6}.....{/cps} Cece...{w=0.5}{nw}"
-
     menu:
         extend ""
         "\"You're a good person after all.\"":
@@ -3623,6 +3622,7 @@ label d2a3_library_cece_hearttoheart:
             Y relaxed "Some kid who wasn't even your friend."
             Y happy "I think being able to even recognize the things that matter to other people proves your humanity."
         "\"You really are a weirdo.\"":
+
             Y confused "You really are a weirdo." with hpunch
             play ctc_sfx sfx_emotehappy
             C happy "Ahaha! Guilty as charged!" with vpunch
@@ -3693,7 +3693,6 @@ label day2_end:
     $ quick_menu = True
 
     S "Continuing [name_player]'s [t_clue]killing game[t_cluee] to {color=#fff}Part III{/color}.{w=1.0}\nPlease remember to save your progress regularly.{nw}"
-
     menu:
         extend ""
         "Continue":
@@ -3703,6 +3702,7 @@ label day2_end:
             $ quick_menu = False
             $ music_info = False
             pause 2.0
+
             scene cg eyecatch empty at wobble
             show chaptertitle3_text:
                 xpos 960 xanchor 0.5 yalign 0.45 alpha 0.0 zoom 1.0

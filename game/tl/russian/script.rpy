@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 # game/script.rpy:942
 translate russian name_entry_4810578b:
@@ -30,7 +30,7 @@ translate russian name_entry_77a45c61:
     # I "My name is [name_player]...{w=0.5}right...?{nw}"
     I ""
 
-# game/script.rpy:971
+# game/script.rpy:970
 translate russian name_entry_11fdb519:
 
     # extend "" nointeract
@@ -54,7 +54,7 @@ translate russian gameover_cff20154:
     # S "You have successfully rejected this ending.{w=0.5}\nSending [name_player] to the start of another [t_clue]killing game[t_cluee]...{w=0.5}{nw}"
     S ""
 
-# game/script.rpy:1109
+# game/script.rpy:1108
 translate russian gameover_11fdb519:
 
     # extend "" nointeract
@@ -66,7 +66,7 @@ translate russian gameover_day2_51c7e991:
     # S "You have successfully rejected this ending.{w=0.5}\nSending [name_player] to {color=#fff}Part II{/color} of another [t_clue]killing game[t_cluee]...{w=0.5}{nw}"
     S ""
 
-# game/script.rpy:1290
+# game/script.rpy:1281
 translate russian gameover_day2_11fdb519:
 
     # extend "" nointeract
@@ -452,7 +452,7 @@ translate russian strings:
     old "PLAYER"
     new ""
 
-    # game/script.rpy:972
+    # game/script.rpy:971
     old "\"Yes, it is.\""
     new ""
 
@@ -472,7 +472,7 @@ translate russian strings:
     old "Reject this Ending"
     new ""
 
-    # game/script.rpy:1110
+    # game/script.rpy:1109
     old "START ANOTHER KILLING GAME"
     new ""
 
