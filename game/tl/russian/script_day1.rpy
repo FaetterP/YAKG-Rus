@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 # game/script_day1.rpy:16
 translate russian d1a0_f572d509:
@@ -498,85 +498,85 @@ translate russian d1a1_6cb4228f:
     # O default "Do you remember anything about how you ended up here? Anything at all?{nw}"
     O default "Ты помнишь что-нибудь о том, как оказалась здесь? Хоть что-то?{nw}"
 
-# game/script_day1.rpy:534
+# game/script_day1.rpy:533
 translate russian d1a1_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:536
+# game/script_day1.rpy:535
 translate russian d1a1_ba140a1b:
 
     # Y sad "Well... The truth is..."
     Y sad "Ну... По правде говоря..."
 
-# game/script_day1.rpy:538
+# game/script_day1.rpy:537
 translate russian d1a1_a3169823:
 
     # Y "I don't seem to have any memory about myself at all."
     Y "Похоже, я совсем ничего о себе не помню."
 
-# game/script_day1.rpy:540
+# game/script_day1.rpy:539
 translate russian d1a1_c95aacc0:
 
     # O stunned "...None at all?"
     O stunned "...Совсем ничего?"
 
-# game/script_day1.rpy:541
+# game/script_day1.rpy:540
 translate russian d1a1_af526950:
 
     # Y default "Just that my name is [name_player]. Nothing else."
     Y default "Только то, что меня зовут [name_player]. Больше ничего."
 
-# game/script_day1.rpy:542
+# game/script_day1.rpy:541
 translate russian d1a1_7906cc1a:
 
     # O confused "....."
     O confused "....."
 
-# game/script_day1.rpy:543
+# game/script_day1.rpy:542
 translate russian d1a1_0f03ac79:
 
     # C smile "....."
     C smile "....."
 
-# game/script_day1.rpy:544
+# game/script_day1.rpy:543
 translate russian d1a1_3376e1eb:
 
     # Y sad "...Wh-what? What are those looks for?"
     Y sad "...Ч-что? Почему вы так смотрите?"
 
-# game/script_day1.rpy:545
+# game/script_day1.rpy:544
 translate russian d1a1_f7699540:
 
     # O surprised "I-it's nothing, don't worry about it."
     O surprised "Н-ничего, не переживай об этом."
 
-# game/script_day1.rpy:546
+# game/script_day1.rpy:545
 translate russian d1a1_88a11cd5:
 
     # O thinking "I guess you must have experienced the worst of...whatever this is."
     O thinking "Думаю, ты испытала худшее из...того, что могло быть."
 
-# game/script_day1.rpy:547
+# game/script_day1.rpy:546
 translate russian d1a1_f2594cf3:
 
     # O "The most I can say is that my memory is...fuzzy in some places."
     O "Все, что я могу сказать, моя память...размыта в некоторых моментах."
 
-# game/script_day1.rpy:548
+# game/script_day1.rpy:547
 translate russian d1a1_04945127:
 
     # C happy "Ooh! Me too!"
     C happy "Оох! У меня тоже!"
 
-# game/script_day1.rpy:549
+# game/script_day1.rpy:548
 translate russian d1a1_a67c40b3:
 
     # C thinking "Like, I remember who I am, but the past day or so's a total blur!"
     C thinking "То есть, я помню, кто я, но последние день или два - полный туман!"
 
-# game/script_day1.rpy:550
+# game/script_day1.rpy:549
 translate russian d1a1_77f1894d:
 
     # I "They're acting kinda weird..."
@@ -738,55 +738,55 @@ translate russian d1a1_2c502547:
     # O default "Do you have any questions, [name_player]?{nw}"
     O default "У тебя есть вопросы, [name_player]?{nw}"
 
-# game/script_day1.rpy:583
+# game/script_day1.rpy:582
 translate russian d1a1_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:585
+# game/script_day1.rpy:584
 translate russian d1a1_9bef0abb:
 
     # Y surprised "What do you mean by \"weird fog\"?"
     Y surprised "Что ты имеешь в виду под \"странным туманом\"?"
 
-# game/script_day1.rpy:586
+# game/script_day1.rpy:585
 translate russian d1a1_3d92a0e9:
 
     # O "Every window we've checked, there's an unnaturally thick fog covering up the outside."
     O "В каждом окне, которое мы проверили, снаружи стоит неестественно густой туман."
 
-# game/script_day1.rpy:587
+# game/script_day1.rpy:586
 translate russian d1a1_d22ff7de:
 
     # O sideeye "You can see it for yourself. Look at the door behind you again."
     O sideeye "Ты можешь увидеть это сама. Посмотри ещё раз на дверь сзади."
 
-# game/script_day1.rpy:591
+# game/script_day1.rpy:590
 translate russian d1a1_db773063:
 
     # Y default "...Oh yeah. There are windows surrounding the door..."
     Y default "...О, точно. Вокруг двери есть окна..."
 
-# game/script_day1.rpy:594
+# game/script_day1.rpy:593
 translate russian d1a1_9bcc0e3a:
 
     # O confused "That fog makes it hard to tell if there are any people nearby that could hear us call for help..."
     O confused "Из-за этого тумана сложно понять, есть ли поблизости люди, которые могли бы услышать наш зов о помощи..."
 
-# game/script_day1.rpy:597
+# game/script_day1.rpy:596
 translate russian d1a1_0ee2faa8:
 
     # I "It's weirdly thick and bright... Why does it make me feel so uneasy...?"
     I "Он странно густой и светящийся... Почему он вызывает у меня такое беспокойство...?"
 
-# game/script_day1.rpy:602
+# game/script_day1.rpy:601
 translate russian d1a1_d58e6884:
 
     # C thinking "What's {i}really{/i} strange is that the fog makes it hard to tell if it's day or night."
     C thinking "Что {i}действительно{/i} странно, так это то, что из-за тумана невозможно понять, день сейчас или ночь."
 
-# game/script_day1.rpy:603
+# game/script_day1.rpy:602
 translate russian d1a1_1cc6480e:
 
     # C blink "At least we have the clock here by the door, even if it doesn't say if it's A.M. or P.M.--"
@@ -954,331 +954,331 @@ translate russian d1a1_995d7648:
     # O "Perhaps this house is in fact inescapable...{w=0.5} And we'll simply starve to death if we don't...{nw}" with shakeonce
     O "Может быть, из этого дома на самом деле невозможно выбраться...{w=0.5} И мы просто умрём с голоду, если не...{nw}" with shakeonce
 
-# game/script_day1.rpy:652
+# game/script_day1.rpy:651
 translate russian d1a1_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:654
+# game/script_day1.rpy:653
 translate russian d1a1_a87f1445:
 
     # Y panicked "H-hey, don't go giving up already! We haven't checked out every part of this house yet, right?"
     Y panicked "Э-эй, не сдавайся так быстро! Мы ведь ещё не осмотрели все части дома, верно?"
 
-# game/script_day1.rpy:655
+# game/script_day1.rpy:654
 translate russian d1a1_0da3f551_2:
 
     # O "....."
     O "....."
 
-# game/script_day1.rpy:656
+# game/script_day1.rpy:655
 translate russian d1a1_9ea4bd2f:
 
     # C sweatdrop "Acting all smart and determined one minute, then completely deflated the next... *sigh* This girl is such a mess..."
     C sweatdrop "В одну минуту ведёт себя умной и решительной, а в следующую полностью расклеивается... *вздох* Эта девушка такая непостоянная..."
 
-# game/script_day1.rpy:657
+# game/script_day1.rpy:656
 translate russian d1a1_62d927bc:
 
     # C smile "...Don't you think so too, [name_player]?"
     C smile "...Ты тоже так думаешь, [name_player]?"
 
-# game/script_day1.rpy:658
+# game/script_day1.rpy:657
 translate russian d1a1_6f440a07:
 
     # Y sad "I..." with shakeonce
     Y sad "Я..." with shakeonce
 
-# game/script_day1.rpy:660
+# game/script_day1.rpy:659
 translate russian d1a1_4a7bc7de_1:
 
     # Y sad "....."
     Y sad "....."
 
-# game/script_day1.rpy:661
+# game/script_day1.rpy:660
 translate russian d1a1_06c751b3:
 
     # C surprised "Whoa whoa, [name_player], you too?"
     C surprised "Ого ого, [name_player], ты тоже?"
 
-# game/script_day1.rpy:662
+# game/script_day1.rpy:661
 translate russian d1a1_928023ab_1:
 
     # C "....."
     C "....."
 
-# game/script_day1.rpy:663
+# game/script_day1.rpy:662
 translate russian d1a1_ea892e8c:
 
     # C thinking "Gosh, you guys are such downers... Here we are in one of the most thrilling situations one could ever be in..."
     C thinking "Боже, ну вы, ребята, и зануды... Мы находимся в одной из самых захватывающих ситуаций, в какую только можно попасть..."
 
-# game/script_day1.rpy:664
+# game/script_day1.rpy:663
 translate russian d1a1_2a2c5eaa:
 
     # C sad "And you just give up all hope immediately? Laaaaame~"
     C sad "И вы просто сразу теряете всю надежду? Скууууука~"
 
-# game/script_day1.rpy:665
+# game/script_day1.rpy:664
 translate russian d1a1_2252ef65:
 
     # O "......."
     O "......."
 
-# game/script_day1.rpy:666
+# game/script_day1.rpy:665
 translate russian d1a1_a332283f:
 
     # O irritated "Tch. ...All right, that's enough talking. We need to move." with hpunch
     O irritated "Тц. ...Ладно, хватит разговоров. Нам нужно двигаться." with hpunch
 
-# game/script_day1.rpy:667
+# game/script_day1.rpy:666
 translate russian d1a1_d7f4bf20:
 
     # C grin "...Pft."
     C grin "...Пфф."
 
-# game/script_day1.rpy:668
+# game/script_day1.rpy:667
 translate russian d1a1_0cf06034:
 
     # I "...?"
     I "...?"
 
-# game/script_day1.rpy:672
+# game/script_day1.rpy:671
 translate russian d1a1_41fdd9a8:
 
     # O leering "[name_player], now that you're awake, you can help us look for clues."
     O leering "[name_player], раз ты уже проснулась, можешь помочь нам искать улики."
 
-# game/script_day1.rpy:673
+# game/script_day1.rpy:672
 translate russian d1a1_7293234e:
 
     # O thinking "Even if we can't find a way out, we might be able to figure out who's keeping us here and why."
     O thinking "Даже если мы не найдём выход, возможно, мы сможем понять, кто нас тут держит и зачем."
 
-# game/script_day1.rpy:674
+# game/script_day1.rpy:673
 translate russian d1a1_1c83c5d0:
 
     # C happy "Yeah! And then we can take it to 'em!"
     C happy "Да! А потом мы им покажем!"
 
-# game/script_day1.rpy:675
+# game/script_day1.rpy:674
 translate russian d1a1_d9f79ad8:
 
     # Y surprised "...Er... Take what, exactly?"
     Y surprised "...Эм... покажем что именно?"
 
-# game/script_day1.rpy:676
+# game/script_day1.rpy:675
 translate russian d1a1_3d777993:
 
     # C smug "You know, vengeance! Retribution!"
     C smug "Ну знаешь, месть! Возмездие!"
 
-# game/script_day1.rpy:677
+# game/script_day1.rpy:676
 translate russian d1a1_6bc0e4a1:
 
     # C blink "I mean, this person kidnapped three defenseless girls, trapped them in a creepy house, and is threatening to kill them all."
     C blink "В плане, этот человек похитил трех беззащитных девушек, запер их в жутком доме и угрожает убить всех."
 
-# game/script_day1.rpy:678
+# game/script_day1.rpy:677
 translate russian d1a1_f3fdaaae:
 
     # C smile "Don't you think people like that should just drop dead?{nw}"
     C smile "Не думаешь, что такие люди должны просто сдохнуть?{nw}"
 
-# game/script_day1.rpy:680
+# game/script_day1.rpy:679
 translate russian d1a1_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:682
+# game/script_day1.rpy:681
 translate russian d1a1_d91513c2:
 
     # Y blink "If our kidnapper's serious about the writing on the door, then..."
     Y blink "Если наш похититель серьёзно относится к надписи на двери, тогда..."
 
-# game/script_day1.rpy:684
+# game/script_day1.rpy:683
 translate russian d1a1_909e75b9:
 
     # Y leering "We need to put an end to this before anyone else becomes a victim."
     Y leering "Нам нужно положить этому конец, пока кто-нибудь ещё не стал новой жертвой."
 
-# game/script_day1.rpy:686
+# game/script_day1.rpy:685
 translate russian d1a1_38083982_1:
 
     # C surprised "....."
     C surprised "....."
 
-# game/script_day1.rpy:687
+# game/script_day1.rpy:686
 translate russian d1a1_7d627b61:
 
     # C smile "Hmm... So THAT'S your answer, huh?"
     C smile "Хмм... Так ВОТ какой твой ответ, а?"
 
-# game/script_day1.rpy:688
+# game/script_day1.rpy:687
 translate russian d1a1_b5422f58:
 
     # I "...What?"
     I "...Что?"
 
-# game/script_day1.rpy:690
+# game/script_day1.rpy:689
 translate russian d1a1_34b48fde:
 
     # Y sad "I mean... Death might be a little harsh..."
     Y sad "Ну... Смерть, наверное, это слишком..."
 
-# game/script_day1.rpy:692
+# game/script_day1.rpy:691
 translate russian d1a1_1995c99b:
 
     # Y "We can just turn them in to the authorities, right?"
     Y "Мы можем просто сдать их властям, верно?"
 
-# game/script_day1.rpy:694
+# game/script_day1.rpy:693
 translate russian d1a1_38083982_2:
 
     # C surprised "....."
     C surprised "....."
 
-# game/script_day1.rpy:695
+# game/script_day1.rpy:694
 translate russian d1a1_0328f664:
 
     # C thinking "Hmm... So THAT'S your answer, huh?"
     C thinking "Хмм... Так ВОТ какой твой ответ, а?"
 
-# game/script_day1.rpy:696
+# game/script_day1.rpy:695
 translate russian d1a1_b5422f58_1:
 
     # I "...What?"
     I "...Что?"
 
-# game/script_day1.rpy:697
+# game/script_day1.rpy:696
 translate russian d1a1_9de47658:
 
     # O leering "I get where both of you are coming from, but we should prioritize our personal safety."
     O leering "Я понимаю, о чём вы обе говорите, но в первую очередь нам нужно думать о собственной безопасности."
 
-# game/script_day1.rpy:698
+# game/script_day1.rpy:697
 translate russian d1a1_5ed00483:
 
     # O "[name_player], if you run into anyone suspicious, [t_clue]run away immediately[t_cluee]."
     O "[name_player], если встретишь кого-то подозрительного, [t_clue]немедленно убегай[t_cluee]."
 
-# game/script_day1.rpy:699
+# game/script_day1.rpy:698
 translate russian d1a1_1a694771:
 
     # Y default "Right."
     Y default "Верно."
 
-# game/script_day1.rpy:700
+# game/script_day1.rpy:699
 translate russian d1a1_ef93752a:
 
     # O "Cecilia, that goes for you too."
     O "Сесилия, это касается и тебя."
 
-# game/script_day1.rpy:701
+# game/script_day1.rpy:700
 translate russian d1a1_7b8eda07:
 
     # C pout "Yeah yeah..."
     C pout "Да да..."
 
-# game/script_day1.rpy:702
+# game/script_day1.rpy:701
 translate russian d1a1_38e4daa5:
 
     # O sideeyeblink "Again, we're focusing on collecting information."
     O sideeyeblink "Повторяю, наша главная задача - это сбор информации."
 
-# game/script_day1.rpy:703
+# game/script_day1.rpy:702
 translate russian d1a1_31049cd8:
 
     # O sideeye "Let's split up and investigate every room in this house thoroughly."
     O sideeye "Давайте разделимся и тщательно осмотрим каждую комнату в этом доме."
 
-# game/script_day1.rpy:704
+# game/script_day1.rpy:703
 translate russian d1a1_d35e94bf:
 
     # C default "I was in the middle of checking out the kitchen so...I guess I'll go back there."
     C default "Я как раз осматривала кухню, так что... Думаю, вернусь туда."
 
-# game/script_day1.rpy:705
+# game/script_day1.rpy:704
 translate russian d1a1_d34e9538:
 
     # C happy "[name_player], come join me if you get lonely~ [u_heart]"
     C happy "[name_player], присоединяйся, если почувствуешь себя одиноко~ [u_heart]"
 
-# game/script_day1.rpy:716
+# game/script_day1.rpy:715
 translate russian d1a1_bbb10a91:
 
     # O "...In that case, I'll continue investigating the rooms upstairs."
     O "...В таком случае, я продолжу осматривать комнаты наверху."
 
-# game/script_day1.rpy:717
+# game/script_day1.rpy:716
 translate russian d1a1_d742e452:
 
     # O "Based on what I've found so far, this seems to be an ordinary house, but..."
     O "Судя по тому, что я до сих пор находила, это выглядит как обычный дом, но..."
 
-# game/script_day1.rpy:718
+# game/script_day1.rpy:717
 translate russian d1a1_0035cfaf:
 
     # O thinking "I wonder if this place holds some dark secret..."
     O thinking "Интересно, хранит ли это место какую-нибудь тёмный секрет..."
 
-# game/script_day1.rpy:723
+# game/script_day1.rpy:722
 translate russian d1a1_ac4f3f4e:
 
     # I "...And just like that, they're both gone."
     I "...И вот так просто они обе ушли.."
 
-# game/script_day1.rpy:724
+# game/script_day1.rpy:723
 translate russian d1a1_1358374b:
 
     # I "I still have so many questions, though..."
     I "Но у меня всё ещё так много вопросов..."
 
-# game/script_day1.rpy:725
+# game/script_day1.rpy:724
 translate russian d1a1_325c21dd:
 
     # Y thinking ".....{w=1.0}{nw}"
     Y thinking ".....{w=1.0}{nw}"
 
-# game/script_day1.rpy:728
+# game/script_day1.rpy:727
 translate russian d1a1_82d54d50:
 
     # extend worried " *sigh*" with hpunch
     extend worried " *вздох*" with hpunch
 
-# game/script_day1.rpy:730
+# game/script_day1.rpy:729
 translate russian d1a1_035aedd4:
 
     # I "I guess there isn't much else to do but join in on the investigation effort."
     I "Полагаю, мне не остаётся ничего другого, кроме как присоединиться к расследованию."
 
-# game/script_day1.rpy:734
+# game/script_day1.rpy:733
 translate russian d1a1_c81bd5aa:
 
     # I "So Cecilia went to the [t_clue]kitchen[t_cluee]..."
     I "Значит, Сесилия пошла на [t_clue]кухню[t_cluee]..."
 
-# game/script_day1.rpy:738
+# game/script_day1.rpy:737
 translate russian d1a1_dd1fc9d4:
 
     # I "Oriana went [t_clue]upstairs[t_cluee]..."
     I "Ориана пошла [t_clue]наверх[t_cluee]..."
 
-# game/script_day1.rpy:742
+# game/script_day1.rpy:741
 translate russian d1a1_c1e54b02:
 
     # I "...Huh? I think that door under the stairs is a little open."
     I "...А? Кажется, дверь под лестницей слегка приоткрыта."
 
-# game/script_day1.rpy:743
+# game/script_day1.rpy:742
 translate russian d1a1_6118a947:
 
     # I "Looks like...a [t_clue]bathroom[t_cluee]? That might be worth checking out..."
     I "Похоже на... [t_clue]ванную[t_cluee]? Возможно, стоит проверить..."
 
-# game/script_day1.rpy:746
+# game/script_day1.rpy:745
 translate russian d1a1_e80e079d:
 
     # I "All of them seem promising... Guess I'll just pick wherever I want to go first..."
@@ -1392,133 +1392,133 @@ translate russian d1a1_start_investigation_e33e6f05:
     # I "Should I think more carefully about where I should go next?{nw}"
     I "Стоит ли мне тщательнее обдумать, куда идти дальше?{nw}"
 
-# game/script_day1.rpy:813
+# game/script_day1.rpy:812
 translate russian d1a1_start_investigation_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:817
+# game/script_day1.rpy:816
 translate russian d1a1_start_investigation_ebd86b66:
 
     # I "...Hmm... I guess it can't hurt to hang out with Cecilia."
     I "...Хмм... Думаю, ничего страшного, если я проведу время с Сесилией."
 
-# game/script_day1.rpy:818
+# game/script_day1.rpy:817
 translate russian d1a1_start_investigation_afd1f0b4:
 
     # I "She seems like a fun, cheery girl. What's the worst that could happen?"
     I "Она кажется весёлой и жизнерадостной девушкой. Что могло пойти не так?"
 
-# game/script_day1.rpy:820
+# game/script_day1.rpy:819
 translate russian d1a1_start_investigation_1beb3944:
 
     # I "......."
     I "......."
 
-# game/script_day1.rpy:821
+# game/script_day1.rpy:820
 translate russian d1a1_start_investigation_135a2819:
 
     # I "...I can't help but think about what Cecilia said..."
     I "...Я никак не могу перестать думать о том, что сказала Сесилия..."
 
-# game/script_day1.rpy:822
+# game/script_day1.rpy:821
 translate russian d1a1_start_investigation_347b9073:
 
     # I "Mrgh... Agh, okay, let's just do what we can for now..."
     I "Мргх... Агх, ладно, давай просто сделаем сейчас, что можем..."
 
-# game/script_day1.rpy:825
+# game/script_day1.rpy:824
 translate russian d1a1_start_investigation_e00644f4:
 
     # I "It's good that I managed to calm Oriana down but..."
     I "Хорошо, что мне удалось успокоить Ориану, но..."
 
-# game/script_day1.rpy:827
+# game/script_day1.rpy:826
 translate russian d1a1_start_investigation_c8581f66:
 
     # I "Why do I have a strong feeling that I made the [t_clue]wrong choice[t_cluee] somehow...?" with shakeonce
     I "Почему у меня такое сильное ощущение, что я сделала [t_clue]неправильный выбор[t_cluee]...?" with shakeonce
 
-# game/script_day1.rpy:828
+# game/script_day1.rpy:827
 translate russian d1a1_start_investigation_b1a5f67d:
 
     # I "Agh, if only I could turn back time..."
     I "Агх, если бы только я могла повернуть время вспять..."
 
-# game/script_day1.rpy:831
+# game/script_day1.rpy:830
 translate russian d1a1_start_investigation_26574cda:
 
     # I "...I have a very bad feeling about Cecilia. If possible, I should [t_clue]avoid hanging out with her[t_cluee]..."
     I "...У меня очень плохое предчувствие насчет Сесилии. По возможности мне стоит [t_clue]избегать общения с ней[t_cluee]..."
 
-# game/script_day1.rpy:833
+# game/script_day1.rpy:832
 translate russian d1a1_start_investigation_d5a89134:
 
     # I "It might be good to talk with Oriana [t_clue]upstairs[t_cluee] and see how she feels about all this."
     I "Возможно, стоит поговорить с Орианой [t_clue]наверху[t_cluee] и узнать, что она обо всем этом думает."
 
-# game/script_day1.rpy:836
+# game/script_day1.rpy:835
 translate russian d1a1_start_investigation_e385b8b6:
 
     # I "...I also have a feeling that [t_clue]we can't avoid violence[t_cluee] here..." with shakeonce
     I "...У меня также есть ощущение, что здесь [t_clue]мы не сможем избежать насилия[t_cluee]..." with shakeonce
 
-# game/script_day1.rpy:838
+# game/script_day1.rpy:837
 translate russian d1a1_start_investigation_cf53522f:
 
     # I "...But there's nowhere else to go... Ugh, okay, let's get this over with..." with hpunch
     I "...Но больше идти некуда... Угх, ладно, давай покончим с этим..." with hpunch
 
-# game/script_day1.rpy:840
+# game/script_day1.rpy:839
 translate russian d1a1_start_investigation_1beb3944_1:
 
     # I "......."
     I "......."
 
-# game/script_day1.rpy:841
+# game/script_day1.rpy:840
 translate russian d1a1_start_investigation_4f9cff5f:
 
     # I "...Maybe I shouldn't have hung out with Cecilia..."
     I "...Может, мне не стоило проводить время с Сесилией..."
 
-# game/script_day1.rpy:842
+# game/script_day1.rpy:841
 translate russian d1a1_start_investigation_7f215f14:
 
     # I "Why does it feel like I know what's going to happen later...?" with hpunch
     I "Почему у меня ощущение, что я знаю, что произойдет дальше...?" with hpunch
 
-# game/script_day1.rpy:844
+# game/script_day1.rpy:843
 translate russian d1a1_start_investigation_f7a8650f:
 
     # I "...Something's wrong... I can't shake this horrible feeling in my gut..."
     I "...Что-то не так... Я не могу избавиться от этого ужасного предчувствия..."
 
-# game/script_day1.rpy:847
+# game/script_day1.rpy:846
 translate russian d1a1_start_investigation_7e36015d:
 
     # I "I should talk to [t_clue]both[t_cluee] Cecilia and Oriana. Before it's too late..."
     I "Мне нужно поговорить с [t_clue]обеими[t_cluee]: Сесилией и Орианой. Пока не стало слишком поздно..."
 
-# game/script_day1.rpy:849
+# game/script_day1.rpy:848
 translate russian d1a1_start_investigation_5687036a:
 
     # I "But... I think I've done everything I can..."
     I "Но... Думаю, я сделала всё, что могла..."
 
-# game/script_day1.rpy:851
+# game/script_day1.rpy:850
 translate russian d1a1_start_investigation_8f293fdd:
 
     # I "...I think it might be too late... I never should've [t_clue]investigated the bathroom[t_cluee]..." with hpunch
     I "...Я думаю, уже может быть слишком поздно... Мне не следовало [t_clue]осматривать ванную[t_cluee]..." with hpunch
 
-# game/script_day1.rpy:853
+# game/script_day1.rpy:852
 translate russian d1a1_start_investigation_86eb18f6:
 
     # I "...No, I guess I shouldn't depend on strange feelings right now."
     I "...Нет, прямо сейчас мне, наверное, не стоит полагаться на странные предчувствия."
 
-# game/script_day1.rpy:854
+# game/script_day1.rpy:853
 translate russian d1a1_start_investigation_efdcaa79:
 
     # I "This is a serious situation. I should make my decisions more carefully..."
@@ -2616,49 +2616,49 @@ translate russian d1a1_bathroom_end_5bdd358c:
     # I "Is it friendly...?{nw}"
     I "Она дружелюбная...?{nw}"
 
-# game/script_day1.rpy:1419
+# game/script_day1.rpy:1418
 translate russian d1a1_bathroom_end_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:1421
+# game/script_day1.rpy:1420
 translate russian d1a1_bathroom_end_095937c7:
 
     # I "It's kinda cute... Let's try petting it."
     I "Она довольно милая... Я попробую её погладить."
 
-# game/script_day1.rpy:1422
+# game/script_day1.rpy:1421
 translate russian d1a1_bathroom_end_2b3bce41:
 
     # I "Slowly now..."
     I "Так, осторожно..."
 
-# game/script_day1.rpy:1434
+# game/script_day1.rpy:1433
 translate russian d1a1_bathroom_end_81cbe8e8_1:
 
     # D "....."
     D "....."
 
-# game/script_day1.rpy:1435
+# game/script_day1.rpy:1434
 translate russian d1a1_bathroom_end_4e53f81c:
 
     # I "Yep, still sitting there, not making a sound..."
     I "Ага, всё ещё сидит не издавая ни звука..."
 
-# game/script_day1.rpy:1436
+# game/script_day1.rpy:1435
 translate russian d1a1_bathroom_end_23a19e77:
 
     # Y surprised "Whoa, its fur is [t_clue]really cold[t_cluee]. Maybe it was playing outside?"
     Y surprised "Ого, её шерсть [t_clue]очень холодная[t_cluee]. Может, она играла на улице?"
 
-# game/script_day1.rpy:1438
+# game/script_day1.rpy:1437
 translate russian d1a1_bathroom_end_0fa3daa9:
 
     # Y thinking "...\"Outside\"? Wait..."
     Y thinking "...\"На улице\"? Секунду..."
 
-# game/script_day1.rpy:1439
+# game/script_day1.rpy:1438
 translate russian d1a1_bathroom_end_e6c8e66a:
 
     # Y leering "Could this dog have come from...?!" with shakeonce
@@ -2742,13 +2742,13 @@ translate russian d1a1_bathroom_end_0e5dfa5f:
     # I "What should I do?{nw}"
     I "Что мне делать?{nw}"
 
-# game/script_day1.rpy:1482
+# game/script_day1.rpy:1481
 translate russian d1a1_bathroom_end_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:1484
+# game/script_day1.rpy:1483
 translate russian d1a1_bathroom_end_1d472d08:
 
     # Y surprised "Okay, come on... Come here now..."
@@ -2760,19 +2760,19 @@ translate russian d1a1_bathroom_end_262a2651:
     # I "It's avoiding me...{nw}"
     I "Она меня избегает...{nw}"
 
-# game/script_day1.rpy:1493
+# game/script_day1.rpy:1492
 translate russian d1a1_bathroom_end_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:1495
+# game/script_day1.rpy:1494
 translate russian d1a1_bathroom_end_79225115:
 
     # Y leering "3... 2... 1!"
     Y leering "3... 2... 1!"
 
-# game/script_day1.rpy:1502
+# game/script_day1.rpy:1501
 translate russian d1a1_bathroom_end_2308739a:
 
     # I "It dodged?!"
@@ -2814,31 +2814,31 @@ translate russian d1a1_bathroom_end_a907402a:
     # I "Is it...TAUNTING me?!{nw}" with shakeonce
     I "Она... ИЗДЕВАЕТСЯ надо мной?!{nw}" with shakeonce
 
-# game/script_day1.rpy:1537
+# game/script_day1.rpy:1536
 translate russian d1a1_bathroom_end_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:1539
+# game/script_day1.rpy:1538
 translate russian d1a1_bathroom_end_0b4c8e78:
 
     # Y annoyed "Okay... THIS way!"
     Y annoyed "Ладно... а если ТАК!"
 
-# game/script_day1.rpy:1542
+# game/script_day1.rpy:1541
 translate russian d1a1_bathroom_end_de85328f:
 
     # I "Or so you think but..."
     I "Ты так думаешь, но..."
 
-# game/script_day1.rpy:1544
+# game/script_day1.rpy:1543
 translate russian d1a1_bathroom_end_e4510cea:
 
     # Y shouting "I'm over here!" with shakeonce
     Y shouting "Я здесь!" with shakeonce
 
-# game/script_day1.rpy:1552
+# game/script_day1.rpy:1551
 translate russian d1a1_bathroom_end_9b71216d:
 
     # Y wince "Ow... How did it...?!"
@@ -2886,25 +2886,25 @@ translate russian d1a1_bathroom_end_fd0e4052:
     # I "...I'm not done yet!{nw}"
     I "...Я ещё не закончила!{nw}"
 
-# game/script_day1.rpy:1583
+# game/script_day1.rpy:1582
 translate russian d1a1_bathroom_end_11fdb519_4:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:1585
+# game/script_day1.rpy:1584
 translate russian d1a1_bathroom_end_224e589d:
 
     # Y relaxed "...Okay. You win, little doggy."
     Y relaxed "...Ладно. Ты победил, маленький пёсик."
 
-# game/script_day1.rpy:1587
+# game/script_day1.rpy:1586
 translate russian d1a1_bathroom_end_d5d21091:
 
     # Y "I'll just be on my..."
     Y "Я просто пойду..."
 
-# game/script_day1.rpy:1594
+# game/script_day1.rpy:1593
 translate russian d1a1_bathroom_end_99adea79:
 
     # I "I'm still on my feet!"
@@ -2940,19 +2940,19 @@ translate russian d1a1_bathroom_end_883a49f4:
     # Y afraid2 "WHAT THE HECK?!{nw}" with shakeshort
     Y afraid2 "ЧТО ЗА ЧЁРТ?!{nw}" with shakeshort
 
-# game/script_day1.rpy:1631
+# game/script_day1.rpy:1630
 translate russian d1a1_bathroom_end_11fdb519_5:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:1633
+# game/script_day1.rpy:1632
 translate russian d1a1_bathroom_end_60271da2:
 
     # Y shouting "AGH, OKAY, THAT ONE!" with shakeonce
     Y shouting "АГА, ОКЕЙ, ТЕПЕРЬ ТАК!" with shakeonce
 
-# game/script_day1.rpy:1658
+# game/script_day1.rpy:1657
 translate russian d1a1_bathroom_end_f307e6b6:
 
     # Y afraid "WHAT IS THIS THING?!" with shakeshort
@@ -4536,85 +4536,85 @@ translate russian d1a2_b2c06559:
     # I "...Maybe I should pass on dinner and get some rest in one of the bedrooms upstairs?{nw}"
     I "...Может, мне стоит пропустить ужин и отдохнуть в одной из спален наверху?{nw}"
 
-# game/script_day1.rpy:2379
+# game/script_day1.rpy:2378
 translate russian d1a2_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2382
+# game/script_day1.rpy:2381
 translate russian d1a2_4551ae20:
 
     # I "...Yeah, I definitely don't feel well."
     I "...Да, я определённо плохо себя чувствую."
 
-# game/script_day1.rpy:2383
+# game/script_day1.rpy:2382
 translate russian d1a2_44b1ab7f:
 
     # I "I should go upstairs and tell the others I'll be skipping dinner."
     I "Мне нужно подняться наверх и сказать остальным, что я пропущу ужин."
 
-# game/script_day1.rpy:2385
+# game/script_day1.rpy:2384
 translate russian d1a2_bc9a55d2:
 
     # I "I told Cecilia and Oriana about my condition, and they seemed sympathetic enough."
     I "Я сказала Сесилии и Ориане о своём состоянии, и они, похоже, отнеслись к этому с пониманием."
 
-# game/script_day1.rpy:2386
+# game/script_day1.rpy:2385
 translate russian d1a2_dddbbc49:
 
     # I "They said to go ahead and use the master bedroom, which definitely has the best bed in the house."
     I "Они сказали, что я могу использовать главную спальню. В ней, безусловно, лучшая кровать в доме."
 
-# game/script_day1.rpy:2387
+# game/script_day1.rpy:2386
 translate russian d1a2_039d3889:
 
     # I "...I wonder if those two will be all right without me...? Maybe it's because of that sudden time limit but..."
     I "...Интересно, справятся ли они без меня...? Может, дело в этом неожиданном ограничении по времени, но..."
 
-# game/script_day1.rpy:2388
+# game/script_day1.rpy:2387
 translate russian d1a2_9cf5bb46:
 
     # I "....I can't shake this feeling that [t_clue]something will happen[t_cluee] tonight..."
     I "....Я не могу избавиться от чувства, что [t_clue]что-то случится[t_cluee] этой ночью..."
 
-# game/script_day1.rpy:2389
+# game/script_day1.rpy:2388
 translate russian d1a2_bb59ee6d:
 
     # I "Ugh, but I'm so tired..." with hpunch
     I "Ух, но я так устала..." with hpunch
 
-# game/script_day1.rpy:2390
+# game/script_day1.rpy:2389
 translate russian d1a2_fc4c25a0:
 
     # I "I guess...I won't be very helpful in this state... Let's get some sleep for now..."
     I "Пожалуй...в таком состоянии от меня мало толку... Сейчас надо немного поспать..."
 
-# game/script_day1.rpy:2391
+# game/script_day1.rpy:2390
 translate russian d1a2_a00146ac_2:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:2392
+# game/script_day1.rpy:2391
 translate russian d1a2_7eb3943a:
 
     # I ".........."
     I ".........."
 
-# game/script_day1.rpy:2394
+# game/script_day1.rpy:2393
 translate russian d1a2_d29aed3d:
 
     # I "{cps=6}...............{/cps}"
     I "{cps=6}...............{/cps}"
 
-# game/script_day1.rpy:2401
+# game/script_day1.rpy:2400
 translate russian d1a2_f282ca05:
 
     # I "...No, it wouldn't be fair to just dip out like this."
     I "...Нет, было бы нечестно просто так уйти."
 
-# game/script_day1.rpy:2402
+# game/script_day1.rpy:2401
 translate russian d1a2_677206a3:
 
     # I "That sudden time limit... I should talk with the others about it."
@@ -5214,205 +5214,205 @@ translate russian d1a2_99ecbc2c:
     # O blink "...There's a good chance that's the case, yes.{nw}"
     O blink "...Вполне возможно, что так оно и есть, да.{nw}"
 
-# game/script_day1.rpy:2584
+# game/script_day1.rpy:2583
 translate russian d1a2_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2586
+# game/script_day1.rpy:2585
 translate russian d1a2_f2e614a0:
 
     # Y thinking "A carefully planned kidnapping..."
     Y thinking "Тщательно спланированное похищение..."
 
-# game/script_day1.rpy:2588
+# game/script_day1.rpy:2587
 translate russian d1a2_a3d1d2d4:
 
     # Y default "I still have no idea, but do either of you remember how you got kidnapped?"
     Y default "Я всё ещё не понимаю, но кто-нибудь из вас помнит, как вас похитили?"
 
-# game/script_day1.rpy:2590
+# game/script_day1.rpy:2589
 translate russian d1a2_29457dd3:
 
     # C thinking "Hmmmmmmmmmmm..."
     C thinking "Хмммммммммм..."
 
-# game/script_day1.rpy:2591
+# game/script_day1.rpy:2590
 translate russian d1a2_0e94c88f:
 
     # C sad "Nope, can't say I do."
     C sad "Неа, не могу сказать, что помню."
 
-# game/script_day1.rpy:2592
+# game/script_day1.rpy:2591
 translate russian d1a2_b2123f99:
 
     # C thinking "I was out for a walk just before sunset, and next thing I know, I'm waking up on the floor here."
     C thinking "Я прогуливалась перед закатом, а потом очнулась здесь, на полу."
 
-# game/script_day1.rpy:2594
+# game/script_day1.rpy:2593
 translate russian d1a2_3d189b4d:
 
     # I "That's pretty much the same story Oriana told me earlier..."
     I "Это практически та же история, что ранее мне рассказала Ориана..."
 
-# game/script_day1.rpy:2595
+# game/script_day1.rpy:2594
 translate russian d1a2_39a4bdc0_1:
 
     # O thinking "....."
     O thinking "....."
 
-# game/script_day1.rpy:2597
+# game/script_day1.rpy:2596
 translate russian d1a2_6785e098:
 
     # O blink "It was more or less the same for me."
     O blink "Со мной было примерно то же самое."
 
-# game/script_day1.rpy:2598
+# game/script_day1.rpy:2597
 translate russian d1a2_6861fef8:
 
     # C default "Since the clock was around 5 when we woke up, I guess we got brought to this house right away?"
     C default "Раз часы показывали около пяти, когда мы проснулись, значит, нас привезли сюда сразу же?"
 
-# game/script_day1.rpy:2599
+# game/script_day1.rpy:2598
 translate russian d1a2_47d518f8:
 
     # C surprised "Or maybe a day passed? Or maybe just 12 hours? We still can't really tell if it's morning or night with that fog..."
     C surprised "Или, может, прошёл целый день? Или только 12 часов? Из-за этого тумана мы всё ещё не можем уверенно сказать, утро сейчас или ночь..."
 
-# game/script_day1.rpy:2600
+# game/script_day1.rpy:2599
 translate russian d1a2_928023ab_1:
 
     # C "....."
     C "....."
 
-# game/script_day1.rpy:2601
+# game/script_day1.rpy:2600
 translate russian d1a2_a261e535:
 
     # C sweatdrop "Sorry, [name_player], looks like that's pretty much all we can say."
     C sweatdrop "Прости, [name_player], похоже, это действительно всё, что мы можем сказать."
 
-# game/script_day1.rpy:2602
+# game/script_day1.rpy:2601
 translate russian d1a2_606d9f3c:
 
     # I "...No, that can't be all. Let's try a more specific question...{nw}"
     I "...Нет, этого недостаточно. Давайте попробуем более конкретный вопрос...{nw}"
 
-# game/script_day1.rpy:2604
+# game/script_day1.rpy:2603
 translate russian d1a2_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2606
+# game/script_day1.rpy:2605
 translate russian d1a2_e5392e7f:
 
     # Y leering "Were you taking a walk by yourself? And there weren't any other people nearby?"
     Y leering "Ты гуляла одна? Рядом не было других людей?"
 
-# game/script_day1.rpy:2608
+# game/script_day1.rpy:2607
 translate russian d1a2_533b26a0:
 
     # Y leering "Where were you taking your walk? Were you anywhere near this house?"
     Y leering "Где ты гуляла? Ты была где-то рядом с этим домом?"
 
-# game/script_day1.rpy:2609
+# game/script_day1.rpy:2608
 translate russian d1a2_85872ca5:
 
     # C thinking "Well..."
     C thinking "Ну..."
 
-# game/script_day1.rpy:2610
+# game/script_day1.rpy:2609
 translate russian d1a2_0d00807a:
 
     # O blink "I'm sorry, [name_player], but Cecilia and I talked about that before you woke up."
     O blink "Прости, [name_player], но мы с Сесилией уже обсуждали это, пока ты не проснулась."
 
-# game/script_day1.rpy:2611
+# game/script_day1.rpy:2610
 translate russian d1a2_e14399c2:
 
     # O confused "And all we remember is that we were both [t_clue]outside in the early evening[t_cluee] when we were kidnapped."
     O confused "И всё, что мы помним, это то, что мы обе были [t_clue]на улице ранним вечером[t_cluee], когда нас похитили."
 
-# game/script_day1.rpy:2612
+# game/script_day1.rpy:2611
 translate russian d1a2_338ce1a7:
 
     # C sad "Yeah, the last day's just a big blur in my head."
     C sad "Да, весь последний день - просто сплошное пятно в моей голове."
 
-# game/script_day1.rpy:2613
+# game/script_day1.rpy:2612
 translate russian d1a2_62804b0b:
 
     # C thinking "I know it was a day off, but I honestly can't remember what I was doing the whole day."
     C thinking "Я знаю, что это был выходной, но я совершенно не помню, чем занималась весь день."
 
-# game/script_day1.rpy:2614
+# game/script_day1.rpy:2613
 translate russian d1a2_a69c9d49:
 
     # C "Was I in the city? On my way home?"
     C "Я была в городе? Возвращалась домой?"
 
-# game/script_day1.rpy:2615
+# game/script_day1.rpy:2614
 translate russian d1a2_574bb69e:
 
     # C sweatdrop "I guess whatever the culprit used to put us to sleep did a number on my head."
     C sweatdrop "Думаю, то, что преступник использовал, чтобы усыпить нас, сильно повлияло на мою память."
 
-# game/script_day1.rpy:2616
+# game/script_day1.rpy:2615
 translate russian d1a2_902cfd10:
 
     # Y sad "...I see."
     Y sad "...Понимаю."
 
-# game/script_day1.rpy:2617
+# game/script_day1.rpy:2616
 translate russian d1a2_a00146ac_4:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:2618
+# game/script_day1.rpy:2617
 translate russian d1a2_2c315e80:
 
     # O blink "I'm still wondering how they managed to put us to sleep so quickly and without our noticing."
     O blink "Мне всё ещё интересно, как ему удалось усыпить нас так быстро и незаметно."
 
-# game/script_day1.rpy:2619
+# game/script_day1.rpy:2618
 translate russian d1a2_856018b4:
 
     # O thinking "For example, if they knocked us out with blunt force, our heads would be aching, but they're not."
     O thinking "Например, если бы нас оглушили ударом, у нас бы болела голова, но этого нет."
 
-# game/script_day1.rpy:2620
+# game/script_day1.rpy:2619
 translate russian d1a2_25da71f6:
 
     # O "If they used tranquilizer darts, we would feel some numbness wherever they hit."
     O "Если бы они использовали дротики с транквилизатором, мы бы почувствовали онемение в том месте, куда они попали."
 
-# game/script_day1.rpy:2621
+# game/script_day1.rpy:2620
 translate russian d1a2_4963887c:
 
     # O "Or if they had used some type of sleep-inducing gas, there's no way we would forget something that sudden and unusual."
     O "А если бы они использовали что-то вроде усыпляющего газ мы бы точно запомнили что-то настолько необычное."
 
-# game/script_day1.rpy:2622
+# game/script_day1.rpy:2621
 translate russian d1a2_0453a0a3:
 
     # C wink "You've certainly thought this through~ [u_music_note]"
     C wink "Ты определённо всё хорошо продумала~ [u_music_note]"
 
-# game/script_day1.rpy:2623
+# game/script_day1.rpy:2622
 translate russian d1a2_2c2d29a7:
 
     # O irritated "...And yet here we are, without any injury or memory of how we came to be here."
     O irritated "...И тем не менее, мы здесь, без травм и без воспоминаний о том, как сюда попали."
 
-# game/script_day1.rpy:2624
+# game/script_day1.rpy:2623
 translate russian d1a2_26648ec5:
 
     # I "Well, in my case, I just don't remember anything at all..."
     I "Ну, что касается меня, я вообще ничего не помню..."
 
-# game/script_day1.rpy:2625
+# game/script_day1.rpy:2624
 translate russian d1a2_28214d09:
 
     # O default "Anyways, it's safe to say that the culprit put each of us to sleep using the same mysterious method."
@@ -5556,199 +5556,199 @@ translate russian d1a2_f456166a:
     # I "The culprit...{nw}"
     I "Преступник...{nw}"
 
-# game/script_day1.rpy:2660
+# game/script_day1.rpy:2659
 translate russian d1a2_11fdb519_3:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2662
+# game/script_day1.rpy:2661
 translate russian d1a2_9ae45c16:
 
     # Y default "If this house was modified, that means the culprit is the owner of this house, right?"
     Y default "Если этот дом был перестроен, значит, преступник - это его владелец, верно?"
 
-# game/script_day1.rpy:2663
+# game/script_day1.rpy:2662
 translate russian d1a2_db46d4f1:
 
     # C thinking "Not necessarily. I mean, this place looks like a typical family's home."
     C thinking "Не обязательно. В смысле, это место выглядит как обычный семейный дом."
 
-# game/script_day1.rpy:2665
+# game/script_day1.rpy:2664
 translate russian d1a2_1009a6a2:
 
     # C default "Our culprit could be someone else in that family.{nw}"
     C default "Наш преступник может быть просто членом этой семьи.{nw}"
 
-# game/script_day1.rpy:2667
+# game/script_day1.rpy:2666
 translate russian d1a2_11fdb519_4:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2669
+# game/script_day1.rpy:2668
 translate russian d1a2_5236ea62:
 
     # Y sad "Yeah, I guess that possibility exists..."
     Y sad "Да, думаю, такая вероятность есть..."
 
-# game/script_day1.rpy:2670
+# game/script_day1.rpy:2669
 translate russian d1a2_179081fc:
 
     # O leering2 "[name_player], have you seriously forgotten?"
     O leering2 "[name_player], ты серьёзно забыла?"
 
-# game/script_day1.rpy:2671
+# game/script_day1.rpy:2670
 translate russian d1a2_0e0b4e49:
 
     # O "We already know that any family living here couldn't have been more than [t_clue]two people[t_cluee], one of them being a [t_clue]child[t_cluee]."
     O "Мы уже знаем, что в этом доме не могло жить больше [t_clue]двух человек[t_cluee], и один из них - [t_clue]ребёнок[t_cluee]."
 
-# game/script_day1.rpy:2672
+# game/script_day1.rpy:2671
 translate russian d1a2_43d1da7e:
 
     # Y surprised "Ah... R-right..." with hpunch
     Y surprised "Ах... Т-точно..." with hpunch
 
-# game/script_day1.rpy:2674
+# game/script_day1.rpy:2673
 translate russian d1a2_6683873b:
 
     # Y leering "No, it couldn't have been anyone else but the owner."
     Y leering "Нет, это не может быть никто, кроме владельца."
 
-# game/script_day1.rpy:2676
+# game/script_day1.rpy:2675
 translate russian d1a2_e203ed9a:
 
     # Y blink "Considering what Oriana and I found upstairs, only the owner and a small child could have been living here."
     Y blink "Учитывая то, что Ориана и я нашли наверху, здесь могли жить только владелец и маленький ребенок."
 
-# game/script_day1.rpy:2678
+# game/script_day1.rpy:2677
 translate russian d1a2_0e0a3cb9:
 
     # O blink "Good, you remembered that."
     O blink "Хорошо, что ты это запомнила."
 
-# game/script_day1.rpy:2680
+# game/script_day1.rpy:2679
 translate russian d1a2_c2b67506:
 
     # C default "Our culprit could be someone else in that family."
     C default "Наш преступник мог быть кем-то ещё из этой семьи."
 
-# game/script_day1.rpy:2681
+# game/script_day1.rpy:2680
 translate russian d1a2_67fc331d:
 
     # I "I guess that makes sense, considering what Cecilia and I found here..."
     I "Думаю, это логично, учитывая, что Сесилия и я нашли здесь..."
 
-# game/script_day1.rpy:2682
+# game/script_day1.rpy:2681
 translate russian d1a2_6858ded0:
 
     # O sideeyeblink "Sorry, but you're wrong, Cecilia."
     O sideeyeblink "Прости, но ты ошибаешься, Сесилия."
 
-# game/script_day1.rpy:2683
+# game/script_day1.rpy:2682
 translate russian d1a2_4f74205d:
 
     # O sideeye "The rooms upstairs make it clear that only [t_clue]one adult[t_cluee] and [t_clue]one child[t_cluee] were living here."
     O sideeye "Комнаты наверху ясно дают понять, что здесь жили только [t_clue]один взрослый[t_cluee] и [t_clue]один ребенок[t_cluee]."
 
-# game/script_day1.rpy:2684
+# game/script_day1.rpy:2683
 translate russian d1a2_72bf54da:
 
     # Y surprised "R-really...?"
     Y surprised "П-правда...?"
 
-# game/script_day1.rpy:2685
+# game/script_day1.rpy:2684
 translate russian d1a2_96a6a7fb:
 
     # C surprised "A child...?"
     C surprised "Ребенок...?"
 
-# game/script_day1.rpy:2686
+# game/script_day1.rpy:2685
 translate russian d1a2_e15342de:
 
     # C thinking "...So...what?"
     C thinking "...И...что?"
 
-# game/script_day1.rpy:2687
+# game/script_day1.rpy:2686
 translate russian d1a2_d6383c3a:
 
     # C smile "You think that a child couldn't possibly be our culprit? I dunno... Kids can be crafty~"
     C smile "Ты думаешь, что ребёнок не мог быть нашим преступником? Не знаю... Дети бывают коварными~"
 
-# game/script_day1.rpy:2688
+# game/script_day1.rpy:2687
 translate russian d1a2_cecef5b5:
 
     # O confused "But we're talking about who modified the house."
     O confused "Но мы говорим о том, кто мог перестроить дом."
 
-# game/script_day1.rpy:2689
+# game/script_day1.rpy:2688
 translate russian d1a2_170ead8b:
 
     # O leering2 "It's impossible for a child to replace the windows with unbreakable glass, both physically and financially."
     O leering2 "Ребёнок не может заменить окна на небьющееся стекло, ни физически, ни финансово."
 
-# game/script_day1.rpy:2690
+# game/script_day1.rpy:2689
 translate russian d1a2_a7d282d8:
 
     # C blink "..... Alright, can't argue with that."
     C blink "..... Ладно, с этим не поспоришь."
 
-# game/script_day1.rpy:2691
+# game/script_day1.rpy:2690
 translate russian d1a2_b70620ed:
 
     # C default "So that narrows it down to just one other person."
     C default "Значит, остаётся только один человек."
 
-# game/script_day1.rpy:2692
+# game/script_day1.rpy:2691
 translate russian d1a2_8773ba13:
 
     # I "The owner of this house..."
     I "Владелец этого дома..."
 
-# game/script_day1.rpy:2693
+# game/script_day1.rpy:2692
 translate russian d1a2_f34745a2:
 
     # O blink "...I'm not saying that either."
     O blink "...Так я тоже не говорила."
 
-# game/script_day1.rpy:2694
+# game/script_day1.rpy:2693
 translate russian d1a2_d6f660f2:
 
     # C surprised "Oh? Then who do {i}you{/i} think the culprit is?"
     C surprised "Ох? Тогда кого {i}ты{/i} считаешь преступником?"
 
-# game/script_day1.rpy:2695
+# game/script_day1.rpy:2694
 translate russian d1a2_0da3f551:
 
     # O "....."
     O "....."
 
-# game/script_day1.rpy:2696
+# game/script_day1.rpy:2695
 translate russian d1a2_316ac8ef:
 
     # O irritated "......."
     O irritated "......."
 
-# game/script_day1.rpy:2697
+# game/script_day1.rpy:2696
 translate russian d1a2_d413c6b9:
 
     # C smug "Oh detectiiiiive~ [u_music_note] You have the scowl of someone who really really wants to say somethiiiiing~ [u_music_note]"
     C smug "Ой, детектииииив~ [u_music_note] У тебя такое хмурое лицо, будто ты очень хочешь что-то сказааааать~ [u_music_note]"
 
-# game/script_day1.rpy:2698
+# game/script_day1.rpy:2697
 translate russian d1a2_0ba3aa08:
 
     # O "...No."
     O "...Нет."
 
-# game/script_day1.rpy:2699
+# game/script_day1.rpy:2698
 translate russian d1a2_ad25b772:
 
     # O thinking "I'm sorry, I don't know who it could be."
     O thinking "Прости, но я не знаю, кто это мог быть."
 
-# game/script_day1.rpy:2700
+# game/script_day1.rpy:2699
 translate russian d1a2_2cdfa696:
 
     # C grin "Pft..."
@@ -5832,49 +5832,49 @@ translate russian d1a2_ef897b7f:
     # C smug "Really! Even though you're SOOO sure that there are two people involved?{nw}"
     C smug "Правда! Даже несмотря на то, что ты НАСТОООЛЬКО уверена, что их двое?{nw}"
 
-# game/script_day1.rpy:2718
+# game/script_day1.rpy:2717
 translate russian d1a2_11fdb519_5:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2720
+# game/script_day1.rpy:2719
 translate russian d1a2_40944eaa:
 
     # Y panicked "H-hang on, there's no need to taunt her like that. We're all on the same team here."
     Y panicked "П-погоди, не нужно над ней так насмехаться. Мы все - одна команда."
 
-# game/script_day1.rpy:2721
+# game/script_day1.rpy:2720
 translate russian d1a2_79daddf4:
 
     # C sad "Aww, I wasn't taunting her! Do you really think that little of me?"
     C sad "Ой, да я вовсе не насмехалась! Ты правда так обо мне думаешь?"
 
-# game/script_day1.rpy:2722
+# game/script_day1.rpy:2721
 translate russian d1a2_cbe6d00c:
 
     # O thinking "...The same team..."
     O thinking "...Одна команда..."
 
-# game/script_day1.rpy:2724
+# game/script_day1.rpy:2723
 translate russian d1a2_4a7bc7de_1:
 
     # Y sad "....."
     Y sad "....."
 
-# game/script_day1.rpy:2725
+# game/script_day1.rpy:2724
 translate russian d1a2_afaecab4:
 
     # O leering "You already mentioned how the three of us were brought here all at once."
     O leering "Ты уже упоминала, что нас троих сюда привели одновременно."
 
-# game/script_day1.rpy:2726
+# game/script_day1.rpy:2725
 translate russian d1a2_0999113d:
 
     # O "Anyone would have trouble doing something like that alone."
     O "Справиться с таким в одиночку было бы сложно."
 
-# game/script_day1.rpy:2727
+# game/script_day1.rpy:2726
 translate russian d1a2_725f5597:
 
     # C blink "..... Hmph. I guess I did say that."
@@ -5904,25 +5904,25 @@ translate russian d1a2_7111e0fa:
     # C happy "Yeah, show us your detective skills!{nw}"
     C happy "Ага, покажи нам свои детективные навыки!{nw}"
 
-# game/script_day1.rpy:2734
+# game/script_day1.rpy:2733
 translate russian d1a2_11fdb519_6:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2736
+# game/script_day1.rpy:2735
 translate russian d1a2_53aa60d5:
 
     # Y worried "...Sorry, I got nothing."
     Y worried "...Прости, мне нечего сказать."
 
-# game/script_day1.rpy:2738
+# game/script_day1.rpy:2737
 translate russian d1a2_da6c6c30:
 
     # C "You're not even gonna try? Booooo."
     C "Ты даже не попробуешь? Бууууу."
 
-# game/script_day1.rpy:2739
+# game/script_day1.rpy:2738
 translate russian d1a2_4ad16f02:
 
     # O blink "That's probably for the best. It won't do us any good to jump to a wrong conclusion."
@@ -6006,109 +6006,109 @@ translate russian d1a2_159dd25d:
     # I "Then let's try a different angle...{nw}"
     I "Тогда попробуем подойти к этому с другой стороны...{nw}"
 
-# game/script_day1.rpy:2760
+# game/script_day1.rpy:2759
 translate russian d1a2_11fdb519_7:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2762
+# game/script_day1.rpy:2761
 translate russian d1a2_f3a7ca0f:
 
     # Y thinking "Why did they kidnap us? Does the culprit have something against any of us?"
     Y thinking "Почему они нас похитили? Имеет ли преступник что-то против кого-то из нас?"
 
-# game/script_day1.rpy:2763
+# game/script_day1.rpy:2762
 translate russian d1a2_cdb962c6:
 
     # O blink "Who can say...?"
     O blink "Кто знает...?"
 
-# game/script_day1.rpy:2764
+# game/script_day1.rpy:2763
 translate russian d1a2_9ea61ced:
 
     # C smug "Hmmm? What, do you believe there isn't a single person out there holding a grudge against you?"
     C smug "Хммм? Ты правда веришь, что в мире нет ни одного человека, затаившего на тебя обиду?"
 
-# game/script_day1.rpy:2765
+# game/script_day1.rpy:2764
 translate russian d1a2_012a41bf:
 
     # O leering "...You're one to talk. I'm sure your carefree tactlessness rubbed some people the wrong way."
     O leering "...Кто бы говорил. Уверена, твоя беспечная бестактность раздражала немало людей."
 
-# game/script_day1.rpy:2768
+# game/script_day1.rpy:2767
 translate russian d1a2_1f2ec1ec:
 
     # C "Ahaha, I'm totally sure it has!"
     C "Ахаха, в этом я даже не сомневаюсь!"
 
-# game/script_day1.rpy:2769
+# game/script_day1.rpy:2768
 translate russian d1a2_a2165004:
 
     # Y shadow "....."
     Y shadow "....."
 
-# game/script_day1.rpy:2772
+# game/script_day1.rpy:2771
 translate russian d1a2_7d87c555:
 
     # I "I don't know anything about either of these two... Heck, I don't know anything about myself..."
     I "Я ничего не знаю об этих двоих... Чёрт, я ничего не знаю даже о себе..."
 
-# game/script_day1.rpy:2773
+# game/script_day1.rpy:2772
 translate russian d1a2_2a769f51:
 
     # I "I wonder... Have I done anything horrible enough for someone to want me dead?"
     I "Интересно... Сделала ли я что-то настолько ужасное, что кто-то захотел бы моей смерти?"
 
-# game/script_day1.rpy:2774
+# game/script_day1.rpy:2773
 translate russian d1a2_39cc3663:
 
     # I "...But if that's the case, why not just kill me directly? Why put me to sleep and bring me here instead?" with shakeonce
     I "...Но если это так, почему просто прямо меня не убить? Зачем вместо этого усыплять и привозить сюда?" with shakeonce
 
-# game/script_day1.rpy:2775
+# game/script_day1.rpy:2774
 translate russian d1a2_f71162ac:
 
     # I "Something's not adding up..."
     I "Что-то здесь не сходится..."
 
-# game/script_day1.rpy:2778
+# game/script_day1.rpy:2777
 translate russian d1a2_2f570c92:
 
     # Y sad "....." with hpunch
     Y sad "....." with hpunch
 
-# game/script_day1.rpy:2779
+# game/script_day1.rpy:2778
 translate russian d1a2_2e096a14:
 
     # C default "Don't overthink it, [name_player]. It's also possible that anyone would have been fine."
     C default "Не забивай себе голову, [name_player]. Возможно, на нашем месте мог оказаться кто угодно."
 
-# game/script_day1.rpy:2780
+# game/script_day1.rpy:2779
 translate russian d1a2_38ac5dfc:
 
     # C "And we simply happened to be the first couple of targets they spotted along the street."
     C "И просто так получилось, что мы были первыми, кто попался им на улице."
 
-# game/script_day1.rpy:2781
+# game/script_day1.rpy:2780
 translate russian d1a2_fe462a6a:
 
     # O irritated "....."
     O irritated "....."
 
-# game/script_day1.rpy:2782
+# game/script_day1.rpy:2781
 translate russian d1a2_de6c875d:
 
     # C blink "But I suppose the fact that they targeted exclusively girls is pretty telling."
     C blink "Но, думаю, тот факт, что жертвами стали только девушки, о чём-то говорит."
 
-# game/script_day1.rpy:2783
+# game/script_day1.rpy:2782
 translate russian d1a2_4233b02f:
 
     # C smile "This whole situation might just be the culprit acting out some weird fetish."
     C smile "Вся эта ситуация может быть просто реализацией какого-то странного фетиша преступника."
 
-# game/script_day1.rpy:2784
+# game/script_day1.rpy:2783
 translate russian d1a2_ee64a261:
 
     # O leering "There's that tactlessness again..."
@@ -6522,97 +6522,97 @@ translate russian d1a2_01a3d8a3:
     # C grin "Who do you think should [t_clue]die[t_cluee] here?{nw}"
     C grin "Как ты думаешь, кто здесь должен [t_clue]умереть[t_cluee]?{nw}"
 
-# game/script_day1.rpy:2908
+# game/script_day1.rpy:2907
 translate russian d1a2_11fdb519_8:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:2910
+# game/script_day1.rpy:2909
 translate russian d1a2_c4fc43a3:
 
     # Y troubled "....."
     Y troubled "....."
 
-# game/script_day1.rpy:2912
+# game/script_day1.rpy:2911
 translate russian d1a2_7c7076f6:
 
     # Y "...It has to be one of us. There's...really no other way..." with shakeonce
     Y "...Это должен быть кто-то из нас. Отсюда...действительно нету другого выхода..." with shakeonce
 
-# game/script_day1.rpy:2914
+# game/script_day1.rpy:2913
 translate russian d1a2_4c47468c:
 
     # C blush "There we go~ I knew you'd be the sensible type, [name_player]!"
     C blush "Вот так~ Я знала, что ты быстро схватываешь, [name_player]!"
 
-# game/script_day1.rpy:2915
+# game/script_day1.rpy:2914
 translate russian d1a2_2248aeed:
 
     # C smug "Alright, now for the important choice. You have three options."
     C smug "Ладно, теперь важный выбор. У тебя есть три варианта."
 
-# game/script_day1.rpy:2916
+# game/script_day1.rpy:2915
 translate russian d1a2_4c3f8b4a:
 
     # C blink "Oriana could die..."
     C blink "Ориана может умереть..."
 
-# game/script_day1.rpy:2917
+# game/script_day1.rpy:2916
 translate russian d1a2_e1feabb7:
 
     # O shadow "....."
     O shadow "....."
 
-# game/script_day1.rpy:2918
+# game/script_day1.rpy:2917
 translate russian d1a2_9ed768bb:
 
     # C smile "...{i}I{/i} could die..."
     C smile "...{i}Я{/i} могу умереть..."
 
-# game/script_day1.rpy:2919
+# game/script_day1.rpy:2918
 translate russian d1a2_55ace44f_1:
 
     # Y "....."
     Y "....."
 
-# game/script_day1.rpy:2920
+# game/script_day1.rpy:2919
 translate russian d1a2_2c20cb8e:
 
     # C happy "Or of course, [name_player], YOU could die!"
     C happy "Или, конечно, [name_player], ТЫ можешь умереть!"
 
-# game/script_day1.rpy:2921
+# game/script_day1.rpy:2920
 translate russian d1a2_4466b9dd:
 
     # C grin "It wouldn't be the worst thing, sacrificing yourself to save a pair of fair maidens, don't you think?"
     C grin "Это не самый худший вариант - пожертвовать собой, чтобы спасти двух прекрасных дам, как думаешь?"
 
-# game/script_day1.rpy:2922
+# game/script_day1.rpy:2921
 translate russian d1a2_6b83c00a:
 
     # Y afraid "...Why is it up to me?"
     Y afraid "...Почему это решаю я?"
 
-# game/script_day1.rpy:2923
+# game/script_day1.rpy:2922
 translate russian d1a2_0b2cc93e:
 
     # C surprised "\"Why\"?"
     C surprised "\"Почему\"?"
 
-# game/script_day1.rpy:2924
+# game/script_day1.rpy:2923
 translate russian d1a2_d54393e5:
 
     # C thinking "....."
     C thinking "....."
 
-# game/script_day1.rpy:2925
+# game/script_day1.rpy:2924
 translate russian d1a2_f2ea3d80:
 
     # C default "...Why not? Would you prefer it if the choice wasn't up to you?"
     C default "...А почему нет? Тебе было бы лучше, если бы выбор зависел не от тебя?"
 
-# game/script_day1.rpy:2926
+# game/script_day1.rpy:2925
 translate russian d1a2_78d3282e:
 
     # Y depressed "That's... I-I..." with shakeonce
@@ -6924,49 +6924,49 @@ translate russian d1a2_09bccf96:
     # C default "Which means the dog probably [t_clue]lives here[t_cluee].{nw}"
     C default "Это означает, что собака, возможно, [t_clue]живет здесь[t_cluee].{nw}"
 
-# game/script_day1.rpy:3025
+# game/script_day1.rpy:3024
 translate russian d1a2_11fdb519_9:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:3027
+# game/script_day1.rpy:3026
 translate russian d1a2_386da220:
 
     # Y thinking "So it belongs to the owner of this house?"
     Y thinking "Значит, она принадлежит владельцу этого дома?"
 
-# game/script_day1.rpy:3028
+# game/script_day1.rpy:3027
 translate russian d1a2_77f4b2d4:
 
     # C thinking "Probably not? A lot of clues indicate no one's lived here for a while."
     C thinking "Вероятно нет? Многие улики указывают, что здесь давно никто не жил."
 
-# game/script_day1.rpy:3029
+# game/script_day1.rpy:3028
 translate russian d1a2_e8f48e61:
 
     # Y blink "Right, a dog wouldn't be able to live in a house alone."
     Y blink "Точно, собака ведь не смогла бы жить в доме одна."
 
-# game/script_day1.rpy:3031
+# game/script_day1.rpy:3030
 translate russian d1a2_55ace44f_2:
 
     # Y "....."
     Y "....."
 
-# game/script_day1.rpy:3032
+# game/script_day1.rpy:3031
 translate russian d1a2_d3b1bc3a:
 
     # Y surprised "...Wait, but then why would the dog know to come here for food?"
     Y surprised "...Постой, откуда тогда собаке знать, что сюда можно прийти за едой?"
 
-# game/script_day1.rpy:3034
+# game/script_day1.rpy:3033
 translate russian d1a2_3ae1033e:
 
     # C blink "It probably smelled our dinner, right?"
     C blink "Возможно, она почувствовала запах нашего ужина, верно?"
 
-# game/script_day1.rpy:3035
+# game/script_day1.rpy:3034
 translate russian d1a2_96ec4837:
 
     # Y annoyed "But you had the cans cut open since long before we came in. So why would it wait until now?"
@@ -7230,19 +7230,19 @@ translate russian d1a2_35a6141e:
     # extend thinking "Let's go with...{nw}"
     extend thinking "Пусть будет...{nw}"
 
-# game/script_day1.rpy:3122
+# game/script_day1.rpy:3121
 translate russian d1a2_11fdb519_10:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:3128
+# game/script_day1.rpy:3127
 translate russian d1a2_2fe5e8bf:
 
     # C "Aha! \"[name_dog]\" it is!"
     C "Ага! \"[name_dog]\" - так и будет!"
 
-# game/script_day1.rpy:3129
+# game/script_day1.rpy:3128
 translate russian d1a2_c28149de:
 
     # O annoyed "...[name_player]. You have done this dog a great disservice. ...I hope you're ashamed of yourself."
@@ -7344,433 +7344,433 @@ translate russian d1a2_6f6d39f0:
     # O sideeye "It would be more efficient to get some sleep and try again in the morning.{nw}"
     O sideeye "Было бы разумнее выспаться и попробовать снова утром.{nw}"
 
-# game/script_day1.rpy:3183
+# game/script_day1.rpy:3182
 translate russian d1a2_11fdb519_11:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:3185
+# game/script_day1.rpy:3184
 translate russian d1a2_ee91e9b8:
 
     # Y sad "...I mean, if you're both okay with that..."
     Y sad "...Ну, если вы обе не против..."
 
-# game/script_day1.rpy:3186
+# game/script_day1.rpy:3185
 translate russian d1a2_679b412b:
 
     # I "I'm definitely reaching my limit..." with hpunch
     I "Я определённо достигла своего лимита..." with hpunch
 
-# game/script_day1.rpy:3187
+# game/script_day1.rpy:3186
 translate russian d1a2_8619127f:
 
     # C surprised "Whoa, hang in there, [name_player]! We haven't figured out who sleeps where yet!"
     C surprised "Эй, [name_player], притормози! Мы ещё не решили, кто где будет спать!"
 
-# game/script_day1.rpy:3189
+# game/script_day1.rpy:3188
 translate russian d1a2_c3ea764a:
 
     # Y wince "B-but what about our time limit?" with hpunch
     Y wince "Н-но что насчёт нашего ограничения по времени?" with hpunch
 
-# game/script_day1.rpy:3190
+# game/script_day1.rpy:3189
 translate russian d1a2_0482e144:
 
     # C default "Don't worry, [name_player], 20 hours is a TON of time!"
     C default "Не переживай, [name_player], 20 часов - это КУЧА времени!"
 
-# game/script_day1.rpy:3191
+# game/script_day1.rpy:3190
 translate russian d1a2_38993de5:
 
     # C thinking "If anything, maybe we WANT time to run out!"
     C thinking "Если уж на то пошло, может, нам и правда СТОИТ дождаться, пока время выйдет!"
 
-# game/script_day1.rpy:3192
+# game/script_day1.rpy:3191
 translate russian d1a2_d952e118:
 
     # C grin "The culprit would make an appearance to kill us, and then we could ambush 'em together!"
     C grin "Преступник появится, чтобы убить нас, а после этого мы сможем вместе устроить ему засаду!"
 
-# game/script_day1.rpy:3193
+# game/script_day1.rpy:3192
 translate russian d1a2_8af52b61:
 
     # Y worried "...M-maybe we shouldn't bet it all on that gamble..." with hpunch
     Y worried "...М-может, мы не должны ставить всё на эту авантюру..." with hpunch
 
-# game/script_day1.rpy:3194
+# game/script_day1.rpy:3193
 translate russian d1a2_c70a9242:
 
     # O blink "Let's see... 8 hours should be more than enough sleep. We'll resume our investigation at [t_clue]6 in the morning[t_cluee]."
     O blink "Посмотрим... 8 часов сна более чем хватит. Мы продолжим расследование в [t_clue]6 утра[t_cluee]."
 
-# game/script_day1.rpy:3195
+# game/script_day1.rpy:3194
 translate russian d1a2_ed2cc7ab:
 
     # C thinking "6 o'clock...?"
     C thinking "6 часов...?"
 
-# game/script_day1.rpy:3196
+# game/script_day1.rpy:3195
 translate russian d1a2_028d8e04:
 
     # C surprised "Oh yeah, the clock in the foyer! It still hasn't gone off since 6!"
     C surprised "О, точно, часы в фойе! Они так и не звонили после шести!"
 
-# game/script_day1.rpy:3197
+# game/script_day1.rpy:3196
 translate russian d1a2_4b2a975d:
 
     # O thinking "...Huh, now that you mention it... I wonder if that last loud chime broke it...?"
     O thinking "...Хм, раз ты об этом заговорила... Интересно, не сломались ли они после последнего громкого удара...?"
 
-# game/script_day1.rpy:3198
+# game/script_day1.rpy:3197
 translate russian d1a2_9d7eb6a1:
 
     # C smile "Or, OR! If it really only rings at 6 o'clock, it might be able to serve as our [t_clue]morning alarm[t_cluee]."
     C smile "Или, ИЛИ! Если они действительно звонят только в шесть, то мы можем их использовать как [t_clue]утренний будильник[t_cluee]."
 
-# game/script_day1.rpy:3199
+# game/script_day1.rpy:3198
 translate russian d1a2_745d9109:
 
     # O blink "If it wakes everyone up on time, I won't complain."
     O blink "Если они будут будить всех вовремя, я не возражаю."
 
-# game/script_day1.rpy:3200
+# game/script_day1.rpy:3199
 translate russian d1a2_5c97b477:
 
     # O default "[name_player], you should go to sleep right away."
     O default "[name_player], тебе лучше идти спать прямо сейчас."
 
-# game/script_day1.rpy:3201
+# game/script_day1.rpy:3200
 translate russian d1a2_c7c0a899:
 
     # O thinking "You... You don't look well."
     O thinking "Ты... Ты выглядишь неважно."
 
-# game/script_day1.rpy:3202
+# game/script_day1.rpy:3201
 translate russian d1a2_aa4974dc:
 
     # Y surprised "O-okay...?"
     Y surprised "О-окей...?"
 
-# game/script_day1.rpy:3210
+# game/script_day1.rpy:3209
 translate russian d1a2_d009c209:
 
     # Y default "...So...how do we go about splitting the rooms?"
     Y default "...Итак... как мы будем делить комнаты?"
 
-# game/script_day1.rpy:3211
+# game/script_day1.rpy:3210
 translate russian d1a2_08de386e:
 
     # O "Besides the master bedroom, there are two bedrooms, one furnished and one empty."
     O "Кроме главной спальни, есть ещё две: одна обставленная мебелью и одна пустая."
 
-# game/script_day1.rpy:3213
+# game/script_day1.rpy:3212
 translate russian d1a2_ce089fcd:
 
     # Y blink "The little girl's room, and the suspiciously empty bedroom, huh...?"
     Y blink "Комната маленькой девочки и подозрительно пустая спальня, ха...?"
 
-# game/script_day1.rpy:3215
+# game/script_day1.rpy:3214
 translate russian d1a2_1d0a7052:
 
     # Y thinking "...Empty?"
     Y thinking "...Пустая?"
 
-# game/script_day1.rpy:3216
+# game/script_day1.rpy:3215
 translate russian d1a2_f880d27c:
 
     # O thinking "Completely empty, yes. But there's a bed in it, so it's possible to sleep there."
     O thinking "Совершенно пустая, да. Но там есть кровать, так что спать там можно."
 
-# game/script_day1.rpy:3217
+# game/script_day1.rpy:3216
 translate russian d1a2_f5869941:
 
     # O disappointed "...Not comfortably, of course. There's no covers or a pillow."
     O disappointed "...Не особо удобно, конечно. Там нет ни одеяла, ни подушки."
 
-# game/script_day1.rpy:3218
+# game/script_day1.rpy:3217
 translate russian d1a2_f718a894:
 
     # Y worried "....." with hpunch
     Y worried "....." with hpunch
 
-# game/script_day1.rpy:3219
+# game/script_day1.rpy:3218
 translate russian d1a2_d67729ae:
 
     # C smug "Wanna do rock-paper-scissors for the master bedroom?"
     C smug "Хотите сыграть в камень-ножницы-бумагу за главную спальню?"
 
-# game/script_day1.rpy:3220
+# game/script_day1.rpy:3219
 translate russian d1a2_70c27eee:
 
     # O sideeye "That's fair."
     O sideeye "Это будет честно."
 
-# game/script_day1.rpy:3221
+# game/script_day1.rpy:3220
 translate russian d1a2_d1a890c8:
 
     # Y surprised "Sure, I guess?"
     Y surprised "Ладно, почему бы и нет?"
 
-# game/script_day1.rpy:3222
+# game/script_day1.rpy:3221
 translate russian d1a2_366a542b:
 
     # I "Guess it's up to fate..."
     I "Похоже, это решит судьба..."
 
-# game/script_day1.rpy:3223
+# game/script_day1.rpy:3222
 translate russian d1a2_a619c9b9:
 
     # C happy "Okay! Rock, paper...{nw}"
     C happy "Ладно! Камень, ножницы...{nw}"
 
-# game/script_day1.rpy:3225
+# game/script_day1.rpy:3224
 translate russian d1a2_11fdb519_12:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:3227
+# game/script_day1.rpy:3226
 translate russian d1a2_d914d214:
 
     # C pout "Scissors... SHOOT!" with shakeonce
     C pout "Ножницы... АГААА!" with shakeonce
 
-# game/script_day1.rpy:3228
+# game/script_day1.rpy:3227
 translate russian d1a2_ad46d79e:
 
     # C sobbing "Aww, I lost."
     C sobbing "Эхх, я проиграла."
 
-# game/script_day1.rpy:3229
+# game/script_day1.rpy:3228
 translate russian d1a2_6acb21c0:
 
     # O blink "We both played scissors so...it looks like [name_player] gets the master bedroom."
     O blink "Мы обе выбрали ножницы, так что... Похоже, [name_player] получает главную спальню."
 
-# game/script_day1.rpy:3231
+# game/script_day1.rpy:3230
 translate russian d1a2_d914d214_1:
 
     # C pout "Scissors... SHOOT!" with shakeonce
     C pout "Ножницы... АГААА!" with shakeonce
 
-# game/script_day1.rpy:3232
+# game/script_day1.rpy:3231
 translate russian d1a2_ad46d79e_1:
 
     # C sobbing "Aww, I lost."
     C sobbing "Эхх, я проиграла."
 
-# game/script_day1.rpy:3233
+# game/script_day1.rpy:3232
 translate russian d1a2_e706baea:
 
     # O blink "We both played rock so...it looks like [name_player] gets the master bedroom."
     O blink "Мы обе выбрали камень, так что... Похоже, [name_player] получает главную спальню."
 
-# game/script_day1.rpy:3235
+# game/script_day1.rpy:3234
 translate russian d1a2_d914d214_2:
 
     # C pout "Scissors... SHOOT!" with shakeonce
     C pout "Ножницы... АГААА!" with shakeonce
 
-# game/script_day1.rpy:3236
+# game/script_day1.rpy:3235
 translate russian d1a2_ad46d79e_2:
 
     # C sobbing "Aww, I lost."
     C sobbing "Эхх, я проиграла."
 
-# game/script_day1.rpy:3237
+# game/script_day1.rpy:3236
 translate russian d1a2_882a1dec:
 
     # O blink "We both played paper so...it looks like [name_player] gets the master bedroom."
     O blink "Мы обе выбрали бумагу, так что... Похоже, [name_player] получает главную спальню."
 
-# game/script_day1.rpy:3238
+# game/script_day1.rpy:3237
 translate russian d1a2_9cfff2ce:
 
     # I "Huh. Guess I'm pretty good at this."
     I "Ха. Кажется, я в этом довольно хороша."
 
-# game/script_day1.rpy:3239
+# game/script_day1.rpy:3238
 translate russian d1a2_a08e114c:
 
     # C smug "Alright, now let's play for the furnished bedroom!"
     C smug "Хорошо, теперь сыграем за обставленную мебелью спальню!"
 
-# game/script_day1.rpy:3240
+# game/script_day1.rpy:3239
 translate russian d1a2_5c58e7c2:
 
     # O disappointed "I don't mind either way, but fine."
     O disappointed "Мне всё равно, но ладно."
 
-# game/script_day1.rpy:3241
+# game/script_day1.rpy:3240
 translate russian d1a2_0b93226a:
 
     # C pout "Rock, paper, scissors...{w=0.5}{nw}"
     C pout "Камень, ножницы, бумага...{w=0.5}{nw}"
 
-# game/script_day1.rpy:3243
+# game/script_day1.rpy:3242
 translate russian d1a2_6fabf72a:
 
     # extend " SHOOT!" with shakeonce
     extend " АГААА!" with shakeonce
 
-# game/script_day1.rpy:3247
+# game/script_day1.rpy:3246
 translate russian d1a2_25061935:
 
     # C "Yes, I win!"
     C "Да! Я выиграла!"
 
-# game/script_day1.rpy:3249
+# game/script_day1.rpy:3248
 translate russian d1a2_313845cc:
 
     # O "...Mrgh." with shakeonce
     O "...Мргх." with shakeonce
 
-# game/script_day1.rpy:3250
+# game/script_day1.rpy:3249
 translate russian d1a2_c83e912e:
 
     # Y relaxed "Sore loser, huh...?"
     Y relaxed "Неудачница, а...?"
 
-# game/script_day1.rpy:3251
+# game/script_day1.rpy:3250
 translate russian d1a2_076adf57:
 
     # O leering2 "....." with shakeonce
     O leering2 "....." with shakeonce
 
-# game/script_day1.rpy:3252
+# game/script_day1.rpy:3251
 translate russian d1a2_f5bd12ac:
 
     # Y panicked "Ah--"
     Y panicked "Ах--"
 
-# game/script_day1.rpy:3254
+# game/script_day1.rpy:3253
 translate russian d1a2_373efc21:
 
     # I "Crap, I said that out loud!" with hpunch
     I "Чёрт, я сказала это вслух!" with hpunch
 
-# game/script_day1.rpy:3255
+# game/script_day1.rpy:3254
 translate russian d1a2_b45ccc0d:
 
     # C smile "You said you didn't mind either way~"
     C smile "Ты сказал, что тебе всё равно~"
 
-# game/script_day1.rpy:3256
+# game/script_day1.rpy:3255
 translate russian d1a2_68aabc85:
 
     # O irritated "I don't. I'm perfectly fine using that room."
     O irritated "Да, мне всё равно. Меня вполне устраивает эта комната."
 
-# game/script_day1.rpy:3257
+# game/script_day1.rpy:3256
 translate russian d1a2_7126b3b3:
 
     # Y thinking "But there's no covers or a pillow. Will you be okay?"
     Y thinking "Но там нет ни одеяла, ни подушки. Ты будешь в порядке?"
 
-# game/script_day1.rpy:3260
+# game/script_day1.rpy:3259
 translate russian d1a2_32cbb8fb:
 
     # O "R-right, there's no..."
     O "Т-точно, там нет..."
 
-# game/script_day1.rpy:3262
+# game/script_day1.rpy:3261
 translate russian d1a2_90934add:
 
     # O "Er, w-well, I'll be sleeping with [name_dog] anyway! So I'll have no trouble staying warm!" with hpunch
     O "Эм, н-ну, я всё равно буду спать с [name_dog]! Так что у меня не будет проблем с теплом!" with hpunch
 
-# game/script_day1.rpy:3263
+# game/script_day1.rpy:3262
 translate russian d1a2_2baedbc3:
 
     # Y sad "He's not very big, you know..."
     Y sad "Он не такой уж большой, знаешь ли..."
 
-# game/script_day1.rpy:3264
+# game/script_day1.rpy:3263
 translate russian d1a2_962e3c95:
 
     # C thinking "Plus he's cold to the touch..."
     C thinking "К тому же, он холодный на ощупь..."
 
-# game/script_day1.rpy:3265
+# game/script_day1.rpy:3264
 translate russian d1a2_a8ff70cf:
 
     # O confused "I-I mean... His cute and cuddliness will...keep me all worked up and warm?"
     O confused "Я-я имею в виду... Его милота и пушистость...будут поддержить тепло во мне?"
 
-# game/script_day1.rpy:3266
+# game/script_day1.rpy:3265
 translate russian d1a2_78f1eb1c:
 
     # O embarrassed "Er... {size=-10}W-wait, that sounded kind of...{/size}" with hpunch
     O embarrassed "Эм... {size=-10}П-подожди, это прозвучало как-то...{/size}" with hpunch
 
-# game/script_day1.rpy:3267
+# game/script_day1.rpy:3266
 translate russian d1a2_4699619f:
 
     # C grin "Pft~"
     C grin "Хех~"
 
-# game/script_day1.rpy:3268
+# game/script_day1.rpy:3267
 translate russian d1a2_9f2d620a:
 
     # Y happy "Heh..."
     Y happy "Хех..."
 
-# game/script_day1.rpy:3270
+# game/script_day1.rpy:3269
 translate russian d1a2_0344c66d:
 
     # O angry "Don't laugh!" with shakeshort
     O angry "Не смейся!" with shakeshort
 
-# game/script_day1.rpy:3272
+# game/script_day1.rpy:3271
 translate russian d1a2_656fbd1d:
 
     # C happy "Alright, let's get ready for bed!"
     C happy "Ладно, давайте готовиться ко сну!"
 
-# game/script_day1.rpy:3275
+# game/script_day1.rpy:3274
 translate russian d1a2_4f3ccc4e:
 
     # I "...Is this really alright?"
     I "...Это действительно нормально?"
 
-# game/script_day1.rpy:3276
+# game/script_day1.rpy:3275
 translate russian d1a2_3e161928:
 
     # I "I can't shake this feeling that [t_clue]something will happen[t_cluee] tonight..."
     I "Меня не покидает ощущение, что сегодня ночью [t_clue]что-то случится[t_cluee]..."
 
-# game/script_day1.rpy:3277
+# game/script_day1.rpy:3276
 translate russian d1a2_bb59ee6d_1:
 
     # I "Ugh, but I'm so tired..." with hpunch
     I "Угх, но я так устала..." with hpunch
 
-# game/script_day1.rpy:3279
+# game/script_day1.rpy:3278
 translate russian d1a2_cb9c2b05:
 
     # I "We'll investigate...again in the morning..."
     I "Мы продолжить расследование...снова утром..."
 
-# game/script_day1.rpy:3280
+# game/script_day1.rpy:3279
 translate russian d1a2_a6b4eb38:
 
     # I "For now...let's get some sleep..."
     I "А пока...нужно поспать..."
 
-# game/script_day1.rpy:3281
+# game/script_day1.rpy:3280
 translate russian d1a2_a00146ac_7:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:3282
+# game/script_day1.rpy:3281
 translate russian d1a2_7eb3943a_1:
 
     # I ".........."
     I ".........."
 
-# game/script_day1.rpy:3284
+# game/script_day1.rpy:3283
 translate russian d1a2_d29aed3d_1:
 
     # I "{cps=6}...............{/cps}"
@@ -8700,157 +8700,157 @@ translate russian d1a3_karma_0f4b49cd:
     # I "Her eyes are still open...{nw}"
     I "Её глаза всё ещё открыты...{nw}"
 
-# game/script_day1.rpy:3748
+# game/script_day1.rpy:3747
 translate russian d1a3_karma_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:3750
+# game/script_day1.rpy:3749
 translate russian d1a3_karma_c5817ae4:
 
     # Y shocked "...Ah..."
     Y shocked "...Ах..."
 
-# game/script_day1.rpy:3752
+# game/script_day1.rpy:3751
 translate russian d1a3_karma_55ace44f:
 
     # Y "....."
     Y "....."
 
-# game/script_day1.rpy:3754
+# game/script_day1.rpy:3753
 translate russian d1a3_karma_65eb12b4:
 
     # I "I...don't know what to say..." with hpunch
     I "Я...не знаю, что сказать..." with hpunch
 
-# game/script_day1.rpy:3756
+# game/script_day1.rpy:3755
 translate russian d1a3_karma_c4fc43a3:
 
     # Y troubled "....."
     Y troubled "....."
 
-# game/script_day1.rpy:3757
+# game/script_day1.rpy:3756
 translate russian d1a3_karma_94ded244:
 
     # C "I guess... ...just you now..."
     C "Думаю... ...теперь осталась только ты..."
 
-# game/script_day1.rpy:3758
+# game/script_day1.rpy:3757
 translate russian d1a3_karma_f8244758:
 
     # Y afraid "H-huh...?"
     Y afraid "А-а...?"
 
-# game/script_day1.rpy:3769
+# game/script_day1.rpy:3768
 translate russian d1a3_karma_084b2f8c:
 
     # C poisonedgrin "...Sorry... ...about Ria..."
     C poisonedgrin "...Прости... ...за Рию..."
 
-# game/script_day1.rpy:3771
+# game/script_day1.rpy:3770
 translate russian d1a3_karma_7a9339c8:
 
     # C poisonedgrin bloody "I couldn't... ...resi... ...shut... ...her...up..."
     C poisonedgrin bloody "Я не смогла... ...усто... ...затк... ...её..."
 
-# game/script_day1.rpy:3772
+# game/script_day1.rpy:3771
 translate russian d1a3_karma_c9fb58a7:
 
     # Y troubled "Don't talk... Just...keep breathing..."
     Y troubled "Молчи... Просто...продолжай дышать..."
 
-# game/script_day1.rpy:3773
+# game/script_day1.rpy:3772
 translate russian d1a3_karma_00ef494a:
 
     # C poisoned bloody "{size=-5}You'll... ...to leave... ...by your...{/size}"
     C poisoned bloody "{size=-5}Тебе... ...придётся уйти... ...одной...{/size}"
 
-# game/script_day1.rpy:3774
+# game/script_day1.rpy:3773
 translate russian d1a3_karma_f809512d:
 
     # C "{size=-10}...orry... ...oodbye...{/size}"
     C "{size=-10}...прости... ...прощай...{/size}"
 
-# game/script_day1.rpy:3775
+# game/script_day1.rpy:3774
 translate russian d1a3_karma_6dcc18aa:
 
     # C "{cps=6}.......{/cps}"
     C "{cps=6}.......{/cps}"
 
-# game/script_day1.rpy:3792
+# game/script_day1.rpy:3791
 translate russian d1a3_karma_3b21aa31:
 
     # I "{cps=6}.....{/cps}"
     I "{cps=6}.....{/cps}"
 
-# game/script_day1.rpy:3794
+# game/script_day1.rpy:3793
 translate russian d1a3_karma_080deab5:
 
     # Y depressed bloody "{cps=6}.........{/cps}"
     Y depressed bloody "{cps=6}.........{/cps}"
 
-# game/script_day1.rpy:3800
+# game/script_day1.rpy:3799
 translate russian d1a3_karma_10331182:
 
     # I "...That must be...the front door downstairs opening..."
     I "...Теперь...входная дверь внизу должна быть открыта..."
 
-# game/script_day1.rpy:3801
+# game/script_day1.rpy:3800
 translate russian d1a3_karma_a02eac0e:
 
     # I "But...only one of us...needed to die..."
     I "Но...только одна из нас...должна была умереть..."
 
-# game/script_day1.rpy:3802
+# game/script_day1.rpy:3801
 translate russian d1a3_karma_0e428fb8:
 
     # I "...Oriana... Cecilia..."
     I "...Ориана... Сесилия..."
 
-# game/script_day1.rpy:3821
+# game/script_day1.rpy:3820
 translate russian d1a3_karma_287b8993:
 
     # I "They're...both dead..."
     I "Они...обе мертвы..."
 
-# game/script_day1.rpy:3822
+# game/script_day1.rpy:3821
 translate russian d1a3_karma_1b990de1:
 
     # I "And...it's my fault... It's [t_clue]all my fault[t_cluee]."
     I "И...это моя вина... [t_clue]Это всё моя вина[t_cluee]."
 
-# game/script_day1.rpy:3823
+# game/script_day1.rpy:3822
 translate russian d1a3_karma_58ceb952:
 
     # I "Because of choices I made..."
     I "Из-за решений, которые я приняла..."
 
-# game/script_day1.rpy:3824
+# game/script_day1.rpy:3823
 translate russian d1a3_karma_cead7df0:
 
     # I "This...is how it all ends...?" with shakeonce
     I "Так...вот как всё заканчивается...?" with shakeonce
 
-# game/script_day1.rpy:3825
+# game/script_day1.rpy:3824
 translate russian d1a3_karma_f40c3534:
 
     # I "Both of them are... A-are..." with shakeonce
     I "Они обе... О-они..." with shakeonce
 
-# game/script_day1.rpy:3826
+# game/script_day1.rpy:3825
 translate russian d1a3_karma_997912e8:
 
     # Y troubled bloody "...Ahh..." with shakeonce
     Y troubled bloody "...Ахх..." with shakeonce
 
-# game/script_day1.rpy:3833
+# game/script_day1.rpy:3832
 translate russian d1a3_karma_0559834b:
 
     # Y whiteeyes bloody "..... ...aaaaAAAGGHH...!{w=1.0}{nw}" with shakeshort
     Y whiteeyes bloody "..... ...ааааААААААГГГХХХ...!{w=1.0}{nw}" with shakeshort
 
-# game/script_day1.rpy:3840
+# game/script_day1.rpy:3839
 translate russian d1a3_karma_5dc1f75d:
 
     # KI "[t_ghost]{size=+5}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAGGGGGGGGHHHHHHHHHH!!!{/size}[t_ghoste]" with shakelong
@@ -9090,61 +9090,61 @@ translate russian d1a3_order_2399584a:
     # O sideeye "And what do you think this is, [name_player]?{nw}"
     O sideeye "А как ты думаешь, что это, [name_player]?{nw}"
 
-# game/script_day1.rpy:3992
+# game/script_day1.rpy:3991
 translate russian d1a3_order_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:3994
+# game/script_day1.rpy:3993
 translate russian d1a3_order_c5a3ceb4:
 
     # Y troubled "You did this..."
     Y troubled "Это сделала ты..."
 
-# game/script_day1.rpy:3996
+# game/script_day1.rpy:3995
 translate russian d1a3_order_69c77ff2:
 
     # Y "You killed her, didn't you, Oriana?" with shakeonce
     Y "Ты убила её, не так ли, Ориана?" with shakeonce
 
-# game/script_day1.rpy:3998
+# game/script_day1.rpy:3997
 translate russian d1a3_order_3f47605c:
 
     # O leering "You're accusing me of a crime? Where's your evidence?"
     O leering "Ты обвиняешь меня в убийстве? Где твои доказательства?"
 
-# game/script_day1.rpy:3999
+# game/script_day1.rpy:3998
 translate russian d1a3_order_e72e88b4:
 
     # Y scream "Who else could it possibly be?! There's only three of us in this whole house!" with shakeshort
     Y scream "Кто ещё это мог сделать?! Нас в этом доме всего трое!" with shakeshort
 
-# game/script_day1.rpy:4000
+# game/script_day1.rpy:3999
 translate russian d1a3_order_86a329c4:
 
     # O blink "...Exactly."
     O blink "...Именно."
 
-# game/script_day1.rpy:4001
+# game/script_day1.rpy:4000
 translate russian d1a3_order_cb224bf2:
 
     # Y shocked "...Huh?"
     Y shocked "...Что?"
 
-# game/script_day1.rpy:4003
+# game/script_day1.rpy:4002
 translate russian d1a3_order_c90f3e0e:
 
     # Y angry "....."
     Y angry "....."
 
-# game/script_day1.rpy:4004
+# game/script_day1.rpy:4003
 translate russian d1a3_order_80eb5213:
 
     # O leering "Hmph. Do you think glaring at me will do anything?"
     O leering "Хмф. Думаешь, то, что ты пялишься на меня, что-то изменит?"
 
-# game/script_day1.rpy:4005
+# game/script_day1.rpy:4004
 translate russian d1a3_order_cd4cc252:
 
     # O blink "...I remembered something, you see. Earlier, when we were talking in the hallway."
@@ -10944,289 +10944,289 @@ translate russian d1a4_6cb4228f:
     # O default "Do you remember anything about how you ended up here? Anything at all?{nw}"
     O default "Ты помнишь что-нибудь о том, как ты оказалась здесь? Хоть что-то?{nw}"
 
-# game/script_day1.rpy:4847
+# game/script_day1.rpy:4846
 translate russian d1a4_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:4853
+# game/script_day1.rpy:4852
 translate russian d1a4_a2165004:
 
     # Y shadow "....."
     Y shadow "....."
 
-# game/script_day1.rpy:4856
+# game/script_day1.rpy:4855
 translate russian d1a4_293a30e1:
 
     # Y "...I remember..."
     Y "...Я помню..."
 
-# game/script_day1.rpy:4857
+# game/script_day1.rpy:4856
 translate russian d1a4_c2af73b2:
 
     # Y wince "...I... I've been through all of this before..."
     Y wince "...Я... Я уже через это проходила раньше..."
 
-# game/script_day1.rpy:4859
+# game/script_day1.rpy:4858
 translate russian d1a4_d4464961:
 
     # C thinking "You've..."
     C thinking "Ты..."
 
-# game/script_day1.rpy:4860
+# game/script_day1.rpy:4859
 translate russian d1a4_d9f225be:
 
     # O surprised "...What?"
     O surprised "...Что?"
 
-# game/script_day1.rpy:4861
+# game/script_day1.rpy:4860
 translate russian d1a4_bacc9e2f:
 
     # Y blink "This might sound a little crazy, but..."
     Y blink "Это может прозвучать немного безумно, но..."
 
-# game/script_day1.rpy:4864
+# game/script_day1.rpy:4863
 translate russian d1a4_d39b73fb:
 
     # Y leering "I'm a [t_clue]time traveler[t_cluee] from the future."
     Y leering "Я [t_clue]путешественник во времени[t_cluee] из будущего."
 
-# game/script_day1.rpy:4865
+# game/script_day1.rpy:4864
 translate russian d1a4_1fd1aae6:
 
     # Y "I've experienced this killing game a countless number of times."
     Y "Я проживала эту убийственную игру бесчисленное количество раз."
 
-# game/script_day1.rpy:4867
+# game/script_day1.rpy:4866
 translate russian d1a4_e5230761:
 
     # C surprised "Wait, are you--"
     C surprised "Погоди, ты--"
 
-# game/script_day1.rpy:4868
+# game/script_day1.rpy:4867
 translate russian d1a4_076adf57:
 
     # O leering2 "....." with shakeonce
     O leering2 "....." with shakeonce
 
-# game/script_day1.rpy:4869
+# game/script_day1.rpy:4868
 translate russian d1a4_800497e2:
 
     # C thinking "Er..."
     C thinking "Эм..."
 
-# game/script_day1.rpy:4870
+# game/script_day1.rpy:4869
 translate russian d1a4_4f9d36d6:
 
     # Y shadow "And every single time, without fail..."
     Y shadow "И каждый раз, без исключения..."
 
-# game/script_day1.rpy:4906
+# game/script_day1.rpy:4905
 translate russian d1a4_6875713f:
 
     # Y troubled "{cps=12}At least one of you two{/cps}{cps=3}...{/cps}{nw}"
     Y troubled "{cps=12}Как минимум одна из вас{/cps}{cps=3}...{/cps}{nw}"
 
-# game/script_day1.rpy:4909
+# game/script_day1.rpy:4908
 translate russian d1a4_77124c62:
 
     # extend "[t_clue]dies tonight[t_cluee]." with shakeonce
     extend "[t_clue]умрёт сегодня ночью[t_cluee]." with shakeonce
 
-# game/script_day1.rpy:4916
+# game/script_day1.rpy:4915
 translate russian d1a4_6ece8df1:
 
     # Y depressed "{cps=12}No matter what I do... I...{/cps}" with shakeonce
     Y depressed "{cps=12}Что бы я ни делала... Я...{/cps}" with shakeonce
 
-# game/script_day1.rpy:4917
+# game/script_day1.rpy:4916
 translate russian d1a4_928023ab:
 
     # C "....."
     C "....."
 
-# game/script_day1.rpy:4918
+# game/script_day1.rpy:4917
 translate russian d1a4_3dde7ad1:
 
     # O "...[name_player]."
     O "...[name_player]."
 
-# game/script_day1.rpy:4919
+# game/script_day1.rpy:4918
 translate russian d1a4_7bb2160f:
 
     # O default "Let's go to the table in the dining room. I think we should sit down and talk about this."
     O default "Давайте сядем за стол в столовой. Я думаю, нам стоит обсудить это."
 
-# game/script_day1.rpy:4921
+# game/script_day1.rpy:4920
 translate russian d1a4_34b8d528:
 
     # Y shadow "......."
     Y shadow "......."
 
-# game/script_day1.rpy:4924
+# game/script_day1.rpy:4923
 translate russian d1a4_ef6b9074:
 
     # I "I told them everything I could remember."
     I "Я рассказала им всё, что смогла вспомнить."
 
-# game/script_day1.rpy:4925
+# game/script_day1.rpy:4924
 translate russian d1a4_14692be9:
 
     # I "Every [t_clue]clue[t_cluee] we found in the house... Every conversation I had with either of them..."
     I "Каждую [t_clue]улику[t_cluee], которую мы нашли в доме... Каждый разговор, который у меня был с кем-то из них..."
 
-# game/script_day1.rpy:4926
+# game/script_day1.rpy:4925
 translate russian d1a4_9270c188:
 
     # I "The writing on the front door changing... Playing rock-paper-scissors to decide on the bedrooms..."
     I "Надпись на входной двери, которая менялась... Как мы играли в камень-ножницы-бумагу, чтобы выбрать спальни..."
 
-# game/script_day1.rpy:4929
+# game/script_day1.rpy:4928
 translate russian d1a4_e1341cb5:
 
     # I "And...how we would never get through the night...without someone getting murdered..." with shakeonce
     I "И...как мы никогда не доживали до утра...без того, чтобы кого-то не убили..." with shakeonce
 
-# game/script_day1.rpy:4940
+# game/script_day1.rpy:4939
 translate russian d1a4_aff91997:
 
     # O "...I see. You've been through a lot, [name_player]."
     O "...Понимаю. Тебе пришлось через многое пройти, [name_player]."
 
-# game/script_day1.rpy:4942
+# game/script_day1.rpy:4941
 translate russian d1a4_717ce783:
 
     # C "Still, it's pretty hard to believe."
     C "И все же, в это довольно трудно поверить."
 
-# game/script_day1.rpy:4943
+# game/script_day1.rpy:4942
 translate russian d1a4_8958251a:
 
     # C smug "I can't picture Oriana having the guts to kill anyone."
     C smug "Я не могу представить, что у Орианы хватило бы духу кого-то убить."
 
-# game/script_day1.rpy:4944
+# game/script_day1.rpy:4943
 translate russian d1a4_9de28f0d:
 
     # O leering2 "...Do you want to try me?"
     O leering2 "...Хочешь проверить?"
 
-# game/script_day1.rpy:4945
+# game/script_day1.rpy:4944
 translate russian d1a4_fcc40215:
 
     # Y thinking "...Actually, now might be a good time to ask."
     Y thinking "...Вообще-то, сейчас, пожалуй, подходящий момент спросить."
 
-# game/script_day1.rpy:4946
+# game/script_day1.rpy:4945
 translate russian d1a4_90b67227:
 
     # C default "Hmm? Ask what?"
     C default "Хмм? Спросить что?"
 
-# game/script_day1.rpy:4947
+# game/script_day1.rpy:4946
 translate russian d1a4_8b1d8154:
 
     # Y "Each time one of you...died... It's strange but..."
     Y "Каждый раз, когда одна из вас...умирала... Это странно, но..."
 
-# game/script_day1.rpy:4950
+# game/script_day1.rpy:4949
 translate russian d1a4_70f4cbdd:
 
     # Y leering "It felt like you two...[t_clue]knew each other already[t_cluee]. Like, even before all this."
     Y leering "Казалось, что вы двое...[t_clue]уже знали друг друга[t_cluee]. Ещё до всего этого."
 
-# game/script_day1.rpy:4951
+# game/script_day1.rpy:4950
 translate russian d1a4_7cdc502a:
 
     # Y thinking "Oriana, you even called her \"Cece\"..."
     Y thinking "Ориана, ты даже называла её \"Сеси\"..."
 
-# game/script_day1.rpy:4953
+# game/script_day1.rpy:4952
 translate russian d1a4_5539e3ba:
 
     # O panicked "...!" with shakeonce
     O panicked "...!" with shakeonce
 
-# game/script_day1.rpy:4954
+# game/script_day1.rpy:4953
 translate russian d1a4_9f8fa373:
 
     # C blink "....."
     C blink "....."
 
-# game/script_day1.rpy:4955
+# game/script_day1.rpy:4954
 translate russian d1a4_4b1656d1:
 
     # C smile "...Looks like the jig is up, Ria."
     C smile "...Похоже, наша игра окончена, Рия."
 
-# game/script_day1.rpy:4956
+# game/script_day1.rpy:4955
 translate russian d1a4_b0ebd086:
 
     # O annoyed "Tsk. It's not like we got very far with it..." with shakeonce
     O annoyed "Чёрт. Не то чтобы мы далеко продвинулись в этом деле..." with shakeonce
 
-# game/script_day1.rpy:4957
+# game/script_day1.rpy:4956
 translate russian d1a4_3e380f7f:
 
     # Y surprised "Um..."
     Y surprised "Эм..."
 
-# game/script_day1.rpy:4958
+# game/script_day1.rpy:4957
 translate russian d1a4_001cc51e:
 
     # O irritated "{cps=12}.........{/cps}{w=1.0}{nw}"
     O irritated "{cps=12}.........{/cps}{w=1.0}{nw}"
 
-# game/script_day1.rpy:4960
+# game/script_day1.rpy:4959
 translate russian d1a4_365b6432:
 
     # extend thinking " *sigh*" with hpunch
     extend thinking " *вздох*" with hpunch
 
-# game/script_day1.rpy:4961
+# game/script_day1.rpy:4960
 translate russian d1a4_316c7f09:
 
     # O blink "I suppose considering all you've been through, [name_player]... You deserve to know the [t_clue]truth[t_cluee]."
     O blink "Думаю, учитывая всё, через что ты прошла, [name_player]... Ты заслуживаешь знать [t_clue]правду[t_cluee]."
 
-# game/script_day1.rpy:4962
+# game/script_day1.rpy:4961
 translate russian d1a4_bd5359b0:
 
     # Y panicked "Then..." with shakeonce
     Y panicked "Тогда..." with shakeonce
 
-# game/script_day1.rpy:4963
+# game/script_day1.rpy:4962
 translate russian d1a4_cc267e73:
 
     # O leering2 "That said, we can only answer you with what we actually know."
     O leering2 "Так или иначе, мы можем говорить только то, что мы действительно знаем."
 
-# game/script_day1.rpy:4964
+# game/script_day1.rpy:4963
 translate russian d1a4_f26fcf4a:
 
     # O thinking "For questions like \"Why are we trapped here?\", we're in the dark as much as you are."
     O thinking "На вопросы вроде \"Почему мы здесь заперты?\" у нас нет ответов, так же как и у тебя."
 
-# game/script_day1.rpy:4965
+# game/script_day1.rpy:4964
 translate russian d1a4_2f8c9e49:
 
     # Y default "...Sure."
     Y default "...Конечно."
 
-# game/script_day1.rpy:4967
+# game/script_day1.rpy:4966
 translate russian d1a4_69847d2b:
 
     # C "Okay! What do you want to know, [name_player]? Ask away!"
     C "Окей! Что ты хочешь узнать, [name_player]? Спрашивай!"
 
-# game/script_day1.rpy:4968
+# game/script_day1.rpy:4967
 translate russian d1a4_a98e1ae4:
 
     # I "There's so many questions I need answers to... I guess I should start with the important ones."
     I "У меня так много вопросов, которые я хочу задать... Думаю, стоит начать с самых важных."
 
-# game/script_day1.rpy:4969
+# game/script_day1.rpy:4968
 translate russian d1a4_d7804749:
 
     # I "Okay, let's do this!" with shakeonce
@@ -11262,115 +11262,115 @@ translate russian d1a4_question1_4c4a0edd:
     # C thinking "You might've thought we would team up to kill you...or maybe that we were the ones who kidnapped you in the first place.{nw}"
     C thinking "Ты могла подумать, что мы объединяемся, чтобы убить тебя...или что это мы тебя похитили.{nw}"
 
-# game/script_day1.rpy:5032
+# game/script_day1.rpy:5031
 translate russian d1a4_question1_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5034
+# game/script_day1.rpy:5033
 translate russian d1a4_question1_e4b96297:
 
     # Y surprised "I guess that makes sense..."
     Y surprised "Полагаю, в этом есть смысл..."
 
-# game/script_day1.rpy:5035
+# game/script_day1.rpy:5034
 translate russian d1a4_question1_4daf7990:
 
     # C sad "Sorry, [name_player]. It was all Ria's idea."
     C sad "Прости, [name_player]. Это была идея Рии."
 
-# game/script_day1.rpy:5036
+# game/script_day1.rpy:5035
 translate russian d1a4_question1_04c30451:
 
     # C thinking "I was of the mind of just giving you all the details and letting things happen from there."
     C thinking "Я считала, что лучше рассказать тебе всё и просто смотреть, что будет дальше."
 
-# game/script_day1.rpy:5037
+# game/script_day1.rpy:5036
 translate russian d1a4_question1_e9c98308:
 
     # O leering "That's too careless. [name_player]'s [t_clue]power[t_cluee] is one thing, but from our point of view, we only have one shot of getting out alive."
     O leering "Это слишком опрометчиво. [t_clue]Сила[t_cluee] [name_player] - это одно, но с нашей точки зрения, у нас всего один шанс выбраться отсюда живыми."
 
-# game/script_day1.rpy:5038
+# game/script_day1.rpy:5037
 translate russian d1a4_question1_a00146ac:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:5040
+# game/script_day1.rpy:5039
 translate russian d1a4_question1_9385db9d:
 
     # Y annoyed "That's a bit of a stretch, wouldn't you say?"
     Y annoyed "Это уже слишком, не находишь?"
 
-# game/script_day1.rpy:5041
+# game/script_day1.rpy:5040
 translate russian d1a4_question1_4fe23478:
 
     # O thinking "We couldn't take any chances, not with the situation being like it is."
     O thinking "Мы не могли рисковать, учитывая сложившуюся ситуацию."
 
-# game/script_day1.rpy:5042
+# game/script_day1.rpy:5041
 translate russian d1a4_question1_2b067c7c:
 
     # C sweatdrop "In the end, sounds like that kinda backfired on us, huh?"
     C sweatdrop "В итоге, похоже, это сработало против нас, а?"
 
-# game/script_day1.rpy:5043
+# game/script_day1.rpy:5042
 translate russian d1a4_question1_aacf06d7:
 
     # C smug "To think there were some instances where you spurred us on to turn against each other..."
     C smug "И подумать только, в какой-то момент ты даже подталкивала нас настроиться друг против друга..."
 
-# game/script_day1.rpy:5044
+# game/script_day1.rpy:5043
 translate russian d1a4_question1_d14a2ae0:
 
     # I "....." with shakeonce
     I "....." with shakeonce
 
-# game/script_day1.rpy:5045
+# game/script_day1.rpy:5044
 translate russian d1a4_question1_62deac4d:
 
     # O blink "Moving on... The other reason we didn't say anything was because we wanted to collect information first."
     O blink "Идём дальше... Вторая причина, по которой мы ничего не сказали, в том, что мы хотели сначала собрать информацию."
 
-# game/script_day1.rpy:5046
+# game/script_day1.rpy:5045
 translate russian d1a4_question1_c6a1c291:
 
     # O default "If we told you about our background, you might've been too distracted thinking about it to investigate properly."
     O default "Если бы мы сразу рассказали о себе, ты могла бы слишком отвлекалась на это и не смогла бы расследовать всё как следует."
 
-# game/script_day1.rpy:5048
+# game/script_day1.rpy:5047
 translate russian d1a4_question1_97564c78:
 
     # C "And boy, did that work out! You remembering everything from other timelines saved us from a lot of aimlessly looking around!"
     C "И как же это сработало! Твои воспоминания из других временных линий сэкономили нам кучу времени на бесцельный осмотр!"
 
-# game/script_day1.rpy:5049
+# game/script_day1.rpy:5048
 translate russian d1a4_question1_606aa654:
 
     # I "I...guess that's one good thing about all this...?"
     I "Я...думаю, единственный плюс во всей этой ситуации...?"
 
-# game/script_day1.rpy:5050
+# game/script_day1.rpy:5049
 translate russian d1a4_question1_c6949b50:
 
     # I "Ugh... I'm so exhausted though... Like I've been awake for days straight..." with shakeonce
     I "Угх... Но я так измотана... Будто не спала несколько дней подряд..." with shakeonce
 
-# game/script_day1.rpy:5051
+# game/script_day1.rpy:5050
 translate russian d1a4_question1_aff42e5b:
 
     # C smile "But now that the cat's outta the bag, we don't have to play dumb anymore, right Ria?"
     C smile "Но теперь, когда все карты раскрыты, нам больше не нужно прикидываться, верно, Рия?"
 
-# game/script_day1.rpy:5052
+# game/script_day1.rpy:5051
 translate russian d1a4_question1_0a7abc26:
 
     # O thinking "I suppose not."
     O thinking "Полагаю, нет."
 
-# game/script_day1.rpy:5054
+# game/script_day1.rpy:5053
 translate russian d1a4_question1_92456e1e:
 
     # I "So basically...[t_clue]no more secrets[t_cluee], huh...?"
@@ -11448,211 +11448,211 @@ translate russian d1a4_question2_89fcecd8:
     # O thinking "*sigh* ...She's my senior by one year, and yet she's never without this child-like enthusiasm...{nw}"
     O thinking "*вздох* ...Она старше меня на год, но всё ещё не потеряла этот детский энтузиазм...{nw}"
 
-# game/script_day1.rpy:5077
+# game/script_day1.rpy:5076
 translate russian d1a4_question2_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5079
+# game/script_day1.rpy:5078
 translate russian d1a4_question2_0d357010:
 
     # Y panicked "[name_cecilia]'s older than you are?!" with shakeonce
     Y panicked "[name_cecilia] старше тебя?!" with shakeonce
 
-# game/script_day1.rpy:5080
+# game/script_day1.rpy:5079
 translate russian d1a4_question2_7c10ac66:
 
     # C sad "You're being awfully rude, [name_player]..."
     C sad "Ты ужасно грубая, [name_player]..."
 
-# game/script_day1.rpy:5083
+# game/script_day1.rpy:5082
 translate russian d1a4_question2_9f5d82e4:
 
     # C "Wait, you thought I was a child this whole time, didn't you?{nw}" with shakeonce
     C "Подожди, ты всё это время думала, что я ребёнок, да?{nw}" with shakeonce
 
-# game/script_day1.rpy:5085
+# game/script_day1.rpy:5084
 translate russian d1a4_question2_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5087
+# game/script_day1.rpy:5086
 translate russian d1a4_question2_4bb7f973:
 
     # Y sad "Well... To be honest..."
     Y sad "Ну... Честно говоря..."
 
-# game/script_day1.rpy:5089
+# game/script_day1.rpy:5088
 translate russian d1a4_question2_aa904e25:
 
     # C sobbing "Mrgh... I suppose standing next to a stunning beauty like Ria here, I don't stand a chance, huh...?" with hpunch
     C sobbing "Мргх... Наверное, рядом с такой потрясной красавицей, как Рия, у меня нет и шанса, а...?" with hpunch
 
-# game/script_day1.rpy:5090
+# game/script_day1.rpy:5089
 translate russian d1a4_question2_ef3a7942:
 
     # O disappointed "Is it really necessary to have this conversation?"
     O disappointed "Обязательно ли нам обсуждать это?"
 
-# game/script_day1.rpy:5091
+# game/script_day1.rpy:5090
 translate russian d1a4_question2_1134afe9:
 
     # C pout "Oh, don't act like you're not happy to hear the compliment."
     C pout "Ой, не делай вид, что тебе не нравится слышать комплименты."
 
-# game/script_day1.rpy:5092
+# game/script_day1.rpy:5091
 translate russian d1a4_question2_840dbc30:
 
     # C wink "You think she's pretty too, right, [name_player]?"
     C wink "Ты ведь тоже считаешь её красивой, верно, [name_player]?"
 
-# game/script_day1.rpy:5093
+# game/script_day1.rpy:5092
 translate russian d1a4_question2_ef7030b2:
 
     # Y panicked "Well--{w=1.0}{nw}"
     Y panicked "Ну--{w=1.0}{nw}"
 
-# game/script_day1.rpy:5094
+# game/script_day1.rpy:5093
 translate russian d1a4_question2_56bf7412:
 
     # O irritated "You don't need to humour her, [name_player]. Let's move on." with shakeonce
     O irritated "Не обязательно подыгрывать ей, [name_player]. Давайте продолжим." with shakeonce
 
-# game/script_day1.rpy:5096
+# game/script_day1.rpy:5095
 translate russian d1a4_question2_93ba0905:
 
     # Y panicked "N-no, I just figured out of all of us... I-I don't know, [name_oriana] just seemed like... Uh..."
     Y panicked "Н-нет, я просто подумала, что из всех нас... Я-я не знаю, [name_oriana] просто казалась... Эм..."
 
-# game/script_day1.rpy:5097
+# game/script_day1.rpy:5096
 translate russian d1a4_question2_1ddeec14:
 
     # O disappointed "...Do you want to finish that sentence?"
     O disappointed "...Ты хочешь закончить эту фразу?"
 
-# game/script_day1.rpy:5098
+# game/script_day1.rpy:5097
 translate russian d1a4_question2_4333bf7e:
 
     # C smug "Oh, [name_player]... You're a clumsy one, aren't you?"
     C smug "Ох, [name_player]... Ты такая неуклюжий, да?"
 
-# game/script_day1.rpy:5099
+# game/script_day1.rpy:5098
 translate russian d1a4_question2_e3bdf6b0:
 
     # I "...Maybe I didn't need to follow this train of thought..."
     I "...Может, мне не стоило идти по этой цепочке мыслей..."
 
-# game/script_day1.rpy:5101
+# game/script_day1.rpy:5100
 translate russian d1a4_question2_b09a1da5:
 
     # Y default "You...don't seem to be into the occult as much, huh?"
     Y default "Ты...похоже, не особо интересуешься оккультизмом, а?"
 
-# game/script_day1.rpy:5102
+# game/script_day1.rpy:5101
 translate russian d1a4_question2_6e52d09e:
 
     # O default "....."
     O default "....."
 
-# game/script_day1.rpy:5103
+# game/script_day1.rpy:5102
 translate russian d1a4_question2_7e94b88f:
 
     # O blink "No. Not even a little."
     O blink "Нет. Ни капли."
 
-# game/script_day1.rpy:5104
+# game/script_day1.rpy:5103
 translate russian d1a4_question2_38238145:
 
     # Y thinking "Then...why are you in the Occult Club?"
     Y thinking "Тогда...почему ты в клубе оккультизма?"
 
-# game/script_day1.rpy:5105
+# game/script_day1.rpy:5104
 translate russian d1a4_question2_ea3d2f51:
 
     # O irritated "....." with shakeonce
     O irritated "....." with shakeonce
 
-# game/script_day1.rpy:5106
+# game/script_day1.rpy:5105
 translate russian d1a4_question2_e9a51a35:
 
     # C smug "......."
     C smug "......."
 
-# game/script_day1.rpy:5107
+# game/script_day1.rpy:5106
 translate russian d1a4_question2_8a2118d3:
 
     # Y default "...?"
     Y default "...?"
 
-# game/script_day1.rpy:5108
+# game/script_day1.rpy:5107
 translate russian d1a4_question2_643cd6e6:
 
     # O sideeye "...I have my reasons. It has nothing to do with our current situation."
     O sideeye "...У меня есть свои причины. Это не имеет отношения к нашей нынешней ситуации."
 
-# game/script_day1.rpy:5109
+# game/script_day1.rpy:5108
 translate russian d1a4_question2_bd07f34e:
 
     # Y surprised "O-oh, okay. ...Sorry?"
     Y surprised "О-ох, ладно. ...Прости?"
 
-# game/script_day1.rpy:5111
+# game/script_day1.rpy:5110
 translate russian d1a4_question2_61372973:
 
     # Y default "Are there others in the club besides you two?"
     Y default "Есть ли в клубе кто-то ещё, кроме вас двоих?"
 
-# game/script_day1.rpy:5112
+# game/script_day1.rpy:5111
 translate russian d1a4_question2_01524599:
 
     # O leering "...Does that matter?"
     O leering "...Это имеет значение?"
 
-# game/script_day1.rpy:5113
+# game/script_day1.rpy:5112
 translate russian d1a4_question2_1622140c:
 
     # Y sad "Uh... I don't know, I guess I was just curious...?"
     Y sad "Эм... Я не знаю, думаю, мне просто стало любопытно...?"
 
-# game/script_day1.rpy:5114
+# game/script_day1.rpy:5113
 translate russian d1a4_question2_39a4bdc0:
 
     # O thinking "....."
     O thinking "....."
 
-# game/script_day1.rpy:5116
+# game/script_day1.rpy:5115
 translate russian d1a4_question2_740297b2:
 
     # C default "We do have a [t_clue]third member[t_cluee], but she's not with us at the moment."
     C default "У нас есть [t_clue]третий участник[t_cluee], но на данный момент её с нами нет."
 
-# game/script_day1.rpy:5118
+# game/script_day1.rpy:5117
 translate russian d1a4_question2_55296fb1:
 
     # O shouting "Cecilia!" with shakeshort
     O shouting "Сесилия!" with shakeshort
 
-# game/script_day1.rpy:5121
+# game/script_day1.rpy:5120
 translate russian d1a4_question2_2249dbdf:
 
     # C "Whaaat, it doesn't matter!"
     C "Чттоо? Это неважно!"
 
-# game/script_day1.rpy:5122
+# game/script_day1.rpy:5121
 translate russian d1a4_question2_7eee3ff5:
 
     # C smug "Don't mind her, [name_player]. Let's just say that our third member is...a bit of a sensitive subject for Ria here."
     C smug "Не обращай на неё внимания, [name_player]. Скажем так, наш третий участник - это...немного болезненная тема для Рии."
 
-# game/script_day1.rpy:5123
+# game/script_day1.rpy:5122
 translate russian d1a4_question2_fe462a6a:
 
     # O irritated "....."
     O irritated "....."
 
-# game/script_day1.rpy:5124
+# game/script_day1.rpy:5123
 translate russian d1a4_question2_918d814a:
 
     # I "The third member..."
@@ -11934,259 +11934,259 @@ translate russian d1a4_question2A_f662bd38:
     # C wink "[name_player], did I spook you at least a little bit?{nw}"
     C wink "[name_player], я хотя бы чуть-чуть тебя напугала?{nw}"
 
-# game/script_day1.rpy:5250
+# game/script_day1.rpy:5249
 translate russian d1a4_question2A_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5252
+# game/script_day1.rpy:5251
 translate russian d1a4_question2A_c66974f0:
 
     # Y blink "No."
     Y blink "Нет."
 
-# game/script_day1.rpy:5255
+# game/script_day1.rpy:5254
 translate russian d1a4_question2A_1a81a940:
 
     # C "No hesitation at all? You're a meanie, [name_player]." with shakeonce
     C "Даже ни секунды сомнений? Ну и жадина, [name_player]." with shakeonce
 
-# game/script_day1.rpy:5257
+# game/script_day1.rpy:5256
 translate russian d1a4_question2A_62aaaad5:
 
     # Y sad "...Fine. Maybe a little."
     Y sad "...Ладно. Может, совсем чуть-чуть."
 
-# game/script_day1.rpy:5260
+# game/script_day1.rpy:5259
 translate russian d1a4_question2A_445a0725:
 
     # C "Yay!"
     C "Ура!"
 
-# game/script_day1.rpy:5262
+# game/script_day1.rpy:5261
 translate russian d1a4_question2A_8efb886e:
 
     # Y worried "...Please don't do that again..." with hpunch
     Y worried "...Пожалуйста, больше так не делай..." with hpunch
 
-# game/script_day1.rpy:5264
+# game/script_day1.rpy:5263
 translate russian d1a4_question2A_739effa8:
 
     # C "Oh no! I didn't mean to scare you THAT bad, [name_player]!"
     C "О нет! Я не хотела тебя ТАК сильно напугать, [name_player]!"
 
-# game/script_day1.rpy:5267
+# game/script_day1.rpy:5266
 translate russian d1a4_question2A_170e76d5:
 
     # O default "...Anyway, Cecilia insisted that the Occult Club check out this \"legend\" in person. See if it's for real."
     O default "...В любом случае, Сесилия настояла, чтобы клуб оккультизма проверил эту \"легенду\" лично. Узнать, правда ли это."
 
-# game/script_day1.rpy:5268
+# game/script_day1.rpy:5267
 translate russian d1a4_question2A_f389ea05:
 
     # O confused "But as soon as we arrived... Well, my memory goes blank from there."
     O confused "Но как только мы прибыли... Ну, дальше у меня провал в памяти."
 
-# game/script_day1.rpy:5270
+# game/script_day1.rpy:5269
 translate russian d1a4_question2A_15614f28:
 
     # C "Yep, me too! I guess the culprit must have nabbed us there and then."
     C "Ага, у меня тоже! Думаю, похититель схватил нас прямо тогда."
 
-# game/script_day1.rpy:5271
+# game/script_day1.rpy:5270
 translate russian d1a4_question2A_311d54da:
 
     # Y thinking "So then...{nw}"
     Y thinking "Значит...{nw}"
 
-# game/script_day1.rpy:5274
+# game/script_day1.rpy:5273
 translate russian d1a4_question2A_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5276
+# game/script_day1.rpy:5275
 translate russian d1a4_question2A_24f7effa:
 
     # Y "Could our kidnapper be the man in that legend? Or perhaps one of those apparitions?"
     Y "Может, наш похититель - это тот самый человек из легенды? Или один из призраков?"
 
-# game/script_day1.rpy:5278
+# game/script_day1.rpy:5277
 translate russian d1a4_question2A_90fb5ad8:
 
     # O disappointed "...Are you being serious right now, [name_player]?"
     O disappointed "...Ты сейчас серьёзно, [name_player]?"
 
-# game/script_day1.rpy:5279
+# game/script_day1.rpy:5278
 translate russian d1a4_question2A_ead99681:
 
     # Y panicked "I mean, wouldn't that explain a lot of things going on here?"
     Y panicked "Ну, разве это не объяснило бы многое из того, что здесь происходит?"
 
-# game/script_day1.rpy:5280
+# game/script_day1.rpy:5279
 translate russian d1a4_question2A_1dac3612:
 
     # O leering2 "[name_player]. Listen to yourself. You're suggesting that a {i}ghost{/i} is responsible for trapping us here."
     O leering2 "[name_player]. Послушай себя. Ты предлагаешь, что это {i}призрак{/i} запер нас здесь."
 
-# game/script_day1.rpy:5281
+# game/script_day1.rpy:5280
 translate russian d1a4_question2A_489442bb:
 
     # C smile "And what's wrong with that? All of this could totally be a malevolent spirit's twisted game."
     C smile "И что в этом такого? Всё это вполне может быть извращённой игрой злого духа."
 
-# game/script_day1.rpy:5282
+# game/script_day1.rpy:5281
 translate russian d1a4_question2A_6b3b51c4:
 
     # O annoyed "Ugh... I can't believe I'm the only sane one here..."
     O annoyed "Угх... Не могу поверить, что я здесь единственный здравомыслящий человек..."
 
-# game/script_day1.rpy:5283
+# game/script_day1.rpy:5282
 translate russian d1a4_question2A_d356f5e8:
 
     # O leering2 "...Okay, look. Say our culprit is indeed a ghost; what would be our plan for stopping it?"
     O leering2 "...Ладно, ладно. Если наш преступник и правда призрак, какой у нас план, чтобы его остановить?"
 
-# game/script_day1.rpy:5284
+# game/script_day1.rpy:5283
 translate russian d1a4_question2A_a9abe879:
 
     # Y surprised "Uh..."
     Y surprised "Эм..."
 
-# game/script_day1.rpy:5286
+# game/script_day1.rpy:5285
 translate russian d1a4_question2A_263294a6:
 
     # Y default "....."
     Y default "....."
 
-# game/script_day1.rpy:5287
+# game/script_day1.rpy:5286
 translate russian d1a4_question2A_9288395b:
 
     # Y thinking "Uh... Cece?"
     Y thinking "Эм... Сеси?"
 
-# game/script_day1.rpy:5289
+# game/script_day1.rpy:5288
 translate russian d1a4_question2A_bbc8af71:
 
     # C thinking "Hmm... I doubt this place will have any tools we could use to perform an exorcism..."
     C thinking "Хмм... Сомневаюсь, что в этом месте найдутся какие-либо инструменты для проведения экзорцизма..."
 
-# game/script_day1.rpy:5292
+# game/script_day1.rpy:5291
 translate russian d1a4_question2A_a9bec890:
 
     # C "Yeah, if the culprit is actually a ghost, we'd be completely screwed."
     C "Ага, если преступник действительно призрак, мы в полной заднице."
 
-# game/script_day1.rpy:5293
+# game/script_day1.rpy:5292
 translate russian d1a4_question2A_866e31a9:
 
     # Y worried "...All right, let's scrap that idea, then. Might as well think positively."
     Y worried "...Ладно, тогда отбросим эту идею. Лучше думать позитивно."
 
-# game/script_day1.rpy:5294
+# game/script_day1.rpy:5293
 translate russian d1a4_question2A_88bdf1bb:
 
     # O blink "That's all I'm trying to say, yes."
     O blink "Это то, что я пытаюсь сказать, да."
 
-# game/script_day1.rpy:5295
+# game/script_day1.rpy:5294
 translate russian d1a4_question2A_03b09d34:
 
     # I "But still... [t_clue]Black magic[t_cluee], huh...?"
     I "Но всё же... [t_clue]Чёрная магия[t_cluee], аа...?"
 
-# game/script_day1.rpy:5296
+# game/script_day1.rpy:5295
 translate russian d1a4_question2A_e6d21ba2:
 
     # I "I wonder if that has anything to do with what's been happening to me..."
     I "Интересно, связано ли это с тем, что происходит со мной..."
 
-# game/script_day1.rpy:5298
+# game/script_day1.rpy:5297
 translate russian d1a4_question2A_893b1cc1:
 
     # Y default "Is the legend true? Were you able to find anything?"
     Y default "Эта легенда - правда? Тебе удалось что-нибудь найти?"
 
-# game/script_day1.rpy:5300
+# game/script_day1.rpy:5299
 translate russian d1a4_question2A_8dee9172:
 
     # O blink "From a distance, the house was certainly eerie. And the surrounding houses were all empty as well."
     O blink "С расстояния этот дом выглядел жутковато. Да и соседние дома также были пусты."
 
-# game/script_day1.rpy:5301
+# game/script_day1.rpy:5300
 translate russian d1a4_question2A_c33c5db8:
 
     # O default "But that could all be easily explained by local weather conditions, real estate trends, and other data."
     O default "Но всё это можно легко объяснить местными погодными условиями, тенденциями на рынке недвижимости и другими факторами."
 
-# game/script_day1.rpy:5302
+# game/script_day1.rpy:5301
 translate russian d1a4_question2A_6006a523:
 
     # O irritated "But our president INSISTED we take the long commute to explore a dangerous part of town by ourselves."
     O irritated "Но наш президент НАСТОЯЛА, чтобы мы проделали долгий путь и исследовали опасный район города в одиночку."
 
-# game/script_day1.rpy:5303
+# game/script_day1.rpy:5302
 translate russian d1a4_question2A_e22ecccd:
 
     # O "Is it any surprise that we ended up getting kidnapped and forced into this crazy game?"
     O "Разве удивительно, что в итоге нас похитили и заставили участвовать в этой безумной игре?"
 
-# game/script_day1.rpy:5304
+# game/script_day1.rpy:5303
 translate russian d1a4_question2A_bbe57ec6:
 
     # C blink "Oh Ria... Sometimes I wonder if your lack of any child-like wonder is the secret to your voluptuous adult figure."
     C blink "Ох, Рия... Иногда мне кажется, что отсутствие детского любопытства – это секрет того, что ты выглядишь такой соблазнительной и взрослой."
 
-# game/script_day1.rpy:5305
+# game/script_day1.rpy:5304
 translate russian d1a4_question2A_0da3f551:
 
     # O "....."
     O "....."
 
-# game/script_day1.rpy:5314
+# game/script_day1.rpy:5313
 translate russian d1a4_question2A_725ab1d3:
 
     # C sobbing "Ow..."
     C sobbing "Ой..."
 
-# game/script_day1.rpy:5316
+# game/script_day1.rpy:5315
 translate russian d1a4_question2A_8b52cbb1:
 
     # I "She kicked her chair out from under her..."
     I "Она выбила стул из-под неё..."
 
-# game/script_day1.rpy:5319
+# game/script_day1.rpy:5318
 translate russian d1a4_question2A_df4e5568:
 
     # C "Anyways, [name_player], since we got knocked out just before we were about to enter the house, it's safe to say this place is it."
     C "В любом случае, [name_player], раз нас вырубили прямо перед тем, как мы вошли в дом, можно с уверенностью сказать, что это то самое место."
 
-# game/script_day1.rpy:5320
+# game/script_day1.rpy:5319
 translate russian d1a4_question2A_e75d5671:
 
     # C thinking "There's nothing here that indicates anything occult was going on, so it's possible the culprit posted that legend as bait..."
     C thinking "Здесь нет ничего, что указывало бы на оккультную деятельность, так что, возможно, преступник распространил эту легенду как приманку..."
 
-# game/script_day1.rpy:5321
+# game/script_day1.rpy:5320
 translate russian d1a4_question2A_f5e53fc6:
 
     # O default "So to answer your original question, [name_player], us being trapped here is one hundred percent Cecilia's fault."
     O default "Так что, отвечая на твой изначальный вопрос, [name_player], во всём, что с нами случилось, на сто процентов виновата Сесилия."
 
-# game/script_day1.rpy:5322
+# game/script_day1.rpy:5321
 translate russian d1a4_question2A_cdf46daf:
 
     # C pout "I'll admit to eighty percent. There's no way I could've known THIS would happen."
     C pout "Признаю только восемьдесят процентов. Я никак не могла предвидеть, что случится ТАКОЕ."
 
-# game/script_day1.rpy:5323
+# game/script_day1.rpy:5322
 translate russian d1a4_question2A_4e37451b:
 
     # I "...So that's the story of how the Occult Club ended up here, huh...?"
     I "...Так вот как клуб оккультизма оказался здесь, хм...?"
 
-# game/script_day1.rpy:5324
+# game/script_day1.rpy:5323
 translate russian d1a4_question2A_2c6ce4b2:
 
     # I "But what about me? I'm not part of the club, so how did I end up here...? ...Unless..."
@@ -12690,113 +12690,119 @@ translate russian d1a4_question2B_07081856:
     # Y surprised "S-so... The third member...{nw}"
     Y surprised "Т-так... Третий участник...{nw}"
 
-# game/script_day1.rpy:5452
+# game/script_day1.rpy:5451
 translate russian d1a4_question2B_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5454
+# game/script_day1.rpy:5453
 translate russian d1a4_question2B_0cb93cf9:
 
     # Y default "What kind of person is this third member?"
     Y default "Что за человек этот третий участник?"
 
-# game/script_day1.rpy:5456
+# game/script_day1.rpy:5455
 translate russian d1a4_question2B_29457dd3:
 
     # C thinking "Hmmmmmmmmmmm..."
     C thinking "Хммммммммммм..."
 
-# game/script_day1.rpy:5457
+# game/script_day1.rpy:5456
 translate russian d1a4_question2B_39a4bdc0:
 
     # O thinking "....."
     O thinking "....."
 
-# game/script_day1.rpy:5458
+# game/script_day1.rpy:5457
 translate russian d1a4_question2B_49980ef3:
 
     # C smile "...\"Stubborn\". That word just about sums her up."
     C smile "...\"Упрямая\". Это слово лучше всего её описывает."
 
-# game/script_day1.rpy:5459
+# game/script_day1.rpy:5458
 translate russian d1a4_question2B_f8eb6e9d:
 
     # O leering2 "That's a very crude way to describe her."
     O leering2 "Это довольно грубое описание."
 
-# game/script_day1.rpy:5460
+# game/script_day1.rpy:5459
 translate russian d1a4_question2B_4bf2187b:
 
     # Y "But is she interested in the occult?"
     Y "Но она интересуется оккультизмом?"
 
-# game/script_day1.rpy:5463
+# game/script_day1.rpy:5462
 translate russian d1a4_question2B_c9d047c6:
 
     # C "Oh yeah, totally! Definitely way more than Ria here."
     C "О да, определённо! Гораздо больше, чем Рия."
 
-# game/script_day1.rpy:5464
+# game/script_day1.rpy:5463
 translate russian d1a4_question2B_5bf7800c:
 
     # O confused "But since she couldn't make it, she had me join our club president on this excursion..."
     O confused "Но поскольку она не смогла прийти, она отправила меня сопровождать нашего президента клуба на этой экскурсии..."
 
-# game/script_day1.rpy:5465
+# game/script_day1.rpy:5464
 translate russian d1a4_question2B_f9e26f10:
 
     # C smug "...Yeah, I wonder what it would've been like if she were caught up in this whole thing...?"
     C smug "...Ага, интересно, что бы было, если бы она оказалась втянутой во всё это...?"
 
-# game/script_day1.rpy:5466
+# game/script_day1.rpy:5465
 translate russian d1a4_question2B_1d086c30:
 
     # O leering2 "....."
     O leering2 "....."
 
-# game/script_day1.rpy:5467
+# game/script_day1.rpy:5466
 translate russian d1a4_question2B_3adfb3b1:
 
     # C blink "Eh. Not like it matters now."
     C blink "Эх. Сейчас это уже неважно."
 
-# game/script_day1.rpy:5468
+# game/script_day1.rpy:5467
 translate russian d1a4_question2B_bd79ab87:
 
     # C default "[name_player], don't you have other questions you'd rather be asking?"
     C default "[name_player], у тебя нет других вопросов, которые стоило бы задать?"
 
-# game/script_day1.rpy:5469
+# game/script_day1.rpy:5468
 translate russian d1a4_question2B_982bac0b:
 
     # I "...Yeah, I guess there's not much point asking about someone who isn't here..."
     I "...Ага, думаю, нет особого смысла спрашивать о том, кого здесь нет..."
 
-# game/script_day1.rpy:5471
+# game/script_day1.rpy:5470
 translate russian d1a4_question2B_a4dce35c:
 
     # Y thinking "Is that person...me?"
     Y thinking "Этот человек...я?"
 
-# game/script_day1.rpy:5474
+# game/script_day1.rpy:5473
 translate russian d1a4_question2B_d9f225be:
 
     # O surprised "...What?"
     O surprised "...Что?"
 
-# game/script_day1.rpy:5475
+# game/script_day1.rpy:5474
 translate russian d1a4_question2B_6f61ae8f:
 
     # C surprised "Heh?"
     C surprised "Хех?"
 
-# game/script_day1.rpy:5476
+# game/script_day1.rpy:5475
 translate russian d1a4_question2B_5550a66d:
 
     # O confused "Care to explain how you came to such an odd conclusion?{nw}"
     O confused "Не хочешь объяснить, как ты пришла к такому странному выводу?{nw}"
+
+# game/script_day1.rpy:5477
+translate russian d1a4_question2B_11fdb519_1:
+
+    # extend "" nointeract
+    extend "" nointeract
 
 # game/script_day1.rpy:5479
 translate russian d1a4_question2B_b3358c8b:
@@ -12840,181 +12846,181 @@ translate russian d1a4_question2B_5a86dfd9:
     # C thinking "...So? What's your point?{nw}"
     C thinking "...И? К чему ты клонишь?{nw}"
 
-# game/script_day1.rpy:5491
-translate russian d1a4_question2B_11fdb519_1:
+# game/script_day1.rpy:5490
+translate russian d1a4_question2B_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5497
+# game/script_day1.rpy:5496
 translate russian d1a4_question2B_fb0ba088:
 
     # Y annoyed "I dunno, it was just...oddly friendly?"
     Y annoyed "Не знаю, это было просто... странно дружелюбно?"
 
-# game/script_day1.rpy:5498
+# game/script_day1.rpy:5497
 translate russian d1a4_question2B_61414411:
 
     # C sweatdrop "...And what's strange about that? We'd known each other for a whole evening at that point, right?"
     C sweatdrop "...И что тут странного? Мы же знали друг друга уже целый вечер, верно?"
 
-# game/script_day1.rpy:5499
+# game/script_day1.rpy:5498
 translate russian d1a4_question2B_c3218ca9:
 
     # C smug "Plus, I'm very sociable, ya know! I can make a friend using only eye contact and body language!"
     C smug "Плюс, я очень общительная, знаешь ли! Я могу завести друга, используя только зрительный контакт и язык тела!"
 
-# game/script_day1.rpy:5501
+# game/script_day1.rpy:5500
 translate russian d1a4_question2B_5d19ccfb:
 
     # O disappointed "....."
     O disappointed "....."
 
-# game/script_day1.rpy:5503
+# game/script_day1.rpy:5502
 translate russian d1a4_question2B_dc12c1cd:
 
     # Y worried "I don't doubt that, but..."
     Y worried "Я не сомневаюсь в этом, но..."
 
-# game/script_day1.rpy:5504
+# game/script_day1.rpy:5503
 translate russian d1a4_question2B_63c31320:
 
     # Y sad "...I don't know, it felt like you were looking at me as though...I had been a close friend. Definitely longer than one evening."
     Y sad "...Не знаю, у меня было ощущение, что ты смотрела на меня так, будто... мы были близкими друзьями. Определённо дольше одного вечера."
 
-# game/script_day1.rpy:5511
+# game/script_day1.rpy:5510
 translate russian d1a4_question2B_713774e6:
 
     # Y leering "You said \"Ria\" when that whole evening, you were calling her \"Oriana\"."
     Y leering "Ты сказала \"Рия\", хотя весь вечер называла её \"Ориана\"."
 
-# game/script_day1.rpy:5512
+# game/script_day1.rpy:5511
 translate russian d1a4_question2B_928023ab:
 
     # C "....."
     C "....."
 
-# game/script_day1.rpy:5513
+# game/script_day1.rpy:5512
 translate russian d1a4_question2B_e48ea1bf:
 
     # Y thinking "You said it as though...you knew I would be familiar with that nickname."
     Y thinking "Ты сказала это так, будто...знала, что мне знакомо это прозвище."
 
-# game/script_day1.rpy:5515
+# game/script_day1.rpy:5514
 translate russian d1a4_question2B_d4c19e9c:
 
     # Y "But you've definitely never used it before, and only started now. After I mentioned Ria calling you \"Cece\"."
     Y "Но ты точно никогда его раньше не использовала, и начала только сейчас. После того, как я упомянула, что Рия называла тебя \"Сеси\"."
 
-# game/script_day1.rpy:5517
+# game/script_day1.rpy:5516
 translate russian d1a4_question2B_fe462a6a:
 
     # O irritated "....."
     O irritated "....."
 
-# game/script_day1.rpy:5519
+# game/script_day1.rpy:5518
 translate russian d1a4_question2B_e44ccf6a:
 
     # C surprised "...!" with shakeonce
     C surprised "...!" with shakeonce
 
-# game/script_day1.rpy:5522
+# game/script_day1.rpy:5521
 translate russian d1a4_question2B_f35e14a9:
 
     # C "Niiiice~ That's some solid detective work there, [name_player]!"
     C "Клаааасс~ Отличная детективная работа, [name_player]!"
 
-# game/script_day1.rpy:5523
+# game/script_day1.rpy:5522
 translate russian d1a4_question2B_1304949f:
 
     # Y panicked "I-is that all you have to say? How do you explain suddenly using the wrong name?"
     Y panicked "Э-это всё, что ты скажешь? Как ты объяснишь, что вдруг использовала другое имя?"
 
-# game/script_day1.rpy:5524
+# game/script_day1.rpy:5523
 translate russian d1a4_question2B_9704c15f:
 
     # C thinking "Hmm... Maybe I slipped up because I was delirious from blood loss?"
     C thinking "Хмм... Может, я ошиблась, потому что бредила от потери крови?"
 
-# game/script_day1.rpy:5525
+# game/script_day1.rpy:5524
 translate russian d1a4_question2B_5940d904:
 
     # Y leering "You were poisoned."
     Y leering "Ты была отравлена."
 
-# game/script_day1.rpy:5526
+# game/script_day1.rpy:5525
 translate russian d1a4_question2B_77d26d0a:
 
     # C blink "Then I guess the poison did something to my brain."
     C blink "Тогда, думаю, яд сделал что-то с моим мозгом."
 
-# game/script_day1.rpy:5527
+# game/script_day1.rpy:5526
 translate russian d1a4_question2B_30de3532:
 
     # Y worried "Come on..." with hpunch
     Y worried "Да брось..." with hpunch
 
-# game/script_day1.rpy:5528
+# game/script_day1.rpy:5527
 translate russian d1a4_question2B_4dd011be:
 
     # C sweatdrop "Look, [name_player], I dunno what to tell ya."
     C sweatdrop "Слушай, [name_player], я даже не знаю, что тебе сказать."
 
-# game/script_day1.rpy:5529
+# game/script_day1.rpy:5528
 translate russian d1a4_question2B_dba61189:
 
     # C default "You're talking about an alternate, future version of me who stabbed someone in the neck, all while choking from rat poison."
     C default "Ты говоришь об альтернативной, будущей версии меня, которая всадила кому-то нож в шею, задыхаясь от крысиного яда."
 
-# game/script_day1.rpy:5530
+# game/script_day1.rpy:5529
 translate russian d1a4_question2B_9a5dfeac:
 
     # C sad "Do you really wanna trust the words of someone like that? And this is ME talking."
     C sad "Ты правда хочешь доверять словам такого человека? А сейчас говорю Я."
 
-# game/script_day1.rpy:5531
+# game/script_day1.rpy:5530
 translate russian d1a4_question2B_55ace44f:
 
     # Y "....."
     Y "....."
 
-# game/script_day1.rpy:5533
+# game/script_day1.rpy:5532
 translate russian d1a4_question2B_336cf0df:
 
     # Y thinking "[name_oriana]? What do you think?"
     Y thinking "[name_oriana]? Что ты думаешь?"
 
-# game/script_day1.rpy:5540
+# game/script_day1.rpy:5539
 translate russian d1a4_question2B_1539e3d7:
 
     # O "...For once, I think Cecilia is making perfect sense."
     O "...На этот раз, я думаю, Сесилия говорит своершенно разумные вещи."
 
-# game/script_day1.rpy:5541
+# game/script_day1.rpy:5540
 translate russian d1a4_question2B_7b2910f1:
 
     # O default "That version of her is not only dead, but from a timeline where things played out...chaotically, to say the least."
     O default "Та её версия не только мертва, но и из временной линии, где всё развивалось...хаотично, мягко говоря."
 
-# game/script_day1.rpy:5542
+# game/script_day1.rpy:5541
 translate russian d1a4_question2B_96287b97:
 
     # O blink "I wouldn't put much faith in someone like that either."
     O blink "Я бы тоже не стала слишком доверять такому человеку."
 
-# game/script_day1.rpy:5544
+# game/script_day1.rpy:5543
 translate russian d1a4_question2B_928023ab_1:
 
     # C "....."
     C "....."
 
-# game/script_day1.rpy:5545
+# game/script_day1.rpy:5544
 translate russian d1a4_question2B_28d95e92:
 
     # I "...Why?"
     I "...Почему?"
 
-# game/script_day1.rpy:5547
+# game/script_day1.rpy:5546
 translate russian d1a4_question2B_4715113f:
 
     # I "Why can't I shake this feeling that...they're still [t_clue]hiding something[t_cluee] from me?" with shakeonce
@@ -13176,367 +13182,367 @@ translate russian d1a4_question3_b33669c2:
     # I "Is that supposed to be whispering...? I can hear them...{nw}"
     I "Это что, шёпот...? Я слышу их...{nw}"
 
-# game/script_day1.rpy:5593
+# game/script_day1.rpy:5592
 translate russian d1a4_question3_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5596
+# game/script_day1.rpy:5595
 translate russian d1a4_question3_18d887e3:
 
     # Y leering "There's no reason for you two to keep secrets from me anymore, right? Are you sure nothing comes to mind?"
     Y leering "У вас двоих больше нет причин скрывать от меня свои секреты, верно? Вы уверены, что вам ничего не приходит в голову?"
 
-# game/script_day1.rpy:5597
+# game/script_day1.rpy:5596
 translate russian d1a4_question3_8eaf19b8:
 
     # O blink "....."
     O blink "....."
 
-# game/script_day1.rpy:5598
+# game/script_day1.rpy:5597
 translate russian d1a4_question3_75eba6f3:
 
     # O "...You mentioned that your memories of a day end whenever one of us dies, correct?"
     O "...Ты говорила, что твои воспоминания о дне заканчиваются, когда кто-то из нас умирает, верно?"
 
-# game/script_day1.rpy:5599
+# game/script_day1.rpy:5598
 translate russian d1a4_question3_43c1817e:
 
     # O default "That must be the [t_clue]trigger[t_cluee] that sends you backwards in time."
     O default "Это, должно быть, [t_clue]триггер[t_cluee], который отправляет тебя назад во времени."
 
-# game/script_day1.rpy:5600
+# game/script_day1.rpy:5599
 translate russian d1a4_question3_1d6d7704:
 
     # C thinking "But isn't that the same trigger for opening the front door? Seems like a rigged game..."
     C thinking "Но разве это не тот же самый триггер, который открывает входную дверь? Похоже на подставную игру..."
 
-# game/script_day1.rpy:5601
+# game/script_day1.rpy:5600
 translate russian d1a4_question3_fc27a31f:
 
     # O thinking "But if you recall what [name_player] said, there's always the SOUND of the door opening..."
     O thinking "Но если вспомнить, что сказала [name_player], всегда слышен ЗВУК открывающейся двери..."
 
-# game/script_day1.rpy:5603
+# game/script_day1.rpy:5602
 translate russian d1a4_question3_29ed1040:
 
     # C "Ooh, what if the door is what's causing you to go back in time?"
     C "Оох, а что, если именно дверь заставляет тебя возвращаться назад во времени?"
 
-# game/script_day1.rpy:5604
+# game/script_day1.rpy:5603
 translate russian d1a4_question3_25f31f8f:
 
     # C smug "After all, it's never been YOU who died, right, [name_player]?"
     C smug "В конце концов, это же ТЫ никогда не умирала, верно, [name_player]?"
 
-# game/script_day1.rpy:5605
+# game/script_day1.rpy:5604
 translate russian d1a4_question3_0adec1d7:
 
     # Y sad "That's..." with shakeonce
     Y sad "Это..." with shakeonce
 
-# game/script_day1.rpy:5606
+# game/script_day1.rpy:5605
 translate russian d1a4_question3_3215d5e2:
 
     # O confused "But that would mean the two of us should also be going back in time."
     O confused "Но это означало бы, что и мы двое тоже должны возвращаться во времени."
 
-# game/script_day1.rpy:5607
+# game/script_day1.rpy:5606
 translate russian d1a4_question3_a094ab68:
 
     # O "After all, according to [name_player], there were some instances where one of us survived and even left first."
     O "Ведь по словам [name_player], были случаи, когда кто-то из нас выживал и даже уходил первым."
 
-# game/script_day1.rpy:5608
+# game/script_day1.rpy:5607
 translate russian d1a4_question3_8afe7b1c:
 
     # C thinking "That's true... I guess we've no reason to believe this game's rigged, then..."
     C thinking "Это правда... Значит, у нас нет оснований считать, что игра подстроена..."
 
-# game/script_day1.rpy:5609
+# game/script_day1.rpy:5608
 translate russian d1a4_question3_625a1f49:
 
     # Y surprised "So it's really just {i}me{/i} traveling back in time? No one else remembers going through all this before?"
     Y surprised "Значит, только {i}я{/i} путешествую во времени? Никто больше не помнит, что уже проходил через это раньше?"
 
-# game/script_day1.rpy:5610
+# game/script_day1.rpy:5609
 translate russian d1a4_question3_70198774:
 
     # O default "It is just you, yes."
     O default "Да, только ты."
 
-# game/script_day1.rpy:5611
+# game/script_day1.rpy:5610
 translate russian d1a4_question3_476f0ba8:
 
     # C default "For us, there's just been two weird things. First, waking up here with no way out..."
     C default "У нас было только две странные вещи. Во-первых, проснуться здесь без возможности выбраться..."
 
-# game/script_day1.rpy:5612
+# game/script_day1.rpy:5611
 translate russian d1a4_question3_4e0fa5e2:
 
     # C smug "...And now you, saying things you can't possibly know without being a real time traveler."
     C smug "...А теперь ещё ты говоришь вещи, которые невозможно знать, если ты не настоящий путешественник во времени."
 
-# game/script_day1.rpy:5613
+# game/script_day1.rpy:5612
 translate russian d1a4_question3_249d5d76:
 
     # Y sad "But then...where is this power coming from...?"
     Y sad "Но тогда...откуда берётся эта сила...?"
 
-# game/script_day1.rpy:5614
+# game/script_day1.rpy:5613
 translate russian d1a4_question3_39a4bdc0:
 
     # O thinking "....."
     O thinking "....."
 
-# game/script_day1.rpy:5615
+# game/script_day1.rpy:5614
 translate russian d1a4_question3_d54393e5:
 
     # C thinking "....."
     C thinking "....."
 
-# game/script_day1.rpy:5617
+# game/script_day1.rpy:5616
 translate russian d1a4_question3_a041a388:
 
     # I "...Ugh, there's gotta be something I'm missing here..."
     I "...Угх, похоже, я что-то упускаю..."
 
-# game/script_day1.rpy:5619
+# game/script_day1.rpy:5618
 translate russian d1a4_question3_f3fa49ed:
 
     # I "I should [t_clue]ask something else[t_cluee] and come back to this question later."
     I "Мне стоит [t_clue]спросить что-то другое[t_cluee] и вернуться к этому вопросу позже."
 
-# game/script_day1.rpy:5622
+# game/script_day1.rpy:5621
 translate russian d1a4_question3_fad65327:
 
     # I "Wait... What did [name_cecilia] finish sharing with us earlier...?{nw}"
     I "Постойте... Что [name_cecilia] рассказывала нам ранее...?{nw}"
 
-# game/script_day1.rpy:5624
+# game/script_day1.rpy:5623
 translate russian d1a4_question3_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5627
+# game/script_day1.rpy:5626
 translate russian d1a4_question3_2b8155ab:
 
     # Y thinking "...Maybe it could have something to do with that legend?"
     Y thinking "...Может, это может быть как-то связано с той легендой?"
 
-# game/script_day1.rpy:5628
+# game/script_day1.rpy:5627
 translate russian d1a4_question3_6e5e8df0:
 
     # C "\"The Black Magic Mansion\"?"
     C "\"Особняк чёрной магии\"?"
 
-# game/script_day1.rpy:5629
+# game/script_day1.rpy:5628
 translate russian d1a4_question3_12ed70ba:
 
     # C surprised "Ooooh, you think black magic could be causing your time traveling? Hmm..."
     C surprised "Оооох, ты думаешь, что чёрная магия может вызывать твои перемещения во времени? Хмм..."
 
-# game/script_day1.rpy:5630
+# game/script_day1.rpy:5629
 translate russian d1a4_question3_7da21fce:
 
     # O leering2 "We're living in the 21st century. This isn't hundreds of years ago where everything was signed off as magic."
     O leering2 "Мы живём в 21-м веке. Это не средневековье, когда всему находили магическое объяснение."
 
-# game/script_day1.rpy:5631
+# game/script_day1.rpy:5630
 translate russian d1a4_question3_0015ad8d:
 
     # C smug "Oh yeah, I'm sure there's a scientific reason for why [name_player] is time traveling. Pft."
     C smug "О да, конечно, есть научное объяснение, почему [name_player] путешествует во времени. Пфф."
 
-# game/script_day1.rpy:5632
+# game/script_day1.rpy:5631
 translate russian d1a4_question3_11e83176:
 
     # O irritated2 "...Even if there are supernatural elements at play here, I'm sure there's a logical ruleset to everything. That's all I'm saying."
     O irritated2 "...Даже если здесь замешаны сверхъестественные элементы, я уверена, что всему есть логическое объяснение. Вот о чём я."
 
-# game/script_day1.rpy:5633
+# game/script_day1.rpy:5632
 translate russian d1a4_question3_1e59a20d:
 
     # C happy "Yeah, that's what I think too!"
     C happy "Да, я тоже так думаю!"
 
-# game/script_day1.rpy:5634
+# game/script_day1.rpy:5633
 translate russian d1a4_question3_5951bc40:
 
     # C sweatdrop "But until we narrow down [t_clue]what type of black magic[t_cluee] it is, my occult knowledge won't help us out yet."
     C sweatdrop "Но пока мы не выясним [t_clue]какой именно вид чёрной магии[t_cluee] здесь задействован, мои знания оккультизма нам не помогут."
 
-# game/script_day1.rpy:5635
+# game/script_day1.rpy:5634
 translate russian d1a4_question3_347b62d0:
 
     # I "The type...?"
     I "Вид...?"
 
-# game/script_day1.rpy:5636
+# game/script_day1.rpy:5635
 translate russian d1a4_question3_6a19bf30:
 
     # C default "Actually, on that note... So you don't have any control over your time traveling, right, [name_player]?"
     C default "Кстати, раз уж мы об этом... Значит, ты никак не контролируешь свои перемещения во времени, верно, [name_player]?"
 
-# game/script_day1.rpy:5637
+# game/script_day1.rpy:5636
 translate russian d1a4_question3_4821e36e:
 
     # Y thinking "No... I've never even seen the front door open, even though I always HEAR it opening."
     Y thinking "Нет... Я даже ни разу не видела, как открывается входная дверь, хотя всегда СЛЫШУ этот звук."
 
-# game/script_day1.rpy:5638
+# game/script_day1.rpy:5637
 translate russian d1a4_question3_0744a4ef:
 
     # C blink "Interesting... That's a bit of a problem then."
     C blink "Интересно... Тогда это небольшая проблема."
 
-# game/script_day1.rpy:5639
+# game/script_day1.rpy:5638
 translate russian d1a4_question3_74b790fc:
 
     # Y surprised "A problem?"
     Y surprised "Проблема?"
 
-# game/script_day1.rpy:5640
+# game/script_day1.rpy:5639
 translate russian d1a4_question3_3ef7c01b:
 
     # C thinking "I mean, if you keep traveling back in time whenever one of us dies..."
     C thinking "Я имею в виду, если ты возвращаешься во времени каждый раз, когда кто-то из нас умирает..."
 
-# game/script_day1.rpy:5642
+# game/script_day1.rpy:5641
 translate russian d1a4_question3_7cac6c66:
 
     # C default "How will {i}you{/i} ever get to leave this place?"
     C default "Как {i}ты{/i} вообще сможешь выбраться отсюда?"
 
-# game/script_day1.rpy:5643
+# game/script_day1.rpy:5642
 translate russian d1a4_question3_a8180a78:
 
     # Y afraid "...!" with shakeshort
     Y afraid "...!" with shakeshort
 
-# game/script_day1.rpy:5644
+# game/script_day1.rpy:5643
 translate russian d1a4_question3_bd7ebef0:
 
     # O surprised "That's..." with shakeonce
     O surprised "Это..." with shakeonce
 
-# game/script_day1.rpy:5653
+# game/script_day1.rpy:5652
 translate russian d1a4_question3_e83d1bcc:
 
     # C blink "Another thing I noticed, in all your time travel tales, not a single one ends with {i}you{/i} being killed."
     C blink "Я заметила такую вещь, что из всех твоих рассказах о перемещениях ни один не заканчивается тем, что {i}ты{/i} погибаешь."
 
-# game/script_day1.rpy:5654
+# game/script_day1.rpy:5653
 translate russian d1a4_question3_0a216f58:
 
     # C grin "Which begs the question: what happens if YOU die? Do you still go back in time?"
     C grin "Это наводит на вопрос: что случится, если {i}ТЫ{/i} умрёшь? Ты всё равно вернёшься назад во времени?"
 
-# game/script_day1.rpy:5655
+# game/script_day1.rpy:5654
 translate russian d1a4_question3_a00146ac:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:5656
+# game/script_day1.rpy:5655
 translate russian d1a4_question3_d148bb31:
 
     # C creepygrin "...Well, [name_player]? Aren't you just a teeny-tiny bit curious?"
     C creepygrin "...Ну что, [name_player]? Разве тебе нисколечки не любопытно?"
 
-# game/script_day1.rpy:5657
+# game/script_day1.rpy:5656
 translate russian d1a4_question3_9d87dd5e:
 
     # Y shocked "I..." with shakeonce
     Y shocked "Я..." with shakeonce
 
-# game/script_day1.rpy:5665
+# game/script_day1.rpy:5664
 translate russian d1a4_question3_cbcfefa2:
 
     # O "Stop. That's enough, Cecilia."
     O "Хватит. Достаточно, Сесилия."
 
-# game/script_day1.rpy:5666
+# game/script_day1.rpy:5665
 translate russian d1a4_question3_27f23f77:
 
     # O "After everything [name_player]'s been through, we..."
     O "После всего, что [name_player] пережила, мы..."
 
-# game/script_day1.rpy:5667
+# game/script_day1.rpy:5666
 translate russian d1a4_question3_d5c3661c:
 
     # O thinking "...We just can't do that." with shakeonce
     O thinking "...Мы просто не можем этого сделать." with shakeonce
 
-# game/script_day1.rpy:5668
+# game/script_day1.rpy:5667
 translate russian d1a4_question3_fbff4fe8:
 
     # C default "....."
     C default "....."
 
-# game/script_day1.rpy:5669
+# game/script_day1.rpy:5668
 translate russian d1a4_question3_bbc2f4d9:
 
     # C blink "Fair enough."
     C blink "Справедливо."
 
-# game/script_day1.rpy:5670
+# game/script_day1.rpy:5669
 translate russian d1a4_question3_a00146ac_1:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:5672
+# game/script_day1.rpy:5671
 translate russian d1a4_question3_deee8470:
 
     # C thinking "I suppose our only option is to just find an actual way out of here."
     C thinking "Полагаю, наш единственный вариант - это найти реальный выход отсюда."
 
-# game/script_day1.rpy:5673
+# game/script_day1.rpy:5672
 translate russian d1a4_question3_f76539cf:
 
     # C sad "But [name_player], from everything you remember, there isn't any other exit, now is there...?"
     C sad "Но [name_player], из всего, что ты помнишь, другого выхода нет, верно...?"
 
-# game/script_day1.rpy:5674
+# game/script_day1.rpy:5673
 translate russian d1a4_question3_7c0b475a:
 
     # Y sad "Mrgh..." with shakeonce
     Y sad "Мргх..." with shakeonce
 
-# game/script_day1.rpy:5675
+# game/script_day1.rpy:5674
 translate russian d1a4_question3_fe462a6a:
 
     # O irritated "....."
     O irritated "....."
 
-# game/script_day1.rpy:5676
+# game/script_day1.rpy:5675
 translate russian d1a4_question3_41b6f2c4:
 
     # I "Come on, think, was there really no way to get outside...?"
     I "Давай, думай, неужели не было вообще никакого способа выбраться...?"
 
-# game/script_day1.rpy:5677
+# game/script_day1.rpy:5676
 translate russian d1a4_question3_a00146ac_2:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:5678
+# game/script_day1.rpy:5677
 translate russian d1a4_question3_f5845a0c:
 
     # I ".......Wait."
     I ".......Постой."
 
-# game/script_day1.rpy:5679
+# game/script_day1.rpy:5678
 translate russian d1a4_question3_ac3f4226:
 
     # I "There was one thing we never finished talking about...!" with shakeonce
     I "Была одна вещь, о которой мы так и не договорили...!" with shakeonce
 
-# game/script_day1.rpy:5680
+# game/script_day1.rpy:5679
 translate russian d1a4_question3_2f878a18:
 
     # I "But I guess if we're gonna go looking for him, I'll need to [t_clue]end my questioning[t_cluee]..."
@@ -13854,7 +13860,7 @@ translate russian dogname_select_0f0f7a08:
     # I "The dog's name was...{nw}"
     I "Имя собаки было...{nw}"
 
-# game/script_day1.rpy:5805
+# game/script_day1.rpy:5804
 translate russian dogname_select_11fdb519:
 
     # extend "" nointeract
@@ -13866,49 +13872,49 @@ translate russian dogname_entry_8b365ead:
     # I "...Nah, that's gonna get confusing. Let's try something else.{nw}"
     I "...Не, это будет путать. Давайте попробуем что-то другое.{nw}"
 
-# game/script_day1.rpy:5832
+# game/script_day1.rpy:5831
 translate russian dogname_entry_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5838
+# game/script_day1.rpy:5837
 translate russian dogname_entry_7d319581:
 
     # I "...I guess if I can't be original, I should stick with one of the existing options.{nw}"
     I "...Наверное, если я не могу быть оригинальной, мне стоит выбрать что-то из уже существующих вариантов.{nw}"
 
-# game/script_day1.rpy:5840
+# game/script_day1.rpy:5839
 translate russian dogname_entry_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5848
+# game/script_day1.rpy:5847
 translate russian dogname_entry_611916a1:
 
     # I "...[name_dog]..."
     I "...[name_dog]..."
 
-# game/script_day1.rpy:5849
+# game/script_day1.rpy:5848
 translate russian dogname_entry_96d88923:
 
     # I "Will [name_dog] be good?{nw}"
     I "Имя [name_dog] хорошее?{nw}"
 
-# game/script_day1.rpy:5851
+# game/script_day1.rpy:5850
 translate russian dogname_entry_11fdb519_2:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:5855
+# game/script_day1.rpy:5854
 translate russian dogname_entry_d8b227c8:
 
     # I "Nah, let's try another name...{nw}"
     I "Нет, давайте попробуем другое имя...{nw}"
 
-# game/script_day1.rpy:5857
+# game/script_day1.rpy:5856
 translate russian dogname_entry_11fdb519_3:
 
     # extend "" nointeract
@@ -14406,97 +14412,97 @@ translate russian dogname_confirmed_1f4a9332:
     # I "If we end up in real danger... What would I do...?{nw}"
     I "Если мы окажемся в реальной опасности... Что мне делать...?{nw}"
 
-# game/script_day1.rpy:6033
+# game/script_day1.rpy:6032
 translate russian dogname_confirmed_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/script_day1.rpy:6035
+# game/script_day1.rpy:6034
 translate russian dogname_confirmed_a00146ac_3:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:6036
+# game/script_day1.rpy:6035
 translate russian dogname_confirmed_312211dd:
 
     # I "I...don't want to die..."
     I "Я...не хочу умирать..."
 
-# game/script_day1.rpy:6037
+# game/script_day1.rpy:6036
 translate russian dogname_confirmed_6a1a0c86:
 
     # I "I...I hope it doesn't come down to that..."
     I "Я...я надеюсь, что до этого не дойдёт..."
 
-# game/script_day1.rpy:6039
+# game/script_day1.rpy:6038
 translate russian dogname_confirmed_a00146ac_4:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:6044
+# game/script_day1.rpy:6043
 translate russian dogname_confirmed_f43ef298:
 
     # I "...If it comes down to that, then..."
     I "...Если до этого дойдёт, то..."
 
-# game/script_day1.rpy:6047
+# game/script_day1.rpy:6046
 translate russian dogname_confirmed_cdac8ae5:
 
     # I "I'll do it. And...I'm sure I'll have no regrets."
     I "Я сделаю это. И... я уверена, что не буду сожалеть."
 
-# game/script_day1.rpy:6050
+# game/script_day1.rpy:6049
 translate russian dogname_confirmed_a00146ac_5:
 
     # I "....."
     I "....."
 
-# game/script_day1.rpy:6051
+# game/script_day1.rpy:6050
 translate russian dogname_confirmed_d535de46:
 
     # I "...No..." with hpunch
     I "...Нет..." with hpunch
 
-# game/script_day1.rpy:6052
+# game/script_day1.rpy:6051
 translate russian dogname_confirmed_3492e034:
 
     # I "We can't lose hope. Either all of us get out, or..."
     I "Мы не можем терять надежду. Либо все мы выберемся, либо..."
 
-# game/script_day1.rpy:6053
+# game/script_day1.rpy:6052
 translate russian dogname_confirmed_c3902077:
 
     # I "...Or..."
     I "...либо..."
 
-# game/script_day1.rpy:6054
+# game/script_day1.rpy:6053
 translate russian dogname_confirmed_1beb3944:
 
     # I "......."
     I "......."
 
-# game/script_day1.rpy:6055
+# game/script_day1.rpy:6054
 translate russian dogname_confirmed_0720e2b4:
 
     # I "I'm...so tired..."
     I "Я...так устала..."
 
-# game/script_day1.rpy:6056
+# game/script_day1.rpy:6055
 translate russian dogname_confirmed_2c9dd4fc:
 
     # I "I guess...I'll sleep after all..."
     I "Наверное...я всё-таки посплю..."
 
-# game/script_day1.rpy:6057
+# game/script_day1.rpy:6056
 translate russian dogname_confirmed_2e5135d2:
 
     # I "It's okay... [t_clue]Morning[t_cluee]...will definitely come this time..."
     I "Всё в порядке... В этот раз [t_clue]утро[t_cluee]...обязательно настанет..."
 
-# game/script_day1.rpy:6059
+# game/script_day1.rpy:6058
 translate russian dogname_confirmed_9d551315:
 
     # I "...I'm winning this [t_clue]killing game[t_cluee]...{w=0.5}{nw}"
@@ -14514,7 +14520,7 @@ translate russian day1_end_7a85a2b2:
     # S "Continuing [name_player]'s [t_clue]killing game[t_cluee] to {color=#fff}Part II{/color}.{w=1.0}\nPlease remember to save your progress regularly.{nw}"
     S "Продолжение [t_clue]убийственной игры[t_cluee] для [name_player] в {color=#fff}Части II{/color}.{w=1.0}\nПожалуйста, не забывайте регулярно сохранять свой прогресс."
 
-# game/script_day1.rpy:6102
+# game/script_day1.rpy:6101
 translate russian day1_end_11fdb519:
 
     # extend "" nointeract
@@ -14554,7 +14560,7 @@ translate russian strings:
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}THE END{/size}\nThank you for playing!{/font}"
     new "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}КОНЕЦ{/size}\nСпасибо за игру!{/font}"
 
-    # game/script_day1.rpy:535
+    # game/script_day1.rpy:534
     old "Tell the truth"
     new "Сказать правду"
 
@@ -14562,7 +14568,7 @@ translate russian strings:
     old "Lie to them"
     new "Соврать им"
 
-    # game/script_day1.rpy:584
+    # game/script_day1.rpy:583
     old "\"What is the weird fog?\""
     new "\"Что это за странный туман?\""
 
@@ -14574,19 +14580,19 @@ translate russian strings:
     old "\"About the writing on the door...\""
     new "\"О надписи на двери...\""
 
-    # game/script_day1.rpy:653
+    # game/script_day1.rpy:652
     old "Say something"
     new "Сказать что-нибудь"
 
-    # game/script_day1.rpy:659
+    # game/script_day1.rpy:658
     old "Say nothing"
     new "Не говорить ничего"
 
-    # game/script_day1.rpy:681
+    # game/script_day1.rpy:680
     old "\"Absolutely.\""
     new "\"Абсолютно.\""
 
-    # game/script_day1.rpy:689
+    # game/script_day1.rpy:688
     old "\"Hard to say...\""
     new "\"Трудно сказать...\""
 
@@ -14618,11 +14624,11 @@ translate russian strings:
     old "{color=#cccc00}Gather your thoughts{/color}"
     new "{color=#cccc00}Собрать свои мысли{/color}"
 
-    # game/script_day1.rpy:814
+    # game/script_day1.rpy:813
     old "{color=#cccc00}Learn what to do next{/color}"
     new "{color=#cccc00}Узнайте, что делать дальше{/color}"
 
-    # game/script_day1.rpy:852
+    # game/script_day1.rpy:851
     old "\"I don't need any hints!\""
     new "\"Мне не нужны подсказки!\""
 
@@ -14658,7 +14664,7 @@ translate russian strings:
     old "What clues can you discover in this tiny bathroom?\nMaybe some can only be found while you're alone...?"
     new "Какие подсказки можно найти в этой крошечной ванной?\nМожет быть, что-то можно найти только пока ты одна...?"
 
-    # game/script_day1.rpy:1420
+    # game/script_day1.rpy:1419
     old "Pet the dog"
     new "Погладить собаку"
 
@@ -14666,7 +14672,7 @@ translate russian strings:
     old "Don't pet the dog"
     new "Не гладить собаку"
 
-    # game/script_day1.rpy:1483
+    # game/script_day1.rpy:1482
     old "Try to catch it"
     new "Попробовать поймать"
 
@@ -14674,7 +14680,7 @@ translate russian strings:
     old "Let it go"
     new "Отпустить"
 
-    # game/script_day1.rpy:1494
+    # game/script_day1.rpy:1493
     old "Pounce and grab it"
     new "Напасть и схватить"
 
@@ -14682,7 +14688,7 @@ translate russian strings:
     old "Approach it slowly"
     new "Медленно подойти"
 
-    # game/script_day1.rpy:1538
+    # game/script_day1.rpy:1537
     old "Approach it from the left"
     new "Подойти слева"
 
@@ -14690,7 +14696,7 @@ translate russian strings:
     old "Approach it from the right"
     new "Подойди справа"
 
-    # game/script_day1.rpy:1584
+    # game/script_day1.rpy:1583
     old "Try to trick it"
     new "Попробовать обмануть"
 
@@ -14698,7 +14704,7 @@ translate russian strings:
     old "Match its movements"
     new "Повторять его движения"
 
-    # game/script_day1.rpy:1632
+    # game/script_day1.rpy:1631
     old "Grab the right one"
     new "Схватить правильную"
 
@@ -14730,23 +14736,23 @@ translate russian strings:
     old "{size=+30}{color=#ff0000}20 HOURS{/color}{/size}"
     new "{size=+30}{color=#ff0000}20 ЧАСОВ{/color}{/size}"
 
-    # game/script_day1.rpy:2380
+    # game/script_day1.rpy:2379
     old "{color=#cccc00}Skip the discussion and dinner{/color}"
     new "{color=#cccc00}Пропустить обсуждение и ужин{/color}"
 
-    # game/script_day1.rpy:2400
+    # game/script_day1.rpy:2399
     old "Don't skip"
     new "Не пропускать"
 
-    # game/script_day1.rpy:2585
+    # game/script_day1.rpy:2584
     old "\"How did they catch us?\""
     new "\"Как он нас поймал?\""
 
-    # game/script_day1.rpy:2605
+    # game/script_day1.rpy:2604
     old "\"Were you alone?\""
     new "\"Ты была одна?\""
 
-    # game/script_day1.rpy:2607
+    # game/script_day1.rpy:2606
     old "\"Where were you?\""
     new "\"Где ты была?\""
 
@@ -14754,15 +14760,15 @@ translate russian strings:
     old "\"Why are they doing this?\""
     new "\"Почему он это делает?\""
 
-    # game/script_day1.rpy:2661
+    # game/script_day1.rpy:2660
     old "\"Is this the culprit's house?\""
     new "\"Это дом преступника?\""
 
-    # game/script_day1.rpy:2668
+    # game/script_day1.rpy:2667
     old "\"You might be right...\""
     new "\"Ты можешь быть прав...\""
 
-    # game/script_day1.rpy:2673
+    # game/script_day1.rpy:2672
     old "\"No, that can't be it.\""
     new "\"Нет, это не может быть так.\""
 
@@ -14770,7 +14776,7 @@ translate russian strings:
     old "\"Who is our culprit?\""
     new "\"Кто наш преступник?\""
 
-    # game/script_day1.rpy:2735
+    # game/script_day1.rpy:2734
     old "Admit you have no idea"
     new "Признаться, что ты не имеешь понятия"
 
@@ -14778,7 +14784,7 @@ translate russian strings:
     old "Try making a deduction"
     new "Попробовать сделать вывод"
 
-    # game/script_day1.rpy:2761
+    # game/script_day1.rpy:2760
     old "\"Why were we the victims?\""
     new "\"Почему мы стали жертвами?\""
 
@@ -14786,7 +14792,7 @@ translate russian strings:
     old "\"Why three victims?\""
     new "\"Почему три жертвы?\""
 
-    # game/script_day1.rpy:2909
+    # game/script_day1.rpy:2908
     old "One of us"
     new "Одна из нас"
 
@@ -14798,7 +14804,7 @@ translate russian strings:
     old "Nobody"
     new "Никто"
 
-    # game/script_day1.rpy:3026
+    # game/script_day1.rpy:3025
     old "\"Does it belong to the owner of this house?\""
     new "\"Она принадлежит владельцу этого дома?\""
 
@@ -14806,7 +14812,7 @@ translate russian strings:
     old "\"Does it belong to the culprit?\""
     new "\"Она принадлежит преступнику?\""
 
-    # game/script_day1.rpy:3123
+    # game/script_day1.rpy:3122
     old "Cerberus"
     new "Цербер"
 
@@ -14814,31 +14820,31 @@ translate russian strings:
     old "Shaggy"
     new "Мохнатик"
 
-    # game/script_day1.rpy:3184
+    # game/script_day1.rpy:3183
     old "Agree"
     new "Согласиться"
 
-    # game/script_day1.rpy:3188
+    # game/script_day1.rpy:3187
     old "Object"
     new "Возразить"
 
-    # game/script_day1.rpy:3226
+    # game/script_day1.rpy:3225
     old "Play rock"
     new "Камень"
 
-    # game/script_day1.rpy:3230
+    # game/script_day1.rpy:3229
     old "Play paper"
     new "Бумага"
 
-    # game/script_day1.rpy:3234
+    # game/script_day1.rpy:3233
     old "Play scissors"
     new "Ножницы"
 
-    # game/script_day1.rpy:3847
+    # game/script_day1.rpy:3846
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nKarma Ending{/font}"
     new "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка кармы{/font}"
 
-    # game/script_day1.rpy:3993
+    # game/script_day1.rpy:3992
     old "Accuse her"
     new "Обвинить её"
 
@@ -14874,15 +14880,15 @@ translate russian strings:
     old "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}BAD END{/color}{/size}\nChaos Ending{/font}"
     new "{font=fonts/AveriaLibre-Regular.ttf}{size=+30}{color=#ff0000}ПЛОХАЯ КОНЦОВКА{/color}{/size}\nКонцовка хаоса{/font}"
 
-    # game/script_day1.rpy:4848
+    # game/script_day1.rpy:4847
     old "Tell the truth (disabled)"
     new "Рассказать правду (отключено)"
 
-    # game/script_day1.rpy:4850
+    # game/script_day1.rpy:4849
     old "Lie to them (disabled)"
     new "Соврть им (отключено)"
 
-    # game/script_day1.rpy:4852
+    # game/script_day1.rpy:4851
     old "{color=#cccc00}Tell the WHOLE truth{/color}"
     new "{color=#cccc00}Рассказать ВСЮ правду{/color}"
 
@@ -14946,31 +14952,31 @@ translate russian strings:
     old "[t_clue]End your questioning[t_cluee]"
     new "[t_clue]Завершить допрос[t_cluee]"
 
-    # game/script_day1.rpy:5033
+    # game/script_day1.rpy:5032
     old "\"That's a good point...\""
     new "\"Это хороший аргумент...\""
 
-    # game/script_day1.rpy:5039
+    # game/script_day1.rpy:5038
     old "\"I would never do that!\""
     new "\"Я бы никогда не стала делать этого!\""
 
-    # game/script_day1.rpy:5078
+    # game/script_day1.rpy:5077
     old "\"[name_cecilia] is older?!\""
     new "\"[name_cecilia] старше?!\""
 
-    # game/script_day1.rpy:5086
+    # game/script_day1.rpy:5085
     old "\"Yes.\""
     new "\"Да.\""
 
-    # game/script_day1.rpy:5095
+    # game/script_day1.rpy:5094
     old "\"No...\""
     new "\"Нет...\""
 
-    # game/script_day1.rpy:5100
+    # game/script_day1.rpy:5099
     old "\"Why is [name_oriana] in the club?\""
     new "\"Почему [name_oriana] в клубе?\""
 
-    # game/script_day1.rpy:5110
+    # game/script_day1.rpy:5109
     old "\"Who else is in the Occult Club?\""
     new "\"Кто ещё состоит в клубе оккультизма?\""
 
@@ -14978,23 +14984,23 @@ translate russian strings:
     old "Cece"
     new "Сеси"
 
-    # game/script_day1.rpy:5251
+    # game/script_day1.rpy:5250
     old "\"Not at all.\""
     new "\"Совсем нет.\""
 
-    # game/script_day1.rpy:5256
+    # game/script_day1.rpy:5255
     old "\"A little.\""
     new "\"Чуть-чуть.\""
 
-    # game/script_day1.rpy:5261
+    # game/script_day1.rpy:5260
     old "\"I was about to cry...\""
     new "\"Я вот-вот заплачу...\""
 
-    # game/script_day1.rpy:5275
+    # game/script_day1.rpy:5274
     old "\"Is our culprit a ghost?\""
     new "\"Наш преступник - это призрак?\""
 
-    # game/script_day1.rpy:5297
+    # game/script_day1.rpy:5296
     old "\"Is the legend true?\""
     new "\"Эта легенда - правда?\""
 
@@ -15002,11 +15008,11 @@ translate russian strings:
     old "Ria"
     new "Рия"
 
-    # game/script_day1.rpy:5453
+    # game/script_day1.rpy:5452
     old "\"What kind of person is she?\""
     new "\"Какая она человек?\""
 
-    # game/script_day1.rpy:5470
+    # game/script_day1.rpy:5469
     old "\"Is that person me?\""
     new "\"Этот человек я?\""
 
@@ -15014,11 +15020,11 @@ translate russian strings:
     old "Because of what Cece said"
     new "Из-за того, что сказала Сеси"
 
-    # game/script_day1.rpy:5492
+    # game/script_day1.rpy:5491
     old "It was too friendly"
     new "Это было слишком дружелюбно"
 
-    # game/script_day1.rpy:5506
+    # game/script_day1.rpy:5505
     old "She used the wrong name"
     new "Она использовала не то имя"
 
@@ -15030,11 +15036,11 @@ translate russian strings:
     old "\"I don't know...\""
     new "\"Не знаю...\""
 
-    # game/script_day1.rpy:5594
+    # game/script_day1.rpy:5593
     old "No more secrets"
     new "Больше никаких секретов"
 
-    # game/script_day1.rpy:5625
+    # game/script_day1.rpy:5624
     old "The Black Magic Mansion"
     new "Особняк черной магии"
 
@@ -15046,31 +15052,31 @@ translate russian strings:
     old "ENTER A NAME FOR THE {size=+15}{color=#606060}DOG{/color}{/size}"
     new "ВВЕДИТЕ ИМЯ ДЛЯ {size=+15}{color=#606060}СОБАКИ{/color}{/size}"
 
-    # game/script_day1.rpy:5833
+    # game/script_day1.rpy:5832
     old "Enter a new name"
     new "Введите новое имя"
 
-    # game/script_day1.rpy:5835
+    # game/script_day1.rpy:5834
     old "Go back to the lame names"
     new "Вернуться к скучным именам"
 
-    # game/script_day1.rpy:5852
+    # game/script_day1.rpy:5851
     old "\"Yep.\""
     new "\"Ага.\""
 
-    # game/script_day1.rpy:5854
+    # game/script_day1.rpy:5853
     old "\"No, let's pick something else...\""
     new "\"Нет, давай выберем что-то другое...\""
 
-    # game/script_day1.rpy:6034
+    # game/script_day1.rpy:6033
     old "Kill one of them"
     new "Убить одну из них"
 
-    # game/script_day1.rpy:6038
+    # game/script_day1.rpy:6037
     old "Sacrifice myself"
     new "Пожертвовать собой"
 
-    # game/script_day1.rpy:6049
+    # game/script_day1.rpy:6048
     old "Have everyone die together"
     new "Пусть все умрут вместе"
 

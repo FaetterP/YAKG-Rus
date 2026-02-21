@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-03 23:07
+﻿# TODO: Translation updated at 2026-02-21 22:41
 
 translate russian strings:
 
@@ -19,8 +19,8 @@ translate russian strings:
     new "Получено {color=#cccc00}{size=+24}{font=DejaVuSans.ttf}★{/font}[numachievements]{/size}{/color}/[BOBCACHIEVEMENTS_NUMACHIEVEMENTS] достижений! Осталось ещё [t_clue][BOBCACHIEVEMENTS_NUMACHIEVEMENTS - numachievements][t_cluee]!"
 
     # game/sbobcachievements.rpy:164
-    old "Now... Will you DELETE your Achievement data and collect them all again?"
-    new "А теперь... Вы УДАЛИТЕ ваши достижения, чтобы собрать их всех снова?"
+    old "Now... Will you [t_clue]DELETE[t_cluee] your Achievement data and collect them all again?"
+    new "А теперь... Вы [t_clue]УДАЛИТЕ[t_cluee] ваши достижения, чтобы собрать их все снова?"
 
     # game/sbobcachievements.rpy:166
     old "DELETE ACHIEVEMENT DATA"
