@@ -4,45 +4,45 @@ translate russian strings:
 
     # game/gallery.rpy:91
     old "Image [index]/[count] locked."
-    new ""
+    new "Изображение [index]/[count] заблокировано."
 
     # game/gallery.rpy:111
     old "Prev"
-    new ""
+    new "Назад"
 
     # game/gallery.rpy:112
     old "Next"
-    new ""
+    new "Вперёд"
 
     # game/gallery.rpy:113
     old "Slideshow"
-    new ""
+    new "Слайд-шоу"
 
     # game/gallery.rpy:901
     old "CGs"
-    new ""
+    new "Иллюстрации"
 
     # game/gallery.rpy:907
     old "Backgrounds"
-    new ""
+    new "Фоны"
 
     # game/gallery.rpy:914
     old "Sprites"
-    new ""
+    new "Спрайты"
 
     # game/gallery.rpy:921
     old "Music Room"
-    new ""
+    new "Музыкальная комната"
 
     # game/gallery.rpy:935
     old "1"
-    new ""
+    new "1"
 
     # game/gallery.rpy:940
     old "2"
-    new ""
+    new "2"
 
     # game/gallery.rpy:945
     old "3"
-    new ""
+    new "3"
 
